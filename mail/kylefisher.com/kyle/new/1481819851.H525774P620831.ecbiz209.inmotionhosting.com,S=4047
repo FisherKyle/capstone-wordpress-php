@@ -1,0 +1,84 @@
+Return-path: <amber@epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 15 Dec 2016 11:37:31 -0500
+Received: from mail-pg0-f43.google.com ([74.125.83.43]:35329)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <amber@epicodus.com>)
+	id 1cHZ2B-002bTd-5h
+	for kyle@kylefisher.com; Thu, 15 Dec 2016 11:37:31 -0500
+Received: by mail-pg0-f43.google.com with SMTP id p66so21670101pga.2
+        for <kyle@kylefisher.com>; Thu, 15 Dec 2016 08:37:30 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=epicodus.com; s=google;
+        h=mime-version:subject:from:to:date:message-id;
+        bh=Yk4ZzPw0sXZ896QNJpHaG21EefKNq6GV9nTJTrf767U=;
+        b=QAklUYvQzcL9JAvHYVEy11sNzB0rddMFDa+oLs4wcEr5lKZA4o2a2E/r6QhFOWDK9u
+         iUI+F/EyIdryq4CWEeT7RaWdmP36iYACCChK6hbPuMKJPX192ATxFryACShmnmgQ4wcV
+         egjWWJNEiABehEUKMG9z/G8tSrqqn/Vbk/ksA=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:subject:from:to:date:message-id;
+        bh=Yk4ZzPw0sXZ896QNJpHaG21EefKNq6GV9nTJTrf767U=;
+        b=oGgNwTlp9hsdtfG3qqSThLYAwTG6YUjsPb4deOzhKhBDmM8bxCoUo4UePXWalVpY/C
+         DH6ILNWwY5u3/KnWgVk0+WG6fyvSZ46UOL4JLijQTlO3lpK3Ru+u1otBJrljbrtrezkV
+         JmebS8JzQTgr4ViBfuOXq809RlBUBIldZARWjTB8aIRaJe65791qfkrTrStwW6ybsFcv
+         nRKuZZj75qx7qF/jCsb6Ciq4rJ+wrBMhlZke8i8jZ2eQs1NSfLrxty3YNIxUTLCb2wgP
+         y76BZPzVYnE2SP4CS7CcEujb55CSRzSjlwKhXathcoSzSyoMxDM1YLuF/pSFgRFDWt57
+         8EXA==
+X-Gm-Message-State: AKaTC03Ht3dvOh3wlEqcaKKoynAH7ngeCGuPosvCDo+J/HOKVhI2qzQcNI5BFnN2xkiHLA==
+X-Received: by 10.98.160.29 with SMTP id r29mr3152665pfe.103.1481819845351;
+        Thu, 15 Dec 2016 08:37:25 -0800 (PST)
+Received: from smtpgw.close.io (ec2-52-27-236-234.us-west-2.compute.amazonaws.com. [52.27.236.234])
+        by smtp.gmail.com with ESMTPSA id y15sm5753177pgc.43.2016.12.15.08.37.24
+        for <kyle@kylefisher.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 15 Dec 2016 08:37:24 -0800 (PST)
+Content-Type: multipart/mixed; boundary="===============1124282093510202211=="
+MIME-Version: 1.0
+Subject: Info about mock interviews
+From: amber arnold <amber@epicodus.com>
+To: kyle@kylefisher.com
+Date: Thu, 15 Dec 2016 16:37:24 +0000
+Message-ID: <148181984444.42697.12866282390024361212@worker2.close.io>
+X-CLOSEIO-EMAIL-ID: acti_dcvSgDggZTLLWyxjinm25Pg2Z9oSXolz3PA7xyWT1sp
+
+--===============1124282093510202211==
+Content-Type: multipart/alternative;
+ boundary="===============2792611738540548844=="
+MIME-Version: 1.0
+
+--===============2792611738540548844==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hi All,  =
+
+Just wanted to touch base and let everyone know I will be contacting each of
+you via Google Hangouts for your mock interview. I will also be asking
+students to access a shared google document. I will plan to share that
+document with each of you before your interview.  =
+
+Thanks and talk to you soon!  =
+
+**Amber Arnold**  =
+
+amber@epicodus.com
+--===============2792611738540548844==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hi All,<span>&nbsp;</span><br>Just wanted to touch base and let everyone kn=
+ow I will be contacting each of you via Google Hangouts for your mock inter=
+view. I will also be asking students to access a shared google document. I =
+will plan to share that document with each of you before your interview.<sp=
+an>&nbsp;</span><br>Thanks and talk to you soon!<span>&nbsp;</span><br><str=
+ong>Amber Arnold</strong><br>amber@epicodus.com<img src=3D"https://app.clos=
+e.io/email_opened/eyJlbWFpbF9pZCI6ICJhY3RpX2RjdlNnRGdnWlRMTFd5eGppbm0yNVBnM=
+lo5b1NYb2x6M1BBN3h5V1Qxc3AiLCAiZW1haWxfYWRkcmVzcyI6ICJreWxlQGt5bGVmaXNoZXIu=
+Y29tIn0%3D/tracking.png" alt=3D"" width=3D"1" height=3D"1" />
+--===============2792611738540548844==--
+
+--===============1124282093510202211==--

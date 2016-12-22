@@ -1,0 +1,194 @@
+Return-path: <amanda.ariana87@outlook.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 06 Dec 2016 04:11:22 -0500
+Received: from col004-omc1s1.hotmail.com ([65.55.34.11]:60905)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <amanda.ariana87@outlook.com>)
+	id 1cEBmU-001F7b-Iy
+	for kyle@kylefisher.com; Tue, 06 Dec 2016 04:11:22 -0500
+Received: from IND01-MA1-obe.outbound.protection.outlook.com ([65.55.34.7]) by COL004-OMC1S1.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 6 Dec 2016 01:11:20 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=Q6dmxYxejc5QWv+7ZxsTSkhyDjLWj7UbZ+MWPtvvYUg=;
+ b=Q0eI9pKZxcfX7U8BoYXvDZIp8xa4bqFKhkR8eYnG67ALUEWm4r1YmnhumsxotpClwL22DRZVF3h9ISyjOOekvvEDGdQtJtzEM1Ug2mEexwX7iAHZEOK9IBO80VMWmM3cFw+39hn5IfElnPADF7ZybPbp4dYs+pnaOMGgnjuVUk+/IZWqmmAGIdbgsBbgdEK2lJ///nPwXz4N/XJHTdhhB2+BfT+W/WdkUjdco9Wzu+F+tqnzqrn4d9IhEZ0f0zwRwpU4MNimjgBNbQgb73KBS89EssNr4SV+09X4iCBxJmtOMg8sbDATWTP4cIVfA+VWuvccLA2bekVaOtK82wuKsg==
+Received: from MA1IND01FT005.eop-IND01.prod.protection.outlook.com
+ (10.152.200.59) by MA1IND01HT011.eop-IND01.prod.protection.outlook.com
+ (10.152.200.104) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.761.6; Tue, 6 Dec
+ 2016 09:10:29 +0000
+Received: from PN1PR01MB0222.INDPRD01.PROD.OUTLOOK.COM (10.152.200.53) by
+ MA1IND01FT005.mail.protection.outlook.com (10.152.200.143) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.4 via Frontend
+ Transport; Tue, 6 Dec 2016 09:10:29 +0000
+Received: from PN1PR01MB0222.INDPRD01.PROD.OUTLOOK.COM ([10.164.139.148]) by
+ PN1PR01MB0222.INDPRD01.PROD.OUTLOOK.COM ([10.164.139.148]) with mapi id
+ 15.01.0734.020; Tue, 6 Dec 2016 09:10:26 +0000
+From: Amanda Ariana <amanda.ariana87@outlook.com>
+Subject: best methods
+Thread-Topic: best methods
+Thread-Index: AQHST6CQ7sWZBWniUEWxt+ZP9Paefg==
+Date: Tue, 6 Dec 2016 09:10:26 +0000
+Message-ID: <PN1PR01MB0222B3327DB8AAB7DBAB0AABEF820@PN1PR01MB0222.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: icloud.com; dkim=none (message not signed)
+ header.d=none;icloud.com; dmarc=none action=none header.from=outlook.com;
+x-incomingtopheadermarker: OriginalChecksum:;UpperCasedChecksum:;SizeAsReceived:15040;Count:35
+x-tmn: [V6gb3E9JScQuvq7KRL+5tnMa7+21qlqd]
+x-incomingheadercount: 35
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;MA1IND01HT011;7:1FcruzmMyCXeyjtRjMNLh19F9ytZP+Y/4R2NkfN7FavpvGyDNiFml4MuXtdDiGAI5hTm3DsRVCYnEvLTfbAxgBNDjES3qY4Usthw6ysogZh1HEsVQesjH97Fb/yrmqLAJ0YifotrBaw6oUtNLJ9TjiEBV3gqqGFDtc/vOPFF3LN8nFt1XFAQ/6NNnQR60tQqutCth4+8k71davj+dmsdbFWK5IufbIwFF+T6uYc+ojDuocAm4ycELGyvLEjjXKt/ERE3QBb4m0C+jBvb7IoGxIwBfzk9VYKHwX5RePDLf9ZqFzG0iX+eOor5yOiNkKlChdppn5dpr9smzP406PsKZfFvWv1pDQzHKnWd7pPQlHRtCtimoZXRDSPvIzJ/7fdRBnZCjy8IRU5eEF50ACY1LrF3eO+k6GeHVi6rSPby4Lj7GmX8QXKK7TuGKb5Q6HJ6D45MprKdKRalBriVc9rDsg==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:MA1IND01HT011;H:PN1PR01MB0222.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 075ffde1-53c5-4e86-a807-08d41db7b798
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:MA1IND01HT011;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:MA1IND01HT011;BCL:0;PCL:0;RULEID:;SRVR:MA1IND01HT011;
+x-forefront-prvs: 01480965DA
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_PN1PR01MB0222B3327DB8AAB7DBAB0AABEF820PN1PR01MB0222INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Dec 2016 09:10:26.1131
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MA1IND01HT011
+Bcc:
+X-OriginalArrivalTime: 06 Dec 2016 09:11:20.0203 (UTC) FILETIME=[B549A5B0:01D24FA0]
+
+--_000_PN1PR01MB0222B3327DB8AAB7DBAB0AABEF820PN1PR01MB0222INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+ I am Jenny, a Business Development Executive and I work with 100+experienc=
+ed IT professionals who are into:
+
+ Website Designing, Web Development, PHP Development, e-Commerce solutions,=
+ IPhone And Android Apps Development.
+
+ May I know if you are interested in any of these services?
+
+ Skype or Email info might be needed to assist you in a proper way. You wil=
+l be given Full Technical Support at all times.
+
+ We appreciate your response, with your exact requirement.
+
+
+Regards
+Jenny
+ .....................................................................
+DISCLAIMER: The content of this mail is confidential and is directed to and=
+ for the use of the addressee only.  Should you receive this message by mis=
+take, you are hereby notified that any disclosure, distribution or use of t=
+his message is strictly prohibited. Before opening and accessing the attach=
+ment, if any, please check and scan for virus.
+
+
+--_000_PN1PR01MB0222B3327DB8AAB7DBAB0AABEF820PN1PR01MB0222INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">Hi,</span=
+></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;</s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;I a=
+m Jenny, a Business Development Executive and I work with 100&#43;experienc=
+ed IT professionals who are into:</span></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;</s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;Web=
+site Designing, Web Development, PHP Development, e-Commerce solutions, IPh=
+one And Android Apps Development.</span></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;</s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;<b>=
+May I know if you are interested in any of these services?</b></span></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;</s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;Sky=
+pe or Email info might be needed to assist you in a proper way. You will be=
+ given Full Technical Support at all times.</span></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;</s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;We =
+appreciate your response, with your exact requirement.</span></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;</s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;</s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">Regards</=
+span></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">Jenny</sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">&nbsp;&#8=
+230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&=
+#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230=
+;&#8230;</span></p>
+<p class=3D"MsoNormal" style=3D"margin-right: 0px; margin-left: 0px; color:=
+ rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">
+<span style=3D"font-size: 12pt; font-family: corbel, sans-serif;">DISCLAIME=
+R: The content of this mail is confidential and is directed to and for the =
+use of the addressee only.&nbsp; Should you receive this message by mistake=
+, you are hereby notified that any disclosure,
+ distribution or use of this message is strictly prohibited. Before opening=
+ and accessing the attachment, if any, please check and scan for virus.</sp=
+an></p>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_PN1PR01MB0222B3327DB8AAB7DBAB0AABEF820PN1PR01MB0222INDP_--

@@ -1,0 +1,68 @@
+/* Add this attribute to the element that needs a tooltip */
+[data-envira-tooltip] {
+  position: relative;
+  z-index: 2;
+  cursor: pointer;
+}
+
+/* Hide the tooltip content by default */
+[data-envira-tooltip]:before,
+[data-envira-tooltip]:after {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Position tooltip above the element */
+[data-envira-tooltip]:before {
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  margin-bottom: 5px;
+  margin-left: -35px;
+  padding: 7px;
+  width: 60px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #000;
+  color: #fff;
+  content: attr(data-envira-tooltip);
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.2;
+}
+
+/* Triangle hack to make tooltip look like a speech bubble */
+[data-envira-tooltip]:after {
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  width: 0;
+  margin-left: -5px;
+  border-top: 5px solid #000;
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+  content: " ";
+  font-size: 0;
+  line-height: 0;
+}
+
+/* Show tooltip content on hover */
+[data-envira-tooltip]:hover:before,
+[data-envira-tooltip]:hover:after {
+  visibility: visible;
+  opacity: 1;
+}
+.envira-hidden{
+	display: none !important;
+}
+
+.envira-clearfix{
+	clear: both;
+	display: block;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+}

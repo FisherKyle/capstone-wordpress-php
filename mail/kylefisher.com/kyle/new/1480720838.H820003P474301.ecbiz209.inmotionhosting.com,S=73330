@@ -1,0 +1,960 @@
+Return-path: <bounce-1480713220237.839251841470748577562522@i.massdrop.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Fri, 02 Dec 2016 18:20:38 -0500
+Received: from mta1a1.i.massdrop.com ([52.40.63.7]:40940)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-1480713220237.839251841470748577562522@i.massdrop.com>)
+	id 1cCx8A-001zNH-DD
+	for kyle@kylefisher.com; Fri, 02 Dec 2016 18:20:38 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=i.massdrop.com;
+	s=scph0616; t=1480720837; i=@i.massdrop.com;
+	bh=FZOja8+hG5TuNwTaZJ95yrmGtrZ7NqxQlwnnxPkqkaQ=;
+	h=To:Message-ID:Date:Subject:From:Content-Type;
+	b=MadU0EFxLEIvAsjuXlGuYQeXrXnkhdeOky4Ih4yDfw/7i7tCtN2j+gD03kOPJZIo9
+	 fXEQdf82bTaKJtWaP1WJGiX9VyeG1wjcwichQgvpto+U3uu/Gp2mR2LfGCOrwnbl23
+	 LGboCC+Af2kXDKBqwlEwM1Eegmg/KsCEVh+bapgo=
+X-MSFBL: QAbbiKOZ3rxUP0olblHUTlh44pqgjDOBC/u7PHWEM9g=|eyJjYW1wYWlnbl9pZCI
+	6IjEyLTIgQmF6YWFyIDkgMjAxNi0xMi0wMiIsImZyaWVuZGx5X2Zyb20iOiJpbmZ
+	vQGkubWFzc2Ryb3AuY29tIiwidGVtcGxhdGVfdmVyc2lvbiI6IjE2NCIsInJjcHR
+	fdGFncyI6WyBdLCJyIjoia3lsZUBreWxlZmlzaGVyLmNvbSIsInRyYW5zbWlzc2l
+	vbl9pZCI6IjQ4NDM4OTA0Mjg5OTc1MzYzIiwiZyI6ImluZm8iLCJtZXNzYWdlX2l
+	kIjoiMDAwMmM1MDE0MjU4MjgzZTMzYzEiLCJiIjoiaXBfNTIuNDAuNjMuNyIsImN
+	1c3RvbWVyX2lkIjoiMSIsInRlbXBsYXRlX2lkIjoiYmF6YWFyLTEyLTIiLCJ0ZW5
+	hbnRfaWQiOiJtYXNzZHJvcCIsInN1YmFjY291bnRfaWQiOiIwIiwicmNwdF9tZXR
+	hIjp7ICJlbWFpbF91dWlkIjogIjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ
+	4NTc3NTYyNTIyIiwgImJpbmRpbmciOiAiaW5mbyIgfX0=
+To: kyle@kylefisher.com
+Message-ID: <33.1C.15912.5C102485@b.plat1.massdrop.aws-usw2b.prd.sparkpost>
+Date: Fri, 02 Dec 2016 23:20:00 +0000
+MIME-Version: 1.0
+Subject: Massdrop Gift Guide: Winter Bazaar + Exclusives Under $100
+From: "Massdrop" <info@i.massdrop.com>
+Content-Type: multipart/alternative; boundary="_----MKwX8s1R5bMqeE5XgPaXHQ===_BA/FD-59477-600E1485"
+List-Unsubscribe: <mailto:unsubscribe@i.massdrop.com?subject=unsubscribe:CHTaupxS8Nhu18lrYEzAGHihe-HcaMttfWjOb09n_kY~|eyAicmNwdF90byI6ICJreWxlQGt5bGVmaXNoZXIuY29tIiwgInJjcHRfbWV0YSI6ICJ7XCJlbWFpbF91dWlkXCI6XCIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU3NzU2MjUyMlwiLFwiYmluZGluZ1wiOlwiaW5mb1wifSIsICJyY3B0X3RhZ3MiOiAiWyBdIiwgInRlbmFudF9pZCI6ICJtYXNzZHJvcCIsICJ0ZW1wbGF0ZV9pZCI6ICJiYXphYXItMTItMiIsICJtZXNzYWdlX2lkIjogIjAwMDJjNTAxNDI1ODI4M2UzM2MxIiwgInRlbXBsYXRlX3ZlcnNpb24iOiAiMTY0IiwgImNhbXBhaWduX2lkIjogIjEyLTIgQmF6YWFyIDkgMjAxNi0xMi0wMiIsICJtYWlsZnJvbSI6ICJib3VuY2UtMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjJAaS5tYXNzZHJvcC5jb20iLCAiY3VzdG9tZXJfaWQiOiAiMSIsICJzdWJhY2NvdW50X2lkIjogIjAiLCAiZnJpZW5kbHlfZnJvbSI6ICJpbmZvQGkubWFzc2Ryb3AuY29tIiwgInRyYW5zbWlzc2lvbl9pZCI6ICI0ODQzODkwNDI4OTk3NTM2MyIgfQ~~>
+List-Id: <massdrop-1-0>
+
+--_----MKwX8s1R5bMqeE5XgPaXHQ===_BA/FD-59477-600E1485
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Winter Bazaar=0AShipped in 2 Business Days=0AWarehouse favorites with free =
+US shipping and no minimum group size requirements. It starts with Audiophi=
+le, Tech, Hobby Shop, RC Cars, and Auto, now until 12/5. Stay tuned for dro=
+ps in more communities in the days that follow. =0AMassdrop Exclusives Unde=
+r $100=0AUS orders shipped to arrive by 12/25=0ACustom products and other c=
+ool gifts you won=E2=80=99t find anywhere else. 
+--_----MKwX8s1R5bMqeE5XgPaXHQ===_BA/FD-59477-600E1485
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">=0A<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">=0A<head bgcolor=3D"#FFFFFF" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; margin: 0; padding: 0; =0Abackground-color: #=
+FFFFFF; height: 100%; font-family: 'HelveticaNeue-Light', 'Helvetica Neue L=
+ight', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; fo=
+nt-size: 16px; line-height: 24px; width: 100%;">=0A<meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3Dutf-8">=0A<meta name=3D"viewport"=
+ content=3D"width=3D600, initial-scale=3D1">=0A<style type=3D"text/css">=0A=
+  #outlook a {=0A    padding: 0;=0A  }=0A=0A  body {=0A    width: 100% !imp=
+ortant;=0A    -webkit-text-size-adjust: 100%;=0A    -ms-text-size-adjust: 1=
+00%;=0A    margin: 0;=0A    padding: 0;=0A    background-color: #000000;=0A=
+  }=0A=0A  body, td {=0A    font-family: 'HelveticaNeue-Light', 'Helvetica =
+Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;=0A    font-wei=
+ght: 300;=0A    font-size: 16px;=0A  }=0A=0A  body, td, p {=0A    line-heig=
+ht: 24px;=0A  }=0A=0A  .ExternalClass {=0A    width: 100%;=0A  }=0A=0A  .Ex=
+ternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .E=
+xternalClass td, .ExternalClass div {=0A    line-height: 100%;=0A  }=0A=0A =
+ img {=0A    outline: none;=0A    text-decoration: none;=0A    -ms-interpol=
+ation-mode: bicubic;=0A  }=0A=0A  a img {=0A    border: none;=0A  }=0A=0A  =
+.image_fix {=0A    display: block;=0A  }=0A=0A  p {=0A    margin: 1em 0;=
+=0A  }=0A=0A  h1, h2, h3, h4, h5, h6 {=0A    color: black !important;=0A   =
+ line-height: 1;=0A  }=0A=0A  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {=0A    co=
+lor: #00afd8 !important;=0A  }=0A=0A  h1 a:active, h2 a:active, h3 a:active=
+, h4 a:active, h5 a:active, h6 a:active {=0A    color: red !important;=0A  =
+}=0A=0A  h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visit=
+ed, h6 a:visited {=0A    color: #0086a5 !important;=0A  }=0A=0A  table td {=
+=0A    border-collapse: collapse;=0A  }=0A=0A  table {=0A    border-collaps=
+e: collapse;=0A    mso-table-lspace: 0pt;=0A    mso-table-rspace: 0pt;=0A  =
+}=0A=0A  a {=0A    color: #00afd8;=0A  }=0A=0A  h1 {=0A    font-size: 2em;=
+=0A    font-weight: 500;=0A  }=0A</style>=0A<table width=3D"100%" align=3D"=
+center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"backgroun=
+d-color: #FFFFFF; min-width: 600px; width: 100%; border-collapse: collapse;=
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt;">=0A  <tr>=0A    <td valign=
+=3D"top">=0A      <table width=3D"600" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"border-collapse: collapse; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt;">=0A        <tr>=0A          <td valig=
+n=3D"top" style=3D"padding: 10px;">=0A            <table width=3D"100%" ali=
+gn=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"bac=
+kground-color: #FFFFFF; border-collapse: collapse; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt; border-radius: 10px; -webkit-border-radius: 10px; -mo=
+z-border-radius: 10px;">=0A              <tr>=0A                <td style=
+=3D"padding: 5px 0;">=0A                  <!-- HEADER LOGO -->=0A          =
+        <table width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" style=3D"border-collapse: collapse; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt;">=0A                    <tr>=0A                =
+      <td valign=3D"middle" align=3D"center" style=3D"padding: 5px 0 ; font=
+-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', H=
+elvetica, Arial, sans-serif; font-size: 20px; line-height: 20px; font-weigh=
+t: 500; vertical-align: middle;">=0A                        <a style=3D"tex=
+t-decoration:none; color:#FFFFFF;" href=3D"https://t.massdrop.com/f/a/93goB=
+zV8S9ku4N32AjdFxg~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASB=
+gxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb=
+21QC2JhemFhci0xMi0yUQQAAACkRKRodHRwczovL3d3dy5tYXNzZHJvcC5jb20_bW9kZT1ndWVz=
+dF9vcGVuJnJlZmVyZXI9UUNGTVVRJnV0bV9jYW1wYWlnbj0xMi0yJTIwQmF6YWFyJTIwOSUyMDI=
+wMTYtMTItMDImdXRtX3NvdXJjZT1TcGFya1Bvc3QmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT=
+0xMi0yJTIwQmF6YWFyJTIwOUdIeyJiaW5kaW5nIjoiaW5mbyIsImVtYWlsX3V1aWQiOiIxNDgwN=
+zEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU3NzU2MjUyMiJ9" target=3D"_blank">=0A     =
+                     <img src=3D"https://massdrop-s3.imgix.net/product-imag=
+es/richards-test-product/MD-2824_20160725162531_4a49b3c538ac6645.png=3Fw=3D=
+178&h=3D50" width=3D"100" border=3D"0" style=3D"outline: none; text-decorat=
+ion: none; -ms-interpolation-mode: bicubic; padding-bottom: 5px; display: i=
+nline !important; vertical-align: bottom;">=0A                        </a>=
+=0A                      </td>=0A                    </tr>=0A              =
+    </table>=0A                </td>=0A              </tr>=0A            </=
+table>=0A          </td>=0A        </tr>=0A      </table>=0A    </td>=0A  <=
+/tr>=0A</table>=0A</head>=0A<!--=0A########################################=
+#########=0A# CONTENT BEGIN=0A#############################################=
+####=0A-->=0A=0A<!-- BEGIN HERO -->=0A<body bgcolor=3D"#FFFFFF" style=3D"-w=
+ebkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; paddin=
+g: 0; background-color: #FFFFFF; height: 100%; font-family: 'HelveticaNeue-=
+Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-se=
+rif; font-weight: 300; font-size: 16px; line-height: 24px; width: 100%;">=
+=0A  <table width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"background-color: #FFFFFF; min-width: 600px; w=
+idth: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt;">=0A    <tr>=0A      <td valign=3D"top">=0A        <table width=
+=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace=
+: 0pt;">=0A          <tr>=0A            <td valign=3D"top" style=3D"padding=
+: 0px;">=0A              <table width=3D"100%" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color: #FFFFFF; b=
+order-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; bor=
+der-radius: 0px; -webkit-border-radius: 1px; -moz-border-radius: 0px;">=0A =
+               <tr>=0A                  <td>=0A                    <!-- BEG=
+IN BAZAAR -->=0A                    <table width=3D"100%" align=3D"center" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:c=
+ollapse; background-color: #FFFFFF; max-width: 600px;">=0A                 =
+     <tr>=0A                        <td align=3D"center" style=3D"padding: =
+20px 0px 0px ">=0A                          <a href=3D"https://t.massdrop.c=
+om/f/a/Xyq6Fhavv3BmC5a2O7voEg~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm=
+9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZ=
+WZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRKtodHRwczovL3d3dy5tYXNzZHJvcC5jb20v=
+YmF6YWFyP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiU=
+yMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW=
+09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsiZW1haWxfdXVpZCI6IjE0ODA3M=
+TMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIyIiwiYmluZGluZyI6ImluZm8ifQ~~">=
+=0A                            <img alt=3D"Still shopping for the holidays=
+=3F We=E2=80=99ve got you covered." src=3D"https://massdrop-s3.imgix.net/pr=
+oduct-images/richards-test-product/MD-2824_20161201171156_d3b8d89a192bd856.=
+png=3Fw=3D491" =0A                            width=3D"491px"> =0A         =
+                 </a>=0A                        </td>=0A                   =
+   </tr>=0A                      <tr>=0A                        <td align=
+=3D"center" style=3D"padding: 30px 40px 30px; font-family: 'Helvetica', 'He=
+lveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; font-size: 16px; line-height: 28px; font-weight: 400; colo=
+r: #797979;">=0A                          Warehouse favorites with free US =
+shipping and no minimum group size requirements. It starts with Audiophile,=
+ Tech, Hobby Shop, =0A                          RC Cars, and Auto, now unti=
+l 12/5.=0A                        </td>=0A                      </tr>=0A   =
+                   <tr>=0A                        <td align=3D"center" styl=
+e=3D"padding: 0px">=0A                          <a href=3D"https://t.massdr=
+op.com/f/a/Xyq6Fhavv3BmC5a2O7voEg~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3=
+Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa=
+3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRKtodHRwczovL3d3dy5tYXNzZHJvcC5j=
+b20vYmF6YWFyP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTI=
+tMiUyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZW=
+RpdW09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsiZW1haWxfdXVpZCI6IjE0O=
+DA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIyIiwiYmluZGluZyI6ImluZm8ifQ~~=
+">=0A                            <img src=3D"https://massdrop-s3.imgix.net/=
+product-images/richards-test-product/MD-2824_20161201171229_007ddbc58387e87=
+f.png=3Fw=3D346&h=3D50" =0A                            width=3D"346px"> =0A=
+                          </a>=0A                        </td>=0A          =
+            </tr>=0A                      <tr>=0A                        <t=
+d align=3D"center" style=3D"padding: 30px 40px 30px; font-family: 'Helvetic=
+a', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvet=
+ica, Arial, sans-serif; font-size: 16px; line-height: 28px; font-weight: 40=
+0; color: #797979;">=0A                          Stay tuned for drops in mo=
+re communities in the days that follow. =0A                        </td>=0A=
+                      </tr>=0A                      <tr>=0A                =
+        <td>=0A                          <!-- BEGIN BUTTON -->=0A          =
+                <table width=3D"100%" align=3D"center" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" style=3D"border-collapse: collapse; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; background-color: #FFFFFF">=0A         =
+                   <tr>=0A                              <td align=3D"center=
+" style=3D"padding: 0px 40px 20px 40px;">=0A                               =
+ <a href=3D"https://t.massdrop.com/f/a/Xyq6Fhavv3BmC5a2O7voEg~~/AAAAAQA~/Rg=
+RaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItM=
+DJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRKto=
+dHRwczovL3d3dy5tYXNzZHJvcC5jb20vYmF6YWFyP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVF=
+DRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3=
+VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyM=
+DlHSHsiZW1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIy=
+IiwiYmluZGluZyI6ImluZm8ifQ~~" style=3D"text-decoration: none; color: #fffff=
+f;">=0A                                  <table align=3D"center" cellpaddin=
+g=3D"0" cellspacing=3D"0" border =3D "0" style=3D"border-collapse:collapse;=
+ border-color: #FFFFFF; border-width: 1px; border-style: solid; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; background-color: #00AEDA; border-radius=
+: 4px;" bgcolor=3D"#00AEDA">=0A                                    <tr>=0A =
+                                     <td style=3D"padding: 18px 40px; font-=
+family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', He=
+lvetica, Arial, sans-serif; font-size: 14px; line-height: 10px; font-weight=
+: bold; color: #FFFFFF;">=0A                                        <a href=
+=3D"https://t.massdrop.com/f/a/Xyq6Fhavv3BmC5a2O7voEg~~/AAAAAQA~/RgRaJIagP0=
+EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACx=
+QFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRKtodHRwczov=
+L3d3dy5tYXNzZHJvcC5jb20vYmF6YWFyP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ=
+1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3=
+BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsiZ=
+W1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIyIiwiYmlu=
+ZGluZyI6ImluZm8ifQ~~" style=3D"text-decoration: none; color: #FFFFFF; font-=
+weight: bold">=0A                                          SHOP NOW=0A     =
+                                   </a>=0A                                 =
+     </td>=0A                                    </tr>=0A                  =
+                </table>=0A                                </a>=0A         =
+                     </td>=0A                            </tr>=0A          =
+                </table>=0A                          <!-- END BUTTON -->=0A=
+                        </td>=0A                      </tr>=0A             =
+       </table>=0A                    <table width=3D"100%" align=3D"center=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-colo=
+r: #FFFFFF; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; border-radius: 0px; -webkit-border-radius: 10px; -moz-border-radi=
+us: 10px;">=0A                     <!-- THREE IMAGES SIDE BY SIDE -->=0A   =
+                  <tr>=0A                      <td>=0A                     =
+   <table width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt; background-color: #FFFFFF">=0A                       =
+   <tr>=0A                            <td valign=3D"top" align=3D"left">=0A=
+                              <!-- BEGIN SUBPRODUCT CARD -->=0A            =
+                  <table width=3D"200" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso=
+-table-rspace: 0pt;">=0A                                <tr>=0A            =
+                      <td align=3D"center" style=3D"padding: 20px 0px 0px 0=
+px">=0A                                    <a href=3D"https://t.massdrop.co=
+m/f/a/8xi1f5ymF1rzHt4_SnRJcw~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9=
+wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZW=
+Zpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRMxodHRwczovL3d3dy5tYXNzZHJvcC5jb20vY=
+nV5L3Nlbm5oZWlzZXItZzRtZS16ZXJvLWdhbWluZy1oZWFkc2V0P21vZGU9Z3Vlc3Rfb3BlbiZy=
+ZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAyMDE2LTEyLTA=
+yJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItMiUyME=
+JhemFhciUyMDlHSHsiZW1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4N=
+Tc3NTYyNTIyIiwiYmluZGluZyI6ImluZm8ifQ~~" target=3D"_blank" style=3D"text-de=
+coration: none;">=0A                                      <img src=3D"https=
+://massdrop-s3.imgix.net/product-images/sennheiser-g4me-zero-gaming-headset=
+/MD-31945_20161201130612_85acceca4a8ecc3d.jpg=3Fw=3D196"=0A                =
+                      width=3D"196" border=3D"0" style=3D"outline: none;tex=
+t-decoration: none;-ms-interpolation-mode: bicubic; padding-bottom: 0; disp=
+lay: inline !important; vertical-align: bottom;">=0A                       =
+             </a>=0A                                  </td>=0A             =
+                   </tr>=0A                                <tr>=0A         =
+                         <td align=3D"left" style=3D"padding: 10px 3px 0px =
+0px; font-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Light',=
+ 'Helvetica Neue', Arial, sans-serif; font-size: 14px; color:#303030; line-=
+height: 18px;">=0A                                    <a href=3D"https://t.=
+massdrop.com/f/a/Yo06MRAR-n311JaVlkE7jA~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENX=
+CG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t=
+5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRMxodHRwczovL3d3dy5tYXNzZH=
+JvcC5jb20vYnV5L3Nlbm5oZWlzZXItZzRtZS16ZXJvLWdhbWluZy1oZWFkc2V0P21vZGU9Z3Vlc=
+3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAy=
+MDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm0=
+9MTItMiUyMEJhemFhciUyMDlHSHsiYmluZGluZyI6ImluZm8iLCJlbWFpbF91dWlkIjoiMTQ4MD=
+cxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjIifQ~~" target=3D"_blank" style=
+=3D"text-decoration: none; font-family: Helvetica, 'HelveticaNeue-Light', '=
+Helvetica Neue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 14px=
+; color:#303030; line-height: 18px;">=0A                                   =
+   Sennheiser G4ME ZERO Gaming Headset=0A                                  =
+  </a>=0A                                  </td>=0A                        =
+        </tr>=0A                                <tr>=0A                    =
+              <td align=3D"left" style=3D"padding: 0px 3px 0px 0px; font-fa=
+mily: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica =
+Neue', Arial, sans-serif; font-size: 12px; color: #7F7F7F; ">=0A           =
+                         <a href=3D"https://t.massdrop.com/f/a/Yo06MRAR-n31=
+1JaVlkE7jA~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yI=
+EJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2Jh=
+emFhci0xMi0yUQQAAACkRMxodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L3Nlbm5oZWlzZXI=
+tZzRtZS16ZXJvLWdhbWluZy1oZWFkc2V0P21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUS=
+Z1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U=
+3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsi=
+YmluZGluZyI6ImluZm8iLCJlbWFpbF91dWlkIjoiMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA=
+3NDg1Nzc1NjI1MjIifQ~~" target=3D"_blank" style=3D"text-decoration: none;fon=
+t-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvet=
+ica Neue', Arial, sans-serif; font-size: 12px; color: #7F7F7F; ">=0A       =
+                               Tech=0A                                    <=
+/a>=0A                                  </td>=0A                           =
+     </tr>=0A                              </table>=0A                     =
+         <!-- END SUBPRODUCT CARD -->=0A                            </td>=
+=0A                            <td valign=3D"top" align=3D"center">=0A     =
+                         <!-- BEGIN SUBPRODUCT CARD -->=0A                 =
+             <table width=3D"200" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-tabl=
+e-rspace: 0pt;">=0A                                <tr>=0A                 =
+                 <td align=3D"center" style=3D"padding: 20px 0px 0px 0px;">=
+=0A                                    <a href=3D"https://t.massdrop.com/f/=
+a/_FSiAMuAnD-Am0mSEdxg7g~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQ=
+AAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2=
+hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRNJodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L=
+2R1bmdlb25zLWRyYWdvbnMtdHlyYW50cy1vZi10aGUtdW5kZXJkYXJrP21vZGU9Z3Vlc3Rfb3Bl=
+biZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAyMDE2LTE=
+yLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItMi=
+UyMEJhemFhciUyMDlHSHsiZW1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwN=
+zQ4NTc3NTYyNTIyIiwiYmluZGluZyI6ImluZm8ifQ~~" target=3D"_blank" style=3D"tex=
+t-decoration: none;">=0A                                      <img src=3D"h=
+ttps://massdrop-s3.imgix.net/product-images/dungeons-dragons-tyrants-of-the=
+-underdark/MD-18736_20160516115240_9c4d58a9ef1a827a.jpg=3Fw=3D196"=0A      =
+                                width=3D"196" border=3D"0" style=3D"outline=
+: none;text-decoration: none;-ms-interpolation-mode: bicubic; padding-botto=
+m: 0; display: inline !important; vertical-align: bottom;">=0A             =
+                       </a>=0A                                  </td>=0A   =
+                             </tr>=0A                                <tr>=
+=0A                                  <td align=3D"left" style=3D"padding: 1=
+0px 3px 0px 3px; font-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica =
+Neue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; color:#3=
+03030; line-height: 18px;">=0A                                    <a href=
+=3D"https://t.massdrop.com/f/a/_FSiAMuAnD-Am0mSEdxg7g~~/AAAAAQA~/RgRaJIagP0=
+EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACx=
+QFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRNJodHRwczov=
+L3d3dy5tYXNzZHJvcC5jb20vYnV5L2R1bmdlb25zLWRyYWdvbnMtdHlyYW50cy1vZi10aGUtdW5=
+kZXJkYXJrP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMi=
+UyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpd=
+W09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsiZW1haWxfdXVpZCI6IjE0ODA3=
+MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIyIiwiYmluZGluZyI6ImluZm8ifQ~~" t=
+arget=3D"_blank" style=3D"text-decoration: none; font-family: Helvetica, 'H=
+elveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, sans-=
+serif; font-size: 14px; color:#303030; line-height: 18px;">=0A             =
+                         Dungeons & Dragons: Tyrants of the Underdark=0A   =
+                                 </a>=0A                                  <=
+/td>=0A                                </tr>=0A                            =
+    <tr>=0A                                  <td align=3D"left" style=3D"pa=
+dding: 0px 3px 0px 3px; font-family: Helvetica, 'HelveticaNeue-Light', 'Hel=
+vetica Neue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 12px; c=
+olor: #7F7F7F; ">=0A                                    <a href=3D"https://=
+t.massdrop.com/f/a/FoNdQ3ZmJRWu2C-FE2ySjg~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXE=
+NXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE=
+2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRNJodHRwczovL3d3dy5tYXNz=
+ZHJvcC5jb20vYnV5L2R1bmdlb25zLWRyYWdvbnMtdHlyYW50cy1vZi10aGUtdW5kZXJkYXJrP21=
+vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhci=
+UyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmd=
+XRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsiYmluZGluZyI6ImluZm8iLCJlbWFpbF91dWlk=
+IjoiMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjIifQ~~" target=3D"_bl=
+ank" style=3D"text-decoration: none;font-family: Helvetica, 'HelveticaNeue-=
+Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, sans-serif; font-s=
+ize: 12px; color: #7F7F7F; ">=0A                                      Hobby=
+ Shop=0A                                    </a>=0A                        =
+          </td>=0A                                </tr>=0A                 =
+             </table>=0A                              <!-- END SUBPRODUCT C=
+ARD -->=0A                            </td>=0A                            <=
+td valign=3D"top" align=3D"right">=0A                              <!-- BEG=
+IN SUBPRODUCT CARD -->=0A                              <table width=3D"200"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:=
+ collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">=0A              =
+                  <tr>=0A                                  <td align=3D"cen=
+ter" style=3D"padding: 20px 0px 0px 0px;">=0A                              =
+      <a href=3D"https://t.massdrop.com/f/a/iunA_s6_V7Sa8YvnFdQLsA~~/AAAAAQ=
+A~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYt=
+MTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAAC=
+kRMlodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L21zaS1nZWZvcmNlLWd0eC0xMDYwLWFybW=
+9yLTZnLW9jP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItM=
+iUyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRp=
+dW09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsiYmluZGluZyI6ImluZm8iLCJ=
+lbWFpbF91dWlkIjoiMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjIifQ~~" =
+target=3D"_blank" style=3D"text-decoration: none;">=0A                     =
+                 <img src=3D"https://massdrop-s3.imgix.net/product-images/m=
+si-geforce-gtx-1060-armor-6g-oc/MD-25232_20160804112715_3144b4b63e2271d5.jp=
+g=3Fw=3D196"=0A                                      width=3D"196" border=
+=3D"0" style=3D"outline: none;text-decoration: none;-ms-interpolation-mode:=
+ bicubic; padding-bottom: 0; display: inline !important; vertical-align: bo=
+ttom;">=0A                                    </a>=0A                      =
+            </td>=0A                                </tr>=0A               =
+                 <tr>=0A                                  <td align=3D"left=
+" style=3D"padding: 10px 0px 0px 3px; font-family: Helvetica, 'HelveticaNeu=
+e-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, sans-serif; font=
+-size: 14px; color:#303030; line-height: 18px;">=0A                        =
+            <a href=3D"https://t.massdrop.com/f/a/7X-uZXZ9QO-atZYYSQ6ZFw~~/=
+AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5ID=
+IwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yU=
+QQAAACkRMlodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L21zaS1nZWZvcmNlLWd0eC0xMDYw=
+LWFybW9yLTZnLW9jP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ24=
+9MTItMiUyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV=
+9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsiZW1haWxfdXVpZCI6I=
+jE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIyIiwiYmluZGluZyI6ImluZm8i=
+fQ~~" target=3D"_blank" style=3D"text-decoration: none; font-family: Helvet=
+ica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial=
+, sans-serif; font-size: 14px; color:#303030; line-height: 18px;">=0A      =
+                                MSI Geforce GTX 1060 Armor 6G OC=0A        =
+                            </a>=0A                                  </td>=
+=0A                                </tr>=0A                                =
+<tr>=0A                                  <td align=3D"left" style=3D"paddin=
+g: 0px 0px 0px 3px; font-family: Helvetica, 'HelveticaNeue-Light', 'Helveti=
+ca Neue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color=
+: #7F7F7F; ">=0A                                    <a href=3D"https://t.ma=
+ssdrop.com/f/a/iunA_s6_V7Sa8YvnFdQLsA~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG=
+1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5b=
+GVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRMlodHRwczovL3d3dy5tYXNzZHJv=
+cC5jb20vYnV5L21zaS1nZWZvcmNlLWd0eC0xMDYwLWFybW9yLTZnLW9jP21vZGU9Z3Vlc3Rfb3B=
+lbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAyMDE2LT=
+EyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItM=
+iUyMEJhemFhciUyMDlHSHsiYmluZGluZyI6ImluZm8iLCJlbWFpbF91dWlkIjoiMTQ4MDcxMzIy=
+MDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjIifQ~~" target=3D"_blank" style=3D"te=
+xt-decoration: none;font-family: Helvetica, 'HelveticaNeue-Light', 'Helveti=
+ca Neue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color=
+: #7F7F7F; ">=0A                                      Tech=0A              =
+                      </a>=0A                                  </td>=0A    =
+                            </tr>=0A                              </table>=
+=0A                              <!-- END SUBPRODUCT CARD -->=0A           =
+                 </td>=0A                          </tr>=0A                =
+        </table>=0A                      </td>=0A                    </tr>=
+=0A                    <!-- END THREE IMAGES SIDE BY SIDE -->=0A           =
+         <!-- THREE IMAGES SIDE BY SIDE -->=0A                    <tr>=0A  =
+                    <td>=0A                        <table width=3D"600" ali=
+gn=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"bor=
+der-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; backg=
+round-color: #FFFFFF">=0A                          <tr>=0A                 =
+           <td valign=3D"top" align=3D"left">=0A                           =
+   <!-- BEGIN SUBPRODUCT CARD -->=0A                              <table wi=
+dth=3D"200" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">=0A   =
+                             <tr>=0A                                  <td a=
+lign=3D"center" style=3D"padding: 20px 0px 0px 0px">=0A                    =
+                <a href=3D"https://t.massdrop.com/f/a/_qFcB7baTWY-Sv-xCY68g=
+g~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhci=
+A5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xM=
+i0yUQQAAACkRLFodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L2ZpaW8tZTE4P21vZGU9Z3Vl=
+c3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjA=
+yMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm=
+09MTItMiUyMEJhemFhciUyMDlHSHsiZW1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxO=
+DQxNDcwNzQ4NTc3NTYyNTIyIiwiYmluZGluZyI6ImluZm8ifQ~~" target=3D"_blank" styl=
+e=3D"text-decoration: none;">=0A                                      <img =
+src=3D"https://massdrop-s3.imgix.net/product-images/12172013fiioe18card.png=
+=3Fw=3D196"=0A                                      width=3D"196" border=3D=
+"0" style=3D"outline: none;text-decoration: none;-ms-interpolation-mode: bi=
+cubic; padding-bottom: 0; display: inline !important; vertical-align: botto=
+m;">=0A                                    </a>=0A                         =
+         </td>=0A                                </tr>=0A                  =
+              <tr>=0A                                  <td align=3D"left" s=
+tyle=3D"padding: 10px 3px 0px 0px; font-family: Helvetica, 'HelveticaNeue-L=
+ight', 'Helvetica Neue Light', 'Helvetica Neue', Arial, sans-serif; font-si=
+ze: 14px; color:#303030; line-height: 18px;">=0A                           =
+         <a href=3D"https://t.massdrop.com/f/a/yIeRMO7nqJH4LEDdsZBl1A~~/AAA=
+AAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwM=
+TYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQA=
+AACkRLFodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L2ZpaW8tZTE4P21vZGU9Z3Vlc3Rfb3B=
+lbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAyMDE2LT=
+EyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItM=
+iUyMEJhemFhciUyMDlHSHsiYmluZGluZyI6ImluZm8iLCJlbWFpbF91dWlkIjoiMTQ4MDcxMzIy=
+MDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjIifQ~~" target=3D"_blank" style=3D"te=
+xt-decoration: none; font-family: Helvetica, 'HelveticaNeue-Light', 'Helvet=
+ica Neue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; colo=
+r:#303030; line-height: 18px;">=0A                                      Fii=
+O E18 Kunlun Portable DAC/Amp=0A                                    </a>=0A=
+                                  </td>=0A                                <=
+/tr>=0A                                <tr>=0A                             =
+     <td align=3D"left" style=3D"padding: 0px 3px 0px 0px; font-family: Hel=
+vetica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Ar=
+ial, sans-serif; font-size: 12px; color: #7F7F7F; ">=0A                    =
+                <a href=3D"https://t.massdrop.com/f/a/_qFcB7baTWY-Sv-xCY68g=
+g~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhci=
+A5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xM=
+i0yUQQAAACkRLFodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L2ZpaW8tZTE4P21vZGU9Z3Vl=
+c3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjA=
+yMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm=
+09MTItMiUyMEJhemFhciUyMDlHSHsiZW1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxO=
+DQxNDcwNzQ4NTc3NTYyNTIyIiwiYmluZGluZyI6ImluZm8ifQ~~" target=3D"_blank" styl=
+e=3D"text-decoration: none;font-family: Helvetica, 'HelveticaNeue-Light', '=
+Helvetica Neue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 12px=
+; color: #7F7F7F; ">=0A                                      Audiophile=0A =
+                                   </a>=0A                                 =
+ </td>=0A                                </tr>=0A                          =
+    </table>=0A                              <!-- END SUBPRODUCT CARD -->=
+=0A                            </td>=0A                            <td vali=
+gn=3D"top" align=3D"center">=0A                              <!-- BEGIN SUB=
+PRODUCT CARD -->=0A                              <table width=3D"200" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse: colla=
+pse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">=0A                    =
+            <tr>=0A                                  <td align=3D"center" s=
+tyle=3D"padding: 20px 0px 0px 0px;">=0A                                    =
+<a href=3D"https://t.massdrop.com/f/a/sTnQYXYDriPQkVXezCcRLw~~/AAAAAQA~/RgR=
+aJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMD=
+JCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRNJod=
+HRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L2FrZy1rMTgxLWRqLXVlLXJlZmVyZW5jZS1jbGFz=
+cy1oZWFkcGhvbmVzP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1fY2FtcGFpZ24=
+9MTItMiUyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3BhcmtQb3N0JnV0bV=
+9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsiZW1haWxfdXVpZCI6I=
+jE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIyIiwiYmluZGluZyI6ImluZm8i=
+fQ~~" target=3D"_blank" style=3D"text-decoration: none;">=0A               =
+                       <img src=3D"https://massdrop-s3.imgix.net/product-im=
+ages/akg-k181-dj-ue-reference-class-headphones/MD-31458_20161201130753_4a68=
+5217c19d2936.jpg=3Fw=3D196"=0A                                      width=
+=3D"196" border=3D"0" style=3D"outline: none;text-decoration: none;-ms-inte=
+rpolation-mode: bicubic; padding-bottom: 0; display: inline !important; ver=
+tical-align: bottom;">=0A                                    </a>=0A       =
+                           </td>=0A                                </tr>=0A=
+                                <tr>=0A                                  <t=
+d align=3D"left" style=3D"padding: 10px 3px 0px 3px; font-family: Helvetica=
+, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, s=
+ans-serif; font-size: 14px; color:#303030; line-height: 18px;">=0A         =
+                           <a href=3D"https://t.massdrop.com/f/a/sTnQYXYDri=
+PQkVXezCcRLw~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0=
+yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2=
+JhemFhci0xMi0yUQQAAACkRNJodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L2FrZy1rMTgxL=
+WRqLXVlLXJlZmVyZW5jZS1jbGFzcy1oZWFkcGhvbmVzP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVy=
+PVFDRk1VUSZ1dG1fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9=
+zb3VyY2U9U3BhcmtQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhci=
+UyMDlHSHsiZW1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyN=
+TIyIiwiYmluZGluZyI6ImluZm8ifQ~~" target=3D"_blank" style=3D"text-decoration=
+: none; font-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Ligh=
+t', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; color:#303030; li=
+ne-height: 18px;">=0A                                      AKG K181 DJ UE R=
+eference Class Headphones=0A                                    </a>=0A    =
+                              </td>=0A                                </tr>=
+=0A                                <tr>=0A                                 =
+ <td align=3D"left" style=3D"padding: 0px 3px 0px 3px; font-family: Helveti=
+ca, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial,=
+ sans-serif; font-size: 12px; color: #7F7F7F; ">=0A                        =
+            <a href=3D"https://t.massdrop.com/f/a/sTnQYXYDriPQkVXezCcRLw~~/=
+AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5ID=
+IwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yU=
+QQAAACkRNJodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L2FrZy1rMTgxLWRqLXVlLXJlZmVy=
+ZW5jZS1jbGFzcy1oZWFkcGhvbmVzP21vZGU9Z3Vlc3Rfb3BlbiZyZWZlcmVyPVFDRk1VUSZ1dG1=
+fY2FtcGFpZ249MTItMiUyMEJhemFhciUyMDklMjAyMDE2LTEyLTAyJnV0bV9zb3VyY2U9U3Bhcm=
+tQb3N0JnV0bV9tZWRpdW09ZW1haWwmdXRtX3Rlcm09MTItMiUyMEJhemFhciUyMDlHSHsiZW1ha=
+WxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIyIiwiYmluZGlu=
+ZyI6ImluZm8ifQ~~" target=3D"_blank" style=3D"text-decoration: none;font-fam=
+ily: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica N=
+eue', Arial, sans-serif; font-size: 12px; color: #7F7F7F; ">=0A            =
+                          Audiophile=0A                                    =
+</a>=0A                                  </td>=0A                          =
+      </tr>=0A                              </table>=0A                    =
+          <!-- END SUBPRODUCT CARD -->=0A                            </td>=
+=0A                            <td valign=3D"top" align=3D"right">=0A      =
+                        <!-- BEGIN SUBPRODUCT CARD -->=0A                  =
+            <table width=3D"200" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt;">=0A                                <tr>=0A                  =
+                <td align=3D"center" style=3D"padding: 20px 0px 0px 0px;">=
+=0A                                    <a href=3D"https://t.massdrop.com/f/=
+a/wDMdlCub_7ZRelQx0w0syg~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQ=
+AAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2=
+hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRLZodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L=
+3Jvb3RoLWVhcnBsdWc_bW9kZT1ndWVzdF9vcGVuJnJlZmVyZXI9UUNGTVVRJnV0bV9jYW1wYWln=
+bj0xMi0yJTIwQmF6YWFyJTIwOSUyMDIwMTYtMTItMDImdXRtX3NvdXJjZT1TcGFya1Bvc3QmdXR=
+tX21lZGl1bT1lbWFpbCZ1dG1fdGVybT0xMi0yJTIwQmF6YWFyJTIwOUdIeyJlbWFpbF91dWlkIj=
+oiMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjIiLCJiaW5kaW5nIjoiaW5mb=
+yJ9" target=3D"_blank" style=3D"text-decoration: none;">=0A                =
+                      <img src=3D"https://massdrop-s3.imgix.net/product-ima=
+ges/rooth-earplug/MD-21288_20160726094919_33a64ccdd65f5a3b.jpg=3Fw=3D196"=
+=0A                                      width=3D"196" border=3D"0" style=
+=3D"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic; pa=
+dding-bottom: 0; display: inline !important; vertical-align: bottom;">=0A  =
+                                  </a>=0A                                  =
+</td>=0A                                </tr>=0A                           =
+     <tr>=0A                                  <td align=3D"left" style=3D"p=
+adding: 10px 0px 0px 3px; font-family: Helvetica, 'HelveticaNeue-Light', 'H=
+elvetica Neue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;=
+ color:#303030; line-height: 18px;">=0A                                    =
+<a href=3D"https://t.massdrop.com/f/a/wDMdlCub_7ZRelQx0w0syg~~/AAAAAQA~/RgR=
+aJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMD=
+JCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRLZod=
+HRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L3Jvb3RoLWVhcnBsdWc_bW9kZT1ndWVzdF9vcGVu=
+JnJlZmVyZXI9UUNGTVVRJnV0bV9jYW1wYWlnbj0xMi0yJTIwQmF6YWFyJTIwOSUyMDIwMTYtMTI=
+tMDImdXRtX3NvdXJjZT1TcGFya1Bvc3QmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT0xMi0yJT=
+IwQmF6YWFyJTIwOUdIeyJlbWFpbF91dWlkIjoiMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA3N=
+Dg1Nzc1NjI1MjIiLCJiaW5kaW5nIjoiaW5mbyJ9" target=3D"_blank" style=3D"text-de=
+coration: none; font-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica N=
+eue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; color:#30=
+3030; line-height: 18px;">=0A                                      Rooth Ea=
+rplugs=0A                                    </a>=0A                       =
+           </td>=0A                                </tr>=0A                =
+                <tr>=0A                                  <td align=3D"left"=
+ style=3D"padding: 0px 0px 0px 3px; font-family: Helvetica, 'HelveticaNeue-=
+Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, sans-serif; font-s=
+ize: 12px; color: #7F7F7F; ">=0A                                    <a href=
+=3D"https://t.massdrop.com/f/a/wDMdlCub_7ZRelQx0w0syg~~/AAAAAQA~/RgRaJIagP0=
+EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACx=
+QFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRLZodHRwczov=
+L3d3dy5tYXNzZHJvcC5jb20vYnV5L3Jvb3RoLWVhcnBsdWc_bW9kZT1ndWVzdF9vcGVuJnJlZmV=
+yZXI9UUNGTVVRJnV0bV9jYW1wYWlnbj0xMi0yJTIwQmF6YWFyJTIwOSUyMDIwMTYtMTItMDImdX=
+RtX3NvdXJjZT1TcGFya1Bvc3QmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT0xMi0yJTIwQmF6Y=
+WFyJTIwOUdIeyJlbWFpbF91dWlkIjoiMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1=
+NjI1MjIiLCJiaW5kaW5nIjoiaW5mbyJ9" target=3D"_blank" style=3D"text-decoratio=
+n: none;font-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Ligh=
+t', 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color: #7F7F7F; "=
+>=0A                                      Audiophile=0A                    =
+                </a>=0A                                  </td>=0A          =
+                      </tr>=0A                              </table>=0A    =
+                          <!-- END SUBPRODUCT CARD -->=0A                  =
+          </td>=0A                          </tr>=0A                       =
+ </table>=0A                      </td>=0A                    </tr>=0A     =
+               <!-- END THREE IMAGES SIDE BY SIDE -->=0A                  <=
+/table>=0A                  <!-- END BAZAAR -->=0A=0A                  <!--=
+ BEGIN GIFTS UNDER 100  -->=0A                  <table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"borde=
+r-collapse:collapse; background-color: #FFFFFF; max-width: 600px;">=0A     =
+               <tr>=0A                      <td align=3D"center" style=3D"p=
+adding: 20px 0px 0px">=0A                        <a href=3D"https://t.massd=
+rop.com/f/a/QVwhbYC1dbhMf3E2FCntWA~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc=
+3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVA=
+a3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRMpodHRwczovL3d3dy5tYXNzZHJvcC5=
+jb20vYWxsLWNvbW11bml0aWVzL2Ryb3BzL2hvbGlkYXlzcGVjaWFscz9tb2RlPWd1ZXN0X29wZW=
+4mcmVmZXJlcj1RQ0ZNVVEmdXRtX2NhbXBhaWduPTEyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xM=
+i0wMiZ1dG1fc291cmNlPVNwYXJrUG9zdCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIl=
+MjBCYXphYXIlMjA5R0h7ImVtYWlsX3V1aWQiOiIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc=
+0ODU3NzU2MjUyMiIsImJpbmRpbmciOiJpbmZvIn0~">=0A                          <im=
+g src=3D"https://massdrop-s3.imgix.net/product-images/richards-test-product=
+/MD-2824_20161202095559_bfa0c1b92d9032ec.png=3Fw=3D600" =0A                =
+          width=3D"600px"> =0A                        </a>=0A              =
+        </td>=0A                    </tr>=0A                    <tr>=0A    =
+                  <td align=3D"center" style=3D"padding: 30px 40px 0px; fon=
+t-family: 'Helvetica', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helv=
+etica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 28=
+px; font-weight: 400; color: #797979;">=0A                        Custom pr=
+oducts and other cool gifts you won=E2=80=99t find anywhere else. =0A      =
+                </td>=0A                    </tr>=0A                    <tr=
+>=0A                      <td>=0A                        <!-- BEGIN BUTTON =
+-->=0A                        <table width=3D"100%" align=3D"center" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse: collap=
+se; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #FFFFFF=
+">=0A                          <tr>=0A                            <td align=
+=3D"center" style=3D"padding: 30px 40px 20px 40px;">=0A                    =
+          <a href=3D"https://t.massdrop.com/f/a/7jfH0vttFLQoxwQcuPLvhA~~/AA=
+AAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIw=
+MTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQ=
+AAACkRMpodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYWxsLWNvbW11bml0aWVzL2Ryb3BzL2hvbG=
+lkYXlzcGVjaWFscz9tb2RlPWd1ZXN0X29wZW4mcmVmZXJlcj1RQ0ZNVVEmdXRtX2NhbXBhaWduP=
+TEyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xMi0wMiZ1dG1fc291cmNlPVNwYXJrUG9zdCZ1dG1f=
+bWVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIlMjBCYXphYXIlMjA5R0h7ImJpbmRpbmciOiJpbmZ=
+vIiwiZW1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIyIn=
+0~" style=3D"text-decoration: none; color: #ffffff;">=0A                   =
+             <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder =3D "0" style=3D"border-collapse:collapse; border-color: #FFFFFF; bord=
+er-width: 1px; border-style: solid; mso-table-lspace: 0pt; mso-table-rspace=
+: 0pt; background-color: #7283DB; border-radius: 4px;" bgcolor=3D"#7283DB">=
+=0A                                  <tr>=0A                               =
+     <td style=3D"padding: 18px 40px; font-family: 'HelveticaNeue-Light', '=
+Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif; font=
+-size: 14px; line-height: 10px; font-weight: bold; color: #FFFFFF;">=0A    =
+                                  <a href=3D"https://t.massdrop.com/f/a/QVw=
+hbYC1dbhMf3E2FCntWA~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAA=
+SBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5=
+jb21QC2JhemFhci0xMi0yUQQAAACkRMpodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYWxsLWNvbW=
+11bml0aWVzL2Ryb3BzL2hvbGlkYXlzcGVjaWFscz9tb2RlPWd1ZXN0X29wZW4mcmVmZXJlcj1RQ=
+0ZNVVEmdXRtX2NhbXBhaWduPTEyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xMi0wMiZ1dG1fc291=
+cmNlPVNwYXJrUG9zdCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIlMjBCYXphYXIlMjA=
+5R0h7ImVtYWlsX3V1aWQiOiIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU3NzU2MjUyMi=
+IsImJpbmRpbmciOiJpbmZvIn0~" style=3D"text-decoration: none; color: #FFFFFF;=
+ font-weight: bold">=0A                                        SHOP NOW=0A =
+                                     </a>=0A                               =
+     </td>=0A                                  </tr>=0A                    =
+            </table>=0A                              </a>=0A               =
+             </td>=0A                          </tr>=0A                    =
+    </table>=0A                        <!-- END BUTTON -->=0A              =
+        </td>=0A                    </tr>=0A                  </table>=0A  =
+                <table width=3D"100%" align=3D"center" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" style=3D"background-color: #FFFFFF; border-col=
+lapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-radiu=
+s: 0px; -webkit-border-radius: 10px; -moz-border-radius: 10px;">=0A        =
+            <!-- THREE IMAGES SIDE BY SIDE -->=0A                    <tr>=
+=0A                      <td>=0A                        <table width=3D"600=
+" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+; background-color: #FFFFFF">=0A                          <tr>=0A          =
+                  <td valign=3D"top" align=3D"left">=0A                    =
+          <!-- BEGIN SUBPRODUCT CARD -->=0A                              <t=
+able width=3D"200" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+;">=0A                                <tr>=0A                              =
+    <td align=3D"center" style=3D"padding: 20px 0px 0px 0px">=0A           =
+                         <a href=3D"https://t.massdrop.com/f/a/Dtcj5vNIo8fA=
+MT1w6Kcg4w~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yI=
+EJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2Jh=
+emFhci0xMi0yUQQAAACkRM5odHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L21hc3Nkcm9wLXg=
+ta2x5bWl0LXN0YXRpYy12LXVsdHJhbGlnaHQ_bW9kZT1ndWVzdF9vcGVuJnJlZmVyZXI9UUNGTV=
+VRJnV0bV9jYW1wYWlnbj0xMi0yJTIwQmF6YWFyJTIwOSUyMDIwMTYtMTItMDImdXRtX3NvdXJjZ=
+T1TcGFya1Bvc3QmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT0xMi0yJTIwQmF6YWFyJTIwOUdI=
+eyJlbWFpbF91dWlkIjoiMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjIiLCJ=
+iaW5kaW5nIjoiaW5mbyJ9" target=3D"_blank" style=3D"text-decoration: none;">=
+=0A                                      <img src=3D"https://massdrop-s3.im=
+gix.net/product-images/massdrop-x-klymit-static-v-ultralight/MD-22314_20160=
+718142759_02d8802a4a088ca5.jpg=3Fw=3D196"=0A                               =
+       width=3D"196" border=3D"0" style=3D"outline: none;text-decoration: n=
+one;-ms-interpolation-mode: bicubic; padding-bottom: 0; display: inline !im=
+portant; vertical-align: bottom;">=0A                                    </=
+a>=0A                                  </td>=0A                            =
+    </tr>=0A                                <tr>=0A                        =
+          <td align=3D"left" style=3D"padding: 10px 3px 0px 0px; font-famil=
+y: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 14px; color:#303030; line-height: 18px;">=
+=0A                                    <a href=3D"https://t.massdrop.com/f/=
+a/Dtcj5vNIo8fAMT1w6Kcg4w~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQ=
+AAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2=
+hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRM5odHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L=
+21hc3Nkcm9wLXgta2x5bWl0LXN0YXRpYy12LXVsdHJhbGlnaHQ_bW9kZT1ndWVzdF9vcGVuJnJl=
+ZmVyZXI9UUNGTVVRJnV0bV9jYW1wYWlnbj0xMi0yJTIwQmF6YWFyJTIwOSUyMDIwMTYtMTItMDI=
+mdXRtX3NvdXJjZT1TcGFya1Bvc3QmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT0xMi0yJTIwQm=
+F6YWFyJTIwOUdIeyJlbWFpbF91dWlkIjoiMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1N=
+zc1NjI1MjIiLCJiaW5kaW5nIjoiaW5mbyJ9" target=3D"_blank" style=3D"text-decora=
+tion: none; font-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue =
+Light', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; color:#303030=
+; line-height: 18px;">=0A                                      Massdrop x K=
+lymit Static V Ultra Light Pad=0A                                    </a>=
+=0A                                  </td>=0A                              =
+  </tr>=0A                                <tr>=0A                          =
+        <td align=3D"left" style=3D"padding: 0px 3px 0px 0px; font-family: =
+Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',=
+ Arial, sans-serif; font-size: 12px; color: #7F7F7F; ">=0A                 =
+                   <a href=3D"https://t.massdrop.com/f/a/Dtcj5vNIo8fAMT1w6K=
+cg4w~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemF=
+hciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci=
+0xMi0yUQQAAACkRM5odHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L21hc3Nkcm9wLXgta2x5b=
+Wl0LXN0YXRpYy12LXVsdHJhbGlnaHQ_bW9kZT1ndWVzdF9vcGVuJnJlZmVyZXI9UUNGTVVRJnV0=
+bV9jYW1wYWlnbj0xMi0yJTIwQmF6YWFyJTIwOSUyMDIwMTYtMTItMDImdXRtX3NvdXJjZT1TcGF=
+ya1Bvc3QmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT0xMi0yJTIwQmF6YWFyJTIwOUdIeyJlbW=
+FpbF91dWlkIjoiMTQ4MDcxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjIiLCJiaW5ka=
+W5nIjoiaW5mbyJ9" target=3D"_blank" style=3D"text-decoration: none;font-fami=
+ly: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Ne=
+ue', Arial, sans-serif; font-size: 12px; color: #7F7F7F; ">=0A             =
+                         Ultralight=0A                                    <=
+/a>=0A                                  </td>=0A                           =
+     </tr>=0A                              </table>=0A                     =
+         <!-- END SUBPRODUCT CARD -->=0A                            </td>=
+=0A                            <td valign=3D"top" align=3D"center">=0A     =
+                         <!-- BEGIN SUBPRODUCT CARD -->=0A                 =
+             <table width=3D"200" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-tabl=
+e-rspace: 0pt;">=0A                                <tr>=0A                 =
+                 <td align=3D"center" style=3D"padding: 20px 0px 0px 0px;">=
+=0A                                    <a href=3D"https://t.massdrop.com/f/=
+a/SyMax9fJfCKm7Xp9PH8Dqw~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQ=
+AAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2=
+hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRMFodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L=
+21hc3Nkcm9wLXgtaGlmaW1hbi1yZS0wMD9tb2RlPWd1ZXN0X29wZW4mcmVmZXJlcj1RQ0ZNVVEm=
+dXRtX2NhbXBhaWduPTEyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xMi0wMiZ1dG1fc291cmNlPVN=
+wYXJrUG9zdCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIlMjBCYXphYXIlMjA5R0h7Im=
+VtYWlsX3V1aWQiOiIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU3NzU2MjUyMiIsImJpb=
+mRpbmciOiJpbmZvIn0~" target=3D"_blank" style=3D"text-decoration: none;">=0A=
+                                      <img src=3D"https://massdrop-s3.imgix=
+.net/product-images/massdrop-x-hifiman-re-00/MD-28897_20161109114014_268c4=
+68d5df60e7f.jpg=3Fw=3D196"=0A                                      width=3D=
+"196" border=3D"0" style=3D"outline: none;text-decoration: none;-ms-interpo=
+lation-mode: bicubic; padding-bottom: 0; display: inline !important; vertic=
+al-align: bottom;">=0A                                    </a>=0A          =
+                        </td>=0A                                </tr>=0A   =
+                             <tr>=0A                                  <td a=
+lign=3D"left" style=3D"padding: 10px 3px 0px 3px; font-family: Helvetica, '=
+HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, sans=
+-serif; font-size: 14px; color:#303030; line-height: 18px;">=0A            =
+                        <a href=3D"https://t.massdrop.com/f/a/w4mFwmnOqtxf4=
+GWTPL9BLw~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIE=
+JhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2Jhe=
+mFhci0xMi0yUQQAAACkRMFodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L21hc3Nkcm9wLXgt=
+aGlmaW1hbi1yZS0wMD9tb2RlPWd1ZXN0X29wZW4mcmVmZXJlcj1RQ0ZNVVEmdXRtX2NhbXBhaWd=
+uPTEyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xMi0wMiZ1dG1fc291cmNlPVNwYXJrUG9zdCZ1dG=
+1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIlMjBCYXphYXIlMjA5R0h7ImJpbmRpbmciOiJpb=
+mZvIiwiZW1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIy=
+In0~" target=3D"_blank" style=3D"text-decoration: none; font-family: Helvet=
+ica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial=
+, sans-serif; font-size: 14px; color:#303030; line-height: 18px;">=0A      =
+                                Massdrop x HiFiMAN RE-00=0A                =
+                    </a>=0A                                  </td>=0A      =
+                          </tr>=0A                                <tr>=0A  =
+                                <td align=3D"left" style=3D"padding: 0px 3p=
+x 0px 3px; font-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue L=
+ight', 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color: #7F7F7F=
+; ">=0A                                    <a href=3D"https://t.massdrop.co=
+m/f/a/SyMax9fJfCKm7Xp9PH8Dqw~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9=
+wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZW=
+Zpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRMFodHRwczovL3d3dy5tYXNzZHJvcC5jb20vY=
+nV5L21hc3Nkcm9wLXgtaGlmaW1hbi1yZS0wMD9tb2RlPWd1ZXN0X29wZW4mcmVmZXJlcj1RQ0ZN=
+VVEmdXRtX2NhbXBhaWduPTEyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xMi0wMiZ1dG1fc291cmN=
+lPVNwYXJrUG9zdCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIlMjBCYXphYXIlMjA5R0=
+h7ImVtYWlsX3V1aWQiOiIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU3NzU2MjUyMiIsI=
+mJpbmRpbmciOiJpbmZvIn0~" target=3D"_blank" style=3D"text-decoration: none;f=
+ont-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helv=
+etica Neue', Arial, sans-serif; font-size: 12px; color: #7F7F7F; ">=0A     =
+                                 Audiophile=0A                             =
+       </a>=0A                                  </td>=0A                   =
+             </tr>=0A                              </table>=0A             =
+                 <!-- END SUBPRODUCT CARD -->=0A                           =
+ </td>=0A                            <td valign=3D"top" align=3D"right">=0A=
+                              <!-- BEGIN SUBPRODUCT CARD -->=0A            =
+                  <table width=3D"200" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso=
+-table-rspace: 0pt;">=0A                                <tr>=0A            =
+                      <td align=3D"center" style=3D"padding: 20px 0px 0px 0=
+px;">=0A                                    <a href=3D"https://t.massdrop.c=
+om/f/a/6hF9i9PSPypa4X_6IspWEg~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm=
+9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZ=
+WZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRMFodHRwczovL3d3dy5tYXNzZHJvcC5jb20v=
+YnV5L21hc3Nkcm9wLXgta2x5bWl0LXBpbGxvdz9tb2RlPWd1ZXN0X29wZW4mcmVmZXJlcj1RQ0Z=
+NVVEmdXRtX2NhbXBhaWduPTEyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xMi0wMiZ1dG1fc291cm=
+NlPVNwYXJrUG9zdCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIlMjBCYXphYXIlMjA5R=
+0h7ImVtYWlsX3V1aWQiOiIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU3NzU2MjUyMiIs=
+ImJpbmRpbmciOiJpbmZvIn0~" target=3D"_blank" style=3D"text-decoration: none;=
+">=0A                                      <img src=3D"https://massdrop-s3.=
+imgix.net/product-images/massdrop-x-klymit-pillow/MD-29157_20161130161113_4=
+e9fa03f2b4eb4b1.jpg=3Fw=3D196"=0A                                      widt=
+h=3D"196" border=3D"0" style=3D"outline: none;text-decoration: none;-ms-int=
+erpolation-mode: bicubic; padding-bottom: 0; display: inline !important; ve=
+rtical-align: bottom;">=0A                                    </a>=0A      =
+                            </td>=0A                                </tr>=
+=0A                                <tr>=0A                                 =
+ <td align=3D"left" style=3D"padding: 10px 0px 0px 3px; font-family: Helvet=
+ica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial=
+, sans-serif; font-size: 14px; color:#303030; line-height: 18px;">=0A      =
+                              <a href=3D"https://t.massdrop.com/f/a/6hF9i9P=
+SPypa4X_6IspWEg~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgx=
+Mi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21=
+QC2JhemFhci0xMi0yUQQAAACkRMFodHRwczovL3d3dy5tYXNzZHJvcC5jb20vYnV5L21hc3Nkcm=
+9wLXgta2x5bWl0LXBpbGxvdz9tb2RlPWd1ZXN0X29wZW4mcmVmZXJlcj1RQ0ZNVVEmdXRtX2Nhb=
+XBhaWduPTEyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xMi0wMiZ1dG1fc291cmNlPVNwYXJrUG9z=
+dCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIlMjBCYXphYXIlMjA5R0h7ImVtYWlsX3V=
+1aWQiOiIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU3NzU2MjUyMiIsImJpbmRpbmciOi=
+JpbmZvIn0~" target=3D"_blank" style=3D"text-decoration: none; font-family: =
+Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',=
+ Arial, sans-serif; font-size: 14px; color:#303030; line-height: 18px;">=0A=
+                                      Massdrop x Klymit Pillow X=0A        =
+                            </a>=0A                                  </td>=
+=0A                                </tr>=0A                                =
+<tr>=0A                                  <td align=3D"left" style=3D"paddin=
+g: 0px 0px 0px 3px; font-family: Helvetica, 'HelveticaNeue-Light', 'Helveti=
+ca Neue Light', 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color=
+: #7F7F7F; ">=0A                                    <a href=3D"https://t.ma=
+ssdrop.com/f/a/6hF9i9PSPypa4X_6IspWEg~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG=
+1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5b=
+GVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRMFodHRwczovL3d3dy5tYXNzZHJv=
+cC5jb20vYnV5L21hc3Nkcm9wLXgta2x5bWl0LXBpbGxvdz9tb2RlPWd1ZXN0X29wZW4mcmVmZXJ=
+lcj1RQ0ZNVVEmdXRtX2NhbXBhaWduPTEyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xMi0wMiZ1dG=
+1fc291cmNlPVNwYXJrUG9zdCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIlMjBCYXphY=
+XIlMjA5R0h7ImVtYWlsX3V1aWQiOiIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU3NzU2=
+MjUyMiIsImJpbmRpbmciOiJpbmZvIn0~" target=3D"_blank" style=3D"text-decoratio=
+n: none;font-family: Helvetica, 'HelveticaNeue-Light', 'Helvetica Neue Ligh=
+t', 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color: #7F7F7F; "=
+>=0A                                      Ultralight=0A                    =
+                </a>=0A                                  </td>=0A          =
+                      </tr>=0A                              </table>=0A    =
+                          <!-- END SUBPRODUCT CARD -->=0A                  =
+          </td>=0A                          </tr>=0A                       =
+ </table>=0A                      </td>=0A                    </tr>=0A     =
+               <!-- END THREE IMAGES SIDE BY SIDE -->=0A                   =
+ </table>=0A                  <!-- END GIFTS UNDER 100 -->=0A              =
+  </td>=0A              </tr>=0A            </table>=0A          </td>=0A  =
+      </tr>=0A<!--=0A#################################################=0A# =
+CONTENT END=0A#################################################=0A-->=0A<tr=
+>=0A  <td style=3D"padding: 30px 20px 10px;">=0A    <table class=3D"body" s=
+tyle=3D"border-spacing: 0; border-collapse: collapse; vertical-align: top; =
+background-color: #FFFFFF; width: 100%; color: #222; font-family: Helvetica=
+,Arial,sans-serif; font-weight: 400; padding: 0; margin: 0; text-align: lef=
+t; font-size: 14px; line-height: 19px;" width=3D"100%">=0A      <tr style=
+=3D"padding: 0; vertical-align: top; text-align: left;">=0A        <td clas=
+s=3D"center bg-white hpad30" align=3D"center" valign=3D"top" style=3D"word-=
+break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none=
+; vertical-align: top; color: #222; font-family: Helvetica,Arial,sans-serif=
+; font-weight: 400; padding: 0; margin: 0; font-size: 14px; line-height: 19=
+px; padding-left: 10px; padding-right: 10px; background-color: white; text-=
+align: center; border-collapse: collapse;">=0A         <center style=3D"wid=
+th: 100%; min-width: 600px;">=0A           <table class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; padding: 0; vertical-alig=
+n: top; width: 600px; margin: 0 auto; text-align: inherit;" width=3D"600">=
+=0A             <tr style=3D"padding: 0; vertical-align: top; text-align: l=
+eft;">=0A               <td class=3D"vpad20" style=3D"word-break: break-wor=
+d; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; vertical-align=
+: top; color: #222; font-family: Helvetica,Arial,sans-serif; font-weight: 4=
+00; margin: 0; text-align: left; font-size: 14px; line-height: 19px; paddin=
+g: 20px 0 20px 0; padding-top: 10px; padding-bottom: 10px; border-collapse:=
+ collapse;">=0A                 <table style=3D"border-spacing: 0; border-c=
+ollapse: collapse; padding: 0; vertical-align: top; text-align: left;">=0A =
+                  <tr style=3D"padding: 0; vertical-align: top; text-align:=
+ left;">=0A                     <td style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; vertical-align: top; co=
+lor: #222; font-family: Helvetica,Arial,sans-serif; font-weight: 400; paddi=
+ng: 0; margin: 0; text-align: left; font-size: 14px; line-height: 19px; bor=
+der-collapse: collapse;">=0A                       <a class=3D"footer-link"=
+ href=3D"https://t.massdrop.com/f/a/93goBzV8S9ku4N32AjdFxg~~/AAAAAQA~/RgRaJ=
+IagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJC=
+CgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRKRodHR=
+wczovL3d3dy5tYXNzZHJvcC5jb20_bW9kZT1ndWVzdF9vcGVuJnJlZmVyZXI9UUNGTVVRJnV0bV=
+9jYW1wYWlnbj0xMi0yJTIwQmF6YWFyJTIwOSUyMDIwMTYtMTItMDImdXRtX3NvdXJjZT1TcGFya=
+1Bvc3QmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT0xMi0yJTIwQmF6YWFyJTIwOUdIeyJiaW5k=
+aW5nIjoiaW5mbyIsImVtYWlsX3V1aWQiOiIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU=
+3NzU2MjUyMiJ9" style=3D"font-weight: normal; text-decoration: none; color: =
+#808080; font-size: 12px; margin: 0 15px 0 0;">HOME</a>=0A                 =
+      <a class=3D"footer-link" href=3D"https://t.massdrop.com/f/a/oe90QsqF8=
+ZlRlTh5KEqAHw~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi=
+0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC=
+2JhemFhci0xMi0yUQQAAACkRLlodHRwczovL3d3dy5tYXNzZHJvcC5jb20vbXktY29tbXVuaXRp=
+ZXMvZHJvcHM_bW9kZT1ndWVzdF9vcGVuJnJlZmVyZXI9UUNGTVVRJnV0bV9jYW1wYWlnbj0xMi0=
+yJTIwQmF6YWFyJTIwOSUyMDIwMTYtMTItMDImdXRtX3NvdXJjZT1TcGFya1Bvc3QmdXRtX21lZG=
+l1bT1lbWFpbCZ1dG1fdGVybT0xMi0yJTIwQmF6YWFyJTIwOUdIeyJlbWFpbF91dWlkIjoiMTQ4M=
+DcxMzIyMDIzNy44MzkyNTE4NDE0NzA3NDg1Nzc1NjI1MjIiLCJiaW5kaW5nIjoiaW5mbyJ9" st=
+yle=3D"font-weight: normal; text-decoration: none; color: #808080; font-siz=
+e: 12px; margin: 0 15px 0 0;">DROPS</a>=0A                       <a class=
+=3D"footer-link" href=3D"https://t.massdrop.com/f/a/68RY2SmBo3mnTRYCSgRGmg~=
+~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5=
+IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0=
+yUQQAAACkRLhodHRwczovL3d3dy5tYXNzZHJvcC5jb20vbXktY29tbXVuaXRpZXMvdGFsaz9tb2=
+RlPWd1ZXN0X29wZW4mcmVmZXJlcj1RQ0ZNVVEmdXRtX2NhbXBhaWduPTEyLTIlMjBCYXphYXIlM=
+jA5JTIwMjAxNi0xMi0wMiZ1dG1fc291cmNlPVNwYXJrUG9zdCZ1dG1fbWVkaXVtPWVtYWlsJnV0=
+bV90ZXJtPTEyLTIlMjBCYXphYXIlMjA5R0h7ImVtYWlsX3V1aWQiOiIxNDgwNzEzMjIwMjM3Ljg=
+zOTI1MTg0MTQ3MDc0ODU3NzU2MjUyMiIsImJpbmRpbmciOiJpbmZvIn0~" style=3D"font-we=
+ight: normal; text-decoration: none; color: #808080; font-size: 12px; margi=
+n: 0 15px 0 0;">TALK</a>=0A                       <a class=3D"footer-link" =
+href=3D"https://t.massdrop.com/f/a/LBoXqdiZK2NAr3I28U5t6g~~/AAAAAQA~/RgRaJI=
+agP0EIAKwW7UODXENXCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCC=
+gACxQFCWCg-M8FSE2t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkRKpodHRw=
+czovL3d3dy5tYXNzZHJvcC5jb20vYWJvdXQ_bW9kZT1ndWVzdF9vcGVuJnJlZmVyZXI9UUNGTVV=
+RJnV0bV9jYW1wYWlnbj0xMi0yJTIwQmF6YWFyJTIwOSUyMDIwMTYtMTItMDImdXRtX3NvdXJjZT=
+1TcGFya1Bvc3QmdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT0xMi0yJTIwQmF6YWFyJTIwOUdIe=
+yJiaW5kaW5nIjoiaW5mbyIsImVtYWlsX3V1aWQiOiIxNDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3=
+MDc0ODU3NzU2MjUyMiJ9" style=3D"font-weight: normal; text-decoration: none; =
+color: #808080; font-size: 12px; margin: 0 15px 0 0;">ABOUT US</a>=0A      =
+               </td>=0A                   </tr>=0A                   <tr st=
+yle=3D"padding: 0; vertical-align: top; text-align: left;">=0A             =
+        <td class=3D"footer-copy" style=3D"word-break: break-word; -webkit-=
+hyphens: none; -moz-hyphens: none; hyphens: none; vertical-align: top; font=
+-family: Helvetica,Arial,sans-serif; font-weight: 400; text-align: left; li=
+ne-height: 19px; margin: 10px 0 10px 0; padding: 10px 0 5px 0; font-size: 1=
+2px; color: #b3b3b3; border-collapse: collapse;">=0A                       =
+Copyright &#169; 2016, All rights reserved.=0A                       <br>Yo=
+u provided your email address when you signed up for Massdrop=0A           =
+          </td>=0A                   </tr>=0A                   <tr style=
+=3D"padding: 0; vertical-align: top; text-align: left;">=0A                =
+     <td class=3D"footer-copy" style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; vertical-align: top; font-fa=
+mily: Helvetica,Arial,sans-serif; font-weight: 400; text-align: left; line-=
+height: 19px; margin: 10px 0 10px 0; padding: 10px 0 5px 0; font-size: 12px=
+; color: #b3b3b3; border-collapse: collapse;">=0A                       <sp=
+an id=3D"footer-address-name">Massdrop</span>=0A                       <br>=
+655 Montgomery St. Suite 800=0A                       <br>San Francisco, CA=
+ 94111=0A                     </td>=0A                   </tr>=0A          =
+         <tr style=3D"padding: 0; vertical-align: top; text-align: left;">=
+=0A                     <td class=3D"footer-copy" style=3D"word-break: brea=
+k-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; vertical-=
+align: top; font-family: Helvetica,Arial,sans-serif; font-weight: 400; text=
+-align: left; line-height: 19px; margin: 10px 0 10px 0; padding: 10px 0 5px=
+ 0; font-size: 12px; color: #b3b3b3; border-collapse: collapse;">=0A       =
+                <a class=3D"footer-unsubcribe" href=3D"https://t.massdrop.c=
+om/f/a/_T8QXQ-J61VfLwWtZf_yjw~~/AAAAAQA~/RgRaJIagP0EIAKwW7UODXENXCG1hc3Nkcm=
+9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2t5bGVAa3lsZ=
+WZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkROhodHRwczovL3d3dy5tYXNzZHJvcC5jb20v=
+dW5zdWJzY3JpYmU_ZWlkPWFkN2QzZTBkMzQ5YTE5YzE0ODk2Nzk0ODVjYmY0YjdhYWEyNGEyNDh=
+iYjRlZmM3NjFjMmVhMDc0NTI1YzhmMmQ2MyZzdWJzY3JpcHRpb249MTMmdXRtX2NhbXBhaWduPT=
+EyLTIlMjBCYXphYXIlMjA5JTIwMjAxNi0xMi0wMiZ1dG1fc291cmNlPVNwYXJrUG9zdCZ1dG1fb=
+WVkaXVtPWVtYWlsJnV0bV90ZXJtPTEyLTIlMjBCYXphYXIlMjA5R0h7ImVtYWlsX3V1aWQiOiIx=
+NDgwNzEzMjIwMjM3LjgzOTI1MTg0MTQ3MDc0ODU3NzU2MjUyMiIsImJpbmRpbmciOiJpbmZvIn0=
+~" style=3D"font-weight: normal; text-decoration: none; font-size: 12px; ma=
+rgin: 10px 0 10px 0; color: #b3b3b3;">=0A                         Unsubscri=
+be</a>=0A                       </td>=0A                     </tr>=0A      =
+             </table>=0A                 </td>=0A               </tr>=0A   =
+          </table>=0A           </center>=0A         </td>=0A       </tr>=
+=0A     </table>=0A   </td>=0A </tr>=0A</table>=0A</td>=0A</tr>=0A</table>=
+=0A=0D=0A<img border=3D"0" width=3D"1" height=3D"1" alt=3D"" src=3D"https:/=
+/t.massdrop.com/q/edQOiq81-WTEs-17JvsWlw~~/AAAAAQA~/RgRaJIagPkEIAKwW7UODXEN=
+XCG1hc3Nkcm9wWAQAAAAASBgxMi0yIEJhemFhciA5IDIwMTYtMTItMDJCCgACxQFCWCg-M8FSE2=
+t5bGVAa3lsZWZpc2hlci5jb21QC2JhemFhci0xMi0yUQQAAACkR0h7ImJpbmRpbmciOiJpbmZvI=
+iwiZW1haWxfdXVpZCI6IjE0ODA3MTMyMjAyMzcuODM5MjUxODQxNDcwNzQ4NTc3NTYyNTIyIn0~=
+">=0D=0A</body>=0A<img src=3D"https://pixel.massdrop.com/open/pixel.gif=3FD=
+_5f54voiJUkrJMV8VFPKSnVETMrwXHRr8uCKk4v9JPyYNc6MEI0ddcsm1c2ICn355dN3PsCYXRk=
+SPtsJdkZ9rQZ-y4XJnclUinO3Mtq11oQPJUCDGlc7RHlw52mmhx1cRbKYYz_" alt=3D"" widt=
+h=3D"1" height=3D"1" border=3D"0" style=3D"display:none" />=0A</html>
+--_----MKwX8s1R5bMqeE5XgPaXHQ===_BA/FD-59477-600E1485--
+

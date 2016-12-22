@@ -1,0 +1,973 @@
+Return-path: <bounce-1479725403487.430107947466668283162946@i.massdrop.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 21 Nov 2016 10:06:03 -0500
+Received: from mta1b1.i.massdrop.com ([52.40.63.59]:22508)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-1479725403487.430107947466668283162946@i.massdrop.com>)
+	id 1c8qAU-002fer-Ks
+	for kyle@kylefisher.com; Mon, 21 Nov 2016 10:06:02 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=i.massdrop.com;
+	s=scph0616; t=1479740761; i=@i.massdrop.com;
+	bh=iSHpBkLRI68QaF0YT3vTjZcW9e0Evwi8goAdqCrMTd4=;
+	h=Content-Type:From:Message-ID:Subject:To:Date;
+	b=J+WCw9M/+aRMbeg1ThmIS/qV2q471MtHvqWV4hDOyzIz3eJ3QU04LSR989N3U748l
+	 8JxvNLfbQxNwNw4fGq/cDVaJARfQ4itO+qiTFj0TwweoYoAE4gny0OutMd8cxqFk9N
+	 TQH7G+9CZ+SprcEYVq9isfcutQ/if1HSiIHedkQc=
+X-MSFBL: HV42G02Kqnyiys3CXoAGGU7Lr24uRAJ3wDIFVHoq9IU=|eyJiIjoiaXBfNTIuNDA
+	uNjMuNTkiLCJzdWJhY2NvdW50X2lkIjoiMCIsInIiOiJreWxlQGt5bGVmaXNoZXI
+	uY29tIiwicmNwdF9tZXRhIjp7ICJiaW5kaW5nIjogImluZm8iLCAiZW1haWxfdXV
+	pZCI6ICIxNDc5NzI1NDAzNDg3LjQzMDEwNzk0NzQ2NjY2ODI4MzE2Mjk0NiIgfSw
+	idHJhbnNtaXNzaW9uX2lkIjoiNjY0NTMzMDM3Mzg4MTAwODciLCJ0ZW1wbGF0ZV9
+	2ZXJzaW9uIjoiMCIsInRlbXBsYXRlX2lkIjoidGVtcGxhdGVfNjY0NTMzMDM3Mzg
+	4MTAwODciLCJjdXN0b21lcl9pZCI6IjEiLCJtZXNzYWdlX2lkIjoiMDAwMzU5MGQ
+	zMzU4MWJmNGUyOWMiLCJmcmllbmRseV9mcm9tIjoiaW5mb0BpLm1hc3Nkcm9wLmN
+	vbSIsImciOiJpbmZvIiwicmNwdF90YWdzIjpbIF0sInRlbmFudF9pZCI6Im1hc3N
+	kcm9wIiwiY2FtcGFpZ25faWQiOiJNYXJrZXRpbmc6IERhaWx5IFByb21vdGlvbmF
+	sIn0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+From: "Massdrop" <info@i.massdrop.com>
+Message-ID: <2E.C9.62491.95D03385@c.plat1.massdrop.aws-usw2c.prd.sparkpost>
+Subject: Announcing New Products: Red Scarf III Ver.A 96-Key Custom Keyboard Kit, Massdrop x HiFiMAN HE-350, TFZ Series 1S IEM
+To: kyle@kylefisher.com
+Date: Mon, 21 Nov 2016 14:45:15 +0000
+MIME-Version: 1.0
+Reply-To: support@massdrop.com
+List-Unsubscribe: <mailto:unsubscribe@i.massdrop.com?subject=unsubscribe:16taiu5R2zPtC-_ld-CsDdY3KizkUD_D4T69pwx0I9g~|eyAicmNwdF90byI6ICJreWxlQGt5bGVmaXNoZXIuY29tIiwgInJjcHRfbWV0YSI6ICJ7XCJiaW5kaW5nXCI6XCJpbmZvXCIsXCJlbWFpbF91dWlkXCI6XCIxNDc5NzI1NDAzNDg3LjQzMDEwNzk0NzQ2NjY2ODI4MzE2Mjk0NlwifSIsICJyY3B0X3RhZ3MiOiAiWyBdIiwgImZyaWVuZGx5X2Zyb20iOiAiaW5mb0BpLm1hc3Nkcm9wLmNvbSIsICJ0ZW1wbGF0ZV9pZCI6ICJ0ZW1wbGF0ZV82NjQ1MzMwMzczODgxMDA4NyIsICJtZXNzYWdlX2lkIjogIjAwMDM1OTBkMzM1ODFiZjRlMjljIiwgInRlbXBsYXRlX3ZlcnNpb24iOiAiMCIsICJjYW1wYWlnbl9pZCI6ICJNYXJrZXRpbmc6IERhaWx5IFByb21vdGlvbmFsIiwgIm1haWxmcm9tIjogImJvdW5jZS0xNDc5NzI1NDAzNDg3LjQzMDEwNzk0NzQ2NjY2ODI4MzE2Mjk0NkBpLm1hc3Nkcm9wLmNvbSIsICJjdXN0b21lcl9pZCI6ICIxIiwgInRyYW5zbWlzc2lvbl9pZCI6ICI2NjQ1MzMwMzczODgxMDA4NyIsICJ0ZW5hbnRfaWQiOiAibWFzc2Ryb3AiLCAic3ViYWNjb3VudF9pZCI6ICIwIiB9>
+List-Id: <massdrop-1-0>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"><meta name=3D"viewport" content=3D"width=3D600,initial-scale=3D1"=
+><style type=3D"text/css">#outlook a{padding:0}body{width:100%!important;-w=
+ebkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;padding:0;ba=
+ckground-color:#f3f3f3}body,html{height:100%}body,td{font-family:HelveticaN=
+eue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-seri=
+f;font-weight:300;font-size:16px}body,p,td{line-height:24px}.ExternalClass{=
+width:100%}.ExternalClass,.ExternalClass div,.ExternalClass font,.ExternalC=
+lass p,.ExternalClass span,.ExternalClass td{line-height:100%}img{outline:0=
+;text-decoration:none;-ms-interpolation-mode:bicubic}a img{border:none}.ima=
+ge_fix{display:block}p{margin:1em 0}h1,h2,h3,h4,h5,h6{color:#000!important;=
+line-height:1}h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:#00afd8!important}h1 a:ac=
+tive,h2 a:active,h3 a:active,h4 a:active,h5 a:active,h6 a:active{color:red!=
+important}h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited,=
+h6 a:visited{color:#0086a5!important}table td{border-collapse:collapse}tabl=
+e{border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0}a{color:#0=
+0afd8}h1{font-size:2em;font-weight:500}</style></head><body bgcolor=3D"#f3f=
+3f3" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margi=
+n:0;padding:0;background-color:#f3f3f3;height:100%;font-family:HelveticaNeu=
+e-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;=
+font-weight:300;font-size:16px;line-height:24px;width:100%"><table width=3D=
+"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" st=
+yle=3D"background-color:#f3f3f3;min-width:600px;width:100%;border-collapse:=
+collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td valign=3D"top"><tab=
+le width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspa=
+ce:0"><tr><td valign=3D"top" style=3D"padding:10px"><table width=3D"100%" a=
+lign=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"b=
+ackground-color:#fff;border-collapse:collapse;mso-table-lspace:0;mso-table-=
+rspace:0;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:1=
+0px"><tr><td style=3D"padding:10px 0"><table width=3D"100%" align=3D"center=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse=
+:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td valign=3D"middle" =
+align=3D"center" style=3D"padding:5px 0 15px;font-family:HelveticaNeue-Ligh=
+t,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-s=
+ize:20px;line-height:20px;font-weight:400;vertical-align:middle"><a style=
+=3D"text-decoration:none;color:#000" href=3D"https://www.massdrop.com/=3Fut=
+m_placement=3Dheader_logo&referer=3DQCFMUQ&utm_campaign=3DAutomated%20Daily=
+%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_t=
+erm=3DDaily%20Promotional" target=3D"_blank"><img alt=3D"New drops from the=
+ communities you're subscribed to." src=3D"https://pixel.massdrop.com/open/=
+logo.gif=3FvGmUoH_nNN4NbWEwjNtVDxczh-PIzttcfpTifCDASRc0UfBw1znb5YB0NFD-Qq8E=
+H9yifPTDw9rXlRaksMO3QGOgbCAmVbcEImomJSCq5u_dovk6ec_UoPT5JvlJqykOtMXfVTU6" w=
+idth=3D"75" height=3D"20" border=3D"0" style=3D"outline:0;text-decoration:n=
+one;-ms-interpolation-mode:bicubic;padding-bottom:0;display:inline!importan=
+t;vertical-align:bottom"></a></td></tr></table><table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"borde=
+r-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td align=3D=
+"center" style=3D"padding:0"><a style=3D"text-decoration:none" href=3D"http=
+s://www.massdrop.com/buy/red-scarf-iii-ver-a-96-key-custom-keyboard-kit=3F1=
+=3D1&utm_placement=3D0&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAu=
+tomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_mediu=
+m=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank"><img alt=3D"Red=
+ Scarf III Ver.A 96-Key Custom Keyboard Kit" src=3D"https://massdrop-s3.img=
+ix.net/product-images/red-scarf-iii-ver-c-96-key-custom-keyboard-kit/MD-290=
+25_20161115152056_b31feb1398c58da5.jpg=3Fw=3D580&h=3D175&fit=3Dcrop" width=
+=3D"580" height=3D"175" border=3D"0" style=3D"outline:0;text-decoration:non=
+e;-ms-interpolation-mode:bicubic;padding-bottom:0;display:inline!important;=
+vertical-align:bottom"></a></td></tr><tr><td align=3D"center" style=3D"padd=
+ing:24px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvet=
+ica Neue',Helvetica,Arial,sans-serif;font-size:24px;line-height:24px;font-w=
+eight:400"><a style=3D"text-decoration:none;color:#000" href=3D"https://www=
+.massdrop.com/buy/red-scarf-iii-ver-a-96-key-custom-keyboard-kit=3F1=3D1&u=
+tm_placement=3D0&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomate=
+d%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Dem=
+ail&utm_term=3DDaily%20Promotional" target=3D"_blank">Red Scarf III Ver.A 9=
+6-Key Custom Keyboard Kit </a></td></tr><tr><td align=3D"center" style=3D"p=
+adding:12px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Hel=
+vetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:12px;fon=
+t-weight:100;color:#999"><a style=3D"text-decoration:none;color:#999" href=
+=3D"https://www.massdrop.com/buy/red-scarf-iii-ver-a-96-key-custom-keyboard=
+-kit=3F1=3D1&utm_placement=3D0&referer=3DQCFMUQ&mode=3Dguest_open&utm_campa=
+ign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&u=
+tm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank"> Made p=
+ossible by the Mechanical Keyboards community. </a></td></tr><tr><td align=
+=3D"center" style=3D"padding:24px 0 24px"><a style=3D"text-decoration:none;=
+color:#fff" href=3D"https://www.massdrop.com/buy/red-scarf-iii-ver-a-96-key=
+-custom-keyboard-kit=3F1=3D1&utm_placement=3D0&referer=3DQCFMUQ&mode=3Dgues=
+t_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_sour=
+ce=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D=
+"_blank"><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspac=
+e:0;background-color:#00afd8;border-radius:3px" bgcolor=3D"#00afd8"><tr><td=
+ style=3D"padding:15px 30px;font-family:HelveticaNeue-Light,'Helvetica Neue=
+ Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-hei=
+ght:14px;font-weight:400;color:#fff"><a style=3D"text-decoration:none;color=
+:#fff" href=3D"https://www.massdrop.com/buy/red-scarf-iii-ver-a-96-key-cust=
+om-keyboard-kit=3F1=3D1&utm_placement=3D0&referer=3DQCFMUQ&mode=3Dguest_ope=
+n&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3D=
+SparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_bla=
+nk">SEE DROP</a></td></tr></table></a></td></tr></table><table width=3D"100=
+%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td=
+ align=3D"center" style=3D"padding:0;border-top:1px dashed #ccc;font-size:2=
+0px;line-height:20px">&nbsp;</td></tr></table> <table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"borde=
+r-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td style=3D=
+"padding:0 20px 20px"><table width=3D"100%" align=3D"center" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse;mso-ta=
+ble-lspace:0;mso-table-rspace:0"><tr><td valign=3D"top" align=3D"left"><tab=
+le width=3D"255" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"=
+border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td ali=
+gn=3D"center" style=3D"padding:0"><a href=3D"https://www.massdrop.com/buy/m=
+assdrop-x-hifiman-he-350=3F1=3D1&utm_placement=3D1&referer=3DQCFMUQ&mode=3D=
+guest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_=
+source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" targe=
+t=3D"_blank" style=3D"text-decoration:none"><img alt=3D"Massdrop x HiFiMAN =
+HE-350" src=3D"https://massdrop-s3.imgix.net/product-images/massdrop-x-hifi=
+man-he-350/MD-17347_20160425222327_c16b053736c9192f.jpg=3Fw=3D255&h=3D255&f=
+it=3Dcrop&mark=3Dhttps://massdrop-s3.imgix.net/img_site/best_of_drop_card_2=
+x.png&markfit=3Dclip&markalign=3Dbottom%2Cright&markalpha=3D100&markh=3D40"=
+ height=3D"253" width=3D"253" border=3D"0" style=3D"outline:0;text-decorati=
+on:none;-ms-interpolation-mode:bicubic;border:1px solid #ddd;padding-bottom=
+:0;display:inline!important;vertical-align:bottom"></a></td></tr><tr><td al=
+ign=3D"left" style=3D"padding:6px 0 0;font-family:HelveticaNeue-Light,'Helv=
+etica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18p=
+x;line-height:22px;font-weight:400;color:#000;text-decoration:none"><a href=
+=3D"https://www.massdrop.com/buy/massdrop-x-hifiman-he-350=3F1=3D1&utm_plac=
+ement=3D1&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Dai=
+ly%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm=
+_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:non=
+e;color:#000">Massdrop x HiFiMAN HE-350</a></td></tr><tr><td align=3D"left"=
+ style=3D"padding:6px 0;font-family:HelveticaNeue-Light,'Helvetica Neue Lig=
+ht','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:=
+12px;font-weight:100;color:#999;text-decoration:none"><a href=3D"https://ww=
+w.massdrop.com/buy/massdrop-x-hifiman-he-350=3F1=3D1&utm_placement=3D1&refe=
+rer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotion=
+al%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%=
+20Promotional" target=3D"_blank" style=3D"text-decoration:none;color:#999">=
+ From the Audiophile community. </a></td></tr></table></td><td valign=3D"to=
+p" align=3D"right"><table width=3D"255" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-tabl=
+e-rspace:0"><tr><td align=3D"center" style=3D"padding:0"><a href=3D"https:/=
+/www.massdrop.com/buy/tfz-series-1s-iem=3F1=3D1&utm_placement=3D2&referer=
+=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%=
+202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20P=
+romotional" target=3D"_blank" style=3D"text-decoration:none"><img alt=3D"TF=
+Z Series 1S IEM" src=3D"https://massdrop-s3.imgix.net/product-images/tfz-se=
+ries-1s-iem/MD-29584_20161121003452_2e86173087c41bdd.jpg=3Fw=3D255&h=3D255&=
+fit=3Dcrop" height=3D"253" width=3D"253" border=3D"0" style=3D"outline:0;te=
+xt-decoration:none;-ms-interpolation-mode:bicubic;border:1px solid #ddd;pad=
+ding-bottom:0;display:inline!important;vertical-align:bottom"></a></td></tr=
+><tr><td align=3D"left" style=3D"padding:6px 0 0;font-family:HelveticaNeue-=
+Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;fo=
+nt-size:18px;line-height:22px;font-weight:400;color:#000;text-decoration:no=
+ne"><a href=3D"https://www.massdrop.com/buy/tfz-series-1s-iem=3F1=3D1&utm_p=
+lacement=3D2&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20=
+Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&=
+utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:=
+none;color:#000">TFZ Series 1S IEM</a></td></tr><tr><td align=3D"left" styl=
+e=3D"padding:6px 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','=
+Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:12px;=
+font-weight:100;color:#999;text-decoration:none"><a href=3D"https://www.mas=
+sdrop.com/buy/tfz-series-1s-iem=3F1=3D1&utm_placement=3D2&referer=3DQCFMUQ&=
+mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-=
+21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional=
+" target=3D"_blank" style=3D"text-decoration:none;color:#999"> From the Aud=
+iophile community. </a></td></tr></table></td></tr></table></td></tr></tabl=
+e>  <table width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-t=
+able-rspace:0"><tr><td style=3D"padding:0 20px 20px"><table width=3D"540" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:co=
+llapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td align=3D"center" styl=
+e=3D"padding:0"><a href=3D"https://www.massdrop.com/buy/canon-eos-rebel-t6i=
+-dslr-w-ef-s-18-55mm-lens=3F1=3D1&utm_placement=3D3&referer=3DQCFMUQ&mode=
+=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&u=
+tm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" ta=
+rget=3D"_blank" style=3D"text-decoration:none"><img alt=3D"Canon EOS Rebel =
+T6i DSLR w/EF-S 18-55mm Kit" src=3D"https://massdrop-s3.imgix.net/product-i=
+mages/MD-11149_20150917113133_f3152f7182512192.jpg=3Fw=3D538&h=3D162&fit=3D=
+crop" height=3D"162" width=3D"538" border=3D"0" style=3D"outline:0;text-dec=
+oration:none;-ms-interpolation-mode:bicubic;border:1px solid #ddd;padding-b=
+ottom:0;display:inline!important;vertical-align:bottom"></a></td></tr><tr><=
+td align=3D"left" style=3D"padding:6px 0 0;font-family:HelveticaNeue-Light,=
+'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-siz=
+e:18px;line-height:22px;font-weight:400;color:#000;text-decoration:none"><a=
+ href=3D"https://www.massdrop.com/buy/canon-eos-rebel-t6i-dslr-w-ef-s-18-55=
+mm-lens=3F1=3D1&utm_placement=3D3&referer=3DQCFMUQ&mode=3Dguest_open&utm_ca=
+mpaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPos=
+t&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" styl=
+e=3D"text-decoration:none;color:#000">Canon EOS Rebel T6i DSLR w/EF-S 18-55=
+mm Kit</a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-fami=
+ly:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Ar=
+ial,sans-serif;font-size:12px;line-height:12px;font-weight:100;color:#999;t=
+ext-decoration:none"><a href=3D"https://www.massdrop.com/buy/canon-eos-rebe=
+l-t6i-dslr-w-ef-s-18-55mm-lens=3F1=3D1&utm_placement=3D3&referer=3DQCFMUQ&m=
+ode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-2=
+1&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional"=
+ target=3D"_blank" style=3D"text-decoration:none;color:#999"> Made possible=
+ by the Photography community. </a></td></tr></table></td></tr></table>  <t=
+able width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-r=
+space:0"><tr><td style=3D"padding:0 20px 20px"><table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"borde=
+r-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td valign=
+=3D"top" align=3D"left"><table width=3D"255" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;ms=
+o-table-rspace:0"><tr><td align=3D"center" style=3D"padding:0"><a href=3D"h=
+ttps://www.massdrop.com/buy/innovative-dual-monitor-sit-stand-workstation=
+=3F1=3D1&utm_placement=3D4&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=
+=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_=
+medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"t=
+ext-decoration:none"><img alt=3D"Innovative Winston Sit/Stand Workstations"=
+ src=3D"https://massdrop-s3.imgix.net/product-images/innovative-dual-monito=
+r-sit-stand-workstation/MD-15594_20160205175712_bfc0323bbe01e3e9.jpg=3Fw=3D=
+255&h=3D255&fit=3Dcrop" height=3D"253" width=3D"253" border=3D"0" style=3D"=
+outline:0;text-decoration:none;-ms-interpolation-mode:bicubic;border:1px so=
+lid #ddd;padding-bottom:0;display:inline!important;vertical-align:bottom"><=
+/a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0 0;font-family:He=
+lveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,s=
+ans-serif;font-size:18px;line-height:22px;font-weight:400;color:#000;text-d=
+ecoration:none"><a href=3D"https://www.massdrop.com/buy/innovative-dual-mon=
+itor-sit-stand-workstation=3F1=3D1&utm_placement=3D4&referer=3DQCFMUQ&mode=
+=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&u=
+tm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" ta=
+rget=3D"_blank" style=3D"text-decoration:none;color:#000">Innovative Winsto=
+n Sit/Stand Workstations</a></td></tr><tr><td align=3D"left" style=3D"paddi=
+ng:6px 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica =
+Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:12px;font-weigh=
+t:100;color:#999;text-decoration:none"><a href=3D"https://www.massdrop.com/=
+buy/innovative-dual-monitor-sit-stand-workstation=3F1=3D1&utm_placement=3D4=
+&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Prom=
+otional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DD=
+aily%20Promotional" target=3D"_blank" style=3D"text-decoration:none;color:#=
+999"> From the Tech community. </a></td></tr></table></td><td valign=3D"top=
+" align=3D"right"><table width=3D"255" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table=
+-rspace:0"><tr><td align=3D"center" style=3D"padding:0"><a href=3D"https://=
+www.massdrop.com/buy/adidas-terrex-down=3F1=3D1&utm_placement=3D5&referer=
+=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%=
+202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20P=
+romotional" target=3D"_blank" style=3D"text-decoration:none"><img alt=3D"Ad=
+idas Terrex 800fp Down Hooded Jacket" src=3D"https://massdrop-s3.imgix.net/=
+product-images/adidas-terrex-down/MD-27826_20161110150217_5a7c580addf00906.=
+jpg=3Fw=3D255&h=3D255&fit=3Dcrop" height=3D"253" width=3D"253" border=3D"0"=
+ style=3D"outline:0;text-decoration:none;-ms-interpolation-mode:bicubic;bor=
+der:1px solid #ddd;padding-bottom:0;display:inline!important;vertical-align=
+:bottom"></a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0 0;font=
+-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helveti=
+ca,Arial,sans-serif;font-size:18px;line-height:22px;font-weight:400;color:#=
+000;text-decoration:none"><a href=3D"https://www.massdrop.com/buy/adidas-te=
+rrex-down=3F1=3D1&utm_placement=3D5&referer=3DQCFMUQ&mode=3Dguest_open&utm_=
+campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkP=
+ost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" st=
+yle=3D"text-decoration:none;color:#000">Adidas Terrex 800fp Down Hooded Jac=
+ket</a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:=
+HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial=
+,sans-serif;font-size:12px;line-height:12px;font-weight:100;color:#999;text=
+-decoration:none"><a href=3D"https://www.massdrop.com/buy/adidas-terrex-dow=
+n=3F1=3D1&utm_placement=3D5&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=
+=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_=
+medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"t=
+ext-decoration:none;color:#999"> From the Ultralight community. </a></td></=
+tr></table></td></tr></table></td></tr></table>  <table width=3D"100%" alig=
+n=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"bord=
+er-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td style=
+=3D"padding:0 20px 20px"><table width=3D"540" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;ms=
+o-table-rspace:0"><tr><td align=3D"center" style=3D"padding:0"><a href=3D"h=
+ttps://www.massdrop.com/buy/camp-trekking-poles=3F1=3D1&utm_placement=3D6&r=
+eferer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promot=
+ional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDai=
+ly%20Promotional" target=3D"_blank" style=3D"text-decoration:none"><img alt=
+=3D"CAMP Sonic or Sky Carbon Trekking Poles" src=3D"https://massdrop-s3.img=
+ix.net/product-images/camp-trekking-poles/MD-31117_20161118142706_63336c6ec=
+f5e2205.jpg=3Fw=3D538&h=3D162&fit=3Dcrop" height=3D"162" width=3D"538" bord=
+er=3D"0" style=3D"outline:0;text-decoration:none;-ms-interpolation-mode:bic=
+ubic;border:1px solid #ddd;padding-bottom:0;display:inline!important;vertic=
+al-align:bottom"></a></td></tr><tr><td align=3D"left" style=3D"padding:6px =
+0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue'=
+,Helvetica,Arial,sans-serif;font-size:18px;line-height:22px;font-weight:400=
+;color:#000;text-decoration:none"><a href=3D"https://www.massdrop.com/buy/c=
+amp-trekking-poles=3F1=3D1&utm_placement=3D6&referer=3DQCFMUQ&mode=3Dguest_=
+open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=
+=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_=
+blank" style=3D"text-decoration:none;color:#000">CAMP Sonic or Sky Carbon T=
+rekking Poles</a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;fo=
+nt-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helve=
+tica,Arial,sans-serif;font-size:12px;line-height:12px;font-weight:100;color=
+:#999;text-decoration:none"><a href=3D"https://www.massdrop.com/buy/camp-tr=
+ekking-poles=3F1=3D1&utm_placement=3D6&referer=3DQCFMUQ&mode=3Dguest_open&u=
+tm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSpa=
+rkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank"=
+ style=3D"text-decoration:none;color:#999"> Made possible by the Ultralight=
+ community. </a></td></tr></table></td></tr></table>  <table width=3D"100%"=
+ align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D=
+"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td st=
+yle=3D"padding:0 20px 20px"><table width=3D"100%" align=3D"center" cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse;=
+mso-table-lspace:0;mso-table-rspace:0"><tr><td valign=3D"top" align=3D"left=
+"><table width=3D"255" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><=
+td align=3D"center" style=3D"padding:0"><a href=3D"https://www.massdrop.com=
+/buy/mionix-sargas-xl-xxl-desk-pad=3F1=3D1&utm_placement=3D7&referer=3DQCFM=
+UQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-=
+11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotio=
+nal" target=3D"_blank" style=3D"text-decoration:none"><img alt=3D"Mionix Sa=
+rgas XL/XXL Desk Pad" src=3D"https://massdrop-s3.imgix.net/product-images/m=
+ionix-sargas-xl-xxl-desk-pad/MD-26179_20160831103608_5ac572baaf8197c5.jpg=
+=3Fw=3D255&h=3D255&fit=3Dcrop" height=3D"253" width=3D"253" border=3D"0" st=
+yle=3D"outline:0;text-decoration:none;-ms-interpolation-mode:bicubic;border=
+:1px solid #ddd;padding-bottom:0;display:inline!important;vertical-align:bo=
+ttom"></a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0 0;font-fa=
+mily:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,=
+Arial,sans-serif;font-size:18px;line-height:22px;font-weight:400;color:#000=
+;text-decoration:none"><a href=3D"https://www.massdrop.com/buy/mionix-sarga=
+s-xl-xxl-desk-pad=3F1=3D1&utm_placement=3D7&referer=3DQCFMUQ&mode=3Dguest_o=
+pen&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=
+=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_=
+blank" style=3D"text-decoration:none;color:#000">Mionix Sargas XL/XXL Desk =
+Pad</a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:=
+HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial=
+,sans-serif;font-size:12px;line-height:12px;font-weight:100;color:#999;text=
+-decoration:none"><a href=3D"https://www.massdrop.com/buy/mionix-sargas-xl-=
+xxl-desk-pad=3F1=3D1&utm_placement=3D7&referer=3DQCFMUQ&mode=3Dguest_open&u=
+tm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSpa=
+rkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank"=
+ style=3D"text-decoration:none;color:#999"> From the Tech community. </a></=
+td></tr></table></td><td valign=3D"top" align=3D"right"><table width=3D"255=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse=
+:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td align=3D"center" s=
+tyle=3D"padding:0"><a href=3D"https://www.massdrop.com/buy/pan-tilt-isecuri=
+ty-wifi-indoor-camera-with-audio=3F1=3D1&utm_placement=3D8&referer=3DQCFMUQ=
+&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11=
+-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotiona=
+l" target=3D"_blank" style=3D"text-decoration:none"><img alt=3D"Pan-Tilt iS=
+ecurity Wi-Fi Indoor Camera with Audio" src=3D"https://massdrop-s3.imgix.ne=
+t/product-images/pan-tilt-isecurity-wifi-indoor-camera-with-audio/MD-26487_=
+20160901124742_129430097abf3f5c.jpg=3Fw=3D255&h=3D255&fit=3Dcrop" height=3D=
+"253" width=3D"253" border=3D"0" style=3D"outline:0;text-decoration:none;-m=
+s-interpolation-mode:bicubic;border:1px solid #ddd;padding-bottom:0;display=
+:inline!important;vertical-align:bottom"></a></td></tr><tr><td align=3D"lef=
+t" style=3D"padding:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue=
+ Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;line-hei=
+ght:22px;font-weight:400;color:#000;text-decoration:none"><a href=3D"https:=
+//www.massdrop.com/buy/pan-tilt-isecurity-wifi-indoor-camera-with-audio=3F1=
+=3D1&utm_placement=3D8&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAu=
+tomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_mediu=
+m=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-d=
+ecoration:none;color:#000">Pan-Tilt iSecurity Wi-Fi Indoor Camera with Audi=
+o</a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:He=
+lveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,s=
+ans-serif;font-size:12px;line-height:12px;font-weight:100;color:#999;text-d=
+ecoration:none"><a href=3D"https://www.massdrop.com/buy/pan-tilt-isecurity-=
+wifi-indoor-camera-with-audio=3F1=3D1&utm_placement=3D8&referer=3DQCFMUQ&mo=
+de=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21=
+&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" =
+target=3D"_blank" style=3D"text-decoration:none;color:#999"> From the Tech =
+community. </a></td></tr></table></td></tr></table></td></tr></table>  <tab=
+le width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rsp=
+ace:0"><tr><td style=3D"padding:0 20px 20px"><table width=3D"540" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse;m=
+so-table-lspace:0;mso-table-rspace:0"><tr><td align=3D"center" style=3D"pad=
+ding:0"><a href=3D"https://www.massdrop.com/buy/npkc-gradient-keycap-set=3F=
+1=3D1&utm_placement=3D9&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DA=
+utomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medi=
+um=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-=
+decoration:none"><img alt=3D"NPKC Gradient Keycap Set" src=3D"https://massd=
+rop-s3.imgix.net/product-images/npkc-gradient-keycap-set/MD-25041_201608311=
+63031_ac65c89388126dc6.jpg=3Fw=3D538&h=3D162&fit=3Dcrop&mark=3Dhttps://mass=
+drop-s3.imgix.net/img_site/best_of_drop_card_2x.png&markfit=3Dclip&markalig=
+n=3Dbottom%2Cright&markalpha=3D100&markh=3D40" height=3D"162" width=3D"538"=
+ border=3D"0" style=3D"outline:0;text-decoration:none;-ms-interpolation-mod=
+e:bicubic;border:1px solid #ddd;padding-bottom:0;display:inline!important;v=
+ertical-align:bottom"></a></td></tr><tr><td align=3D"left" style=3D"padding=
+:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica =
+Neue',Helvetica,Arial,sans-serif;font-size:18px;line-height:22px;font-weigh=
+t:400;color:#000;text-decoration:none"><a href=3D"https://www.massdrop.com/=
+buy/npkc-gradient-keycap-set=3F1=3D1&utm_placement=3D9&referer=3DQCFMUQ&mod=
+e=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&=
+utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" t=
+arget=3D"_blank" style=3D"text-decoration:none;color:#000">NPKC Gradient Ke=
+ycap Set</a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-fa=
+mily:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,=
+Arial,sans-serif;font-size:12px;line-height:12px;font-weight:100;color:#999=
+;text-decoration:none"><a href=3D"https://www.massdrop.com/buy/npkc-gradien=
+t-keycap-set=3F1=3D1&utm_placement=3D9&referer=3DQCFMUQ&mode=3Dguest_open&u=
+tm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSpa=
+rkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank"=
+ style=3D"text-decoration:none;color:#999"> Made possible by the Mechanical=
+ Keyboards community. </a></td></tr></table></td></tr></table>  <table widt=
+h=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0">=
+<tr><td style=3D"padding:0 20px 20px"><table width=3D"100%" align=3D"center=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse=
+:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td valign=3D"top" ali=
+gn=3D"left"><table width=3D"255" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspac=
+e:0"><tr><td align=3D"center" style=3D"padding:0"><a href=3D"https://www.ma=
+ssdrop.com/buy/60-keyboard-low-profile-aluminum-case=3F1=3D1&utm_placement=
+=3D10&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%2=
+0Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_ter=
+m=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:none"><=
+img alt=3D"60% Keyboard Low-Profile Aluminum Case" src=3D"https://massdrop-=
+s3.imgix.net/product-images/60-keyboard-low-profile-aluminum-case/MD-25019_=
+20160817165041_f3b60209eebffc8b.jpg=3Fw=3D255&h=3D255&fit=3Dcrop&mark=3Dhtt=
+ps://massdrop-s3.imgix.net/img_site/best_of_drop_card_2x.png&markfit=3Dclip=
+&markalign=3Dbottom%2Cright&markalpha=3D100&markh=3D40" height=3D"253" widt=
+h=3D"253" border=3D"0" style=3D"outline:0;text-decoration:none;-ms-interpol=
+ation-mode:bicubic;border:1px solid #ddd;padding-bottom:0;display:inline!im=
+portant;vertical-align:bottom"></a></td></tr><tr><td align=3D"left" style=
+=3D"padding:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light',=
+'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;line-height:22px=
+;font-weight:400;color:#000;text-decoration:none"><a href=3D"https://www.ma=
+ssdrop.com/buy/60-keyboard-low-profile-aluminum-case=3F1=3D1&utm_placement=
+=3D10&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%2=
+0Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_ter=
+m=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:none;co=
+lor:#000">60% Keyboard Low-Profile Aluminum Case</a></td></tr><tr><td align=
+=3D"left" style=3D"padding:6px 0;font-family:HelveticaNeue-Light,'Helvetica=
+ Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;lin=
+e-height:12px;font-weight:100;color:#999;text-decoration:none"><a href=3D"h=
+ttps://www.massdrop.com/buy/60-keyboard-low-profile-aluminum-case=3F1=3D1&u=
+tm_placement=3D10&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomat=
+ed%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3De=
+mail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decora=
+tion:none;color:#999"> From the Mechanical Keyboards community. </a></td></=
+tr></table></td><td valign=3D"top" align=3D"right"><table width=3D"255" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:coll=
+apse;mso-table-lspace:0;mso-table-rspace:0"><tr><td align=3D"center" style=
+=3D"padding:0"><a href=3D"https://www.massdrop.com/buy/plum84-electro-capac=
+itive-keyboard=3F1=3D1&utm_placement=3D11&referer=3DQCFMUQ&mode=3Dguest_ope=
+n&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3D=
+SparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_bla=
+nk" style=3D"text-decoration:none"><img alt=3D"Plum84 Electro-Capacitive Ke=
+yboard" src=3D"https://massdrop-s3.imgix.net/product-images/robo-electro-ca=
+pacitive-keyboard/MD-21446_20160607104337_158e442762b7764f.jpg=3Fw=3D255&h=
+=3D255&fit=3Dcrop" height=3D"253" width=3D"253" border=3D"0" style=3D"outli=
+ne:0;text-decoration:none;-ms-interpolation-mode:bicubic;border:1px solid #=
+ddd;padding-bottom:0;display:inline!important;vertical-align:bottom"></a></=
+td></tr><tr><td align=3D"left" style=3D"padding:6px 0 0;font-family:Helveti=
+caNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-s=
+erif;font-size:18px;line-height:22px;font-weight:400;color:#000;text-decora=
+tion:none"><a href=3D"https://www.massdrop.com/buy/plum84-electro-capacitiv=
+e-keyboard=3F1=3D1&utm_placement=3D11&referer=3DQCFMUQ&mode=3Dguest_open&ut=
+m_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSpar=
+kPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" =
+style=3D"text-decoration:none;color:#000">Plum84 Electro-Capacitive Keyboar=
+d</a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:He=
+lveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,s=
+ans-serif;font-size:12px;line-height:12px;font-weight:100;color:#999;text-d=
+ecoration:none"><a href=3D"https://www.massdrop.com/buy/plum84-electro-capa=
+citive-keyboard=3F1=3D1&utm_placement=3D11&referer=3DQCFMUQ&mode=3Dguest_op=
+en&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=
+=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_=
+blank" style=3D"text-decoration:none;color:#999"> From the Mechanical Keybo=
+ards community. </a></td></tr></table></td></tr></table></td></tr></table> =
+ <table width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-tabl=
+e-rspace:0"><tr><td style=3D"padding:0 20px 20px"><table width=3D"540" cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:colla=
+pse;mso-table-lspace:0;mso-table-rspace:0"><tr><td align=3D"center" style=
+=3D"padding:0"><a href=3D"https://www.massdrop.com/buy/xduoo-xd-05-dac-amp=
+=3F1=3D1&utm_placement=3D12&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=
+=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_=
+medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"t=
+ext-decoration:none"><img alt=3D"XDuoo XD-05 DAC/Amp" src=3D"https://massdr=
+op-s3.imgix.net/product-images/xduoo-xd-05-dac-amp/MD-21270_20160608162230_=
+4535e1f031abd854.jpg=3Fw=3D538&h=3D162&fit=3Dcrop" height=3D"162" width=3D"=
+538" border=3D"0" style=3D"outline:0;text-decoration:none;-ms-interpolation=
+-mode:bicubic;border:1px solid #ddd;padding-bottom:0;display:inline!importa=
+nt;vertical-align:bottom"></a></td></tr><tr><td align=3D"left" style=3D"pad=
+ding:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvet=
+ica Neue',Helvetica,Arial,sans-serif;font-size:18px;line-height:22px;font-w=
+eight:400;color:#000;text-decoration:none"><a href=3D"https://www.massdrop.=
+com/buy/xduoo-xd-05-dac-amp=3F1=3D1&utm_placement=3D12&referer=3DQCFMUQ&mod=
+e=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&=
+utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" t=
+arget=3D"_blank" style=3D"text-decoration:none;color:#000">XDuoo XD-05 DAC/=
+Amp</a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:=
+HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial=
+,sans-serif;font-size:12px;line-height:12px;font-weight:100;color:#999;text=
+-decoration:none"><a href=3D"https://www.massdrop.com/buy/xduoo-xd-05-dac-a=
+mp=3F1=3D1&utm_placement=3D12&referer=3DQCFMUQ&mode=3Dguest_open&utm_campai=
+gn=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&ut=
+m_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D=
+"text-decoration:none;color:#999"> Made possible by the Audiophile communit=
+y. </a></td></tr></table></td></tr></table>  <table width=3D"100%" align=3D=
+"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-c=
+ollapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td style=3D"pa=
+dding:0 20px 20px"><table width=3D"100%" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse;mso-table=
+-lspace:0;mso-table-rspace:0"><tr><td valign=3D"top" align=3D"left"><table =
+width=3D"255" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"bor=
+der-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td align=
+=3D"center" style=3D"padding:0"><a href=3D"https://www.massdrop.com/buy/adc=
+om-gia-275-stereo-integrated-amp-dac=3F1=3D1&utm_placement=3D13&referer=3DQ=
+CFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%2020=
+16-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promo=
+tional" target=3D"_blank" style=3D"text-decoration:none"><img alt=3D"Adcom =
+GIA-275 Stereo Integrated Amp/DAC" src=3D"https://massdrop-s3.imgix.net/pro=
+duct-images/adcom-gia-275-stereo-integrated-amp-dac/MD-16611_20160304134343=
+_0de60effa49b9521.jpg=3Fw=3D255&h=3D255&fit=3Dcrop" height=3D"253" width=3D=
+"253" border=3D"0" style=3D"outline:0;text-decoration:none;-ms-interpolatio=
+n-mode:bicubic;border:1px solid #ddd;padding-bottom:0;display:inline!import=
+ant;vertical-align:bottom"></a></td></tr><tr><td align=3D"left" style=3D"pa=
+dding:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helve=
+tica Neue',Helvetica,Arial,sans-serif;font-size:18px;line-height:22px;font-=
+weight:400;color:#000;text-decoration:none"><a href=3D"https://www.massdrop=
+.com/buy/adcom-gia-275-stereo-integrated-amp-dac=3F1=3D1&utm_placement=3D1=
+3&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Pro=
+motional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3D=
+Daily%20Promotional" target=3D"_blank" style=3D"text-decoration:none;color:=
+#000">Adcom GIA-275 Stereo Integrated Amp/DAC</a></td></tr><tr><td align=3D=
+"left" style=3D"padding:6px 0;font-family:HelveticaNeue-Light,'Helvetica Ne=
+ue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-h=
+eight:12px;font-weight:100;color:#999;text-decoration:none"><a href=3D"http=
+s://www.massdrop.com/buy/adcom-gia-275-stereo-integrated-amp-dac=3F1=3D1&ut=
+m_placement=3D13&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomate=
+d%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Dem=
+ail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decorat=
+ion:none;color:#999"> From the Audiophile community. </a></td></tr></table>=
+</td><td valign=3D"top" align=3D"right"><table width=3D"255" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse;mso-ta=
+ble-lspace:0;mso-table-rspace:0"><tr><td align=3D"center" style=3D"padding:=
+0"><a href=3D"https://www.massdrop.com/buy/roccat-ryos-mk-fx-rgb-mechanical=
+-gaming-keyboard=3F1=3D1&utm_placement=3D14&referer=3DQCFMUQ&mode=3Dguest_o=
+pen&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=
+=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_=
+blank" style=3D"text-decoration:none"><img alt=3D"Roccat Ryos MK FX RGB Mec=
+hanical Gaming Keyboard" src=3D"https://massdrop-s3.imgix.net/product-image=
+s/roccat-ryos-mk-fx-rgb-mechanical-gaming-keyboard/MD-22121_20160628141417_=
+aabaa449d7545779.jpg=3Fw=3D255&h=3D255&fit=3Dcrop" height=3D"253" width=3D"=
+253" border=3D"0" style=3D"outline:0;text-decoration:none;-ms-interpolation=
+-mode:bicubic;border:1px solid #ddd;padding-bottom:0;display:inline!importa=
+nt;vertical-align:bottom"></a></td></tr><tr><td align=3D"left" style=3D"pad=
+ding:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvet=
+ica Neue',Helvetica,Arial,sans-serif;font-size:18px;line-height:22px;font-w=
+eight:400;color:#000;text-decoration:none"><a href=3D"https://www.massdrop.=
+com/buy/roccat-ryos-mk-fx-rgb-mechanical-gaming-keyboard=3F1=3D1&utm_placem=
+ent=3D14&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Dail=
+y%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_=
+term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:none=
+;color:#000">Roccat Ryos MK FX RGB Mechanical Gaming Keyboard</a></td></tr>=
+<tr><td align=3D"left" style=3D"padding:6px 0;font-family:HelveticaNeue-Lig=
+ht,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-=
+size:12px;line-height:12px;font-weight:100;color:#999;text-decoration:none"=
+><a href=3D"https://www.massdrop.com/buy/roccat-ryos-mk-fx-rgb-mechanical-g=
+aming-keyboard=3F1=3D1&utm_placement=3D14&referer=3DQCFMUQ&mode=3Dguest_ope=
+n&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3D=
+SparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_bla=
+nk" style=3D"text-decoration:none;color:#999"> From the Tech community. </a=
+></td></tr></table></td></tr></table></td></tr></table>  <table width=3D"10=
+0%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td=
+ style=3D"padding:0 20px 20px"><table width=3D"540" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"border-collapse:collapse;mso-table-lspac=
+e:0;mso-table-rspace:0"><tr><td align=3D"center" style=3D"padding:0"><a hre=
+f=3D"https://www.massdrop.com/buy/clueboard-keyboard-kit=3F1=3D1&utm_placem=
+ent=3D15&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Dail=
+y%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_=
+term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:none=
+"><img alt=3D"Clueboard Mechanical Keyboard Kit" src=3D"https://massdrop-s3=
+.imgix.net/product-images/clueboard-keyboard-kit/MD-27579_20161115103007_c=
+a06f22748a29017.png=3Fw=3D538&h=3D162&fit=3Dcrop" height=3D"162" width=3D"5=
+38" border=3D"0" style=3D"outline:0;text-decoration:none;-ms-interpolation-=
+mode:bicubic;border:1px solid #ddd;padding-bottom:0;display:inline!importan=
+t;vertical-align:bottom"></a></td></tr><tr><td align=3D"left" style=3D"padd=
+ing:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helveti=
+ca Neue',Helvetica,Arial,sans-serif;font-size:18px;line-height:22px;font-we=
+ight:400;color:#000;text-decoration:none"><a href=3D"https://www.massdrop.c=
+om/buy/clueboard-keyboard-kit=3F1=3D1&utm_placement=3D15&referer=3DQCFMUQ&m=
+ode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-2=
+1&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional"=
+ target=3D"_blank" style=3D"text-decoration:none;color:#000">Clueboard Mech=
+anical Keyboard Kit</a></td></tr><tr><td align=3D"left" style=3D"padding:6p=
+x 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue'=
+,Helvetica,Arial,sans-serif;font-size:12px;line-height:12px;font-weight:100=
+;color:#999;text-decoration:none"><a href=3D"https://www.massdrop.com/buy/c=
+lueboard-keyboard-kit=3F1=3D1&utm_placement=3D15&referer=3DQCFMUQ&mode=3Dgu=
+est_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_so=
+urce=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=
+=3D"_blank" style=3D"text-decoration:none;color:#999"> Made possible by the=
+ Mechanical Keyboards community. </a></td></tr></table></td></tr></table>  =
+<table width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table=
+-rspace:0"><tr><td style=3D"padding:0 20px 20px"><table width=3D"100%" alig=
+n=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"bord=
+er-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td valign=
+=3D"top" align=3D"left"><table width=3D"255" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;ms=
+o-table-rspace:0"><tr><td align=3D"center" style=3D"padding:0"><a href=3D"h=
+ttps://www.massdrop.com/buy/side-lit-abs-keycap-set=3F1=3D1&utm_placement=
+=3D16&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%2=
+0Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_ter=
+m=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:none"><=
+img alt=3D"Side-Lit ABS Keycap Set" src=3D"https://massdrop-s3.imgix.net/pr=
+oduct-images/side-lit-pbt-keycap-set/MD-25016_20160804111116_dda2389797b229=
+11.jpg=3Fw=3D255&h=3D255&fit=3Dcrop" height=3D"253" width=3D"253" border=3D=
+"0" style=3D"outline:0;text-decoration:none;-ms-interpolation-mode:bicubic;=
+border:1px solid #ddd;padding-bottom:0;display:inline!important;vertical-al=
+ign:bottom"></a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0 0;f=
+ont-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helv=
+etica,Arial,sans-serif;font-size:18px;line-height:22px;font-weight:400;colo=
+r:#000;text-decoration:none"><a href=3D"https://www.massdrop.com/buy/side-l=
+it-abs-keycap-set=3F1=3D1&utm_placement=3D16&referer=3DQCFMUQ&mode=3Dguest_=
+open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=
+=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_=
+blank" style=3D"text-decoration:none;color:#000">Side-Lit ABS Keycap Set</a=
+></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:Helvet=
+icaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-=
+serif;font-size:12px;line-height:12px;font-weight:100;color:#999;text-decor=
+ation:none"><a href=3D"https://www.massdrop.com/buy/side-lit-abs-keycap-set=
+=3F1=3D1&utm_placement=3D16&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=
+=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_=
+medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"t=
+ext-decoration:none;color:#999"> From the Mechanical Keyboards community. <=
+/a></td></tr></table></td><td valign=3D"top" align=3D"right"><table width=
+=3D"255" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-c=
+ollapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td align=3D"ce=
+nter" style=3D"padding:0"><a href=3D"https://www.massdrop.com/buy/i-s-woode=
+n-wrist-rests=3F1=3D1&utm_placement=3D17&referer=3DQCFMUQ&mode=3Dguest_open=
+&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DS=
+parkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blan=
+k" style=3D"text-decoration:none"><img alt=3D"I&S Millworks Hardwood Wrist =
+Rest" src=3D"https://massdrop-s3.imgix.net/product-images/i-s-wooden-wrist-=
+rests/MD-25009_20160802104315_37a34b7c944447a5.jpg=3Fw=3D255&h=3D255&fit=3D=
+crop&mark=3Dhttps://massdrop-s3.imgix.net/img_site/best_of_drop_card_2x.png=
+&markfit=3Dclip&markalign=3Dbottom%2Cright&markalpha=3D100&markh=3D40" heig=
+ht=3D"253" width=3D"253" border=3D"0" style=3D"outline:0;text-decoration:no=
+ne;-ms-interpolation-mode:bicubic;border:1px solid #ddd;padding-bottom:0;di=
+splay:inline!important;vertical-align:bottom"></a></td></tr><tr><td align=
+=3D"left" style=3D"padding:6px 0 0;font-family:HelveticaNeue-Light,'Helveti=
+ca Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;l=
+ine-height:22px;font-weight:400;color:#000;text-decoration:none"><a href=3D=
+"https://www.massdrop.com/buy/i-s-wooden-wrist-rests=3F1=3D1&utm_placement=
+=3D17&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%2=
+0Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_ter=
+m=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:none;co=
+lor:#000">I&S Millworks Hardwood Wrist Rest</a></td></tr><tr><td align=3D"l=
+eft" style=3D"padding:6px 0;font-family:HelveticaNeue-Light,'Helvetica Neue=
+ Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-hei=
+ght:12px;font-weight:100;color:#999;text-decoration:none"><a href=3D"https:=
+//www.massdrop.com/buy/i-s-wooden-wrist-rests=3F1=3D1&utm_placement=3D17&re=
+ferer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promoti=
+onal%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDail=
+y%20Promotional" target=3D"_blank" style=3D"text-decoration:none;color:#999=
+"> From the Mechanical Keyboards community. </a></td></tr></table></td></tr=
+></table></td></tr></table>  <table width=3D"100%" align=3D"center" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse=
+;mso-table-lspace:0;mso-table-rspace:0"><tr><td style=3D"padding:0 20px 20p=
+x"><table width=3D"540" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" st=
+yle=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr>=
+<td align=3D"center" style=3D"padding:0"><a href=3D"https://www.massdrop.co=
+m/buy/anodized-aluminum-infinity-ergodox-top-plate=3F1=3D1&utm_placement=3D=
+18&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Pr=
+omotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=
+=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:none"><i=
+mg alt=3D"Anodized Aluminum Infinity ErgoDox Plate" src=3D"https://massdrop=
+-s3.imgix.net/product-images/anodized-aluminum-infinity-ergodox-top-plate/M=
+D-23077_20160711122751_ade331e6e47ab323.jpg=3Fw=3D538&h=3D162&fit=3Dcrop&ma=
+rk=3Dhttps://massdrop-s3.imgix.net/img_site/best_of_drop_card_2x.png&markfi=
+t=3Dclip&markalign=3Dbottom%2Cright&markalpha=3D100&markh=3D40" height=3D"1=
+62" width=3D"538" border=3D"0" style=3D"outline:0;text-decoration:none;-ms-=
+interpolation-mode:bicubic;border:1px solid #ddd;padding-bottom:0;display:i=
+nline!important;vertical-align:bottom"></a></td></tr><tr><td align=3D"left"=
+ style=3D"padding:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue L=
+ight','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;line-heigh=
+t:22px;font-weight:400;color:#000;text-decoration:none"><a href=3D"https://=
+www.massdrop.com/buy/anodized-aluminum-infinity-ergodox-top-plate=3F1=3D1&u=
+tm_placement=3D18&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomat=
+ed%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3De=
+mail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decora=
+tion:none;color:#000">Anodized Aluminum Infinity ErgoDox Plate</a></td></tr=
+><tr><td align=3D"left" style=3D"padding:6px 0;font-family:HelveticaNeue-Li=
+ght,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font=
+-size:12px;line-height:12px;font-weight:100;color:#999;text-decoration:none=
+"><a href=3D"https://www.massdrop.com/buy/anodized-aluminum-infinity-ergodo=
+x-top-plate=3F1=3D1&utm_placement=3D18&referer=3DQCFMUQ&mode=3Dguest_open&u=
+tm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSpa=
+rkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank"=
+ style=3D"text-decoration:none;color:#999"> Made possible by the Mechanical=
+ Keyboards community. </a></td></tr></table></td></tr></table>  <table widt=
+h=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0">=
+<tr><td style=3D"padding:0 20px 20px"><table width=3D"100%" align=3D"center=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse=
+:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td valign=3D"top" ali=
+gn=3D"left"><table width=3D"255" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspac=
+e:0"><tr><td align=3D"center" style=3D"padding:0"><a href=3D"https://www.ma=
+ssdrop.com/buy/swan-m10-multimedia-speaker-system=3F1=3D1&utm_placement=3D1=
+9&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Pro=
+motional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3D=
+Daily%20Promotional" target=3D"_blank" style=3D"text-decoration:none"><img =
+alt=3D"HiVi M10 Multimedia Speaker System" src=3D"https://massdrop-s3.imgix=
+.net/product-images/MD-2886_20140715160953_0da0f22c9d279c64.jpg=3Fw=3D255&=
+h=3D255&fit=3Dcrop&mark=3Dhttps://massdrop-s3.imgix.net/img_site/best_of_dr=
+op_card_2x.png&markfit=3Dclip&markalign=3Dbottom%2Cright&markalpha=3D100&ma=
+rkh=3D40" height=3D"253" width=3D"253" border=3D"0" style=3D"outline:0;text=
+-decoration:none;-ms-interpolation-mode:bicubic;border:1px solid #ddd;paddi=
+ng-bottom:0;display:inline!important;vertical-align:bottom"></a></td></tr><=
+tr><td align=3D"left" style=3D"padding:6px 0 0;font-family:HelveticaNeue-Li=
+ght,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font=
+-size:18px;line-height:22px;font-weight:400;color:#000;text-decoration:none=
+"><a href=3D"https://www.massdrop.com/buy/swan-m10-multimedia-speaker-syste=
+m=3F1=3D1&utm_placement=3D19&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaig=
+n=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm=
+_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"=
+text-decoration:none;color:#000">HiVi M10 Multimedia Speaker System</a></td=
+></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:HelveticaNe=
+ue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif=
+;font-size:12px;line-height:12px;font-weight:100;color:#999;text-decoration=
+:none"><a href=3D"https://www.massdrop.com/buy/swan-m10-multimedia-speaker-=
+system=3F1=3D1&utm_placement=3D19&referer=3DQCFMUQ&mode=3Dguest_open&utm_ca=
+mpaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPos=
+t&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" styl=
+e=3D"text-decoration:none;color:#999"> From the Audiophile community. </a><=
+/td></tr></table></td><td valign=3D"top" align=3D"right"><table width=3D"25=
+5" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collaps=
+e:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td align=3D"center" =
+style=3D"padding:0"><a href=3D"https://www.massdrop.com/buy/hidizs-ap60-dig=
+ital-audio-player=3F1=3D1&utm_placement=3D20&referer=3DQCFMUQ&mode=3Dguest_=
+open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=
+=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_=
+blank" style=3D"text-decoration:none"><img alt=3D"Hidizs AP60 Digital Audio=
+ Player" src=3D"https://massdrop-s3.imgix.net/product-images/hidizs-ap60-di=
+gital-audio-player/MD-27393_20161020101021_6615a5e063a06a0f.jpg=3Fw=3D255&h=
+=3D255&fit=3Dcrop" height=3D"253" width=3D"253" border=3D"0" style=3D"outli=
+ne:0;text-decoration:none;-ms-interpolation-mode:bicubic;border:1px solid #=
+ddd;padding-bottom:0;display:inline!important;vertical-align:bottom"></a></=
+td></tr><tr><td align=3D"left" style=3D"padding:6px 0 0;font-family:Helveti=
+caNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-s=
+erif;font-size:18px;line-height:22px;font-weight:400;color:#000;text-decora=
+tion:none"><a href=3D"https://www.massdrop.com/buy/hidizs-ap60-digital-audi=
+o-player=3F1=3D1&utm_placement=3D20&referer=3DQCFMUQ&mode=3Dguest_open&utm_=
+campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkP=
+ost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" st=
+yle=3D"text-decoration:none;color:#000">Hidizs AP60 Digital Audio Player</a=
+></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:Helvet=
+icaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-=
+serif;font-size:12px;line-height:12px;font-weight:100;color:#999;text-decor=
+ation:none"><a href=3D"https://www.massdrop.com/buy/hidizs-ap60-digital-aud=
+io-player=3F1=3D1&utm_placement=3D20&referer=3DQCFMUQ&mode=3Dguest_open&utm=
+_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSpark=
+Post&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" s=
+tyle=3D"text-decoration:none;color:#999"> From the Audiophile community. </=
+a></td></tr></table></td></tr></table></td></tr></table>  <table width=3D"1=
+00%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><t=
+d style=3D"padding:0 20px 20px"><table width=3D"540" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0" style=3D"border-collapse:collapse;mso-table-lspa=
+ce:0;mso-table-rspace:0"><tr><td align=3D"center" style=3D"padding:0"><a hr=
+ef=3D"https://www.massdrop.com/buy/typewriter-abs-keycap-set=3F1=3D1&utm_pl=
+acement=3D21&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20=
+Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&=
+utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decoration:=
+none"><img alt=3D"Typewriter ABS Keycap Set" src=3D"https://massdrop-s3.img=
+ix.net/product-images/typewriter-abs-keycap-set/MD-27250_20160923104134_3c7=
+66e85f69ab27c.jpg=3Fw=3D538&h=3D162&fit=3Dcrop" height=3D"162" width=3D"538=
+" border=3D"0" style=3D"outline:0;text-decoration:none;-ms-interpolation-mo=
+de:bicubic;border:1px solid #ddd;padding-bottom:0;display:inline!important;=
+vertical-align:bottom"></a></td></tr><tr><td align=3D"left" style=3D"paddin=
+g:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica=
+ Neue',Helvetica,Arial,sans-serif;font-size:18px;line-height:22px;font-weig=
+ht:400;color:#000;text-decoration:none"><a href=3D"https://www.massdrop.com=
+/buy/typewriter-abs-keycap-set=3F1=3D1&utm_placement=3D21&referer=3DQCFMUQ&=
+mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-=
+21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional=
+" target=3D"_blank" style=3D"text-decoration:none;color:#000">Typewriter AB=
+S Keycap Set</a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0;fon=
+t-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvet=
+ica,Arial,sans-serif;font-size:12px;line-height:12px;font-weight:100;color:=
+#999;text-decoration:none"><a href=3D"https://www.massdrop.com/buy/typewrit=
+er-abs-keycap-set=3F1=3D1&utm_placement=3D21&referer=3DQCFMUQ&mode=3Dguest_=
+open&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=
+=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_=
+blank" style=3D"text-decoration:none;color:#999"> Made possible by the Mech=
+anical Keyboards community. </a></td></tr></table></td></tr></table>  <tabl=
+e width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspa=
+ce:0"><tr><td style=3D"padding:0 20px 20px"><table width=3D"100%" align=3D"=
+center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-co=
+llapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td valign=3D"to=
+p" align=3D"left"><table width=3D"255" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table=
+-rspace:0"><tr><td align=3D"center" style=3D"padding:0"><a href=3D"https://=
+www.massdrop.com/buy/gmk-carbon-add-on-kit=3F1=3D1&utm_placement=3D22&refer=
+er=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotiona=
+l%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%2=
+0Promotional" target=3D"_blank" style=3D"text-decoration:none"><img alt=3D"=
+GMK Carbon Add-On Keycap Kit" src=3D"https://massdrop-s3.imgix.net/product-=
+images/gmk-carbon-add-on-kit/MD-30982_20161111114423_112014be415f3610.jpg=
+=3Fw=3D255&h=3D255&fit=3Dcrop" height=3D"253" width=3D"253" border=3D"0" st=
+yle=3D"outline:0;text-decoration:none;-ms-interpolation-mode:bicubic;border=
+:1px solid #ddd;padding-bottom:0;display:inline!important;vertical-align:bo=
+ttom"></a></td></tr><tr><td align=3D"left" style=3D"padding:6px 0 0;font-fa=
+mily:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,=
+Arial,sans-serif;font-size:18px;line-height:22px;font-weight:400;color:#000=
+;text-decoration:none"><a href=3D"https://www.massdrop.com/buy/gmk-carbon-a=
+dd-on-kit=3F1=3D1&utm_placement=3D22&referer=3DQCFMUQ&mode=3Dguest_open&utm=
+_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSpark=
+Post&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" s=
+tyle=3D"text-decoration:none;color:#000">GMK Carbon Add-On Keycap Kit</a></=
+td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:Helvetica=
+Neue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-ser=
+if;font-size:12px;line-height:12px;font-weight:100;color:#999;text-decorati=
+on:none"><a href=3D"https://www.massdrop.com/buy/gmk-carbon-add-on-kit=3F1=
+=3D1&utm_placement=3D22&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DA=
+utomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medi=
+um=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-=
+decoration:none;color:#999"> From the Mechanical Keyboards community. </a><=
+/td></tr></table></td><td valign=3D"top" align=3D"right"><table width=3D"25=
+5" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collaps=
+e:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td align=3D"center" =
+style=3D"padding:0"><a href=3D"https://www.massdrop.com/buy/e-element-rgb-k=
+eyboard=3F1=3D1&utm_placement=3D23&referer=3DQCFMUQ&mode=3Dguest_open&utm_c=
+ampaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPo=
+st&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" sty=
+le=3D"text-decoration:none"><img alt=3D"E-Element Hot Swappable RGB Keyboar=
+d" src=3D"https://massdrop-s3.imgix.net/product-images/e-element-rgb-keyboa=
+rd/MD-24021_20160831112248_aa675258155e9447.jpg=3Fw=3D255&h=3D255&fit=3Dcro=
+p&mark=3Dhttps://massdrop-s3.imgix.net/img_site/best_of_drop_card_2x.png&ma=
+rkfit=3Dclip&markalign=3Dbottom%2Cright&markalpha=3D100&markh=3D40" height=
+=3D"253" width=3D"253" border=3D"0" style=3D"outline:0;text-decoration:none=
+;-ms-interpolation-mode:bicubic;border:1px solid #ddd;padding-bottom:0;disp=
+lay:inline!important;vertical-align:bottom"></a></td></tr><tr><td align=3D"=
+left" style=3D"padding:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica N=
+eue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;line-=
+height:22px;font-weight:400;color:#000;text-decoration:none"><a href=3D"htt=
+ps://www.massdrop.com/buy/e-element-rgb-keyboard=3F1=3D1&utm_placement=3D23=
+&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Prom=
+otional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DD=
+aily%20Promotional" target=3D"_blank" style=3D"text-decoration:none;color:#=
+000">E-Element Hot Swappable RGB Keyboard</a></td></tr><tr><td align=3D"lef=
+t" style=3D"padding:6px 0;font-family:HelveticaNeue-Light,'Helvetica Neue L=
+ight','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-heigh=
+t:12px;font-weight:100;color:#999;text-decoration:none"><a href=3D"https://=
+www.massdrop.com/buy/e-element-rgb-keyboard=3F1=3D1&utm_placement=3D23&refe=
+rer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotion=
+al%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%=
+20Promotional" target=3D"_blank" style=3D"text-decoration:none;color:#999">=
+ From the Mechanical Keyboards community. </a></td></tr></table></td></tr><=
+/table></td></tr></table>  <table width=3D"100%" align=3D"center" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse;m=
+so-table-lspace:0;mso-table-rspace:0"><tr><td style=3D"padding:0 20px 20px"=
+><table width=3D"540" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><t=
+d align=3D"center" style=3D"padding:0"><a href=3D"https://www.massdrop.com/=
+buy/ikbc-full-size-rgb-mechanical-keyboard=3F1=3D1&utm_placement=3D24&refer=
+er=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomated%20Daily%20Promotiona=
+l%202016-11-21&utm_source=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%2=
+0Promotional" target=3D"_blank" style=3D"text-decoration:none"><img alt=3D"=
+IKBC Fullsize CNC Aluminum RGB Mechanical Keyboard" src=3D"https://massdrop=
+-s3.imgix.net/product-images/ikbc-full-size-rgb-mechanical-keyboard/MD-3085=
+0_20161104113553_5e6c436fd25dda33.jpg=3Fw=3D538&h=3D162&fit=3Dcrop" height=
+=3D"162" width=3D"538" border=3D"0" style=3D"outline:0;text-decoration:none=
+;-ms-interpolation-mode:bicubic;border:1px solid #ddd;padding-bottom:0;disp=
+lay:inline!important;vertical-align:bottom"></a></td></tr><tr><td align=3D"=
+left" style=3D"padding:6px 0 0;font-family:HelveticaNeue-Light,'Helvetica N=
+eue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;line-=
+height:22px;font-weight:400;color:#000;text-decoration:none"><a href=3D"htt=
+ps://www.massdrop.com/buy/ikbc-full-size-rgb-mechanical-keyboard=3F1=3D1&ut=
+m_placement=3D24&referer=3DQCFMUQ&mode=3Dguest_open&utm_campaign=3DAutomate=
+d%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_medium=3Dem=
+ail&utm_term=3DDaily%20Promotional" target=3D"_blank" style=3D"text-decorat=
+ion:none;color:#000">IKBC Fullsize CNC Aluminum RGB Mechanical Keyboard</a>=
+</td></tr><tr><td align=3D"left" style=3D"padding:6px 0;font-family:Helveti=
+caNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-s=
+erif;font-size:12px;line-height:12px;font-weight:100;color:#999;text-decora=
+tion:none"><a href=3D"https://www.massdrop.com/buy/ikbc-full-size-rgb-mecha=
+nical-keyboard=3F1=3D1&utm_placement=3D24&referer=3DQCFMUQ&mode=3Dguest_ope=
+n&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3D=
+SparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_bla=
+nk" style=3D"text-decoration:none;color:#999"> Made possible by the Mechani=
+cal Keyboards community. </a></td></tr></table></td></tr></table> <table wi=
+dth=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0=
+"><tr><td align=3D"center" style=3D"padding:0 0 20px"><a href=3D"https://ww=
+w.massdrop.com/buy=3Futm_placement=3Dsee_all_button&referer=3DQCFMUQ&utm_ca=
+mpaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPos=
+t&utm_medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank" styl=
+e=3D"text-decoration:none;color:#fff"><table align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse;mso=
+-table-lspace:0;mso-table-rspace:0;background-color:red;border-radius:3px" =
+bgcolor=3D"#ff0000"><tr><td style=3D"padding:15px 30px;font-family:Helvetic=
+aNeue-Light,'Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,sans-se=
+rif;font-size:14px;line-height:14px;font-weight:400;color:#fff">SEE ALL DRO=
+PS</td></tr></table></a></td></tr><tr><td align=3D"center"><div style=3D"bo=
+rder-top:1px solid #ccc;border-top:1px solid #ccc;padding:25px 0 15px 0;mar=
+gin:0 25px"><a style=3D"text-decoration:none;color:#000" href=3D"https://ww=
+w.massdrop.com/=3Futm_placement=3Dfooter_logo&referer=3DQCFMUQ&utm_campaign=
+=3DAutomated%20Daily%20Promotional%202016-11-21&utm_source=3DSparkPost&utm_=
+medium=3Demail&utm_term=3DDaily%20Promotional" target=3D"_blank"><img alt=
+=3D"Massdrop" src=3D"https://massdrop-s3.imgix.net/img_site/logo-new%402x.p=
+ng" border=3D"0" style=3D"outline:0;text-decoration:none;-ms-interpolation-=
+mode:bicubic" width=3D"180px;"></a></div></td></tr></table></td></tr></tabl=
+e></td></tr><tr><td style=3D"padding:0 10px 20px"><table width=3D"100%" ali=
+gn=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"bor=
+der-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td width=
+=3D"33.3333333%" align=3D"left" valign=3D"top"><table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"borde=
+r-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0"><tr><td width=3D=
+"25" align=3D"left" valign=3D"middle" style=3D"line-height:20px;font-size:2=
+0px;height:20px"><a style=3D"line-height:20px;text-decoration:none;color:#0=
+00" href=3D"https://www.facebook.com/massdrop" target=3D"_blank"><img width=
+=3D"20" height=3D"20" alt=3D"Facebook" src=3D"http://massdrop-s3.imgix.net/=
+sailthru/fb_40x40.png=3Fq=3D70&fm=3Djpg" style=3D"outline:0;text-decoration=
+:none;-ms-interpolation-mode:bicubic;border:none"></a></td><td width=3D"25"=
+ align=3D"left" valign=3D"middle" style=3D"line-height:20px;font-size:20px;=
+height:20px"><a style=3D"line-height:20px;text-decoration:none;color:#000" =
+href=3D"https://twitter.com/massdrop" target=3D"_blank"><img width=3D"20" h=
+eight=3D"20" alt=3D"Twitter" src=3D"http://massdrop-s3.imgix.net/sailthru/t=
+w_40x40.png=3Fq=3D70&fm=3Djpg" style=3D"outline:0;text-decoration:none;-ms-=
+interpolation-mode:bicubic;border:none"></a></td><td align=3D"left" valign=
+=3D"middle" style=3D"line-height:20px;font-family:HelveticaNeue-Light,'Helv=
+etica Neue Light','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:3=
+00;font-size:16px;color:#888!important"><a href=3D"http://dro.ps/jobs-email=
+" target=3D"_blank" style=3D"line-height:20px;text-decoration:none;color:#0=
+0afd8!important;font-size:12px">We're Hiring!</a></td></tr></table></td><td=
+ width=3D"33.3333333%" align=3D"center" valign=3D"top" style=3D"line-height=
+:20px;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neu=
+e',Helvetica,Arial,sans-serif;font-weight:300;font-size:16px;color:#888!imp=
+ortant"><a style=3D"line-height:20px;text-decoration:none;color:#888!import=
+ant;font-size:12px" href=3D"https://www.massdrop.com/unsubscribe=3Feid=3Dad=
+7d3e0d349a19c1489679485cbf4b7aaa24a248bb4efc761c2ea074525c8f2d63&subscripti=
+on=3D13&utm_campaign=3DAutomated%20Daily%20Promotional%202016-11-21&utm_sou=
+rce=3DSparkPost&utm_medium=3Demail&utm_term=3DDaily%20Promotional">Unsubscr=
+ibe</a></td><td width=3D"33.3333333%" align=3D"right" valign=3D"top" style=
+=3D"line-height:20px;font-family:HelveticaNeue-Light,'Helvetica Neue Light'=
+,'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:300;font-size:16px=
+;color:#888!important"><span style=3D"line-height:20px;text-decoration:none=
+;color:#888!important;font-size:12px"><div>655&nbsp;Montgomery&nbsp;St.&nbs=
+p;Suite&nbsp;800</div><div>San&nbsp;Francisco,&nbsp;CA&nbsp;94111</div></sp=
+an></td></tr></table></td></tr></table></td></tr></table>=0D=0A<img border=
+=3D"0" width=3D"1" height=3D"1" alt=3D"" src=3D"https://t.massdrop.com/q/-Q=
+_TRsM-aymzoM6x1evlag~~/AAAAAQA~/RgRaFY1sPkEIAOwW7XuAvudXCG1hc3Nkcm9wWAQAAAA=
+ASBxNYXJrZXRpbmc6IERhaWx5IFByb21vdGlvbmFsQgoAA1kNM1gb9OKcUhNreWxlQGt5bGVmaX=
+NoZXIuY29tCVEEAAAAAEdIeyJlbWFpbF91dWlkIjoiMTQ3OTcyNTQwMzQ4Ny40MzAxMDc5NDc0N=
+jY2NjgyODMxNjI5NDYiLCJiaW5kaW5nIjoiaW5mbyJ9">=0D=0A</body></html>
+

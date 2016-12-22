@@ -1,0 +1,369 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201612 will be lost/reset.
+# Last config file used to build this data file was /home/kylefi5/tmp/awstats/awstats.eventspen.kylefisher.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2709                
+POS_VISITOR 3591                
+POS_DAY 4383                
+POS_DOMAIN 4570                
+POS_LOGIN 4848                
+POS_ROBOT 5003                
+POS_WORMS 5246                
+POS_EMAILSENDER 5377                
+POS_EMAILRECEIVER 5520                
+POS_SESSION 5596                
+POS_SIDER 5780                
+POS_FILETYPES 8493                
+POS_DOWNLOADS 8810                
+POS_OS 8858                
+POS_BROWSER 9025                
+POS_SCREENSIZE 9241                
+POS_UNKNOWNREFERER 9315                
+POS_UNKNOWNREFERERBROWSER 9571                
+POS_ORIGIN 9731                
+POS_SEREFERRALS 9869                
+POS_PAGEREFS 10013               
+POS_SEARCHWORDS 10161               
+POS_KEYWORDS 10313               
+POS_MISC 2371                
+POS_ERRORS 10372               
+POS_CLUSTER 4704                
+POS_SIDER_404 10510               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161222051341 7398 2337354 16748199681681
+FirstTime 20161221133220
+LastTime 20161222051341
+LastUpdate 20161222061301 7398 0 7398 0 0
+TotalVisits 31                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 451 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 374 529 15550581 10 56 224046
+1 191 363 20148367 136 199 3538847
+2 362 526 21114172 111 174 2679141
+3 225 438 16300263 26 121 2046021
+4 649 1076 29998498 76 146 737340
+5 48 75 3310257 3 13 33015
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 1 1 161 0 1 0
+14 5 5 51881 1 3 0
+15 925 1386 23523604 56 93 197649
+16 628 744 7906842 41 48 218898
+17 30 50 434595 2 7 0
+18 29 29 10140 4 5 0
+19 1 1 2231 1 1 0
+20 70 131 2722814 10 32 867
+21 94 168 4037978 7 35 66316
+22 358 450 14036552 18 51 180625
+23 254 406 8806796 18 35 50124
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+65.207.13.162 4119 6187 163535746 20161222051341 20161222000009 /wp-admin/admin-ajax.php
+178.63.110.67 57 89 1921975 20161222042417 20161222042051 /
+52.71.155.178 28 28 120049 20161222041632 20161222041632 /contact/
+144.208.76.174 21 21 51678 20161222044256 20161222044256 /wp-cron.php
+174.201.5.59 8 42 2045154 20161222034237
+70.39.246.37 2 2 24586 20161221150826
+45.248.86.104 1 1 31277 20161221151948
+222.72.133.181 1 1 31332 20161221151505
+54.81.41.202 1 1 36998 20161222041200
+216.54.31.82 1 1 203 20161221145631
+183.203.216.119 1 1 31345 20161221151911
+120.55.84.202 1 1 31345 20161221151743
+107.170.107.176 1 1 31354 20161221151314
+120.76.178.49 1 1 31345 20161221151834
+180.113.130.212 1 1 31345 20161221151727
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20161221 2395 3371 61533594 21
+20161222 1849 3007 106422138 10
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 4181 6283 165845768
+de 57 89 1921975
+cn 5 5 156712
+ma 1 1 31277
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+googlebot 44 858313 20161222034425 2
+googlebot\-image 6 953574 20161222041000 0
+unknown 5 335 20161222042050 5
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+0s-30s 17
+1h+ 5
+30s-2mn 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 63
+/wp-admin/admin-ajax.php 2983 35720815 2 2
+/ 366 35844596 13 10
+/shop/ 99 3866552 0 1
+/wp-admin/post.php 92 17984608 0 0
+/wp-admin/load-scripts.php 83 6149985 0 0
+/contact-2/ 81 4271368 0 0
+/cornerstone-endpoint 58 401246 0 0
+/wp-admin/admin.php 57 4608972 0 0
+/contact/ 46 6131291 1 0
+/wp-admin/edit.php 32 4078060 0 0
+/wp-admin/load-styles.php 30 2280825 0 0
+/wp-login.php 28 62357 6 5
+/wp-content/themes/x/framework/fonts/font_awesome/fontawesome-webfont.woff2 27 287584 0 0
+/wp-admin/async-upload.php 25 42380 0 0
+/menu/ 20 450177 0 0
+/wp-json/oembed/1.0/embed 19 43749 0 0
+/wp-cron.php 18 0 8 8
+/wp-admin/plugins.php 17 1138298 0 0
+/wp-admin/customize.php 16 12852204 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 14 28352 0 0
+/wp-admin/ 14 910074 0 0
+/product/otto-heino-1/ 10 415127 0 0
+/wp-content/plugins/cornerstone/assets/dist-app/fonts/fontawesome-webfont.woff2 9 143792 0 0
+/wp-admin/index.php 8 282798 0 0
+/about/ 8 107269 0 0
+/wp-content/plugins/WP_Estimation_Form/assets/fonts/lato/lato-regular.woff 1 35464 0 0
+/wp-admin/theme-install.php 1 40012 0 0
+/wp-content/plugins/woocommerce/assets/js/zeroclipboard/ZeroClipboard.swf 2 8090 0 0
+/product/toshiko-takaezu-pottery-2/ 4 113191 0 0
+/product/otto-heino-vase-2/ 3 112170 0 0
+/product/otto-heino-vase-3/ 2 74758 0 0
+/product/toshiko-takaezu-pottery-1/ 4 209587 0 0
+/wp-admin/nav-menus.php 1 173808 0 0
+/wp-admin/options-reading.php 1 36071 0 0
+/wp-admin/options-media.php 1 32924 0 0
+/wp-admin/update-core.php 2 84004 0 0
+/softtest_orosbqhw/soft 1 20 0 0
+/product/toshiko-takaezu-pottery-3/feed/ 1 801 0 0
+/blog/ 4 188607 0 0
+/comments/feed/ 1 1616 0 0
+/wp-admin/themes.php 1 42030 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 8 1374784 0 0
+/wp-admin/edit-tags.php 1 163029 0 0
+/wp-admin/options-general.php 2 138094 0 0
+/shop/feed/ 1 5913 0 0
+/wp-content/plugins/WP_Estimation_Form/assets/fonts/glyphicons-halflings-regular.woff 1 23424 0 0
+/product/toshiko-takaezu-pottery-2/feed/ 1 801 0 0
+/product/otto-heino-1/feed/ 1 767 0 0
+/cart/ 8 742723 0 0
+/wp-content/plugins/advanced-custom-fields-pro/assets/font/acf.woff 2 4120 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 2 34408 0 0
+/wp-admin/update.php 2 31757 0 0
+/feed/ 2 17484 0 1
+/product/otto-heino-vase-2/feed/ 1 777 0 0
+/checkout/ 7 227977 0 0
+/wp-admin/post-new.php 6 1252232 0 0
+/reservations/ 1 65912 0 0
+/product/otto-heino-vase-3/feed/ 1 777 0 0
+/wp-json/ 1 204744 0 0
+/check_charset.php 1 73 1 0
+/wp-admin/options-writing.php 1 34846 0 0
+/wp-admin/theme-editor.php 1 49336 0 0
+/product/toshiko-takaezu-pottery-3/ 3 112932 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+jpeg 10 29242 0 0
+jpg 652 7307327 0 0
+Unknown 78 445015 0 0
+js 817 7453803 0 0
+gif 44 81659 0 0
+css 426 5572814 0 0
+png 140 3342809 0 0
+swf 2 8090 0 0
+svg 45 425536 0 0
+html 690 54077991 0 0
+php 3418 88654302 0 0
+woff 20 125768 0 0
+woff2 36 431376 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+ios_iphone 42 8
+win7 1 1
+macosx5 2 2
+winxp 93 61
+linux 1 1
+macosx 6215 4147
+Unknown 23 23
+winlong 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+chrome55.0.2883.95 6187 4119
+firefox30.0 1 1
+firefox49.0 1 1
+netscape5.0 2 2
+opera9.20 1 1
+msie6.0 93 61
+safari10.0 42 8
+safari8.0 28 28
+safari4.0 2 2
+Unknown 21 21
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20161221150826
+Softaculous 20161221145943
+WordPress/4.7;_http://eventspen.com 20161222044256
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.7;_http://eventspen.com 20161222044256
+Softaculous 20161221145943
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 59 59
+From1 0 0
+From2 0 0
+From3 0 0
+From4 4185 6319
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 13 476
+500 95 31221
+404 316 8080950
+302 86 47978
+405 1 42
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/wp-content/plugins/cornerstone/assets/dist/css/admin/maps/customizer.css.map 5 -
+/cart/\\/wp-admin\\/admin-ajax.php 2 http://eventspen.com/cart/
+/shop/\\/wp-admin\\/admin-ajax.php 1 http://eventspen.com/shop/
+/wp-content/plugins/cornerstone/assets/dist/css/fonts/fontawesome-webfont.ttf 29 http://eventspen.com/wp-content/plugins/cornerstone/assets/dist/css/admin/preview.css
+/product/toshiko-takaezu-pottery-3/\\/wp-admin\\/admin-ajax.php 1 http://eventspen.com/product/toshiko-takaezu-pottery-3/
+/product/toshiko-takaezu-pottery-2/\\/wp-admin\\/admin-ajax.php 1 http://eventspen.com/product/toshiko-takaezu-pottery-2/
+/contact/\\/wp-admin\\/admin-ajax.php 1 http://eventspen.com/contact/
+/\\/wp-admin\\/admin-ajax.php 2 http://eventspen.com/
+/wp-content/plugins/cornerstone/assets/dist/css/admin/maps/code-editor.css.map 35 -
+/contact-2/\\/wp-admin\\/admin-ajax.php 1 http://eventspen.com/contact-2/
+/wp-content/plugins/cornerstone/assets/dist/css/admin/maps/huebert.css.map 35 -
+/wp-content/plugins/cornerstone/assets/dist/css/admin/maps/preview.css.map 13 -
+/wp-content/plugins/cornerstone/assets/dist/css/admin/maps/builder.css.map 28 -
+/wp-content/plugins/cornerstone/assets/dist/css/admin/maps/dashboard.css.map 60 -
+/wp-content/plugins/cornerstone/assets/dist/css/admin/maps/generator.css.map 42 -
+/product/otto-heino-1/\\/wp-admin\\/admin-ajax.php 1 http://eventspen.com/product/otto-heino-1/
+/wp-content/plugins/cornerstone/assets/dist/css/fonts/fontawesome-webfont.woff2 29 http://eventspen.com/wp-content/plugins/cornerstone/assets/dist/css/admin/preview.css
+/product/otto-heino-vase-2/\\/wp-admin\\/admin-ajax.php 1 http://eventspen.com/product/otto-heino-vase-2/
+/wp-content/plugins/cornerstone/assets/dist/css/fonts/fontawesome-webfont.woff 29 http://eventspen.com/wp-content/plugins/cornerstone/assets/dist/css/admin/preview.css
+END_SIDER_404

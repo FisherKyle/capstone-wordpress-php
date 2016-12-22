@@ -1,0 +1,135 @@
+Return-path: <bounce+4e469c.8eddcb-kyle=kylefisher.com@forum.epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 14 Nov 2016 19:55:02 -0500
+Received: from mail-s48.mailgun.us ([184.173.153.48]:21888)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+4e469c.8eddcb-kyle=kylefisher.com@forum.epicodus.com>)
+	id 1c6S1e-002eU4-4r
+	for kyle@kylefisher.com; Mon, 14 Nov 2016 19:55:02 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=forum.epicodus.com; q=dns/txt;
+ s=mailo; t=1479171300; h=List-Unsubscribe: Content-Transfer-Encoding:
+ Content-Type: Mime-Version: Subject: Message-ID: To: Reply-To: From:
+ Date: Sender; bh=h1EALBcH5O/IMUa7vLzYM0Tg+R5Ess95fbY5aLkMP4g=; b=JwRx2jlC54Dx68q+PI3t7eiUJI4kjPSK0lGf45ytXx/RidVjJ9pw2eV68XoifVNJ4lMJfncQ
+ IrEdj3Igybf4+qPOI5tHKuWJR3f7VTUfUsheuSnu+8ab0ojASPO0XQhI40jePw+/VZrBdylw
+ 6OT3aVtscSPc6qZFFa2Uvzz9jsE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=forum.epicodus.com;
+ s=mailo; q=dns; h=Sender: Date: From: Reply-To: To: Message-ID:
+ Subject: Mime-Version: Content-Type: Content-Transfer-Encoding:
+ List-Unsubscribe;
+ b=mujKycBf6+mBOqRkzx463AO/0sjf2NMKm2ibRePVJVLL/FzKE1fGpJJhLlNyjm3SDB/zS3
+ GTvFL1BTQA/e49IdX/xl6JDd0mZKXBDox3Ufr95P86pALabC05Ngz/iYjkqKZVwu9Yy+uqXT
+ SE2LvT3auxNHO6/0bGi3V9GWN7++k=
+Sender: noreply@forum.epicodus.com
+X-Mailgun-Sending-Ip: 184.173.153.48
+X-Mailgun-Sid: WyI4Y2Q0NiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgIjhlZGRjYiJd
+Received: from localhost.localdomain (forum.epicodus.com [104.236.200.211])
+ by mxa.mailgun.org with ESMTP id 582a5ce4.7f0a202ecb30-in07;
+ Tue, 15 Nov 2016 00:55:00 -0000 (UTC)
+Date: Tue, 15 Nov 2016 00:55:00 +0000
+From: Epicodus Forum summary <noreply@forum.epicodus.com>
+Reply-To: Epicodus Forum summary <noreply@forum.epicodus.com>
+To: kyle@kylefisher.com
+Message-ID: <090d962d-f38e-4f8f-b87f-375489047460@forum.epicodus.com>
+Subject: [Epicodus Forum] Summary
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_582a5ce3ee9d1_17823fd4f64f3070164743";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://forum.epicodus.com/email/unsubscribe/7eeb9b0890d5ec528728aae7d6bf43e361222dd91ef87d219c3b56e5bc1e6065>
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+
+
+----==_mimepart_582a5ce3ee9d1_17823fd4f64f3070164743
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+A brief summary of [Epicodus Forum][1] since your last visit on August 5
+
+### Popular posts
+
+[JavaScript Drum Machine (BMO!)][2]
+
+ Drum Machine Created by Jeremy Fryd, Kaleb Stevenson, Blake Scala and Larry Tunseth Design Based on BMO from Adventure Time.  
+
+link to hosted github page: https://larrytun.github.io/Javascript-Team-Drum-Machine/ 
+
+repository link: https://github.com/larrytun/Javascript-Team-Drum-Machine
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+[1]: http://forum.epicodus.com/
+[2]: http://forum.epicodus.com/t/javascript-drum-machine-bmo/1152
+
+
+
+This summary is sent from [Epicodus Forum][1] when we haven't seen you in a while. To unsubscribe [click here][3].
+
+[3]: http://forum.epicodus.com/email/unsubscribe/7eeb9b0890d5ec528728aae7d6bf43e361222dd91ef87d219c3b56e5bc1e6065
+
+
+
+----==_mimepart_582a5ce3ee9d1_17823fd4f64f3070164743
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<table style="border: 20px solid #eee;" cellspacing="0" cellpadding="0">
+<tr>
+  <td style="padding: 10px 10px; background-color: #ffffff;">
+    <a href="http://forum.epicodus.com" style="text-decoration: none; font-weight: bold; color: #006699;; color: #0088cc">
+      <img src="http://static1.squarespace.com/static/5524448ee4b0d6f6b83ab9e2/t/5759a4c71bbee022293505cd/1466190401806/" style="max-height: 35px; min-height: 35px; height: 35px;" alt="Epicodus Forum">
+    </a>
+  </td>
+</tr>
+<tr>
+  <td style="background-color: #fff; padding: 10px 10px; font-family: Arial, Helvetica, sans-serif; font-size: 14px;">
+    A brief summary of <a href="http://forum.epicodus.com" style="text-decoration: none; font-weight: bold; color: #006699;; color: #0088cc">Epicodus Forum</a> since your last visit on August 5
+
+      <hr style="background-color: #ddd; height: 1px; border: 1px;">
+      <h3 style="margin: 15px 0 20px 0;">Popular posts</h3>
+
+
+        <div>
+          <a href="http://forum.epicodus.com/t/javascript-drum-machine-bmo/1152" style="text-decoration: none; font-weight: bold; color: #006699; line-height:1.5em;; text-decoration: none; font-weight: bold; color: #006699;; color: #0088cc">JavaScript Drum Machine (BMO!)</a>
+          <br>
+          <a href="http://forum.epicodus.com/c/general-chatter" style="text-decoration: none; font-weight: bold; color: #006699; line-height:1.5em;; text-decoration: none; font-weight: bold; color: #006699;; font-size: 0.857em; white-space: nowrap; display: inline-block; position: relative; line-height: 1; margin-right: 10px;"><span style="background-color: #3AB54A;display: inline-block; width: 10px; height: 10px;"></span><span style="color: #FFFFFF;color: #222222 !important; vertical-align: text-top; line-height: 1; margin-left: 4px; padding-left: 2px; display: inline;max-width: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-close="true" title="Everything else. Remember to always be kind.">General Chatter</span></a>
+        </div>
+
+          <div style="margin-left: 15px; margin-top: -5px; max-width: 694px;">
+            <p>Drum Machine Created by Jeremy Fryd, Kaleb Stevenson, Blake Scala and Larry Tunseth<br>Design Based on BMO from Adventure Time. </p>
+
+<p>link to hosted github page: <a href="https://larrytun.github.io/Javascript-Team-Drum-Machine/" rel="nofollow" style="text-decoration: none; font-weight: bold; color: #006699;">https://larrytun.github.io/Javascript-Team-Drum-Machine/</a></p>
+
+<p>repository link: <a href="https://github.com/larrytun/Javascript-Team-Drum-Machine" rel="nofollow" style="text-decoration: none; font-weight: bold; color: #006699;">https://github.com/larrytun/Javascript-Team-Drum-Machine</a></p>
+          </div>
+
+        
+
+        
+
+
+    
+
+
+    
+
+  </td>
+</tr>
+</table>
+
+
+
+<div style="color:#666; font-size:95%; text-align:center; padding-top:15px;">
+  This summary is sent from <a href="http://forum.epicodus.com" style="text-decoration: none; font-weight: bold; color: #006699;; color: #0088cc">Epicodus Forum</a> when we haven't seen you in a while. To unsubscribe <a style="text-decoration: none; font-weight: bold; color: #006699;; color: #0088cc" href="http://forum.epicodus.com/email/unsubscribe/7eeb9b0890d5ec528728aae7d6bf43e361222dd91ef87d219c3b56e5bc1e6065">click here</a>.
+</div>
+
+
+
+----==_mimepart_582a5ce3ee9d1_17823fd4f64f3070164743--

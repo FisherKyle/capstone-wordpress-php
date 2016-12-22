@@ -1,0 +1,306 @@
+Return-path: <zackali54@outlook.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 15 Dec 2016 03:03:46 -0500
+Received: from col004-omc4s18.hotmail.com ([65.55.34.220]:58493)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <zackali54@outlook.com>)
+	id 1cHR0z-001mTy-Tp
+	for kyle@kylefisher.com; Thu, 15 Dec 2016 03:03:46 -0500
+Received: from IND01-MA1-obe.outbound.protection.outlook.com ([65.55.34.200]) by COL004-OMC4S18.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Thu, 15 Dec 2016 00:03:44 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=UJa5am4FKoo3js2bJR+QPGgbFOuDyacr7+HDcOUZmNk=;
+ b=Nf4gY2+LaL/A4e/sSGDyJxigFlNGVTil2d0x/gfNmKp46AMuwgeV2dJB2gM3pv4c/lrXZfnPNEoUugJpEgK4sro7mheIZRC6AGVkK4BnzSid5b+JjgvXicjKxOVOdYHSEGmub6Uv8qnDYM5kIgdnEpmkibWlg9LooiPMQCi3cbCvm27pfBsYwqOc4k4g1oWZ/j/53d36a2XMtgLoQkglPHjgfmbGQ323X99mzPvliVSK1dP3mcVTQwJOlw8418JWBE0yclobm7w50Ff/kNPgFc47JfBLgAqZlyvCfE5JXQXflXevcWC8iWmf+sM70aUYqm3n4CzuBK90TMlP3SxbzQ==
+Received: from MA1IND01FT005.eop-IND01.prod.protection.outlook.com
+ (10.152.200.55) by MA1IND01HT006.eop-IND01.prod.protection.outlook.com
+ (10.152.200.136) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.761.6; Thu, 15 Dec
+ 2016 08:03:35 +0000
+Received: from MAXPR01MB0204.INDPRD01.PROD.OUTLOOK.COM (10.152.200.52) by
+ MA1IND01FT005.mail.protection.outlook.com (10.152.200.143) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.4 via Frontend
+ Transport; Thu, 15 Dec 2016 08:03:35 +0000
+Received: from MAXPR01MB0204.INDPRD01.PROD.OUTLOOK.COM ([10.164.149.146]) by
+ MAXPR01MB0204.INDPRD01.PROD.OUTLOOK.COM ([10.164.149.146]) with mapi id
+ 15.01.0771.014; Thu, 15 Dec 2016 08:03:34 +0000
+From: Zack Ali <zackali54@outlook.com>
+To: "kyle@kylefisher.com" <kyle@kylefisher.com>
+Subject: Discussion for Mobile Apps, Web design & Development
+Thread-Topic: Discussion for Mobile Apps, Web design & Development
+Thread-Index: AdJWpRzopRbVVj/bRXqfEn65jNhDkg==
+Date: Thu, 15 Dec 2016 08:03:34 +0000
+Message-ID: <MAXPR01MB0204FE6DA22BE0DEC9BC0C88AA9D0@MAXPR01MB0204.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: kylefisher.com; dkim=none (message not signed)
+ header.d=none;kylefisher.com; dmarc=none action=none header.from=outlook.com;
+x-incomingtopheadermarker: OriginalChecksum:;UpperCasedChecksum:;SizeAsReceived:7102;Count:34
+x-ms-exchange-messagesentrepresentingtype: 1
+x-incomingheadercount: 34
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;MA1IND01HT006;5:0W9nfoPsorswY/XAS7vm/c8vYd3tfPauKLTtldQ3WqC069FvfpVOeFDT96dhPD7cfxKzgL0uRojZLAWlUW2sRfQ70MOrAfCCb4o1On6dNPEMijPDEibKS7vwcN/dH+PHNZ/jSPtOLHUOJyoqtOuWyA==;24:Ce4mukoo7XXdyP416mdA7HzCIPLcpatILHv80BqnlF7cW0F6nsrGp56S1Z3AJtMJnnBaV2bAT/0nUOGO54FYtDtpZBw2u4d5ouQcoiP2I/w=;7:Le1vUQk+qAHEZ9rQ70epqhuc4gmb83yrs0IAV8yR7qxrNTY+iHWtm029W9LXVQLldIVrngjEc9Y8leT9s8CJpH7fcc0dxFBwaErEEzT5r1VSE9bEMvgk2EI2S1Sq5GKl+lEMWzcg7w+Fffsq+JZlzNX9k0UaQsPr8CIOo2OAoaqtVO7qS+mBvleGNxwViMHwRGI7waTPyYsQTAawiFqV9445FsXZRXLG1Nh94z0kqkgS+WPQ2tLmwtt+8jZ56w4ofTIbF8eaaJR2a3O0l1BaY5augm+zvN/7dGH+p05epKLxf1D3huT3H3ts9BBym1w7UqNGAWY3WOvfTdqAf1dJKdePTaODnPqOSpZv3D4c3OM7ctNpQfxQfZoMo+Q/uAqiOqggCD9kvmpRyyMPb6svDVLN0fvydgtUnkxJJBeFhd56FlyMkSdQUTPpQQ156Rnp/F4pl0jvlVZvpoaZkPyczw==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:MA1IND01HT006;H:MAXPR01MB0204.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 56525a68-d8b3-4826-7669-08d424c0dc24
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506318)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:MA1IND01HT006;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:MA1IND01HT006;BCL:0;PCL:0;RULEID:;SRVR:MA1IND01HT006;
+x-forefront-prvs: 0157DEB61B
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MAXPR01MB0204FE6DA22BE0DEC9BC0C88AA9D0MAXPR01MB0204INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 15 Dec 2016 08:03:34.6799
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MA1IND01HT006
+X-OriginalArrivalTime: 15 Dec 2016 08:03:44.0084 (UTC) FILETIME=[C15EC140:01D256A9]
+
+--_000_MAXPR01MB0204FE6DA22BE0DEC9BC0C88AA9D0MAXPR01MB0204INDP_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hello Kyle,
+
+
+
+I am Jack; We are a web development company specializing in development of =
+iPhone and Android applications. We have more than seven (7) years plus of =
+experience in developing mobile applications. Each application is reviewed =
+and designed especially for each customer to fit the specific requirements =
+and objectives.
+
+
+
+I believe our strategy aligns with your goals for the following reasons: -
+
+
+
+     - We focus on giving you and your business the best possible ROI with =
+introducing mobile applications.
+
+     - We help in expanding your business by growing its reach.
+
+
+
+I would love to chat more about this. Let me know best way to reach you! I'=
+d like to get 20-30 minutes to discuss your requirements.
+
+
+
+If you are interested, please share your requirements along with your Phone=
+/Skype call so we could assist you with our best approach.
+
+
+
+Looking forward to hear from you.
+
+
+
+Warm Regards,
+
+Jack
+Consultant for (Mobile, Web, iPhone & Android Apps)
+
+
+Note: We are not spammers and are against spamming of any kind. If you are =
+not interested then you can reply with a simple \"NO\", We will never conta=
+ct you again.
+
+--_000_MAXPR01MB0204FE6DA22BE0DEC9BC0C88AA9D0MAXPR01MB0204INDP_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <0414B6CD3D93E542B2473D98879132C3@INDPRD01.PROD.OUTLOOK.COM>
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Mangal;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Microsoft YaHei";}
+@font-face
+	{font-family:"\@Microsoft YaHei";}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Arial Narrow";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:ZH-CN;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:ZH-CN;
+	font-style:italic;}
+p.MsoList, li.MsoList, div.MsoList
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:ZH-CN;}
+p.Standard, li.Standard, div.Standard
+	{mso-style-name:Standard;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:ZH-CN;}
+p.Heading, li.Heading, div.Heading
+	{mso-style-name:Heading;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	text-autospace:ideograph-other;
+	font-size:14.0pt;
+	font-family:"Arial",sans-serif;
+	mso-fareast-language:ZH-CN;}
+p.Textbody, li.Textbody, div.Textbody
+	{mso-style-name:"Text body";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:ZH-CN;}
+p.Index, li.Index, div.Index
+	{mso-style-name:Index;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:ZH-CN;}
+span.NumberingSymbols
+	{mso-style-name:"Numbering Symbols";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:12.0pt;
+	mso-fareast-language:ZH-CN;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	text-autospace:ideograph-other;}
+/* Page Definitions */
+@page
+	{mso-endnote-separator:url("cid:header.htm\@01D256D3.36A2E8E0") es;
+	mso-endnote-continuation-separator:url("cid:header.htm\@01D256D3.36A2E8E0"=
+) ecs;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:56.7pt 56.7pt 56.7pt 56.7pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US">
+<div class=3D"WordSection1">
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">Hello
+</span>Kyle<span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+sans-serif">,</span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">I am Jack<b>;
+</b>We are a web development company specializing in development of iPhone =
+and Android applications. We have more than seven (7) years plus of experie=
+nce in developing mobile applications. Each application is reviewed and des=
+igned especially for each customer
+ to fit the specific requirements and objectives.</span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">I believe our strategy aligns with your goals for th=
+e<b> following reasons:</b> -</span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">&nbsp;&nbsp;&nbsp;&nbsp; - We focus on giving you an=
+d your business the best possible ROI with introducing mobile applications.=
+<o:p></o:p></span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">&nbsp;&nbsp;&nbsp;&nbsp; - We help in expanding your=
+ business by growing its reach.<o:p></o:p></span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">I would love to chat more about this. Let me know be=
+st way to reach you!
+<b>I&#8217;d like to get 20-30 minutes to discuss your requirements.</b></s=
+pan></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">If you are interested, please share your&nbsp;requir=
+ements&nbsp;along with your<b>&nbsp;Phone/Skype call
+</b>so we could assist you with our best approach.</span></p>
+<p class=3D"Standard"><b><span style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">Looking forward to hear from you.</span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">Warm Regards,<o:p></o:p></span></p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">Jack<br>
+Consultant for (Mobile, Web, iPhone &amp; Android Apps)<o:p></o:p></span></=
+p>
+<p class=3D"Standard"><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">Note: We are not spammers and are against spamming o=
+f any kind. If you are not interested then you can reply with a simple \&qu=
+ot;NO\&#8221;, We will never contact you again.</span></p>
+</div>
+</body>
+</html>
+
+--_000_MAXPR01MB0204FE6DA22BE0DEC9BC0C88AA9D0MAXPR01MB0204INDP_--

@@ -1,0 +1,264 @@
+/* Style - count down*/
+.cp-modal-body.cp-count-down,
+.cp-count-down .cp-modal-body {
+    background-color: transparent;
+    padding: 15px 15px 0 15px;
+}
+
+.cp-count-down .cp-text-container {
+    padding: 15px 0;
+    text-align: center;
+}
+
+.cp-count-down .cp-title-container {
+    margin-bottom: 0px;
+}
+
+.cp-count-down #cp_defaultCountdown {
+    margin-bottom: 0;
+    padding: 10px;
+}
+
+.cp-count-down  .cp-counter-container {
+    margin-top: -15px;
+}
+
+.cp-count-down .cp-form-seperator {
+    width: 100%;
+    float: left;
+    margin: 0;
+    background: transparent;
+    padding: 15px;
+    position: relative;
+    margin-top: -1px;
+}
+
+.cp-count-down .cp-title-container,
+.cp-count-down .cp-desc-container,
+.cp-count-down .cp-count-down-desc,
+.cp-count-down #cp_defaultCountdown {
+    font-size: 15px;
+    line-height: 1em;
+    z-index: 9999;
+    position: relative;
+}
+
+.cp-count-down .cp-modal-body-overlay.cp_cs_overlay,
+.cp-count-down .count-down-shadow {
+    background: transparent !important;
+    z-index: 99;
+}
+
+.cp_countdown-row {
+    z-index: 9999;
+    position: relative;
+}
+
+.cp-count-down .counter-overlay,
+.cp-count-down .counter-desc-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.cp-count-down .counter-desc-overlay {
+    min-height: 100vh;
+}
+
+.cp-count-down .cp-title,
+.cp-count-down h2.cp-title {
+    margin: 0;
+    font-size: 55px;
+    font-family: 'Montserrat', sans-serif;
+    color: #2c3e50;
+    font-weight: bold;
+    line-height: 1.15em;
+}
+.cp-count-down-container .cp-overlay-close span{
+        font-family: "Montserrat",serif;
+}
+
+.cp-count-down .cp-form-container,
+.cp-count-down .cp-desc-container,
+.cp-count-down .cp-description,
+.cp-count-down .cp-short-description {
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    line-height: 1.64em;
+    margin-bottom: 2px;
+    padding: 0;
+    color: rgb(44, 62, 80);
+}
+
+.cp-count-down .cp-form-container {
+    padding: 0 10px;
+    z-index: 999;
+    position: relative;
+}
+
+.cp-count-down .cp-short-desc-container {
+    display: block;
+    width: 100%;
+    float: left;
+    margin: 0 0 10px;
+    color: rgb(44, 62, 80);
+    z-index: 999;
+    position: relative;
+}
+
+.cp-count-down .cp-info-container,
+.cp-count-down .cp-info-container p {
+    font-family: 'Raleway', sans-serif;
+    color: rgb(44, 62, 80);
+    padding: 10px 0 0;
+}
+
+.cp-count-down .cp-submit {
+    background-color: rgb(3, 177, 133);
+    color: #FFF;
+    font-family: 'Oregano', sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 1em;
+    /* border-radius: 3px; */
+    outline: none;
+}
+
+.cp-count-down .cp-submit,
+.cp-count-down .cp-submit:hover,
+.cp-count-down .cp-submit:active,
+.cp-count-down .cp-submit:focus {
+    background-color: rgb(255, 76, 107);
+    background-image: none;
+    color: #fff;
+    box-shadow: none;
+    border: none;
+}
+
+.cp-form-container.cp-no-padding {
+    padding-top: 0;
+}
+
+.cp-count-down .cp-modal-window-size .cp-modal-body,
+.cp-modal-window-size .cp-modal-body.cp-count-down {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.cp-count-down .cp-submit-container.col-md-12 {
+    float: left;
+    display: block;
+    width: 100%;
+}
+
+.cp-count-down  .cp-submit  a {
+    color: inherit;
+    text-decoration: none;
+    width: 100%;
+    display: block;
+    box-shadow: none;
+    border: none;
+}
+
+.cp-count-down .cp-submit a:focus {
+    outline: none;
+    border: none;
+}
+
+.cp-count-down  button.cp-submit.btn-modal {
+    padding: 0;
+}
+
+.cp-count-down .cp-short-description.cp-desc.cp_responsive {
+    font-size: 13px;
+}
+
+.cp-count-down  #cp_button_editor span.cp_responsive.cp_font {
+    line-height: 1em;
+}
+
+.cp-live-preview .cp-modal .cp-count-down .cp-btn-outline.cp-submit:hover {
+    background: rgb(31, 49, 67);
+    border: 2px solid rgb(31, 49, 67);
+    color: rgb(255, 255, 255);
+}
+
+/*-- to display inline countdown */
+.cp-count-down .cp-count-down-container {
+    width: 100%;
+    float: left;
+    padding: 10px;
+    background: transparent;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    line-height: 1em;
+    color: #fff;
+    margin: 0;
+    position: relative;
+}
+
+.cp-count-down .cp-count-down-desc {
+    font-size: 22px;
+    font-family: inherit;
+    line-height: 1.5em;
+    margin-right: 5px;
+    display: inline-block !important;
+}
+
+.cp-count-down .cp-desc-container {
+    margin-bottom: 15px;
+    padding: 0 10px;
+}
+
+.cp-count-down #cp_defaultCountdown {
+    margin: 0;
+    padding: 0;
+}
+
+.cp-count-down .is-cp_countdown {
+    border: 0px solid #ccc;
+    background-color: transparent;
+    float: none;
+    width: auto;
+    margin: 10px 0;
+    line-height: 1.5em;
+}
+
+.cp-count-down .cp-count-down-container p {
+    display: inline;
+}
+
+.cp-count-down .cp_countdown-section {
+    margin-top: 10px;
+}
+
+.cp-count-down .cp-modal-body-overlay {
+    z-index: 99;
+}
+
+@media (max-width:768px) {
+    .cp-modal-body.cp-count-down {
+        text-align: center;
+    }
+
+    .cp-count-down .cp-modal-window-size .cp-modal-body,
+    .cp-modal-window-size .cp-modal-body.cp-count-down {
+        max-width: 100%;
+    }
+
+    .cp-count-down.cp-desc-container,
+    .cp-count-down .cp-sec-title-container,
+    .cp-count-down .cp-title-container {
+        margin: 0 0 15px;
+        padding: 10px 10px 0;
+    }
+
+    .cp-count-down .cp-count-down-container {
+        font-size: 12px;
+    }
+
+}

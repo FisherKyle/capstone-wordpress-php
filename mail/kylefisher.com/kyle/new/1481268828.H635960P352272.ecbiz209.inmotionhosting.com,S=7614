@@ -1,0 +1,134 @@
+Return-path: <msprvs1=17151gExuKdAC=bounces-103157@sparkpostmail1.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Fri, 09 Dec 2016 02:33:48 -0500
+Received: from mta170a.sparkpostmail.com ([52.38.191.220]:21956)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <msprvs1=17151gExuKdAC=bounces-103157@sparkpostmail1.com>)
+	id 1cFFgi-001Td8-FT
+	for kyle@kylefisher.com; Fri, 09 Dec 2016 02:33:48 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sakshmart.com;
+	s=scph1216; t=1481268812; i=@sakshmart.com;
+	bh=sQaJr4IjEjIta1oYNRifrZEmDl5Jj/7tnFfTQn+APmU=;
+	h=Date:Subject:From:Reply-To:To:List-Id:List-Unsubscribe;
+	b=ETLqMeaMfOh/LZ79odMEmtxoTjBkhC9WN8sLr2UHtCym6N0tdXBtV+Dct2dJl6a6f
+	 eW67MbNVbxKUBRJ5HF51dBZqWj3VCM0B3uD0erlTyzieR6uKCzwNdFoQdmAr9tbipi
+	 hmnpe0VfW38sSVWgMJXcZ9MdfZwDD4uDg70zha7E=
+X-MSFBL: VtX+c8BhYpZqlhnWdtN3N+8NmHfRwTdptPvRbPqHu2I=|eyJpcF9wb29sX3JhdyI
+	6Im5ldyIsInRyYW5zbWlzc2lvbl9pZCI6IjQ4NDUyOTc3NjAxMDk2NTc4IiwiYiI
+	6ImlwXzUyLjM4LjE5MS4yMjAiLCJjdXN0b21lcl9pZCI6IjEwMzE1NyIsInJjcHR
+	fbWV0YSI6eyB9LCJ0ZW5hbnRfaWQiOiJzcGMiLCJzZW5kaW5nX2lwIjoiNTIuMzg
+	uMTkxLjIyMCIsInJjcHRfdGFncyI6WyBdLCJzdWJhY2NvdW50X2lkIjoiMCIsIml
+	wX3Bvb2wiOiJzaGFyZWQiLCJnIjoiYmdfbmV3IiwiciI6Imt5bGVAa3lsZWZpc2h
+	lci5jb20iLCJmcmllbmRseV9mcm9tIjoiaW5mb0BzYWtzaG1hcnQuY29tIiwibWV
+	zc2FnZV9pZCI6IjAwMDI0YzVlNGE1OGVhNTM4NWU4IiwidGVtcGxhdGVfdmVyc2l
+	vbiI6IjAiLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfNDg0NTI5Nzc2MDEwOTY1NzgifQ=
+	=
+Authentication-Results:  momentum2.platform1.us-west-2.aws.cl.messagesystems.com smtp.user=smtp_injection; auth=pass (LOGIN)
+Received: from [104.237.151.51] ([104.237.151.51:59404] helo=panel.sakshamapp.com)
+	by momentum2.platform1.us-west-2.aws.cl.messagesystems.com (envelope-from <msprvs1=17151gExuKdAC=bounces-103157@sparkpostmail1.com>)
+	(ecelerity 4.2.27.57930 r(Core:4.2.27.3)) with ESMTPA
+	id 58/8E-21482-C4E5A485; Fri, 09 Dec 2016 07:33:32 +0000
+Message-ID: <195fee39c60f830feb7ab0d55e7ebcdf@sakshmart.com>
+Date: Fri, 09 Dec 2016 07:33:31 +0000
+Subject: #Web Designing, Developer and SEO Services With Affordable Price !!
+From: Susheel Kumar <info@sakshmart.com>
+Reply-To: Susheel Kumar <info@sakshmart.com>
+To: "kyle@kylefisher.com" <kyle@kylefisher.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1481268811_0a692707ae581b9be92a2e3beff5d4e9_=_"
+X-Mw-Customer-Uid: gc979yxdvbb08
+X-Receiver: kyle@kylefisher.com
+X-Mw-Tracking-Did: 0
+X-Mw-Campaign-Uid: jh16432ps20ce
+X-Mw-Customer-Gid: 7
+List-Id: le098c8yyx747 <List 1>
+X-Mw-Subscriber-Uid: tm652j5gfb952
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://panel.sakshamapp.com/index.php/campaigns/jh16432ps20ce/report-abuse/le098c8yyx747/tm652j5gfb952
+X-Sender: info@sakshmart.com
+Feedback-ID: jh16432ps20ce:tm652j5gfb952:le098c8yyx747:gc979yxdvbb08
+X-Mw-Mailer: SwiftMailer
+X-Mw-Delivery-Sid: 53
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:T6UuCqMDbxrV5NFx47jI05u2z17ecJtSNzpE-jIpdrk~|eyAicmNwdF90byI6ICJreWxlQGt5bGVmaXNoZXIuY29tIiwgInJjcHRfbWV0YSI6ICJ7fSIsICJyY3B0X3RhZ3MiOiAiWyBdIiwgImZyaWVuZGx5X2Zyb20iOiAiaW5mb0BzYWtzaG1hcnQuY29tIiwgInRlbXBsYXRlX2lkIjogInNtdHBfNDg0NTI5Nzc2MDEwOTY1NzgiLCAibWVzc2FnZV9pZCI6ICIwMDAyNGM1ZTRhNThlYTUzODVlOCIsICJzZW5kaW5nX2lwIjogIjUyLjM4LjE5MS4yMjAiLCAidGVtcGxhdGVfdmVyc2lvbiI6ICIwIiwgIm1haWxmcm9tIjogIm1zcHJ2czE9MTcxNTFnRXh1S2RBQz1ib3VuY2VzLTEwMzE1N0BzcGFya3Bvc3RtYWlsMS5jb20iLCAiaXBfcG9vbCI6ICJzaGFyZWQiLCAiaXBfcG9vbF9yYXciOiAibmV3IiwgImN1c3RvbWVyX2lkIjogIjEwMzE1NyIsICJ0cmFuc21pc3Npb25faWQiOiAiNDg0NTI5Nzc2MDEwOTY1NzgiLCAic3ViYWNjb3VudF9pZCI6ICIwIiwgInRlbmFudF9pZCI6ICJzcGMiIH0~>
+
+
+--_=_swift_v4_1481268811_0a692707ae581b9be92a2e3beff5d4e9_=_
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="utf-8"
+
+ Hi,
+
+ I am Susheel Kumar Business Development Manager We are an India based
+Website Design & Development company and we offer services at modest
+rate. We have a dedicated team of 55 professional designers and
+developers with over 8 years of experience and we thrive on the idea
+that design makes a difference.
+
+ Our services at a glance: -
+ 1) Website development (Custom Website Development, PHP Programming,
+etc.)
+ 2) Website designing (Logo Design, HTML designing, corporate website
+design, PSD to XHTML/HTML, etc)
+ 3) Open source customization/ CMS (Wordpress, Joomla , Drupal, Mean
+Stack etc)
+ 4) Ecommerce website development (Woo-commerce)
+ 5) Web Programming Services (Laravel , Yii Development , Ionic
+Development , Mean Stack development, PHP MySQL Development, PHP
+Frameworks, JavaScript Frameworks etc)
+ 6) Internet Marketing ( Search Engine Optimization and Social Media
+Optimization ).
+
+WE OFFER FREE WEBSITE MIGRATION TO SAKSHAMAPP WEB HOSTING 
+
+ Do let me know your requirement to discuss a possible
+redesigning/redevelopment of your website or designing new website.
+
+ I can send you more details on the packages/action/Portfolio/past
+work details.
+
+ I'm waiting for your reply.
+
+ Thanks Regards,
+ Susheel Kumar
+ Skype gcsplindia
+
+ Note:
+ We are not spammers and are against spamming of any kind. If you are
+not interested then you can reply with a simple "NO",We will never
+contact you again
+
+ http://panel.sakshamapp.com/index.php/lists/le098c8yyx747/unsubscribe/tm652j5gfb952/jh16432ps20ce
+
+
+--_=_swift_v4_1481268811_0a692707ae581b9be92a2e3beff5d4e9_=_
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html>
+<html><head><meta name="charset" content="utf-8"><title></title></head><body>
+
+            Hi,<br><br>
+I am Susheel Kumar Business Development Manager We are an India based Website Design &amp; Development company and we offer services at modest rate. We have a dedicated team of 55 professional designers and developers with over 8 years of experience and we thrive on the idea that design makes a difference.<br><br>
+Our services at a glance: -<br>
+1) Website development (<span style="color:#FF0000;">Custom Website Development, PHP Programming, etc.</span>)<br>
+2) Website designing (<span style="color:#FF0000;">Logo Design, HTML designing, corporate website design, PSD to XHTML/HTML, etc</span>)<br>
+3) Open source customization/ CMS (<span style="color:#FF0000;">Wordpress, Joomla , Drupal, Mean Stack etc</span>)<br>
+4) Ecommerce website development (<span style="color:#FF0000;">Woo-commerce</span>)<br>
+5) Web Programming Services (<span style="color:#FF0000;">Laravel , Yii Development , Ionic Development , Mean Stack development, PHP MySQL Development, PHP Frameworks, JavaScript Frameworks etc</span>)<br>
+6) Internet Marketing ( <span style="color:#FF0000;">Search Engine Optimization and Social Media Optimization</span> ).<br><br><span style="color:#0000CD;">WE OFFER FREE WEBSITE MIGRATION TO SAKSHAMAPP WEB HOSTING </span><br><br>
+Do let me know your requirement to discuss a possible redesigning/redevelopment of your website or designing new website.<br><br>
+I can send you more details on the packages/action/Portfolio/past work details.<br><br>
+I&rsquo;m waiting for your reply.<br><br>
+Thanks Regards,<br>
+Susheel Kumar<br>
+Skype gcsplindia<br><br><br><br><br><br>
+Note:<br>
+We are not spammers and are against spamming of any kind. If you are not interested then you can reply with a simple \"NO\",We will never contact you again<br><br>
+http://panel.sakshamapp.com/index.php/lists/le098c8yyx747/unsubscribe/tm652j5gfb952/jh16432ps20ce<img width="1" height="1" src="http://panel.sakshamapp.com/index.php/campaigns/jh16432ps20ce/track-opening/tm652j5gfb952" alt="" />
+</body></html>
+
+
+--_=_swift_v4_1481268811_0a692707ae581b9be92a2e3beff5d4e9_=_--
+

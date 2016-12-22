@@ -1,0 +1,182 @@
+Return-path: <dinkar_webdesignmarkating@outlook.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 05 Dec 2016 11:08:03 -0500
+Received: from bay004-omc3s5.hotmail.com ([65.54.190.143]:49754)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <dinkar_webdesignmarkating@outlook.com>)
+	id 1cDvoB-004CaA-Hy
+	for kyle@kylefisher.com; Mon, 05 Dec 2016 11:08:03 -0500
+Received: from APC01-PU1-obe.outbound.protection.outlook.com ([65.54.190.188]) by BAY004-OMC3S5.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 5 Dec 2016 08:08:03 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=vUEVwMNtE1GSSv6MXTXL4FJ3x0AKre1DfeVPZ/on9XE=;
+ b=s7PxDMD84WJ+QPpP7UMlU65F1NLSRu7928LjAmIwTJcFWGBg/0gZHeZVHVdGxV+taWfKYKvmeHO7pMjLvS503pziS6lrdSHzbXAwK+A7Yy8odEejGYwMz6Q8oESpGpaPG2JVK+OihN2RLxkYWIGPbneSnkHPIGWDoEQLstOeExLmQjwz9Wup8+CF6cPplHLbXFLMjbKTTTGaP2iQYdkN5L+coBEUos/1YV6D2BUDMnTgve9OBiV8SaTb7A3YbqxN0SMe+Rhu/6hrf4hWQXzrbgWrRjL7i8a7nMoGfM5FLlp+a677z5FvbLJQ5773qVuquwaf+oRf5/azhyOMCUQM9w==
+Received: from PU1APC01FT064.eop-APC01.prod.protection.outlook.com
+ (10.152.252.55) by PU1APC01HT072.eop-APC01.prod.protection.outlook.com
+ (10.152.253.132) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.4; Mon, 5 Dec
+ 2016 16:08:00 +0000
+Received: from PS1PR0601MB1402.apcprd06.prod.outlook.com (10.152.252.58) by
+ PU1APC01FT064.mail.protection.outlook.com (10.152.253.70) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.734.4 via Frontend Transport; Mon, 5 Dec 2016 16:08:00 +0000
+Received: from PS1PR0601MB1402.apcprd06.prod.outlook.com ([10.165.210.142]) by
+ PS1PR0601MB1402.apcprd06.prod.outlook.com ([10.165.210.142]) with mapi id
+ 15.01.0761.016; Mon, 5 Dec 2016 16:08:00 +0000
+From: Dinkar Trivedi <dinkar_webdesignmarkating@outlook.com>
+To: "kyle@kylefisher.com" <kyle@kylefisher.com>
+Subject: Design & Development (Website/Mobile Apps)!
+Thread-Topic: Design & Development (Website/Mobile Apps)!
+Thread-Index: AdJPEIGtk3h3UBBGTWqisqGd5Cvr3Q==
+Date: Mon, 5 Dec 2016 16:08:00 +0000
+Message-ID: <PS1PR0601MB14024846E2AEF114BE174BBD9A830@PS1PR0601MB1402.apcprd06.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: kylefisher.com; dkim=none (message not signed)
+ header.d=none;kylefisher.com; dmarc=none action=none header.from=outlook.com;
+x-incomingtopheadermarker: OriginalChecksum:;UpperCasedChecksum:;SizeAsReceived:7090;Count:34
+x-ms-exchange-messagesentrepresentingtype: 1
+x-incomingheadercount: 34
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;PU1APC01HT072;5:uveZq2ej7FrfACVmc/jOAh7BYRzH/+4FjSvuRRmObtY+iMj9YlZ2mWrVS0IS/YUOlaipnC8BLMq9u/WASNQGPyvdPIQevrqmbsHDjbPQtAwPsc1VL8Xf3jxyZp7X3VNz6sPCbV8gLL0yINklUYKIt2G4ktmXPa7RuJm8SDljP9w=;24:8uYUrtgIIBSOFA2dd2f++bdkyp6Ye5LThNmn7qZ9fOsaNMsSwK2wfNZA730bOh1Dt/WgbccWuyv6ueGCiSFeHinh6R0y5PDewBAITEiZ9P0=;7:phTk2p5A9/QsA2WPHg9u9y7xorKN5f1qeOk4mV73ceVHQouU0PSx9u6Pcb55v9hUg4nNMwm3FHYZ8EBr8xMrVIxuVq1bW+qB4Ayab+l6+zKKp+mU56MUZum7nTdJGckUWykSyWGJSs+I38ZIANkAXTwZ8/RMFMhLiYhgzPa+o7C8oHMaeNR1FqpwTBTlZawIYLWZUQBX/ZMUel31PA8FFe+Ua8/slTEeYm90H+V1uLzuB02H3L5IozpCg7W2osaCotT1hlHlwTVJxfvR4+FaJ0KgjBv4D6eAkHM1fUd0qINbX8XjZ4bcrEaWtoLt+hbch8dCMn+MsZ4LfZPdGstt0yW9iuJsBFggqAQnXMjytaE=
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:PU1APC01HT072;H:PS1PR0601MB1402.apcprd06.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: b792f86a-3564-476a-f840-08d41d28e018
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:PU1APC01HT072;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:PU1APC01HT072;BCL:0;PCL:0;RULEID:;SRVR:PU1APC01HT072;
+x-forefront-prvs: 0147E151B5
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_PS1PR0601MB14024846E2AEF114BE174BBD9A830PS1PR0601MB1402_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 05 Dec 2016 16:08:00.2139
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PU1APC01HT072
+X-OriginalArrivalTime: 05 Dec 2016 16:08:03.0379 (UTC) FILETIME=[C1EDC830:01D24F11]
+
+--_000_PS1PR0601MB14024846E2AEF114BE174BBD9A830PS1PR0601MB1402_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I am Dinkar, working as a Business Development Executive.
+We are a highly skilled and determined team representing a fast growing US-=
+based IT company having development center in India.
+We specialize in:-
+"Graphic Design, Website Designing & Development/ CMS, ERP & CRM Software D=
+evelopment, iOS (iPhone & iPad), Android, Windows App, Hybrid Apps, Consume=
+r Mobile Design & Development, etc."
+If you are interested these services so give me your contact number and Sky=
+pe ID or drop me an email so that we can discuss the possible synergies bet=
+ween us.
+
+
+Thanks!
+
+
+Regards
+Dinkar Trivedi
+Business Development Executive
+
+
+--_000_PS1PR0601MB14024846E2AEF114BE174BBD9A830PS1PR0601MB1402_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <8E1AB992DFBC1646B21011E4D6CB766C@apcprd06.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#002060">Hi,</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#002060">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#002060">I am</span> <span styl=
+e=3D"color:#002060">
+Dinkar, working as a Business Development Executive. </span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#002060">We are a highly skille=
+d and determined team representing a fast growing US-based IT company havin=
+g development center in India.
+</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"color:#002060">We specialize in:-<=
+/span></b></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;text-indent:.5in">
+<b>&#8220;<span style=3D"color:#002060">Graphic Design, Website Designing &=
+amp; Development/ CMS, ERP &amp; CRM Software Development, iOS (iPhone &amp=
+; iPad), Android, Windows App, Hybrid Apps, Consumer Mobile Design &amp; De=
+velopment, etc.&#8221;</span></b>
+</p>
+<p class=3D"MsoNormal"><span style=3D"color:#002060">If you are interested =
+these services so give me your contact number and Skype ID or drop me an em=
+ail so that we can discuss the possible synergies between us.</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#002060">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt">&n=
+bsp;</p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"color:#002060">Thanks!</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt">&n=
+bsp;</p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"color:#002060">Regards<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"color:#002060">Dinkar Trivedi<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"color:#002060">Business Development Executive<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_PS1PR0601MB14024846E2AEF114BE174BBD9A830PS1PR0601MB1402_--

@@ -1,0 +1,352 @@
+Return-path: <info@meetup.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Fri, 02 Dec 2016 13:11:52 -0500
+Received: from mail4.nyi.meetup.com ([64.90.170.34]:52670)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <info@meetup.com>)
+	id 1cCsJM-000T7Z-Hc
+	for kyle@kylefisher.com; Fri, 02 Dec 2016 13:11:52 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=meetup; d=meetup.com;
+ h=Message-ID:From:Sender:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Date; i=info@meetup.com;
+ bh=snzum4wX576RhzqTLgAUGpapKzc=;
+ b=oaclpAzMr3pp9NSc7yuQCRq+SqSSRVH9nHl91TPjDVo336VpknwjdKS7GKlmrenYUBr/Nrh8ES1M
+   Am/H6Beah1qgwj/4iTtw52OmyVL6tJJ04qIxCrwovhyL+n3tSVnxKLrTHhUt4uGh6JE4fzB6Ms5P
+   koLrgvoGdEiKJaM5TNU=
+Received: by mail4.nyi.meetup.com id h86smi15obo8 for <kyle@kylefisher.com>; Fri, 2 Dec 2016 13:11:50 -0500 (envelope-from <info@meetup.com>)
+Received: by pmta0.phi.meetup.com id h86smc15odgo for <kyle@kylefisher.com>; Fri, 2 Dec 2016 13:11:50 -0500 (envelope-from <info@meetup.com>)
+Message-ID: <2019784921.1480702310392.JavaMail.root@jobs1.meetup.com>
+From: Dev Bootcamp Chicago Events and Workshops <info@meetup.com>
+Sender: info@meetup.com
+To: kyle@kylefisher.com
+Subject: 2 Meetups this Thursday
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-MEETUP-RECIP-ID: 197642355
+X-MEETUP-TRACK: ro2
+Date: Fri, 2 Dec 2016 13:11:50 -0500
+
+
+
+
+<html>
+	<head>
+		<title>Meetup</title>
+		<style type="text/css">
+				@media only screen and (max-device-width: 480px) {
+		.other-meetups-tearsheet {
+			display:none;
+		}
+		*[class=people],*[class=noFloat] {
+			width: 100%!important;
+			float:none!important
+		}
+		.showMobile {
+			color:#222!important;
+			line-height: 16px!important;
+			max-height:20px!important;
+			height:20px!important;
+		}
+		.hideMobile {
+			color:#fff!important;
+			line-height:0px!important;
+			display:none!important;
+		}
+	}
+	@media only screen and (max-device-width: 320px) {
+		.event-meta,
+		.event-rsvp-box,
+		.noFloat,
+		.event-rsvp-box-status {
+			float:none!important;
+			width:100%!important;
+		}
+		.showMobile {
+			color:#222!important;
+			line-height: 16px!important;
+			max-height:20px!important;
+			height:20px!important;
+		}
+		.hideMobile {
+			color:#fff!important;
+			line-height:5px!important;
+			display:none!important;
+		}
+		.event-rsvp-box {
+			margin-top:8px;
+		}
+		.other-meetups-rsvp {
+			width:40%!important;
+		}
+		.other-meetups-event-meta {
+			width:60%!important;
+		}
+		.event-rsvp-box-actions {
+			width:100%;
+		}
+		*[class=people] {
+			width: 100%!important;
+			float:none!important
+		}
+
+
+	}
+	@media only screen and (min-width: 10px) {
+		.meetup-button-gradient {
+			background-image:-webkit-gradient(linear,left top,left bottom,from(#e6304c),to(#cb1834));
+			background-image:-moz-linear-gradient(center top,#e6304c,#cb1834);
+			text-shadow:#b8263c -1px -1px 0;
+			-moz-box-shadow:#ed6e81 1px 1px 0 0 inset;
+			-webkit-box-shadow:#ed6e81 1px 1px 0 0 inset;
+			-o-box-shadow:#ed6e81 1px 1px 0 0 inset;
+			box-shadow:#ed6e81 1px 1px 0 0 inset;
+		}
+		.meetup-button-link {
+			border: none!important;
+			padding: 5px 18px!important;
+		}
+	}
+		</style>
+	</head>
+	<body style="margin:0;padding:0;font-family:arial;color:#333;background:#eee!important;text-align:center;">
+	<div style="background:#eee;">
+	
+			<table cellpadding="10" cellspacing="0" width="100%" style="width:100%;min-width:100%;">
+			<tr>
+				<td align="center" style="text-align:center;">
+					
+							<a style="display:block;height:25px;max-height:25px;" href="http://www.meetup.com/?_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw/"><img src="http://www.meetup.com/z/?_xtd=hKplbWFpbF9vcGVu2gAkNWRmMTUzOGEtMjFlZS00OTQ4LTk2NGItYzdlZjZjYjVhMzljqW1lbWJlcl9pZKkxOTc2NDIzNTWpc2VuZF90aW1lrTE0ODA3MDIzMTAzNjameHRyYWNro3JvMg&redirect_loc=http%3A%2F%2Fimg1.meetupstatic.com%2Fimg%2Femail%2Flogo_script%402x.png" width="71" height="25" alt="Meetup" style="border:0;" /></a>
+					</td>
+			</tr>
+		</table>
+	
+	<div style="width:94%;min-width:220px;max-width:650px;margin:0 auto;padding-top:6px;text-align:left;font-family:arial,sans-serif;font-size:13px;line-height:18px;color:#545454;;background:#eee;">
+				<div style="border-bottom:5px solid #eee;">
+			<span style="background:#e6304c;color:#fff;border:4px solid #e6304c;text-transform:uppercase;font-size:11px;">Meetup Reminders</span>
+		</div>
+		<div style="border-top:5px solid #eee;border-bottom:15px solid #eee; background:#eee;text-decoration:none;color:#e6304c;font-size:28px;line-height:30px;font-weight:bold;"><a href="https://www.meetup.com/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/" style="color:#222!important;text-decoration:none;"><font color="#222">Dev Bootcamp Chicago Events and Workshops</font></a></div>
+		<div style="border:1px solid #ccc;border-top:none;border-bottom-left-radius:5px;border-bottom-right-radius:5px;">
+		<div style="background:#fff;overflow:hidden;border-radius:5px;">
+			<div style="text-decoration:none;color:#fff;font-size:22px;font-weight:bold;line-height:28px;border-top-left-radius:5px;border-top-right-radius:5px;border-top:10px solid #e6304c;border-bottom:5px solid #e6304c;border-left:10px solid #e6304c; background:#e6304c;">
+															  Thursday
+												</div>
+			<div style="border-top:10px solid #fff; background:#fff;"></div>
+					<table style="width:100%">
+														<tr>
+			<td style="width:11%;min-width:60px;padding-right:5px;text-align:right;border-right:1px dotted #ccc;vertical-align:top;">
+				<div style="border-top:2px solid #fff;border-bottom:2px solid #fff;border-left:4px solid #fff;border-right:4px solid #fff; background:#fff;;color:#000;font-size:16px;">Thu <span style="color:#666;white-space:nowrap">Dec 8</span></div>
+				<div style="border-top:2px solid #fff;border-bottom:2px solid #fff;border-left:4px solid #fff;border-right:4px solid #fff; background:#fff;;color:#000;font-size:13px;white-space:nowrap">7:00 AM</div>
+			</td>
+			<td style="width:84%;vertical-align:top;">
+				<div style="border-bottom:5px solid #fff; background:#fff;padding-left:5px;color:#666;min-width:68%;max-width:340px;float:left;padding-right:10px;">
+							<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+			<div><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?gj=ro2_e&rv=ro2_e&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&expires=1480875110372&sig=e6d372f8fac26cb266102f735a47fd13a6550f0f" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Change Your Career Breakfast</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:5px solid #fff; background:#fff;">at Dev Bootcamp - NEW LOCATION</div>
+      <div style="clear:both">
+		<div style="width:196px;padding-right:5px">
+	<table cellspacing="0" cellpadding="0" style="width:196px;">
+	  <tr>
+		<td style="padding-right:1px;width:24px">
+				  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&expires=1480875110373&sig=409de101ff482fb00fd6c175744d8377d827e19a"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/f/3/3/thumb_14703891.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&expires=1480875110373&sig=409de101ff482fb00fd6c175744d8377d827e19a"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/5/2/f/0/thumb_4341232.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&expires=1480875110373&sig=409de101ff482fb00fd6c175744d8377d827e19a"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/d/b/d/thumb_10143517.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&expires=1480875110373&sig=409de101ff482fb00fd6c175744d8377d827e19a"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/9/2/c/a/thumb_245857578.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&expires=1480875110373&sig=409de101ff482fb00fd6c175744d8377d827e19a"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/c/7/b/2/thumb_237291122.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&expires=1480875110373&sig=409de101ff482fb00fd6c175744d8377d827e19a"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/8/1/6/6/thumb_248373126.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&expires=1480875110373&sig=409de101ff482fb00fd6c175744d8377d827e19a"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/1/a/7/3/thumb_254466771.jpeg" border="0" /></a>
+					  				</td>
+	  </tr>
+	</table>
+	</div>
+			<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+					  12
+		  			Members
+		  									</div>
+ </div>
+				</div>
+				<div style="float:left;border-bottom:5px solid #fff; background:#fff;width:120px;max-width:120px;text-align:center;">
+																											<div style="border-top:5px solid #fff; background:#fff;">
+							<table class="event-rsvp-box-actions" cellspacing="0" cellpadding="0" style="width:120px;">
+								<tr>
+									<td style="width:45%;">
+										<span style="border:1px solid #9d1328;display:block;background-color:#e9003c;-moz-border-radius: 3px 3px 3px 3px;-webkit-border-radius: 3px 3px 3px 3px;border-radius: 3px 3px 3px 3px;"><span class="meetup-button-gradient" style="background-color:#e9003c;display:block;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?refund_policy=true&rv=ro2&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&response=3&action=rsvp&fromEmail=235463452&expires=1480875110374&sig=5be2d22791533730592a64ebf1b3faa089613438" class="meetup-button-link" style="border-color:#e9003c;border-width:3px 6px;border-style:solid;font-family:arial,sans-serif;font-weight:bold;white-space:nowrap;color:#fff!important;display:block;text-decoration:none;text-align:center;cursor:pointer;font-size:12px;"><font color="#fff"><nobr>Yes</nobr></font></a></span></span>
+									</td>
+									<td style="width:5%;">&nbsp;</td>
+									<td style="width:45%;text-align:right;">
+										<span style="border:1px solid #9d1328;display:block;background-color:#e9003c;-moz-border-radius: 3px 3px 3px 3px;-webkit-border-radius: 3px 3px 3px 3px;border-radius: 3px 3px 3px 3px;"><span class="meetup-button-gradient" style="background-color:#e9003c;display:block;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235463452/?refund_policy=true&rv=ro2&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235463452&response=2&action=rsvp&expires=1480875110374&sig=becd0770d91a8ad3dfd9fa8e3aa2cd632d797e2c" class="meetup-button-link" style="border-color:#e9003c;border-width:3px 6px;border-style:solid;font-family:arial,sans-serif;font-weight:bold;white-space:nowrap;color:#fff!important;display:block;text-decoration:none;text-align:center;cursor:pointer;font-size:12px;"><font color="#fff"><nobr>No</nobr></font></a></span></span>
+									</td>
+								</tr>
+							</table>
+													</div>
+																</div>
+			</td>
+			</tr>
+			<tr><td colspan="2" style="height:10px">&nbsp;</td></tr>
+														<tr>
+			<td style="width:11%;min-width:60px;padding-right:5px;text-align:right;border-right:1px dotted #ccc;vertical-align:top;">
+				<div style="border-top:2px solid #fff;border-bottom:2px solid #fff;border-left:4px solid #fff;border-right:4px solid #fff; background:#fff;;color:#000;font-size:16px;">Thu <span style="color:#666;white-space:nowrap">Dec 8</span></div>
+				<div style="border-top:2px solid #fff;border-bottom:2px solid #fff;border-left:4px solid #fff;border-right:4px solid #fff; background:#fff;;color:#000;font-size:13px;white-space:nowrap">4:00 PM</div>
+			</td>
+			<td style="width:84%;vertical-align:top;">
+				<div style="border-bottom:5px solid #fff; background:#fff;padding-left:5px;color:#666;min-width:68%;max-width:340px;float:left;padding-right:10px;">
+							<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+			<div><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?gj=ro2_e&rv=ro2_e&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&expires=1480875110374&sig=c27273179c67bec81bfe541bd596917416ff79e6" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">VIRTUAL: Try Us For Free</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:5px solid #fff; background:#fff;">at LIVE ONLINE:</div>
+      <div style="clear:both">
+		<div style="width:196px;padding-right:5px">
+	<table cellspacing="0" cellpadding="0" style="width:196px;">
+	  <tr>
+		<td style="padding-right:1px;width:24px">
+				  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&expires=1480875110374&sig=f1270a6a1ceb9fd2f878c9f9e1216285c1201dd3"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/e/2/d/d/thumb_259918077.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&expires=1480875110375&sig=600db56860f3c252dc64b97e2c061020ebe50b6a"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/6/4/0/7/thumb_252625607.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&expires=1480875110375&sig=600db56860f3c252dc64b97e2c061020ebe50b6a"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/b/e/6/9/thumb_258108745.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&expires=1480875110375&sig=600db56860f3c252dc64b97e2c061020ebe50b6a"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/c/9/d/8/thumb_219711672.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&expires=1480875110375&sig=600db56860f3c252dc64b97e2c061020ebe50b6a"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/c/7/b/2/thumb_237291122.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&expires=1480875110375&sig=600db56860f3c252dc64b97e2c061020ebe50b6a"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/b/9/d/e/thumb_250487582.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&expires=1480875110375&sig=600db56860f3c252dc64b97e2c061020ebe50b6a"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/c/f/6/5/thumb_251993093.jpeg" border="0" /></a>
+					  				</td>
+	  </tr>
+	</table>
+	</div>
+			<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+					  14
+		  			Members
+		  									</div>
+ </div>
+				</div>
+				<div style="float:left;border-bottom:5px solid #fff; background:#fff;width:120px;max-width:120px;text-align:center;">
+																											<div style="border-top:5px solid #fff; background:#fff;">
+							<table class="event-rsvp-box-actions" cellspacing="0" cellpadding="0" style="width:120px;">
+								<tr>
+									<td style="width:45%;">
+										<span style="border:1px solid #9d1328;display:block;background-color:#e9003c;-moz-border-radius: 3px 3px 3px 3px;-webkit-border-radius: 3px 3px 3px 3px;border-radius: 3px 3px 3px 3px;"><span class="meetup-button-gradient" style="background-color:#e9003c;display:block;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?refund_policy=true&rv=ro2&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&response=3&action=rsvp&fromEmail=235911190&expires=1480875110376&sig=53b0cbb1d76b702fe776e145a16f5e136ec8169e" class="meetup-button-link" style="border-color:#e9003c;border-width:3px 6px;border-style:solid;font-family:arial,sans-serif;font-weight:bold;white-space:nowrap;color:#fff!important;display:block;text-decoration:none;text-align:center;cursor:pointer;font-size:12px;"><font color="#fff"><nobr>Yes</nobr></font></a></span></span>
+									</td>
+									<td style="width:5%;">&nbsp;</td>
+									<td style="width:45%;text-align:right;">
+										<span style="border:1px solid #9d1328;display:block;background-color:#e9003c;-moz-border-radius: 3px 3px 3px 3px;-webkit-border-radius: 3px 3px 3px 3px;border-radius: 3px 3px 3px 3px;"><span class="meetup-button-gradient" style="background-color:#e9003c;display:block;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235911190/?refund_policy=true&rv=ro2&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235911190&response=2&action=rsvp&expires=1480875110376&sig=61a6880cb3ccb2e3ed982cf092b59949df12527d" class="meetup-button-link" style="border-color:#e9003c;border-width:3px 6px;border-style:solid;font-family:arial,sans-serif;font-weight:bold;white-space:nowrap;color:#fff!important;display:block;text-decoration:none;text-align:center;cursor:pointer;font-size:12px;"><font color="#fff"><nobr>No</nobr></font></a></span></span>
+									</td>
+								</tr>
+							</table>
+													</div>
+																</div>
+			</td>
+			</tr>
+			<tr><td colspan="2" style="height:10px">&nbsp;</td></tr>
+				</table>
+	</div>
+	</div>
+
+				<div style="border-top:20px solid #eee; background:#eee;"></div>
+		<div style="border:1px solid #ccc;border-top:none;border-bottom-left-radius:5px;border-bottom-right-radius:5px;">
+		<div style="background:#fff;overflow:hidden;border-radius:5px;">
+			<div style="text-decoration:none;color:#fff;font-size:22px;font-weight:bold;line-height:28px;border-top-left-radius:5px;border-top-right-radius:5px;border-top:10px solid #e6304c;border-bottom:5px solid #e6304c;border-left:10px solid #e6304c; background:#e6304c;">
+			Other upcoming Meetups
+		</div>
+				<div style="border-top:10px solid #fff; background:#fff;"></div>
+				<table style="width:100%">
+														<tr>
+			<td style="width:11%;min-width:60px;padding-right:5px;text-align:right;border-right:1px dotted #ccc;vertical-align:top;">
+				<div style="border-top:2px solid #fff;border-bottom:2px solid #fff;border-left:4px solid #fff;border-right:4px solid #fff; background:#fff;;color:#000;font-size:16px;">Wed <span style="color:#666;white-space:nowrap">Dec 14</span></div>
+				<div style="border-top:2px solid #fff;border-bottom:2px solid #fff;border-left:4px solid #fff;border-right:4px solid #fff; background:#fff;;color:#000;font-size:13px;white-space:nowrap">6:30 PM</div>
+			</td>
+			<td style="width:84%;vertical-align:top;">
+				<div style="border-bottom:5px solid #fff; background:#fff;padding-left:5px;color:#666;min-width:68%;max-width:340px;float:left;padding-right:10px;">
+							<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+			<div><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?gj=ro2_e&rv=ro2_e&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&expires=1480875110376&sig=13e93bab005b43bf11e968047661df8b6962d43a" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">EdTech Chicago: Our Inaugural Meetup with eSpark Learning</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:5px solid #fff; background:#fff;">at eSpark Learning</div>
+      <div style="clear:both">
+		<div style="width:196px;padding-right:5px">
+	<table cellspacing="0" cellpadding="0" style="width:196px;">
+	  <tr>
+		<td style="padding-right:1px;width:24px">
+				  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&expires=1480875110376&sig=2216c5011149483aaeafb2fa142f014bbd744660"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/1/f/9/6/thumb_4748086.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&expires=1480875110376&sig=2216c5011149483aaeafb2fa142f014bbd744660"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/4/9/a/3/thumb_16698851.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&expires=1480875110377&sig=2c3546c21593a34230f2c2ae4f14d459de34071b"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/2/b/0/4/thumb_75371012.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&expires=1480875110377&sig=2c3546c21593a34230f2c2ae4f14d459de34071b"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/6/7/a/3/thumb_251786531.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&expires=1480875110377&sig=2c3546c21593a34230f2c2ae4f14d459de34071b"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/6/2/6/8/thumb_92605192.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&expires=1480875110377&sig=2c3546c21593a34230f2c2ae4f14d459de34071b"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/4/e/f/4/thumb_85340212.jpeg" border="0" /></a>
+					  						<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?gj=ro2_p&rv=ro2_p&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&expires=1480875110377&sig=2c3546c21593a34230f2c2ae4f14d459de34071b"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/2/c/b/c/thumb_215411452.jpeg" border="0" /></a>
+					  				</td>
+	  </tr>
+	</table>
+	</div>
+			<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+					  18
+		  			Members
+		  									</div>
+ </div>
+				</div>
+				<div style="float:left;border-bottom:5px solid #fff; background:#fff;width:120px;max-width:120px;text-align:center;">
+																											<div style="border-top:5px solid #fff; background:#fff;">
+							<table class="event-rsvp-box-actions" cellspacing="0" cellpadding="0" style="width:120px;">
+								<tr>
+									<td style="width:45%;">
+										<span style="border:1px solid #9d1328;display:block;background-color:#e9003c;-moz-border-radius: 3px 3px 3px 3px;-webkit-border-radius: 3px 3px 3px 3px;border-radius: 3px 3px 3px 3px;"><span class="meetup-button-gradient" style="background-color:#e9003c;display:block;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?refund_policy=true&rv=ro2&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&response=3&action=rsvp&fromEmail=235518539&expires=1480875110377&sig=cb41c6237e50e9e021c95ba85c1da2a167129c1f" class="meetup-button-link" style="border-color:#e9003c;border-width:3px 6px;border-style:solid;font-family:arial,sans-serif;font-weight:bold;white-space:nowrap;color:#fff!important;display:block;text-decoration:none;text-align:center;cursor:pointer;font-size:12px;"><font color="#fff"><nobr>Yes</nobr></font></a></span></span>
+									</td>
+									<td style="width:5%;">&nbsp;</td>
+									<td style="width:45%;text-align:right;">
+										<span style="border:1px solid #9d1328;display:block;background-color:#e9003c;-moz-border-radius: 3px 3px 3px 3px;-webkit-border-radius: 3px 3px 3px 3px;border-radius: 3px 3px 3px 3px;"><span class="meetup-button-gradient" style="background-color:#e9003c;display:block;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235518539/?refund_policy=true&rv=ro2&_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&_af=event&_af_eid=235518539&response=2&action=rsvp&expires=1480875110378&sig=35c74de8f4deb47939310255b761e13061ab29e7" class="meetup-button-link" style="border-color:#e9003c;border-width:3px 6px;border-style:solid;font-family:arial,sans-serif;font-weight:bold;white-space:nowrap;color:#fff!important;display:block;text-decoration:none;text-align:center;cursor:pointer;font-size:12px;"><font color="#fff"><nobr>No</nobr></font></a></span></span>
+									</td>
+								</tr>
+							</table>
+													</div>
+																</div>
+			</td>
+			</tr>
+			<tr><td colspan="2" style="height:10px">&nbsp;</td></tr>
+				</table>
+			<div style="font-size:22px;line-height:24px;border-top:15px solid #fff;border-bottom:25px solid #fff;border-left:15px solid #fff; background:#fff;">
+				<a href="https://www.meetup.com/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/" style=" color: #3987CB; text-decoration: none; ">See all upcoming Meetups &rarr;</a>
+			</div>
+		</div>
+		</div>
+		<div style="border-top:20px solid #eee; background:#eee;"></div>
+	</div>
+	
+		
+		
+	
+	
+	
+	
+	
+	
+			
+						
+	
+					<div style="clear:both;background-color:#eee;border-top:solid 20px #eee;border-bottom:solid 15px #eee;margin:30px 0 0;">
+					<div style="width:94%;margin:0 auto;text-align:center;border-left:solid 10px #eee;border-right:solid 10px #eee;min-width:220px;max-width:650px;font-family:arial;color:#2d2d2d;font-size:11px;">
+				<p style="font-size:16px;font-weight:bold;margin:0 0 10px;"><span style="white-space:nowrap">Never miss a last-minute change.</span> <span style="white-space:nowrap">Get the app.</span></p>
+				<a href="http://www.meetup.com/z/?_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&redirect_loc=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fapple-store%2Fid375990038%3Fpt%3D288116%26ct%3Demailfooter%26mt%3D8" style="text-decoration:none;padding-right:8px;">
+					<img src="http://img2.meetupstatic.com/img/6988977282720425/app_download/ios/download.en.png" width="135" height="40" alt="iPhone App Store" style="background-color:#eee;text-decoration:none;" />
+				</a>
+				<a href="http://www.meetup.com/z/?_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&redirect_loc=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.meetup%26referrer%3Dutm_source%253Demailfooter" style="text-decoration:none;">
+					<img src="http://img2.meetupstatic.com/img/1294502142233052803560317/app_download/android/download.en.png" width="135" height="40"  alt="Google Play" style="background-color:#eee;text-decoration:none;"/>
+				</a>
+			</div>
+		</div>
+	
+		<table align="center" cellspacing="0" cellpadding="10" width="100%" bgcolor="#eeeeee"><tr><td align="center">
+		<table cellspacing="0" cellpadding="0" align="center"><tr><td width="650" style="text-align:left;font-family:helvetica,arial,sans-serif;color:#626262;">
+							<p style="font-size:10px;margin-bottom:.25em;color:#626262;">
+					You're getting this message because your Meetup account is connected to this email address.
+				</p>
+									<p style="font-size:10px;margin-bottom:.25em;color:#626262;">
+						<a style='text-decoration:underline !important;color:#626262;color:#626262!important' href='https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/optout/?_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw&submit=true&eo=ro2&_ms_unsub=true&email=evRemind&expires=1483294310378&sig=d8f0cb28db416dd79cdf4864301bf084b537f1f3'>Unsubscribe</a> from similar emails from this Meetup group.
+						<a style="text-decoration:underline !important;color:#626262;color:#626262!important" href="http://www.meetup.com/account/comm/?_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw">Manage your settings</a> for all types of email updates.
+					</p>
+												<p style="font-size:10px;margin-bottom:.25em;color:#626262;">
+					Visit your <a style="text-decoration:underline !important;color:#626262;color:#626262!important" href="http://www.meetup.com/account/?_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw">account page</a> to change your contact details, privacy settings, and other settings.
+				</p>
+			
+			<p style="font-size:10px;margin-bottom:.25em;color:#626262;">
+				<a style="text-decoration:underline !important;color:#626262;color:#626262!important" href="http://www.meetup.com/?_xtd=gatlbWFpbF9jbGlja9oAJDVkZjE1MzhhLTIxZWUtNDk0OC05NjRiLWM3ZWY2Y2I1YTM5Yw">Meetup Inc.</a>, POB 4668 #37895 New York NY USA 10163
+			</p>
+		</td></tr></table>
+	</td></tr></table>
+	</body>
+</html>
+

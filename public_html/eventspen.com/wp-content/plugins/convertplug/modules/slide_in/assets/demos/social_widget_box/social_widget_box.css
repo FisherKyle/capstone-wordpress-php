@@ -1,0 +1,468 @@
+/* = Optin widget
+ *-------------------------------------------------- */
+.cp-slidein-body .cp-social-widget,
+.cp-social-widget .cp-slidein-body {
+    background-color: transparent;
+    text-align: center;
+    padding-bottom: 0;
+}
+
+.cp-social-widget .cp-text-container.cp-right-contain {
+    padding: 40px 50px 30px 0;
+}
+
+.cp-social-widget .cp_responsive.cp_font {
+    line-height: normal;
+}
+
+.cp-slidein-window-size .cp-slidein-body.cp-social-widget {
+    background-color: transparent;
+}
+
+.cp-social-widget .cp-bigtext-container {
+    padding: 25px 15px 10px;
+}
+
+.cp-social-widget .cp-desc-container {
+    margin-bottom: 0px;
+}
+
+.cp-social-widget .cp-title,
+.cp-social-widget h2.cp-title {
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    color: #000;
+    line-height: 28px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.cp-social-widget .cp-form-container,
+.cp-social-widget .cp-desc-container,
+.cp-social-widget .cp-description {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    line-height: 1em;
+    color: #000;
+    margin-bottom: 0px;
+}
+
+.cp-social-widget .cp-description {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.cp-social-widget .cp-desc-container,
+.cp-social-widget .cp-title-container {
+    margin-bottom: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.cp-social-widget .cp-info-container {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    line-height: 1em;
+    color: #000;
+    padding: 0;
+    margin-top: -5px;
+    margin-bottom: 20px;
+    text-align: left;
+    padding: 10px 0 0 15px;
+}
+.cp-social-widget .cp-text-container {
+    text-align: center;
+}
+.cp-social-widget .cp-desc-timetable,
+.cp-social-widget .cp-mid-desc-container {
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    line-height: 1em;
+    color: rgb(250, 250, 250);
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+    float: left;
+    margin: 0 0 10px;
+    padding: 10px 0;
+}
+
+.cp-social-widget .cp-mid-desc-container {
+    padding-bottom: 0;
+}
+
+.cp-social-widget .cp-submit {
+    background-color: rgb(68, 68, 68);
+    color: #000;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 1.5em;
+    border-radius: 3px;
+    outline: none;
+    margin: 0;
+}
+
+.cp-social-widget .cp-submit,
+.cp-social-widget .cp-submit:hover,
+.cp-social-widget .cp-submit:active,
+.cp-social-widget .cp-submit:focus {
+    background-color: rgb(68, 68, 68);
+    background-image: none;
+    color: #000;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.cp-slidein .cp-social-widget .cp-submit {
+    border-radius: 3px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.cp-social-widget input.cp-email,
+.cp-social-widget input.cp_name,
+.cp-social-widget input.cp-name {
+    line-height: 1.3em;
+    margin: 0 0 10px;
+}
+
+.cp-social-widget .form-main.cp-form-layout-3 {
+    margin: 0;
+    padding: 0px 15px 0px 25px;
+}
+
+.cp-social-widget .form-main.cp-form-simple {
+    padding-bottom: 0px;
+}
+
+.cp-optin-widgetcp-optin .form-button {
+    padding-right: 0;
+}
+
+.cp-social-widget .cp-slidein-window-size .cp-slidein-body,
+.cp-slidein-window-size .cp-slidein-body.cp-social-widget {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.cp-social-widget .cp_social_media_wrapper {
+    margin: 0 0 30px;
+    padding: 0 25px;
+}
+
+/*--- form ---*/
+.cp-social-widget .col-md-6.cp-email-form {
+    padding-right: 0;
+}
+
+.cp-social-widget .cp-formwith-name>div,
+.cp-social-widget .cp-form-simple .form-button {
+    padding-left: 0;
+}
+
+.cp-social-widget .cp-form-simple .form-button {
+    padding-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.cp-social-widget .cp-name-btn {
+    display: inline-block;
+}
+
+.cp-social-widget .cp-formwith-name .cp-form {
+    margin-bottom: 10px;
+}
+
+.cp-social-widget form#smile-optin-form {
+    margin-bottom: 0;
+}
+
+.cp-social-widget .cp-info-container .error,
+.cp-social-widget .cp-info-container .success {
+    width: 100%;
+    max-width: 90%;
+    padding: 20px 15px;
+    border-color: #000;
+}
+
+.cp-social-widget .cp-right-contain {
+    float: right;
+}
+
+.cp-social-widget .cp-hide-image {
+    display: none;
+}
+
+.cp-row.cp-social-widget-form {
+    width: 100%;
+    margin-left: 0;
+    padding-top: 25px;
+    text-align: center;
+    float: left;
+}
+
+.cp-social-widget .cp-name-form,
+.cp-social-widget .cp-name-form.cp_big_name {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.cp-social-widget .cp-form-container {
+    display: block;
+}
+
+.cp-social-widget .form-main.cp-formwith-name {
+    padding-bottom: 5px;
+}
+
+.cp-social-widget .cp-form-container.cp-no-padding {
+    padding: 0 10px;
+}
+
+.cp-social-widget #cp_button_editor span.cp_responsive.cp_font {
+    line-height: 1em;
+}
+
+.cp-social-widget .cp-short-desc-font {
+    font-style: italic;
+}
+
+.cp-social-widget .cp-email-form .cp_big_email {
+    padding-right: 0;
+}
+
+.cp-social-widget .cp-email-form.cp-email-wth-btn-onnext {
+    padding-right: 0;
+}
+
+.cp-social-widget .cp-submit-container {
+    padding-left: 0px;
+}
+
+.cp-social-widget .cp-form-name {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.cp-social-widget .cp-form-name {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.cp-social-widget .cp-formwith-name>div {
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+}
+
+.cp-social-widget .form-button-nxt-line {
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.cp-social-widget .cp-formwith-name .cp-form-email.form-content {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.cp-social-widget .cp-slidein-head .cp-title-container {
+    float: left;
+    padding: 5px 15px;
+    width: 85%;
+}
+
+.cp-slidein-inline .cp-social-widget .cp-slidein-head .cp-title-container {
+    width: 100%;
+}
+
+.cp-social-widget .cp-slidein-head .cp-slidein-toggle {
+    text-align: right;
+    float: right;
+    position: absolute;
+    right: 5px;
+    padding: 0px;
+    top: 50%;
+    color: #000;
+    cursor: pointer;
+    -webkit-transition: -webkit-transform 800ms;
+    -moz-transition: -moz-transform 800ms;
+    -ms-transition: -ms-transform 800ms;
+    transition: transform 800ms;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.cp-social-widget .cp-slidein-head .cp-slidein-toggle.cp-widget-open {
+    -webkit-transform: translateY(-50%) rotate(-180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: translateY(-50%) rotate(180deg);
+}
+
+.cp-social-widget .cp-slidein-head {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    border-bottom: 1px solid #999;
+}
+
+.cp-social-widget.cp-slidein-body {
+    padding: 0;
+}
+
+.cp-social-widget-container .cp-slidein.slidein-bottom-left {
+    left: 25px;
+}
+
+/*-----icon-----*/
+.cp-optin-toggle-icon {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding: 8px;
+    font-size: 15px;
+    line-height: 1em;
+}
+
+.cp-optin-toggle-icon:before {
+    border-style: solid;
+    border-width: .25em .25em 0 0;
+    content: '';
+    display: inline-block;
+    height: .6em;
+    left: .15em;
+    position: relative;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    vertical-align: middle;
+    width: .6em;
+    top: 0;
+}
+
+.cp-optin-toggle-icon:before {
+    top: 0;
+}
+
+.cp-social-widget  .cp-center-align-text input[name=email],
+.cp-social-widget  .cp-center-align-text input[name=name],
+.cp-social-widget  .cp-center-align-text input[type=email],
+.cp-social-widget  .cp-center-align-text input[type=text] {
+    text-align: center !important;
+}
+
+
+@media (max-width:1355px) {
+    .cp-social-widget .cp_name_submit {
+        display: block !important;
+        margin-right: 0px;
+        padding-right: 15px;
+    }
+
+    .cp-social-widget .cp-name-form {
+        padding-right: 15px;
+    }
+
+}
+
+@media (max-width:768px) {
+    .cp-slidein-body.cp-social-widget {
+        text-align: center;
+    }
+
+    .cp-social-widget input.cp-email,
+    .cp-social-widget input.cp-name {
+        text-align: center;
+    }
+
+    .cp-social-widget .cp-slidein-window-size .cp-slidein-body,
+    .cp-slidein-window-size .cp-slidein-body.cp-social-widget {
+        max-width: 100%;
+    }
+
+    .cp-slidein .cp-social-widget .cp-submit {
+        width: 100%;
+    }
+
+    .cp-social-widget .cp-info-container .error,
+    .cp-social-widget .cp-info-container .success {
+        max-width: 100%;
+    }
+
+    .cp-social-widget .cp-right-contain {
+        float: left;
+    }
+
+    .cp-social-widget .cp-submit-container {
+        padding-left: 15px;
+    }
+
+    .cp-social-widget .col-lg-8.col-md-8.col-sm-8.col-xs-12.cp-form-email {
+        padding-right: 15px;
+    }
+
+    .cp-social-widget .cp-form-email.form-content {
+        float: left;
+    }
+
+    .cp-social-widget .cp-desc-timetable,
+    .cp-social-widget .cp-mid-desc-container,
+    .cp-social-widget .cp-info-container {
+        font-size: 12px;
+    }
+
+    .cp-social-widget .cp-email-form,
+    .cp-social-widget .cp-name-form {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .cp-social-widget .cp-email-form.cp-email-wth-btn-onnext {
+        padding-right: 15px;
+    }
+
+}
+
+@media (min-width:768px) {
+    .cp-social-widget .cp-form-without-name .cp-email-form {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .cp-social-widget .cp_name_submit {
+        padding-left: 15px;
+    }
+
+    .cp-social-widget .cp-submit-container {
+        padding-left: 15px;
+    }
+
+    .cp-social-widget .cp-email-form.cp-email-wth-btn-onnext {
+        padding-right: 15px;
+    }
+
+    .cp-social-widget .cp-form-name {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .cp-social-widget .form-button {
+        display: block;
+        float: left;
+    }
+
+    .cp-social-widget .cp-form-simple .form-button {
+        padding-left: 0px;
+    }
+
+}

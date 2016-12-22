@@ -1,0 +1,34 @@
+Return-path: <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 19 Dec 2016 15:44:54 -0500
+Received: from mail-s56.mailgun.us ([184.173.153.56]:18973)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>)
+	id 1cJ4nm-003F7B-Nz
+	for kyle@kylefisher.com; Mon, 19 Dec 2016 15:44:54 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=epicodus.com; q=dns/txt; s=mx;
+ t=1482180292; h=Content-Transfer-Encoding: Mime-Version: Content-Type:
+ Subject: From: To: Message-Id: Date: Sender;
+ bh=Z0xFZYYVWjYuvCe5gIzYUN504HbH5pd44DkNNK+AT2M=; b=IZTVlwWVrP/ELLCKuwFjDQHLUQCJGFzzS+HMynPFBv6jq1gKKf0HWtoctY0qVdbrE41krj8+
+ in85RAwwjgagCI+g4vPi/oD1uWSqEmXlyc9MyuTqNctjuknFNN3a1njOb6mzijKyjPO2z2kS
+ TjuWWbspFelUaNxKWmiinqZm1xE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=epicodus.com; s=mx; q=dns;
+ h=Sender: Date: Message-Id: To: From: Subject: Content-Type:
+ Mime-Version: Content-Transfer-Encoding;
+ b=FhRMKbDGTgLftD+gl50ezmQWbB5Gl5LNjujTWcBWm/UFcaaIiXoZ/FxCgHv5WZg7Uy/0hP
+ ZIbHt+uPGhw2jh4EODYT+IHZk0bApd+tKukusjjyFP3WSGopZg9G6E7mkdjiNxR9PMQqTErV
+ qbPCtMz2x9tl2cIWTp3zG95bnYKvo=
+Sender: no-reply@epicodus.com
+Date: Mon, 19 Dec 2016 20:44:52 +0000
+X-Mailgun-Sending-Ip: 184.173.153.56
+X-Mailgun-Sid: WyI4ZmIxZiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgImUxZTk1Il0=
+Received: by luna.mailgun.net with HTTP; Mon, 19 Dec 2016 20:44:51 +0000
+Message-Id: <20161219204451.18108.51892.686B4A99@epicodus.com>
+To: kyle@kylefisher.com
+From: no-reply@epicodus.com
+Subject: Code review reviewed
+Content-Type: text/plain; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi Kyle Fisher. Your LinkedIn review code has been reviewed. You can view it at https://epicenter.epicodus.com/courses/98/code_reviews/523.

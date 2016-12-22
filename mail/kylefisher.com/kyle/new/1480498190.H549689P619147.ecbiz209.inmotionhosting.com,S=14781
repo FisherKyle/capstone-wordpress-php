@@ -1,0 +1,328 @@
+Return-path: <bounces+2306986-ebf3-kyle=kylefisher.com@mail.notifications.atlassian.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Wed, 30 Nov 2016 04:29:50 -0500
+Received: from o2.mail.notifications.atlassian.com ([167.89.80.122]:63811)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2306986-ebf3-kyle=kylefisher.com@mail.notifications.atlassian.com>)
+	id 1cC1D4-002b42-EY
+	for kyle@kylefisher.com; Wed, 30 Nov 2016 04:29:50 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=atlassian.com; 
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to; 
+	s=s1; bh=8NkRJkh0uyWzgz+vs+nwdetOLvA=; b=ZJ+WeOW0lKqWwl0Q8xrUHYv
+	2FgrVIXnibHPgme59fmq+/9dsyAtp2plkhM1kSzgFcFm0gtswWSKDq3W1vBhJk63
+	HjNDulYCIIeHrh7k35Zm6qpEjTlwguQ20JUvc0ZdIusGV7LIou3EPNwTcxUdzhoW
+	zJr7XTuWXs1jeWPmxoCI=
+Received: by filter1070p1mdw1.sendgrid.net with SMTP id filter1070p1mdw1-16977-583E9C0D-42
+        2016-11-30 09:29:49.999244602 +0000 UTC
+Received: from MjMwNjk4Ng (unknown [104.192.142.132])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with HTTP id ZGL60p01RESy6KiwObramg
+	for <kyle@kylefisher.com>; Wed, 30 Nov 2016 09:29:49.943 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 30 Nov 2016 09:29:49 +0000
+From: "Atlassian" <noreply@mail.notifications.atlassian.com>
+Mime-Version: 1.0
+Subject: Please verify your email address
+To: kyle@kylefisher.com
+Message-ID: <ZGL60p01RESy6KiwObramg@ismtpd0004p1iad1.sendgrid.net>
+X-SG-EID: eU/ka35llXGMH3nAOV67BrlAvnJbsZjQ68cwO3vk6pXPm9AfXfaD2ScX3kfVZjpxo0t1dFHveFmKLZ
+ ZYVZavXh73kMcN694srJf8+MPs7LRDJ4O3Xzr0hNcnV8hOEiSbuWKqCQnI4CthjmUz3RN9xcvFKM5A
+ dBjVR1Sj0vWKWlxoCctS+PNSmnTcmJjbZZhD8yPfVB9MaBNrMX4fACLLogQ2qs5JX/EJ8cLcyjwEtn
+ 2UxuzXnw7bB2A/oqICTI2m
+X-SG-ID: I2J94Ggqbh7iZM5BfkBPWbXPefMe2JN2noq9GQ5gNvIjsxzTJD1+97+BqEf5xCrF
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+	<title>Atlassian</title>
+    <meta charset=3D"utf-8" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+    <style type=3D"text/css" xml:space=3D"preserve">
+        /* CLIENT-SPECIFIC STYLES */
+        #outlook a{padding:0;} /* Force Outlook to provide a "view in brows=
+er" message */
+        .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotm=
+ail to display emails at full width */
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalCla=
+ss font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Forc=
+e Hotmail to display normal line spacing */
+        body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adj=
+ust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes=
+ */
+        table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove sp=
+acing between tables in Outlook 2007 and up */
+        img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of=
+ resized image in Internet Explorer */
+        /* RESET STYLES */
+        body{margin:0; padding:0;}
+        img{border:0; height:auto; line-height:100%; outline:none; text-dec=
+oration:none;}
+        table{border-collapse:collapse !important;}
+        body{height:100% !important; margin:0; padding:0; width:100% !impor=
+tant;}
+        /* iOS BLUE LINKS */
+        .appleBody a {color:#68440a; text-decoration: none;}
+        .appleFooter a {color:#999999; text-decoration: none;}
+        /* MOBILE STYLES */
+        @media screen and (max-width: 480px) {
+            .wrapper_shrink {
+                width:100% !important;
+                padding-left: 5px !important;
+                padding-right: 5px !important;
+            }
+            .table_shrink {
+                width:95% !important;
+            }
+            .hero {
+                width: 100% !important;
+            }
+            .left_table, .right_table {
+                 width:100% !important;
+            }
+            .td{
+                padding-right: 10px !important;
+            }
+            .footer{
+                padding-left: 0px !important;
+                padding-right: 0px !important;
+            }
+            #footer_logo{
+                padding-right: 0px !important;
+            }
+        }
+    </style>
+=20=20=20=20
+	<meta charset=3D"UTF-8" />
+=09
+=09
+
+=09
+=20=20=20=20
+=09
+=20=20=20=20
+</head>
+<body>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#ffffff" class=3D"table_shrink" align=3D"center">
+    <tr>
+        <td rowspan=3D"1" colspan=3D"1">
+            <table width=3D"520px" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" bgcolor=3D"#ffffff" align=3D"center" class=3D"table_shrink">
+                <tr>
+                    <td valign=3D"top" rowspan=3D"1" colspan=3D"1">
+                        <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" bgcolor=3D"#ffffff" class=3D"table_shrink">
+                            <tr>
+                                <td rowspan=3D"1" colspan=3D"1">
+                                    <div>
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#ffffff" class=3D"table_shrink">
+            <tr>
+                <td valign=3D"top" style=3D"padding-top: 0px; font-family:H=
+elvetica neue, Helvetica, Arial, Verdana, sans-serif; color: #205081; font-=
+size: 20px; line-height: 32px; text-align:left; font-weight:bold;" align=3D=
+"left" rowspan=3D"1" colspan=3D"1">
+                    <span>Please verify your email address</span>
+                </td>
+            </tr>
+        </table>
+    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"color:#cccccc; padding-top: 10=
+px;" valign=3D"top" rowspan=3D"1" colspan=3D"1">
+                                    <hr color=3D"#cccccc" size=3D"1" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div>
+        <tr valign=3D"top">
+            <td align=3D"left" style=3D"padding-top: 0px; padding-bottom:0p=
+x;" rowspan=3D"1" colspan=3D"1">
+                <img style=3D"display:block" src=3D"https://common-admin-cd=
+n.atlassian.com/arke/assets/template/aid_account_verification_adg/aid_accou=
+nt_verification_migration.png" alt=3D"Download images and then verify your =
+email address!" width=3D"360" height=3D"180" border=3D"0" class=3D"hero" />
+            </td>
+        </tr>
+    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div>
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#ffffff" class=3D"table_shrink">
+            <tr valign=3D"top">
+                <td valign=3D"top" style=3D"padding-top: 20px; font-family:=
+ Helvetica, Helvetica neue, Arial, Verdana, sans-serif; color: #333333; fon=
+t-size: 14px; line-height: 24px; text-align:left; font-weight:none;" align=
+=3D"left" rowspan=3D"1" colspan=3D"1">
+                    <span>Hi</span><span> Kyle Fisher</span>,
+                </td>
+            </tr>
+        </table>
+    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div>
+        <tr>
+            <td valign=3D"top" style=3D"padding-top: 10px; font-family: Hel=
+vetica, Helvetica neue, Arial, Verdana, sans-serif; color: #333333; font-si=
+ze: 14px; line-height: 20px; text-align:left; font-weight:none;" align=3D"l=
+eft" rowspan=3D"1" colspan=3D"1">Please verify your email address so we kno=
+w that it's really you!</td>
+        </tr>
+    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div>
+        <tr>
+            <td align=3D"left" style=3D"padding-bottom: 20px; padding-top:2=
+0px;" rowspan=3D"1" colspan=3D"1">
+                <a target=3D"_blank" style=3D"font-size: 16px; font-family:=
+ Helvetica, Helvetica neue, Arial, Verdana, sans-serif; font-weight: none; =
+color: #ffffff; text-decoration: none; background-color: #3572b0; border-to=
+p: 11px solid #3572b0; border-bottom: 11px solid #3572b0; border-left: 20px=
+ solid #3572b0; border-right: 20px solid #3572b0; border-radius: 5px; -webk=
+it-border-radius: 5px; -moz-border-radius: 5px; display: inline-block;" cla=
+ss=3D"mobile-button" alias=3D"button" shape=3D"rect" href=3D"https://id.atl=
+assian.com/verify-email?application=3Dbitbucket&amp;continue=3Dhttps%3A//bi=
+tbucket.org/socialauth/login/atlassianid/?next%3D%252Faccount%252Fdispatch%=
+252F&amp;email=3Dkyle%40kylefisher.com&amp;token=3DeyJhbGciOiJIUzI1NiIsInR5=
+cCI6IkpXVCJ9.eyJ2ZXJpZmljYXRpb25UeXBlIjoidmVyaWZ5Iiwic2NvcGUiOiJlbWFpbFZhbG=
+lkYXRpb24iLCJyZW1lbWJlck1lIjoiZmFsc2UiLCJwcm9tcHQiOiJmYWxzZSIsImV4cCI6MTQ4M=
+TEwMjk4OSwiaWF0IjoxNDgwNDk4MTg5LCJzdWIiOiJreWxlQGt5bGVmaXNoZXIuY29tIiwidXNl=
+cklkIjoiNTU3MDU4OjQxMjViNGJjLTU1MTktNDc1NC04MDYxLTM4YjQ4NzVlOTQ2YyIsImlzcyI=
+6ImFjY291bnQifQ.761LmpUW9d0I6v4SmeEv2esOOqnD95rlYY-qgGuoBFE">
+                    Verify my email address
+                </a>
+            </td>
+        </tr>
+    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div>
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#ffffff">
+            <tr valign=3D"top">
+                <td valign=3D"top" style=3D"padding-top: 10px; font-family:=
+ Helvetica, Helvetica neue, Arial, Verdana, sans-serif; color: #333333; fon=
+t-size: 14px; line-height: 24px; text-align:left; font-weight:none;" align=
+=3D"left" rowspan=3D"1" colspan=3D"1">
+                    <span>Cheers,</span><br clear=3D"none" />
+                    <span>The Atlassians</span>
+                </td>
+            </tr>
+        </table>
+    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" align=3D"left" rowspan=
+=3D"1" colspan=3D"1">
+                                    <div></div>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan=3D"1" colspan=3D"1">
+                        <table width=3D"520px" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" bgcolor=3D"#ffffff" class=3D"table_shrink" align=3D"ce=
+nter">
+                            <tr>
+                                <td style=3D"color:#cccccc; padding-top: 20=
+px;" valign=3D"top" width=3D"100%" rowspan=3D"1" colspan=3D"1">
+                                    <hr color=3D"#cccccc" size=3D"1" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan=3D"1" colspan=3D"1">
+                                    <div>
+    <table width=3D"520px" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ bgcolor=3D"#ffffff" class=3D"table_shrink" align=3D"center">
+        <tr>
+            <td valign=3D"top" style=3D"padding-top: 10px; font-family: Hel=
+vetica, Helvetica neue, Arial, Verdana, sans-serif; color: #707070; font-si=
+ze: 12px; line-height: 18px; text-align:left; font-weight:none;" align=3D"l=
+eft" rowspan=3D"1" colspan=3D"1">
+                <br clear=3D"none" /><span>This message was sent to you by =
+Atlassian Cloud</span><br clear=3D"none" />
+            </td>
+            <td align=3D"right" style=3D"padding-top:15px; padding-bottom:3=
+0px;" rowspan=3D"1" colspan=3D"1">
+                <a href=3D"https://www.atlassian.com" alias=3D"atlassian fo=
+oter logo" shape=3D"rect"><img src=3D"https://common-admin-cdn.atlassian.co=
+m/arke/assets/shared/logo-email-header.png" height=3D"24" width=3D"110" bor=
+der=3D"0" alt=3D"Atlassian" style=3D"display:block; color:#3572b0;" /></a>
+            </td>
+        </tr>
+    </table>
+</div>
+                                    <custom name=3D"opencounter" type=3D"tr=
+acking"></custom>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<img src=3D"http://link.notifications.atlassian.com/wf/open?upn=3DuYgC-2F3O=
+CcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPvkkzL-2F-2Beg3TmLL-2FkzDp6TECw-2BC-2=
+BRSb28kPgyWp8bOeWu1TOymB290e7-2BTlLEWwCs1dZuyEY-2FE2etH04jq1unFabY7sKMrmdud=
+tVqj-2FdPaH12bggQjISEEqN-2FuF19yAlwwwkoXbLCWhKaMw90JWk2NUlGgmzGoJM63uiqofo-=
+2FDIeaBcymrwJlk734gkRPRxQwiWUFxUe-2FD0FlVY8T-2BXzmUaDDfh-2BzoqKsQ7KMkQI410A=
+eq4zOXGl8dQml1r2ckSSMA-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" s=
+tyle=3D"height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+

@@ -1,0 +1,46 @@
+.cp-live-preview .cp-ifb-toggle-btn {
+    display: none;
+}
+
+.cp-ifb-social-media .cp-info-bar-msg{
+     font-size: 18px;
+     font-family: "montserrat", sans-serif;
+     color: #000;
+     text-align: right;
+}
+
+.cp-ifb-social-media .cp-msg-container {
+    font-family: "montserrat", sans-serif;
+    font-size: 18px;
+    text-align: right;
+    font-family: inherit;
+    font-weight: normal;
+    line-height: 1em;
+    /* -webkit-flex-grow: 1;
+       -moz-flex-grow: 1;
+       -ms-flex-grow: 1;
+       -o-flex-grow: 1;
+       flex-grow: 1; */
+}
+
+.cp-ifb-social-media .cp-submit {
+    font-family: "montserrat", sans-serif;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: normal;
+    line-height: 1em;
+}
+
+@media (max-width: 768px){
+    .cp-ifb-social-media .cp-info-bar-body {
+        padding: 15px;
+    }
+    .cp-ifb-social-media .cp-info-bar-msg,
+    .cp-ifb-social-media .cp-msg-container,
+    .cp-ifb-social-media .cp-msg-container *{
+        text-align: center!important;
+    }
+    .cp-ifb-social-media .cp_social_networks {       
+        margin-top: 10px;
+    }
+}

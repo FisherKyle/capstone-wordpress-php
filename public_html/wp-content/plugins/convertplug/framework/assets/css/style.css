@@ -1,0 +1,31 @@
+.framework-wrap {
+	width: 98%;
+	background-color: #fff;
+}
+.framework-wrap-bg {
+
+	position: absolute;
+	top: 15px;
+	bottom: 0;
+	left: 0;
+	right: 15px;
+	z-index: -1;
+}
+.framework-top-header {
+	background: #FFF;
+	margin-top: -22px;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+.framework-top-footer {
+	background: #FFF;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+div#content {
+	margin-top: 15px;
+}
+ul.nav.nav-tabs.tabs-left {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}

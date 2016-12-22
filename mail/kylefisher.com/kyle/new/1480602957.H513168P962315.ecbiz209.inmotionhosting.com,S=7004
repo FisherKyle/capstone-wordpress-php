@@ -1,0 +1,184 @@
+Return-path: <bounces+2418806-f814-kyle=kylefisher.com@em.bitbucket.org>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 01 Dec 2016 09:35:57 -0500
+Received: from o6.em.bitbucket.org ([167.89.38.188]:3940)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2418806-f814-kyle=kylefisher.com@em.bitbucket.org>)
+	id 1cCSSr-0042Kr-DX
+	for kyle@kylefisher.com; Thu, 01 Dec 2016 09:35:57 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=bitbucket.org; 
+	h=content-type:mime-version:subject:from:to; s=s1; 
+	bh=zw3Td6Fcn/nnueDIpsDjKqS8jis=; b=2gJ/LO17kKUd0sW+80TCc7hgwZ3mc
+	Ql1gDxKVkpxBWMjcXzI1BDhZbNtvGhzJZ9CZa5L0OoLY1k0PqfFK9cy4oxbxXY7O
+	7Si6cJEzTVJJGe2Ga9QxY7TQ/Q7DiQtYB/5Bi7qlzZ9KZsdkbklRF4jekQhNhe5B
+	5mfUNW0kz0xmx4=
+Received: by filter0992p1mdw1.sendgrid.net with SMTP id filter0992p1mdw1-1582-5840354C-46
+        2016-12-01 14:35:56.618830947 +0000 UTC
+Received: from celery-worker-107.ash1.bb-inf.net (mail-ash.bitbucket.org [104.192.143.195])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id sps8Z_-VRf6RSPtIsIF3Lg
+	for <kyle@kylefisher.com>; Thu, 01 Dec 2016 14:35:56.583 +0000 (UTC)
+Received: from celery-worker-107.ash1.bb-inf.net (localhost.localdomain [127.0.0.1])
+	by celery-worker-107.ash1.bb-inf.net (Postfix) with ESMTP id 81BEB2C0940
+	for <kyle@kylefisher.com>; Thu,  1 Dec 2016 14:35:56 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="===============2724770048590225283=="
+MIME-Version: 1.0
+Subject: [Bitbucket] Your Git import job for goodbye has finished
+From: "Bitbucket" <notifications-noreply@bitbucket.org>
+To: kyle@kylefisher.com
+Date: Thu, 01 Dec 2016 14:35:56 -0000
+Message-ID: <20161201143556.20131.48439@celery-worker-107.ash1.bb-inf.net>
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-SG-EID: eU/ka35llXGMH3nAOV67BrlAvnJbsZjQ68cwO3vk6pWMUrOzZdBdijkDcDWb3jKC9Xv+h4jFVOhj14
+ OiTyUwkgTazsnq7PDO5f8p9ojRcv796LmLNWe7a2nMNcS2FfxhAvEW6ZjDmOkPaY8IX+NQ+NnhlLvD
+ 5lguVUDje3sFE6diSZXdPsJzDlkCYmp1C+oJXYNGnM6XxhbIbm85YuOzzFyXaeMsqnaS4mtMPrgldw
+ cTnwtxzjmK5rP8s6GzvgfR
+
+--===============2724770048590225283==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Kyle Fisher,
+
+The remote Git import you started for https://github.com/FisherKyle/goodbye.git has completed successfully.
+
+You can access your new repository by following the link below:
+
+https://bitbucket.org/FisherKyle/goodbye
+
+Cheers,
+
+The Bitbucket Team
+
+--
+
+
+Disable notifications from your account settings:
+https://bitbucket.org/account/user/FisherKyle/
+
+--===============2724770048590225283==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+  </head>
+  <body style="font: 14px/1.4285714 Arial, sans-serif; color: #333;">
+    <table style="width: 100%; border-collapse: collapse;">
+      <tbody>
+        <tr>
+          <td style="background: #f5f5f5; padding: 10px 10px 0; font: 14px/1.4285714 Arial, sans-serif;">
+            <table style="width: 100%; border-collapse: collapse;">
+              <tbody>
+                
+                
+                
+                
+                  
+                     <tr>
+  <td id="main" style="font: 14px/1.4285714 Arial, sans-serif; padding: 0; background-color: #ffffff; border-radius: 5px">
+    <div style="border: 1px solid #cccccc; border-radius: 5px; padding: 20px">
+      <table style="width: 100%; border-collapse: collapse">
+        <tbody>
+          <tr>
+            <td style="font: 14px/1.4285714 Arial, sans-serif; padding: 0">
+              
+                <p style="margin-bottom: 0; margin-top: 0">
+                  
+                    The remote Git import you started for
+                    <a href="https://github.com/FisherKyle/goodbye.git" style="color: #3572b0; text-decoration: none">https://github.com/FisherKyle/goodbye.git</a> has completed successfully.
+                  
+                </p>
+              
+            </td>
+          </tr>
+          
+            <tr>
+              <td class="call-to-action" style="font: 14px/1.4285714 Arial, sans-serif; padding: 15px 0 0">
+  <table style="width: auto; border-collapse: collapse">
+    <tbody>
+      <tr>
+        <td class="call-to-action-inner" style="font: 14px/1.4285714 Arial, sans-serif; padding: 0">
+          <div style="border: 1px solid #486582; border-radius: 3px">
+            <table style="width: auto; border-collapse: collapse">
+              <tr>
+                <td style="font: 14px/1.4285714 Arial, sans-serif; padding: 4px 10px; background-color: #3068a2">
+                  
+                <a href="https://bitbucket.org/FisherKyle/goodbye" style="color: white; text-decoration: none; font-weight: bold">View repository</a>
+              
+                </td>
+              </tr>
+            </table>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</td>
+
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+  </td>
+</tr>
+
+                  
+                
+                <tr>
+                  
+
+<td style="padding: 20px 0; color: #707070;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tbody>
+      <tr>
+        <td style="padding: 0">
+          
+          
+            
+              
+              <a style="color: #3572b0; text-decoration: none;" href="https://bitbucket.org/account/user/FisherKyle/notifications/">Configure email notifications</a>
+            
+          
+        </td>
+        <td style="padding: 0">
+          
+            
+
+  <img width="1" height="1" src="https://bitbucket.org/account/notifications/mark-read/446398052/320076b0fc01500429057947891d00c08507afe1/">
+
+
+          
+        </td>
+        <td style="text-align: right; width: 100px; padding: 0">
+          <a href="https://bitbucket.org" style="color: #3572b0; text-decoration: none;">
+            <img width="100" height="18" src="https://d301sr5gafysq2.cloudfront.net/e639a58190d5/img/email/logo.gif" alt="Bitbucket" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</td>
+
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  
+<img src="http://link.bitbucket.org/wf/open?upn=uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPui5I2hhgrwdwJ2U7y0QI-2BelU5Od8NUrwdn71odWhSA-2FMiDvHSaroIyt8-2BkBk8-2F1zKnfUszL0VxsFNHiWcxx7U-2B1xJ07vYaZffCfcOvHS5Z-2FN4vU3G2Bh8GY-2BFS9abIeiPm-2Bdq56dvSDU-2Bk7habLpKlF7Yewj2Lj5WPe0cYmRr-2FKfyI3-2BLh92zTgBIPvPeaRyc-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+--===============2724770048590225283==--

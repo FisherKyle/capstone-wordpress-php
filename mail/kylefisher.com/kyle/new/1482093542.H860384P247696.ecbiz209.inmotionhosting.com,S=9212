@@ -1,0 +1,168 @@
+Return-path: <0100015913a8b9aa-0bf5ac75-0bc8-4638-9a85-465f9234b19b-000000@email.dropboxmail.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Sun, 18 Dec 2016 15:39:02 -0500
+Received: from a10-74.smtp-out.amazonses.com ([54.240.10.74]:55971)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <0100015913a8b9aa-0bf5ac75-0bc8-4638-9a85-465f9234b19b-000000@email.dropboxmail.com>)
+	id 1cIiEY-0012Qm-Nt
+	for kyle@kylefisher.com; Sun, 18 Dec 2016 15:39:02 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=lk2smmidbqodbx2uwyk6ompzp2rhnmlg; d=dropboxmail.com;
+	t=1482093541;
+	h=Content-Type:MIME-Version:From:To:CC:Subject:Date:Message-ID;
+	bh=RqoSpHQYOlwlqbk6uzvZKyZA4xrjXG73h0u4PXm2v/Y=;
+	b=MaT4/I6/QkbCojQqx0UD3Fo+b0C16YVksvG8VGNBri6f3foWUwO++qUaUZSe4jS2
+	caS1Bw8ALGz7iY8zIY1TK8rBrVCdYkepn8xEhuvm3FZc7X5gZ4yGSEDhOpm1yHyP/6O
+	KXaapf3ng9KhzXELmLITduPyPy7FEAWI9HAkaxHM=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1482093541;
+	h=Content-Type:MIME-Version:From:To:CC:Subject:Date:Message-ID:Feedback-ID;
+	bh=RqoSpHQYOlwlqbk6uzvZKyZA4xrjXG73h0u4PXm2v/Y=;
+	b=cqRh+x5Fpc7lebi5hCzFF9PqADlJggRZ4LjfPsnJVQlSO1KEr0HTb6K60jmigrEV
+	+ADynRN8JFMsjmUg52zcCMUwTWL2/M95MB/gIhhu21JwFrv823hiQxo9ajxPZY/tli+
+	DRdQdFEp8Ti1vdVdUC+HtgBW5PDCxDoEb8KyFpIQ=
+Content-Type: multipart/alternative;
+ boundary="===============2656766141816901978=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropboxmail.com>
+To: kyle@kylefisher.com
+CC: 
+Subject: =?utf-8?q?Updates_to_our_Terms_of_Service_and_Privacy_Policy?=
+Date: Sun, 18 Dec 2016 20:39:01 +0000
+Message-ID: <0100015913a8b9aa-0bf5ac75-0bc8-4638-9a85-465f9234b19b-000000@email.amazonses.com>
+X-Dropbox-Message-ID: 5712258685968172466
+X-SES-Outgoing: 2016.12.18-54.240.10.74
+Feedback-ID: 1.us-east-1.uUN5d9sk1K8bEZSQiKEFyDZoOChsAq1y3Ge0qhfYGbc=:AmazonSES
+
+--===============2656766141816901978==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hi Kyle,
+
+We=E2=80=99re always looking for new ways to improve how you create and wor=
+k together using Dropbox. That=E2=80=99s why we recently launched several n=
+ew productivity tools and sharing features[1] . And there=E2=80=99s more to=
+ come. To support these changes, we=E2=80=99ve made a few updates to our Te=
+rms of Service and Privacy Policy. Here=E2=80=99s a quick summary. =
+
+ - Privacy Shield. We=E2=80=99re excited to be certified under the EU-U.S. =
+Privacy Shield Framework, and have updated our Privacy Policy to reflect th=
+is update.
+ - Profile visibility. Dropbox may display some of your basic profile infor=
+mation (like your name and profile picture) when you=E2=80=99re collaborati=
+ng with others.
+ - Teammate and team discovery. Dropbox and Dropbox Business team names may=
+ be visible to users on the same company or organization domain. Team admin=
+s can disable this function[2] . And in the future, this may allow us to he=
+lp you find others on the same domain.
+ - User terms. We=E2=80=99ve clarified terms like how you can cancel your a=
+ccount, and when you qualify for a refund. For users outside the U.S., we=
+=E2=80=99ve also added information about how your country=E2=80=99s laws go=
+vern your Dropbox agreement.
+
+ You can read the full Terms of Service[3] and Privacy Policy[4] , which wi=
+ll go into effect on February 10, 2017. For more details, visit our Help Ce=
+nter[5] or send a message to tos-questions@dropbox.com .
+
+[1]: https://www.dropbox.com/l/AADjSHKz278Eb9cGjZCZshWN5Gv4E14qQB0/producti=
+vity
+[2]: https://www.dropbox.com/l/AAC5NXQkyNcGOXdVGLtfxuCnVzSWv3PMg9k/help/9143
+[3]: https://www.dropbox.com/l/AADVgRyHHvf-bRKFGQ4eOSz-FTa4bEg8eko/terms
+[4]: https://www.dropbox.com/l/AAChQut5KtEj87e9K3f9d1NnW6hpullIHno/privacy
+[5]: https://www.dropbox.com/l/AAC7kbssF9YG1RfLUgzhmmYaZMo4b2ShJXY/help/9063
+[6]: mailto: tos-questions@dropbox.com
+--===============2656766141816901978==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"><style>
+        @font-face {
+            font-family: "proxima_nova";
+            src: url("https://www.dropbox.com/static/fonts/proximanova/prox=
+ima-nova-regular.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+         =
+
+        a {
+            color: #007ee6;
+            text-decoration: none;
+        }
+        </style></head><body style=3D"padding: 0; width: 100% !important; -=
+webkit-text-size-adjust: 100%; margin: 0; -ms-text-size-adjust: 100%;" marg=
+inheight=3D"0" marginwidth=3D"0"><center><table cellpadding=3D"8" cellspaci=
+ng=3D"0" style=3D"*width: 540px; padding: 0; width: 100% !important; backgr=
+ound: #ffffff; margin: 0; background-color: #ffffff;" border=3D"0"><tr><td =
+valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 4px; -we=
+bkit-border-radius: 4px; border: 1px #dceaf5 solid; -moz-border-radius: 4px=
+;" border=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"6"></td></=
+tr><tr style=3D"line-height: 0px;"><td width=3D"100%" style=3D"font-size: 0=
+px;" align=3D"center" height=3D"1"><img width=3D"40px" style=3D"max-height:=
+ 73px; width: 40px; *width: 40px; *height: 73px;" alt=3D"" src=3D"https://c=
+f.dropboxstatic.com/static/images/emails/glyph/glyph_34%402x.png"></td></tr=
+><tr><td><table cellpadding=3D"0" cellspacing=3D"0" style=3D"line-height: 2=
+5px;" border=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"30"></t=
+d></tr><tr><td width=3D"36"></td>
+<td width=3D"454" align=3D"left" style=3D"color: #444444; border-collapse: =
+collapse; font-size: 11pt; font-family: proxima_nova, 'Open Sans', 'Lucida =
+Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans S=
+erif'; max-width: 454px;" valign=3D"top">Hi Kyle,<br><br><p style=3D"paddin=
+g-top: 5px; margin: 0; padding-bottom: 15px;">We=E2=80=99re always looking =
+for new ways to improve how you create and work together using Dropbox. Tha=
+t=E2=80=99s why we recently launched several new <a href=3D"https://www.dro=
+pbox.com/l/AABrxIGQ4g0CO0ro3hDHxuwPIwKyo4ROLGU/productivity">productivity t=
+ools and sharing features</a>. And there=E2=80=99s more to come. To support=
+ these changes, we=E2=80=99ve made a few updates to our Terms of Service an=
+d Privacy Policy. </p>
+<p style=3D"padding-top: 5px; margin: 0; padding-bottom: 15px;">Here=E2=80=
+=99s a quick summary.</p>
+<ul><li>
+<strong>Privacy Shield.</strong> We=E2=80=99re excited to be certified unde=
+r the EU-U.S. Privacy Shield Framework, and have updated our Privacy Policy=
+ to reflect this update.</li>
+<li>
+<strong>Profile visibility.</strong> Dropbox may display some of your basic=
+ profile information (like your name and profile picture) when you=E2=80=99=
+re collaborating with others.</li>
+<li>
+<strong>Teammate and team discovery.</strong> Dropbox and Dropbox Business =
+team names may be visible to users on the same company or organization doma=
+in. Team admins can <a href=3D"https://www.dropbox.com/l/AADd7VLlB7J1W_zS1v=
+asjJxeS_hJmoTPgB0/help/9143">disable this function</a>. And in the future, =
+this may allow us to help you find others on the same domain.</li>
+<li>
+<strong>User terms.</strong> We=E2=80=99ve clarified terms like how you can=
+ cancel your account, and when you qualify for a refund. For users outside =
+the U.S., we=E2=80=99ve also added information about how your country=E2=80=
+=99s laws govern your Dropbox agreement.</li>
+</ul><p style=3D"padding-top: 5px; margin: 0; padding-bottom: 15px;">You ca=
+n read the full <a href=3D"https://www.dropbox.com/l/AACMDiuBf_RXj4ac0jin_K=
+ccHzHfJcC7yAs/terms">Terms of Service</a> and <a href=3D"https://www.dropbo=
+x.com/l/AADKK2d4hMBK39AQvujevgwyhyV8qrBKpRs/privacy">Privacy Policy</a>, wh=
+ich will go into effect on February 10, 2017. For more details, visit our <=
+a href=3D"https://www.dropbox.com/l/AACzNlOZNkabcOpvaFqBVRji_8nEU7kF4Yc/hel=
+p/9063">Help Center</a> or send a message to <a href=3D"mailto:%20tos-quest=
+ions@dropbox.com"> tos-questions@dropbox.com</a>.</p>
+</td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"color: #a8b9c6; font-size: 11px; font-family: prox=
+ima_nova, 'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida=
+ Sans Unicode', Tahoma, 'Sans Serif'; -webkit-text-size-adjust: none;"><td =
+width=3D"400" align=3D"left"></td>
+<td width=3D"128" align=3D"right">=C2=A9 2016 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/AABHn8MiLFzN1x0rVNu1hfD9vfj6=
+sQzrQkU" height=3D"1" />
+--===============2656766141816901978==--

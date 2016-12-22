@@ -1,0 +1,50 @@
+.supports-drag-drop {
+	z-index:999999 !important;
+}
+.smile-media-container img {
+	max-width: 100%!important;
+	height: auto!important;
+	width: auto !important;
+	min-height: 100px!important;
+	margin: 0 auto;
+	max-height: 200px;
+}
+.smile-media-container {
+    padding: 5px;
+    border: 1px solid #DDD;
+    border-radius: 3px;
+    text-align: center;
+    margin: 10px 0;
+    background-color: #F9F9F9;
+}
+.smile-media-container p {
+    margin: 0;
+    padding: 15px;
+}
+input.smile-media {
+	display: none !important;
+}
+.smile-media-actions {
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+}
+button.smile-default-media {
+	float: left;
+	width: 48%;
+}
+button.smile-upload-media {
+	float: right;
+	width: 48%;
+}
+
+.smile-media-actions .button-secondary{
+	border-radius: 0px;
+}
+
+.smile-media-actions .button-secondary:focus, .smile-media-actions .button-secondary:hover{
+	box-shadow: inset 0 1px 0 #fff,0 1px 0 rgba(0,0,0,.08);
+    border-color: #ccc;
+    background: #f7f7f7;
+    color: #555;
+}

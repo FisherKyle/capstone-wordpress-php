@@ -1,0 +1,70 @@
+head	1.4;
+access;
+symbols;
+locks
+	kylefi5:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2016.11.11.13.26.22;	author kylefi5;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.11.11.13.26.22;	author kylefi5;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.11.11.12.21.17;	author kylefi5;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.11.11.12.21.17;	author kylefi5;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@kyle:$6$AanGpfxdZLyzv10M$.bmTi0Wd/ZPFazt2UiS7i3jHobWQSgBuU4g6JHeDenm279yJx9HTJX8He6UUMCqeeEasv.SNxyejRIdOG1dFG.:17116::::::
+admin:$6$R6fvtbiTFU2Bu2W/$CUwvjyk0cBgGyw3wP7l8yoUSWXBWtFrxbSd2SsseJmy0k3ylAv05lKi1T1L0AvAQB4ziDpU61adWQ9plPrbGD/:17116::::::
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+kyle:$6$iNd3pG1AMXOutCgP$9BUcPxyNBS4P1tdktKtUf.IDUu8ikn3AoJWX2TWyrlVoese0x2Kn8ggNUfoUryw005b1ZMrU5j8TVX8gVgK30/:17116::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

@@ -1,0 +1,674 @@
+Return-path: <bounces+79972-663b-kyle=kylefisher.com@em.talenthouse.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 17 Nov 2016 18:10:29 -0500
+Received: from o1.em.talenthouse.com ([208.117.51.199]:31866)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+79972-663b-kyle=kylefisher.com@em.talenthouse.com>)
+	id 1c7Vp6-003Yeq-Uj
+	for kyle@kylefisher.com; Thu, 17 Nov 2016 18:10:29 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=talenthouse.com; 
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to; 
+	s=smtpapi; bh=xH0GMO1kTIr3S8YUgMKBCWvuLlo=; b=fZaMBc61LO30FXynSx
+	msJf0RH3L6J+E2Lge2Wjo+orr8o6RhZqWhvOZYYkoZsu/9jBUDqHHDDXy+5xaB4x
+	Ly/ZpGtsvY3sbEibKwzxx2XCMS9kNcKQkRtSQZDMMYNslkWZxRqJhtrTBvGUxlMv
+	TDN1ynrl+GWHFl5vlz4CDfO2I=
+Received: by filter1137p1mdw1.sendgrid.net with SMTP id filter1137p1mdw1-17169-582E3824-21
+        2016-11-17 23:07:16.448966185 +0000 UTC
+Received: from Nzk5NzI (ec2-54-204-200-150.compute-1.amazonaws.com [54.204.200.150])
+	by ismtpd0036p1mdw1.sendgrid.net (SG) with HTTP id cO6koZ4qScm79xuaz1SEnw
+	for <no-reply@talenthouse.com>; Thu, 17 Nov 2016 23:07:16.336 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 17 Nov 2016 23:07:16 +0000
+From: "Talenthouse" <no-reply@talenthouse.com>
+Mime-Version: 1.0
+Subject: News from the Talenthouse Magazine
+To: kyle@kylefisher.com
+Message-ID: <cO6koZ4qScm79xuaz1SEnw@ismtpd0036p1mdw1.sendgrid.net>
+X-SG-EID: eU/ka35llXGMH3nAOV67BrlAvnJbsZjQ68cwO3vk6pWcUDnMKQ5A8EEsM0Oa3VMraTP+SoDKLM7zHL
+ MjRoB336FOu0HWpee2c/8bfH4eHcvKndqlIKBe/aadGogcJyq9vPVaR4XoU7ovx7pofqvE8E2HZ+P0
+ F/R+gaPNMitYC6dmDEwwvR8i6i/0eYK2oGdR/hR5Z0RnbRcoTJYrq3nv5oUQQJWFY1DxgAQV/3fzYz
+ I=
+X-SG-ID: yXCd1HT+l0xi33hMWYGloolYTmHyn0+fDQE83rvFXg0=
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, maximum-scale=3D1"/>
+    <!-- NAME: 1 COLUMN -->
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>News from the Talenthouse Magazine</title>
+
+=20=20=20=20
+
+    <style type=3D"text/css">
+        @media only screen and (max-width: 480px) {
+            body, table, td, p, a, li, blockquote {
+                -webkit-text-size-adjust: none !important;
+            }
+
+            body {
+                width: 100% !important;
+                min-width: 100% !important;
+            }
+
+            td[id=3DbodyCell] {
+                padding: 10px !important;
+            }
+
+            table[class=3DmcnTextContentContainer] {
+                width: 100% !important;
+            }
+
+            table[class=3DmcnBoxedTextContentContainer] {
+                width: 100% !important;
+            }
+
+            table[class=3Dmcpreview-image-uploader] {
+                width: 100% !important;
+                display: none !important;
+            }
+
+            img[class=3DmcnImage] {
+                width: 100% !important;
+            }
+
+            table[class=3DmcnImageGroupContentContainer] {
+                width: 100% !important;
+            }
+
+            td[class=3DmcnImageGroupContent] {
+                padding: 9px !important;
+            }
+
+            td[class=3DmcnImageGroupBlockInner] {
+                padding-bottom: 0 !important;
+                padding-top: 0 !important;
+            }
+
+            tbody[class=3DmcnImageGroupBlockOuter] {
+                padding-bottom: 9px !important;
+                padding-top: 9px !important;
+            }
+
+            table[class=3DmcnCaptionTopContent], table[class=3DmcnCaptionBo=
+ttomContent] {
+                width: 100% !important;
+            }
+
+            table[class=3DmcnCaptionLeftTextContentContainer], table[class=
+=3DmcnCaptionRightTextContentContainer], table[class=3DmcnCaptionLeftImageC=
+ontentContainer], table[class=3DmcnCaptionRightImageContentContainer], tabl=
+e[class=3DmcnImageCardLeftTextContentContainer], table[class=3DmcnImageCard=
+RightTextContentContainer] {
+                width: 100% !important;
+            }
+
+            td[class=3DmcnImageCardLeftImageContent], td[class=3DmcnImageCa=
+rdRightImageContent] {
+                padding-right: 18px !important;
+                padding-left: 18px !important;
+                padding-bottom: 0 !important;
+            }
+
+            td[class=3DmcnImageCardTopImageContent] {
+                padding-top: 18px !important;
+            }
+
+            td[class=3DmcnImageCardLeftImageContent], td[class=3DmcnImageCa=
+rdRightImageContent] {
+                padding-right: 18px !important;
+                padding-left: 18px !important;
+                padding-bottom: 0 !important;
+            }
+
+            td[class=3DmcnImageCardBottomImageContent] {
+                padding-top: 9px !important;
+                padding-bottom: 9px !important;
+                display: block !important;
+                text-align: center !important;
+            }
+
+            td[class=3DmcnImageCardTopImageContent] {
+                padding-top: 18px !important;
+            }
+
+            table[class=3DmcnCaptionLeftContentOuter] td[class=3DmcnTextCon=
+tent], table[class=3DmcnCaptionRightContentOuter] td[class=3DmcnTextContent=
+] {
+                padding-top: 9px !important;
+            }
+
+            td[class=3DmcnCaptionBlockInner] table[class=3DmcnCaptionTopCon=
+tent]:last-child td[class=3DmcnTextContent] {
+                padding-top: 18px !important;
+            }
+
+            td[class=3DmcnBoxedTextContentColumn] {
+                padding-left: 18px !important;
+                padding-right: 18px !important;
+            }
+
+            td[class=3DmcnTextContent] {
+                padding-right: 18px !important;
+                padding-left: 18px !important;
+            }
+
+            table[id=3DtemplateContainer], table[id=3DtemplatePreheader], t=
+able[id=3DtemplateHeader], table[id=3DtemplateBody], table[id=3DtemplateFoo=
+ter] {
+                max-width: 600px !important;
+                width: 100% !important;
+            }
+
+            h1 {
+                font-size: 24px !important;
+                line-height: 125% !important;
+            }
+
+            h2 {
+                font-size: 20px !important;
+                line-height: 125% !important;
+            }
+
+            h3 {
+                font-size: 18px !important;
+                line-height: 125% !important;
+            }
+
+            h4 {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+
+            table[class=3DmcnBoxedTextContentContainer] td[class=3DmcnTextC=
+ontent], td[class=3DmcnBoxedTextContentContainer] td[class=3DmcnTextContent=
+] p {
+                font-size: 18px !important;
+                line-height: 125% !important;
+            }
+
+            table[id=3DtemplatePreheader] {
+                display: block !important;
+            }
+
+            td[class=3DpreheaderContainer] td[class=3DmcnTextContent], td[c=
+lass=3DpreheaderContainer] td[class=3DmcnTextContent] p {
+                display: block !important;
+                width: 300px !important;
+            }
+
+            td[class=3DheaderContainer] td[class=3DmcnTextContent], td[clas=
+s=3DheaderContainer] td[class=3DmcnTextContent] p {
+                font-size: 18px !important;
+                line-height: 125% !important;
+            }
+
+            td[class=3DbodyContainer] td[class=3DmcnTextContent], td[class=
+=3DbodyContainer] td[class=3DmcnTextContent] p {
+                font-size: 18px !important;
+                line-height: 125% !important;
+            }
+
+            td[class=3DfooterContainer] td[class=3DmcnTextContent], td[clas=
+s=3DfooterContainer] td[class=3DmcnTextContent] p {
+                font-size: 14px !important;
+                line-height: 115% !important;
+            }
+
+            td[class=3DfooterContainer] a[class=3DutilityLink] {
+                display: block !important;
+            }
+
+            .footerContent {
+                padding-top: 10px !important;
+                font-size: 14px !important;
+                line-height: 115% !important;
+                display: block !important;
+                text-align: center !important;
+                padding-right: 20px !important;
+            }
+
+            .claimContainer {
+                padding-left: 0 !important;
+                display: block !important;
+                padding-top: 20px !important;
+                text-align: center !important;
+            }
+
+            #logo {
+                display: none !important;
+            }
+
+        }</style>
+</head>
+
+<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=3D"0"=
+ offset=3D"0"
+      style=3D"margin: 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;background-color: #F2F2F2;height: 100% !important;width:=
+ 100% !important;"
+      >
+<center>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" he=
+ight=3D"100%" width=3D"100%" id=3D"bodyTable"
+       style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin=
+: 0;padding: 0;background-color: #F2F2F2;height: 100% !important;width: 100=
+% !important;">
+<tr>
+<td align=3D"center" valign=3D"top" id=3D"bodyCell"
+    style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 20px;border-top:=
+ 0;height: 100% !important;width: 100% !important;">
+<!-- BEGIN TEMPLATE // -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600" id=3D=
+"templateContainer"
+       style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border=
+: 0;">
+    <tr>
+        <td align=3D"center" valign=3D"top"
+            style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;">
+            <!-- BEGIN PREHEADER // -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"600" id=3D"templatePreheader"
+                   style=3D"border-collapse: collapse;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;background-color: #FFFFFF;border-top: 0;border-bottom: 0;">
+                <tr>
+                    <td valign=3D"top" class=3D"preheaderContainer"
+                        style=3D"padding-top: 9px;mso-table-lspace: 0pt;mso=
+-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%"
+                               class=3D"mcnCaptionBlock"
+                               style=3D"border-collapse: collapse;mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+                            <tbody class=3D"mcnCaptionBlockOuter">
+                                <tr>
+                                    <td class=3D"mcnCaptionBlockInner" vali=
+gn=3D"top"
+                                        style=3D"padding: 9px;padding-botto=
+m: 25px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;">
+
+
+                                        <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0"
+                                               class=3D"mcnCaptionLeftConte=
+ntOuter"
+                                               width=3D"100%"
+                                               style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;">
+                                            <tbody>
+                                                <tr>
+                                                    <td valign=3D"top" clas=
+s=3D"mcnCaptionLeftContentInner"
+                                                        style=3D"padding: 0=
+ 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                                        <table class=3D"mcn=
+CaptionLeftTextContentContainer"
+                                                               align=3D"lef=
+t"
+                                                               border=3D"0"=
+ cellpadding=3D"0"
+                                                               cellspacing=
+=3D"0" width=3D"352"
+                                                               style=3D"bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td val=
+ign=3D"top"
+                                                                        cla=
+ss=3D"mcnTextContent"
+                                                                        sty=
+le=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Arial;font-siz=
+e: 14px;line-height: 125%;text-align: left;">
+                                                                        <h4=
+ class=3D"null"
+                                                                           =
+ style=3D"margin: 0;padding: 0;display: block;font-family: Arial;font-size:=
+ 16px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing=
+: normal;text-align: left;color: #000000 !important;">Hey, Kyle!</h4>
+                                                                        <br>
+                                                                        <sp=
+an style=3D"font-size:14px;font-family:Arial">Check out these articles from=
+ the Talenthouse Magazine!</span>
+                                                                        <br>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                    <td>
+                                                        <table align=3D"rig=
+ht" border=3D"0" cellpadding=3D"0"
+                                                               cellspacing=
+=3D"0"
+                                                               class=3D"mcn=
+CaptionLeftImageContentContainer"
+                                                               style=3D"bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td cla=
+ss=3D"mcnCaptionLeftImageContent"
+                                                                        val=
+ign=3D"top"
+                                                                        sty=
+le=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;">
+
+
+                                                                        <im=
+g id=3D"logo" alt=3D""
+                                                                           =
+  src=3D"http://d1kg5xhpkii99b.cloudfront.net/images/navbar-logo.png"
+                                                                           =
+  width=3D"60"
+                                                                           =
+  style=3D"padding-right: 10px; max-width: 60px;border: 0;outline: none;tex=
+t-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;"
+                                                                           =
+  class=3D"mcnImage">
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+
+
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%"
+                               class=3D"mcnImageCardBlock"
+                               style=3D"border-collapse: collapse;mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+                            <tbody class=3D"mcnImageCardBlockOuter">
+                                <tr>
+                                    <td class=3D"mcnImageCardBlockInner" va=
+lign=3D"top"
+                                        style=3D"padding-top: 0;padding-rig=
+ht: 18px;padding-bottom: 18px;padding-left: 18px;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;">
+
+                                        <table align=3D"right" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"
+                                               class=3D"mcnImageCardBottomC=
+ontent"
+                                               width=3D"100%"
+                                               style=3D"border: 1px none #9=
+99999;background-color: #F7F7F7;border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;">
+                                            <tbody>
+                                                <tr>
+                                                    <td class=3D"mcnImageCa=
+rdBottomImageContent"
+                                                        align=3D"left" vali=
+gn=3D"top"
+                                                        style=3D"padding-to=
+p: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-table-lsp=
+ace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;">
+
+
+                                                        <a href=3D"https://=
+www.talenthouse.com/articles/insider-info-talenthouse-tshirts-on-design-by-=
+humans"
+                                                           title=3D"" class=
+=3D""
+                                                           target=3D"_self"
+                                                           style=3D"word-wr=
+ap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+                                                            <img alt=3D""
+                                                                 src=3D"htt=
+ps://talenthouse-res.cloudinary.com/image/upload/c_fill,h_160,w_240/v1/arti=
+clePreviewImage-1250/mnn7sdzyh4vjejuq0hj6.jpg"
+                                                                 width=3D"2=
+40"
+                                                                 style=3D"m=
+ax-width: 240px;border: 0;outline: none;text-decoration: none;-ms-interpola=
+tion-mode: bicubic;vertical-align: bottom;"
+                                                                 class=3D"m=
+cnImage articleImage">
+                                                        </a>
+
+                                                    </td>
+                                                    <td class=3D"mcnTextCon=
+tent" valign=3D"top"
+                                                        style=3D"padding: 9=
+px 18px;color: #000000;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: Arial;font-s=
+ize: 14px;line-height: 125%;text-align: left;"
+                                                        width=3D"546">
+                                                        <h6 class=3D"null"
+                                                            style=3D"margin=
+: 0;padding: 0;display: block;font-family: Arial;font-size: 14px;font-style=
+: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-al=
+ign: left;color: #000000 !important;">
+                                                            <a href=3D"http=
+s://www.talenthouse.com/articles/insider-info-talenthouse-tshirts-on-design=
+-by-humans"
+                                                               rel=3D"bookm=
+ark"
+                                                               style=3D"mar=
+gin: 0px;padding: 0px;border: 0px;font-weight: inherit;font-style: inherit;=
+font-family: inherit;text-decoration: none;color: #202020 !important;word-w=
+rap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"
+                                                               target=3D"_s=
+elf" title=3D""><span
+                                                                    style=
+=3D"color:#000000">Insider Info: Talenthouse T-Shirts on Design By Humans</=
+span></a>
+                                                        </h6>
+                                                        <span style=3D"padd=
+ing-top: 5px; display: block;">The Design by Humans Selected Artists T-Shir=
+t designs are now up for sale! Get yours today!</span>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+
+
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%"
+                               class=3D"mcnImageCardBlock"
+                               style=3D"border-collapse: collapse;mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+                            <tbody class=3D"mcnImageCardBlockOuter">
+                                <tr>
+                                    <td class=3D"mcnImageCardBlockInner" va=
+lign=3D"top"
+                                        style=3D"padding-top: 0;padding-rig=
+ht: 18px;padding-bottom: 18px;padding-left: 18px;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;">
+
+                                        <table align=3D"right" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"
+                                               class=3D"mcnImageCardBottomC=
+ontent"
+                                               width=3D"100%"
+                                               style=3D"border: 1px none #9=
+99999;background-color: #F7F7F7;border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;">
+                                            <tbody>
+                                                <tr>
+                                                    <td class=3D"mcnImageCa=
+rdBottomImageContent"
+                                                        align=3D"left" vali=
+gn=3D"top"
+                                                        style=3D"padding-to=
+p: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-table-lsp=
+ace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;">
+
+
+                                                        <a href=3D"https://=
+www.talenthouse.com/articles/the-sense-doctor-strange-ikea-jumprope"
+                                                           title=3D"" class=
+=3D""
+                                                           target=3D"_self"
+                                                           style=3D"word-wr=
+ap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+                                                            <img alt=3D""
+                                                                 src=3D"htt=
+ps://talenthouse-res.cloudinary.com/image/upload/c_fill,h_160,w_240/v1/arti=
+clePreviewImage-1249/pizjgnaucjodo9eamexl.jpg"
+                                                                 width=3D"2=
+40"
+                                                                 style=3D"m=
+ax-width: 240px;border: 0;outline: none;text-decoration: none;-ms-interpola=
+tion-mode: bicubic;vertical-align: bottom;"
+                                                                 class=3D"m=
+cnImage articleImage">
+                                                        </a>
+
+                                                    </td>
+                                                    <td class=3D"mcnTextCon=
+tent" valign=3D"top"
+                                                        style=3D"padding: 9=
+px 18px;color: #000000;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: Arial;font-s=
+ize: 14px;line-height: 125%;text-align: left;"
+                                                        width=3D"546">
+                                                        <h6 class=3D"null"
+                                                            style=3D"margin=
+: 0;padding: 0;display: block;font-family: Arial;font-size: 14px;font-style=
+: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-al=
+ign: left;color: #000000 !important;">
+                                                            <a href=3D"http=
+s://www.talenthouse.com/articles/the-sense-doctor-strange-ikea-jumprope"
+                                                               rel=3D"bookm=
+ark"
+                                                               style=3D"mar=
+gin: 0px;padding: 0px;border: 0px;font-weight: inherit;font-style: inherit;=
+font-family: inherit;text-decoration: none;color: #202020 !important;word-w=
+rap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"
+                                                               target=3D"_s=
+elf" title=3D""><span
+                                                                    style=
+=3D"color:#000000">The Sense: &quot;Doctor Strange,&quot; Ikea &amp; Jumpro=
+pe</span></a>
+                                                        </h6>
+                                                        <span style=3D"padd=
+ing-top: 5px; display: block;">From &quot;Doctor Strange&quot; to the Jumpr=
+ope World Championships and a Syrian home modeled by Ikea, check out what t=
+he Talenthouse Team was up to this week!</span>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+
+
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    </td>
+                </tr>
+            </table>
+            <!-- // END PREHEADER -->
+        </td>
+    </tr>
+    <tr>
+        <td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt;">
+                            <!-- BEGIN FOOTER // -->
+                            <table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%" id=3D"templateFooter" style=3D"-webkit-text-size-ad=
+just: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; border-collapse: collapse; background-color: #F2F2F2; border-top=
+: 0;">
+                                <tr>
+                                    <td valign=3D"middle" class=3D"claimCon=
+tainer" mc:edit=3D"footer_content00" style=3D"-webkit-text-size-adjust: 100=
+%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+; padding-top: 20px;  word-wrap:normal;">
+                                        <a href=3D"https://www.talenthouse.=
+com" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;">=
+<img src=3D"https://d1kg5xhpkii99b.cloudfront.net/images/navbar/TH_claim_2x=
+.png" width=3D"220" style=3D"-ms-interpolation-mode: bicubic; border: 0; he=
+ight: auto; line-height: 100%; outline: none; text-decoration: none;" /></a>
+                                    </td>
+                                    <td valign=3D"middle" class=3D"footerCo=
+ntent" mc:edit=3D"footer_content01" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ color: #333; font-family: Arial; font-size: 10px; padding-top: 30px; paddi=
+ng-right: 0; padding-bottom: 0; padding-left: 20px; text-align: right; word=
+-wrap:normal;">
+                                        <a href=3D"https://www.talenthouse.=
+com/me/notifications" target=3D"_blank" style=3D"-webkit-text-size-adjust: =
+100%; -ms-text-size-adjust: 100%; text-decoration: none; color: #333;">Mana=
+ge Notification Settings </a> |
+                                        <a href=3D"https://www.talenthouse.=
+com/mailing-unsubscribe/weekly_article_digest?euid=3Dfd30ef10-7b51-43d9-bc1=
+a-cd9db0f26e48" target=3D"_blank" style=3D"-webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%; text-decoration: none; color: #333;">Unsubscrib=
+e</a>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- // END FOOTER -->
+                        </td>
+    </tr>
+</table>
+<!-- // END TEMPLATE -->
+</td>
+</tr>
+</table>
+</center>
+
+<img src=3D"http://em.talenthouse.com/wf/open?upn=3DuYgC-2F3OCcIGiEY2WBSJok=
+fQZA-2Fx1GwTcUu-2F2t4IMEPv2Pl-2FnCukbJnvTHMdHwrRTfiIGCgzCb83g1DNfa3Ox0hkHxS=
+tTolygykaGQa-2BZq90cg-2BkQprllxvadaBy-2FxJI-2BRUGVNSxcEswHkEvXKUKMt7zb9ZVWl=
+RDci-2FdjiTF2xbx3XIQRkl-2FcOmXOGG0FUdhZbe4gOzOD-2BYbk4f0Uby88RO2JyrT5RRAV0h=
+WxxlwJucg5AMMNtt8w2aO5ZvXb52b6IRmnxNG0eK3lalnqH0-2BI1w-3D-3D" alt=3D"" widt=
+h=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px =
+!important;border-width:0 !important;margin-top:0 !important;margin-bottom:=
+0 !important;margin-right:0 !important;margin-left:0 !important;padding-top=
+:0 !important;padding-bottom:0 !important;padding-right:0 !important;paddin=
+g-left:0 !important;"/>
+</body>
+</html>
+

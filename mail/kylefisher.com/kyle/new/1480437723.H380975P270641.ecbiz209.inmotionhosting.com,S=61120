@@ -1,0 +1,1110 @@
+Return-path: <inttax.3385@envfrm.rsys2.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 29 Nov 2016 11:42:03 -0500
+Received: from omp.e.turbotax.intuit.com ([12.130.139.190]:50918)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <inttax.3385@envfrm.rsys2.com>)
+	id 1cBlTm-0018AJ-33
+	for kyle@kylefisher.com; Tue, 29 Nov 2016 11:42:03 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=intuit; d=e.turbotax.intuit.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:Message-ID; i=TurboTax@e.turbotax.intuit.com;
+ bh=Jg4XkZnBQRKf60z5hf7eUs4zgX8=;
+ b=U2ukCSu0BW6c4Z6IUaxKH5m3LdWI5N8i7xXOb6LphXCuplOGQx4XROqeKLEBZjTzBVNQeTVIIFkX
+   vdFyEXNkbdvZZ2QSzSGPvxzKVTQL1M+Kk3BdMScMTypIca8h4ceQ5OXxfNssE7T4fhT1VwQ1LuRu
+   CkMVPBvcaX2wRRhAzzw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=intuit; d=e.turbotax.intuit.com;
+ b=EFq5r2YYustWPx86/T7BuFpLOeOL4fdY6VMUlrFxTPWFgoKrIMg8tTmUcgxIyTiuP82akp3aTMEx
+   cs9IEpCVnZANDJW4FpObI+lBCR1xESk6BkW6piWi7OsG6HR0qX70Gjur3htIp4LdzECalUeNImcW
+   70OEX6F0srrtjz1epC4=;
+Received: by omp.e.turbotax.intuit.com id h7mntk16170v for <kyle@kylefisher.com>; Tue, 29 Nov 2016 08:41:55 -0800 (envelope-from <inttax.3385@envfrm.rsys2.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 29 Nov 2016 08:41:55 -0800
+To: kyle@kylefisher.com
+From: "TurboTax" <TurboTax@e.turbotax.intuit.com>
+Reply-To: "TurboTax" <taxemail@e.turbotax.intuit.com>
+Subject: =?UTF-8?B?4piRIE5vdmVtYmVyIFVwZGF0ZTogWWVhciBFbmQgVGF4IFRpcHMg?=
+	=?UTF-8?B?YW5kIFRoaW5ncyB0byBLbm93IEJlZm9yZSB0aGUgWWVhciBJcyBPdmVyIQ==?=
+Feedback-ID: 3385:101183812:oraclersys
+X-sgxh1: sPtLxsPtLMpkoLjQJhu
+X-rext: 5.interact2.EudRAEjT4sBaj6oI46IR-zb4f58y-1DXsaxxYuD63TGNI8zjeoeojpqfiwU5GOtFoKxR0g
+X-cid: inttax.102407102
+Message-ID: <0.0.8A.901.1D24A5F7E957260.0@omp.e.turbotax.intuit.com>
+
+<=21DOCTYPE html>
+<html lang=3D=22en=22>
+<head>
+  <meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3DU=
+TF-8=22>
+  <meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width, initial-sc=
+ale=3D1=22>
+  <meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22>
+  <meta name=3D=22format-detection=22 content=3D=22telephone=3Dno=22>
+  <title>EMAIL TITLE</title>
+ =20
+  <style type=3D=22text/css=22>
+
+    body =7Bmargin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;=7D
+    table =7Bborder-spacing: 0;=7D
+    table td =7Bborder-collapse: collapse;=7D
+    =2EExternalClass =7Bwidth: 100%;=7D
+    =2EExternalClass,
+    =2EExternalClass p,
+    =2EExternalClass span,
+    =2EExternalClass font,
+    =2EExternalClass td,
+    =2EExternalClass div =7Bline-height: 100%;=7D
+    =2EReadMsgBody =7Bwidth: 100%;=7D
+    table =7Bmso-table-lspace: 0pt; mso-table-rspace: 0pt;=7D
+    img =7B-ms-interpolation-mode: bicubic;=7D
+    =2Eyshortcuts a =7Bborder-bottom: none =21important;=7D
+    =2Eios-footer a =7Bcolor: =23000000 =21important; text-decoration: none=
+;=7D
+    =2Eios-date a =7Bcolor: =23ffffff =21important; text-decoration: none;=
+=7D
+	=2Eios-blue a =7Bcolor: =2361adc3 =21important; text-decoration: none;=7D
+	=2Eios-gray a =7Bcolor: =23838383 =21important; text-decoration: none;=7D
+    =2Edesktop =7Bdisplay:block;=7D
+	=2Econtainer =7Bwidth: 640px =21important;=7D
+	=2Econtainer3 =7Bwidth: 640px =21important;=7D
+
+    =40media screen and (max-width: 639px) =7B
+      =2Eforce-row, =2Econtainer =7Bwidth: 100% =21important; max-width: 10=
+0% =21important;=7D
+	  =2Econtainer3 =7Bwidth: 320px =21important;=7D
+	  =2Emobile_scale_280 =7Bwidth: 280px =21important;=7D
+	  =2Emobile_scale_310 =7Bwidth: 310px =21important;=7D
+	  =2Emobile_scale_320 =7Bwidth: 320px =21important;=7D
+	  =2Emobile_height_120 =7Bheight: 120px =21important;=7D
+	  =2Emobile_height_35 =7Bheight: 35px =21important;=7D
+	  =2Emobile_image_280x230 =7Bwidth: 280px =21important; height: 230px =21i=
+mportant;=7D
+	  =2Emobile_image_280x203 =7Bwidth: 280px =21important; height: 203px =21i=
+mportant;=7D
+	  =2Enomobile =7Bdisplay:none =21important;=7D
+	  =2Emobile_no_bpadding =7Bpadding-bottom: 0 =21important;=7D
+	  =2Emobile_no_tpadding =7Bpadding-top: 0 =21important;=7D
+	  =2Emobile_no_rpadding =7Bpadding-right: 0 =21important;=7D
+	  =2Emobile_no_lpadding =7Bpadding-left: 0 =21important;=7D
+	  =2Emobile_sec_pod =7Bpadding-left: 20px =21important; padding-bottom: 27=
+px =21important;=7D
+    =7D
+
+  </style>
+</head>
+
+<body style=3D=22margin:0; padding:0;=22 bgcolor=3D=22=23ffffff=22 leftmarg=
+in=3D=220=22 topmargin=3D=220=22 marginwidth=3D=220=22 marginheight=3D=220=
+=22>
+
+
+<=21-- PLACE IN HEADER -->
+<=21-- TruEffect =2Eintuit=2Ecom IVID Lookup-->
+<img src=3D=22https://meta=2Ecmm=2Eintuit=2Ecom/MetadataServer/1_0/intuit=
+=2Ecom/ivid/pingid/json/?random=3D111aaa58344920161129084155286117826=22 wi=
+dth=3D=221=22 height=3D=222=22 alt=3D=22=22 border=3D=220=22 />
+
+<=21-- TruEffect =2Eturbotax=2Ecom IVID Lookup-->
+<img src=3D=22https://meta=2Ecmm=2Eturbotax=2Ecom/MetadataServer/1_0/turbot=
+ax=2Ecom/ivid/pingid/json/?random=3D111bbb65407420161129084155286108176=22 =
+width=3D=221=22 height=3D=222=22 alt=3D=22=22 border=3D=220=22 />
+
+
+<=21-- END HEADER --><=21-- ///// 100% BACKGROUND WRAPPER ///// -->
+
+  <table border=3D=220=22 width=3D=22100%=22 height=3D=22100%=22 cellpaddin=
+g=3D=220=22 cellspacing=3D=220=22 bgcolor=3D=22=23ffffff=22>
+    <tr>
+      <td align=3D=22center=22 valign=3D=22top=22 bgcolor=3D=22=23ffffff=22=
+ style=3D=22background-color: =23ffffff;=22>
+
+<=21-- ///// 640PX CONTAINER ///// -->
+
+      <table border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cells=
+pacing=3D=220=22 class=3D=22container=22 style=3D=22width:640px; max-width:=
+640px=22>
+        <tr>
+          <td bgcolor=3D=22=23ffffff=22>
+
+
+
+            <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=22=
+0=22 width=3D=22100%=22>
+            =20
+<=21-- start preheader -->
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3 nomobile=22 style=3D=22width:640px; max-=
+width:640px=22 bgcolor=3D=22=23ffffff=22><tr>
+    <td bgcolor=3D=22=23ffffff=22 align=3D=22left=22 style=3D=22padding-lef=
+t:20px;font-size:11px; line-height:13px; font-family:Avenir, Arial, Helveti=
+ca, sans-serif; color:=23666666;=22>&nbsp;<br><a href=3D=22https://e=2Eturb=
+otax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb=
+0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRYYT=
+&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GI=
+BTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8=
+frXL4V53-f_q3DTvNv=2E=22 style=3D=22color:=230082c3;=22 target=3D=22_blank=
+=22>Year-end tax tips</a> and <a href=3D=22https://e=2Eturbotax=2Eintuit=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckH=
+zfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRYBT&_ei_=3DEkMS2guA=
+oPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azz=
+AbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL4V53-f_q3DTv=
+Nv=2E=22 style=3D=22color:=230082c3;=22 target=3D=22_blank=22>holiday savin=
+gs</a>=2E Plus find out which athletes pay the <a href=3D=22https://e=2Etur=
+botax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWA=
+b0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRYD=
+T&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02G=
+IBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW=
+8frXL4V53-f_q3DTvNv=2E=22 style=3D=22color:=230082c3;=22 target=3D=22_blank=
+=22>highest&nbsp;taxes</a>=2E</td>
+	<td bgcolor=3D=22=23ffffff=22 align=3D=22right=22 style=3D=22padding-right=
+:20px;padding-left:10px;font-size:11px; line-height:13px; font-family:Aveni=
+r, Arial, Helvetica, sans-serif; color:=23666666;=22>&nbsp;<br>View&nbsp;<a=
+ href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpg=
+lLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwl=
+zghdzf0RnVXtpKX%3DSRUDCRAST&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60Wmb=
+Y4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azzAbYZWozcAzybT23miivafkwwSnrUVP05=
+BRFlp39TRX6G4gmv728V1w2nPkXzuQqZ3ynnF6fWtq7PFoQVYgpoklbZwv-cd85EMFeExthg5dc=
+oM2DCz54ljrFQxp46M1dwIA8v2GiscfdzZc1WrtoQza4yVxV84IND_It7qi5iTHgKud_17gaGFU=
+vUE1c8eIQM1eoVjkbHl2QaxYUeZf11F3umZqONSfPyOX9quHUghwSeLihQzflUFE2pbyvKi-9dS=
+F8Nc5LelF5n3GDM2HRjtz-UvQ7Dje5xOWW-j6fQ41KPaePSDydd6u-oOWwg9NMxkGeX6VaTRmHN=
+QL9WQjWRuduAcIeF5RaNUkM3GdqGrd8INyFn5KTBTafOj4fLhNSDLWbB2ub_lIVJ0IZF2Q-1d7u=
+1asng3I9wAzS36FZZ_Y2uWCfM9DMHiBV8lcoDw5Qw5CsIkggg_rCL9n3AfC0qxKlyFEghY-lxX-=
+gbC-vKSEToQBiPV0P3cdtMqSGfKNgL7ttUugIhqu0t7uuzDVnuABnTYHucYaQahtO4dhTQbOvQw=
+lA9Bm-QJzt_MeiRIIiD1KcFrOkdruYMqnvuUS39nOaCUp2ZHlIwauCCheY9MDiAz=2E=22 styl=
+e=3D=22color:=230082c3;=22 target=3D=22_blank=22>online</a>=2E</td>
+  </tr>
+  <tr>
+    <td colspan=3D=222=22 style=3D=22line-height:6px;=22><img style=3D=22di=
+splay:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsy=
+simages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter=
+/november_nl/images/spacer=2Egif=22 alt=3D=22=22 width=3D=221=22 height=3D=
+=226=22 border=3D=220=22></td>
+  </tr>
+</table></td>
+</tr>
+<=21-- end preheader -->
+
+
+<=21-- start top blue bar -->
+
+
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=230077c5=22><tr>
+    <td bgcolor=3D=22=230077c5=22 align=3D=22left=22 style=3D=22padding-lef=
+t:20px;=22><img style=3D=22display:block; color:=23ffffff; font-size:16px; =
+font-family:Avenir, Arial, Helvetica, sans-serif;=22 src=3D=22https://stati=
+c=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016/10/=
+201610_36354_ty16ttnovembernewsletter/default_signin/images/logo2=2Egif=22 =
+alt=3D=22Intuit&reg; TurboTax&reg;=22 width=3D=22124=22 height=3D=2249=22 b=
+order=3D=220=22></td>
+	<td bgcolor=3D=22=230077c5=22 align=3D=22right=22 style=3D=22padding-right=
+:20px;=22><=21-- BP CTA START --><table border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22>
+                            <tr>
+                                <td background=3D=22https://static=2Ecdn=2E=
+responsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016/10/201610_363=
+54_ty16ttnovembernewsletter/default_signin/images/button_left=2Egif=22 bgco=
+lor=3D=22=23ff6a00=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/=
+i2/responsysimages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembe=
+rnewsletter/default_signin/images/spacer=2Egif=22 style=3D=22display:block;=
+=22 width=3D=225=22 height=3D=2230=22 alt=3D=22=22 border=3D=220=22 /></td>
+                                <td bgcolor=3D=22=23ff6a00=22 align=3D=22ce=
+nter=22 valign=3D=22middle=22><a href=3D=22https://e=2Eturbotax=2Eintuit=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckH=
+zfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCSSBT&_ei_=3DEkMS2guA=
+oPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azz=
+AbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL4V53-f_q3DTv=
+Nv=2E=22 style=3D=22font-family:Avenir, Arial, Helvetica, sans-serif; font-=
+size:16px; color:=23ffffff; text-decoration:none;=22 target=3D=22_blank=22>=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sign&nbsp;in&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+                                <td background=3D=22https://static=2Ecdn=2E=
+responsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016/10/201610_363=
+54_ty16ttnovembernewsletter/default_signin/images/button_right=2Egif=22 bgc=
+olor=3D=22=23ff6a00=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet=
+/i2/responsysimages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovemb=
+ernewsletter/default_signin/images/spacer=2Egif=22 style=3D=22display:block=
+;=22 width=3D=225=22 height=3D=2230=22 alt=3D=22=22 border=3D=220=22 /></td>
+                            </tr>
+                        </table><=21-- BP CTA END --></td>
+  </tr>
+</table></td>
+</tr><=21-- end top blue bar -->
+
+<=21-- start top gray bar -->
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=23393a3d=22><tr>
+    <td bgcolor=3D=22=23393a3d=22 style=3D=22line-height:8px;=22><img style=
+=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovemberne=
+wsletter/november_nl/images/spacer=2Egif=22 width=3D=22320=22 height=3D=228=
+=22 alt=3D=22=22 border=3D=220=22></td>
+  </tr>
+  <tr><td style=3D=22font-size:14px; line-height:14px; font-family:Avenir, =
+Arial, Helvetica, sans-serif; color:=23ffffff;=22 align=3D=22center=22>Tax =
+Break&nbsp;&nbsp;=7C&nbsp;&nbsp;Issue =2317</td>
+  </tr>
+<tr>
+    <td bgcolor=3D=22=23393a3d=22 style=3D=22line-height:8px;=22><img style=
+=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovemberne=
+wsletter/november_nl/images/spacer=2Egif=22 width=3D=22320=22 height=3D=228=
+=22 alt=3D=22=22 border=3D=220=22></td>
+  </tr>
+</table></td>
+</tr>
+<=21-- end top gray bar -->
+
+
+
+<=21-- start hero -->
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22><table align=
+=3D=22center=22 border=3D=220=22 width=3D=22579=22 cellpadding=3D=220=22 ce=
+llspacing=3D=220=22 class=3D=22container3=22 style=3D=22width:579px; max-wi=
+dth:579px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22>
+
+         <=21--=5Bif mso=5D>
+         <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22579=22 align=3D=22center=22>
+         <tr><td width=3D=22100%=22 valign=3D=22top=22 bgcolor=3D=22=23f1f1=
+f1=22><=21=5Bendif=5D-->
+          <table width=3D=22579=22 border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 align=3D=22left=22 class=3D=22force-row mobile_scale_3=
+20=22 bgcolor=3D=22=23f1f1f1=22>
+               <tr>
+                    <td valign=3D=22top=22 style=3D=22padding-top:30px; pad=
+ding-bottom:10px; padding-left:5px; padding-right:5px;=22><table border=3D=
+=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 align=3D=22center=22 bg=
+color=3D=22=23f1f1f1=22 class=3D=22mobile_scale_280=22>
+										<tr>
+											<td align=3D=22center=22><a href=3D=22https://e=2Eturbotax=2Eint=
+uit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPq=
+S9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRAYT&_ei_=3DEk=
+MS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncw=
+uH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL4V53-f=
+_q3DTvNv=2E=22 target=3D=22_blank=22><img src=3D=22https://static=2Ecdn=2Er=
+esponsys=2Enet/i2/responsysimages/content/inttax/mobile_nov_hero_2x=2Ejpg=
+=22 border=3D=220=22 width=3D=22569=22 height=3D=22466=22 alt=3D=2210 End o=
+f Year Tax Tips to Increase Your Refund=22 style=3D=22display:block; border=
+:0;=22 class=3D=22mobile_image_280x230=22></a></td>
+										</tr>
+										<tr>
+											<td align=3D=22left=22 valign=3D=22top=22 style=3D=22padding-lef=
+t:10px; padding-right:20px; font-family:'Avenir Next', Arial, Helvetica, sa=
+ns-serif; color:=23393a3d;font-size:13px; line-height:18px;=22 bgcolor=3D=
+=22=23ffffff=22>&nbsp;<br>Now is a great time to make some end-of-year tax =
+moves=2E Here are 10 quick and easy tax tips you still have time to take ad=
+vantage of=2E<br>&nbsp;</td>
+										</tr>
+									</table></td>
+                                  </tr>
+			</table>
+	          <=21--=5Bif mso=5D></td></tr></table><=21=5Bendif=5D-->
+		</td></tr></table></td></tr></table></td>
+</tr>
+				=09
+<=21-- end hero -->
+
+<=21-- start alternative module 2 -->
+<=21-- end alternative module 2 -->
+
+
+<=21-- stacking trio of pods -->
+
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22><table align=
+=3D=22center=22 border=3D=220=22 width=3D=22579=22 cellpadding=3D=220=22 ce=
+llspacing=3D=220=22 class=3D=22container3=22 style=3D=22width:579px; max-wi=
+dth:579px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22>
+
+         <=21--=5Bif mso=5D>
+         <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22579=22 align=3D=22center=22>
+         <tr><td width=3D=2233%=22 valign=3D=22top=22 bgcolor=3D=22=23f1f1f=
+1=22><=21=5Bendif=5D-->
+          <table width=3D=22188=22 border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 align=3D=22left=22 class=3D=22force-row mobile_scale_3=
+20=22 bgcolor=3D=22=23f1f1f1=22>
+               <tr>
+                    <td valign=3D=22top=22 style=3D=22padding-top:5px; padd=
+ing-bottom:10px; padding-left:5px;=22 class=3D=22mobile_no_bpadding mobile_=
+no_lpadding=22><table width=3D=22183=22 border=3D=220=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22 align=3D=22center=22 bgcolor=3D=22=23f1f1f1=22>
+										<tr>
+											<td align=3D=22center=22><a href=3D=22https://e=2Eturbotax=2Eint=
+uit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPq=
+S9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRABT&_ei_=3DEk=
+MS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncw=
+uH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL4V53-f=
+_q3DTvNv=2E=22 target=3D=22_blank=22><img src=3D=22https://static=2Ecdn=2Er=
+esponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016/10/201610_3635=
+4_ty16ttnovembernewsletter/november_nl/images/mobile_pol_buttons_2x=2Ejpg=
+=22 border=3D=220=22 width=3D=22183=22 height=3D=22150=22 alt=3D=22=22 styl=
+e=3D=22display:block; border:0;=22 class=3D=22mobile_image_280x230=22></a><=
+/td>
+										</tr>
+									</table></td>
+                                  </tr>
+			</table>
+	        <=21--=5Bif mso=5D></td><td width=3D=2266%=22 valign=3D=22top=22 b=
+gcolor=3D=22=23f1f1f1=22><=21=5Bendif=5D-->
+			<=21-- height of top left sidebar set below -->
+            <table width=3D=22391=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 class=3D=22force-row mobile_scale_320=22 bgcolor=3D=
+=22=23f1f1f1=22>
+                 <tr>
+                      <td valign=3D=22top=22 style=3D=22padding-top:5px; pa=
+dding-bottom:10px; padding-right:5px;=22 class=3D=22mobile_no_tpadding mobi=
+le_no_rpadding=22><table width=3D=22386=22 border=3D=220=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 align=3D=22center=22 bgcolor=3D=22=23ffffff=
+=22 class=3D=22mobile_scale_280=22>
+  										<tr>
+											<td align=3D=22center=22 width=3D=221=22><img src=3D=22https://s=
+tatic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016=
+/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/spacer=2Egif=
+=22  alt=3D=22=22 width=3D=221=22 height=3D=22150=22 style=3D=22display:blo=
+ck; border:0;=22 class=3D=22mobile_height_120=22></td>
+											<td align=3D=22left=22 valign=3D=22middle=22 style=3D=22padding-=
+left:10px; padding-right:20px; font-family:'Avenir Next', Arial, Helvetica,=
+ sans-serif; color:=23393a3d;font-size:12px; line-height:14px;=22><span sty=
+le=3D=22font-size:6px; line-height:6px;=22>&nbsp;<br></span><span style=3D=
+=22font-size:14px; line-height:18px;=22><a href=3D=22https://e=2Eturbotax=
+=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFI=
+WMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRADT&_ei=
+_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE=
+2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL=
+4V53-f_q3DTvNv=2E=22 target=3D=22_blank=22 style=3D=22color:=23393a3d; text=
+-decoration:none;=22>Are Political Campaign Contributions Tax Deductible?</=
+a></span><span style=3D=22font-size:8px; line-height:10px;=22><br>&nbsp;<br=
+></span>Did you make a financial contribution to your candidate of choice t=
+his year? Read on to find out if it will save you at tax time=2E<br>&nbsp;<=
+/td>
+  										</tr>
+  									</table></td>
+                                    </tr>
+  			</table>
+	          <=21--=5Bif mso=5D></td></tr></table><=21=5Bendif=5D-->
+		</td></tr></table></td></tr></table></td>
+</tr>=09
+
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22><table align=
+=3D=22center=22 border=3D=220=22 width=3D=22579=22 cellpadding=3D=220=22 ce=
+llspacing=3D=220=22 class=3D=22container3=22 style=3D=22width:579px; max-wi=
+dth:579px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22>
+
+         <=21--=5Bif mso=5D>
+         <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22579=22 align=3D=22center=22>
+         <tr><td width=3D=2233%=22 valign=3D=22top=22 bgcolor=3D=22=23f1f1f=
+1=22><=21=5Bendif=5D-->
+          <table width=3D=22193=22 border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 align=3D=22left=22 class=3D=22force-row mobile_scale_3=
+20=22 bgcolor=3D=22=23f1f1f1=22>
+               <tr>
+                    <td valign=3D=22top=22 style=3D=22padding-top:5px; padd=
+ing-bottom:10px; padding-left:5px; padding-right:5px;=22><table width=3D=22=
+183=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 align=
+=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+										<tr>
+											<td align=3D=22center=22 colspan=3D=222=22><a href=3D=22https://=
+e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7=
+HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DS=
+RUDCRBST&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPv=
+HovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0h=
+aB_1lqW8frXL4V53-f_q3DTvNv=2E=22 target=3D=22_blank=22><img src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/content/inttax/mobile_h=
+oliday_dona_2x=2Ejpg=22 border=3D=220=22 width=3D=22183=22 height=3D=22150=
+=22 alt=3D=22=22 style=3D=22display:block; border:0;=22 class=3D=22mobile_i=
+mage_280x230=22></a></td>
+										</tr>
+										<tr>
+											<td align=3D=22center=22 width=3D=221=22><img src=3D=22https://s=
+tatic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016=
+/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/spacer=2Egif=
+=22  alt=3D=22=22 width=3D=221=22 height=3D=22130=22 style=3D=22display:blo=
+ck; border:0;=22 class=3D=22mobile_height_120=22></td>
+											<td align=3D=22left=22 valign=3D=22top=22 style=3D=22padding-lef=
+t:10px; padding-right:10px; font-family:'Avenir Next', Arial, Helvetica, sa=
+ns-serif; color:=23393a3d;font-size:12px; line-height:14px;=22><span style=
+=3D=22font-size:6px; line-height:6px;=22>&nbsp;<br></span><span style=3D=22=
+font-size:14px; line-height:18px;=22><a href=3D=22https://e=2Eturbotax=2Ein=
+tuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCP=
+qS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRBUT&_ei_=3DE=
+kMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1nc=
+wuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL4V53-=
+f_q3DTvNv=2E=22 target=3D=22_blank=22 style=3D=22color:=23393a3d; text-deco=
+ration:none;=22>Holiday Donations<br />and Tax&nbsp;Savings</a></span><span=
+ style=3D=22font-size:8px; line-height:10px;=22><br>&nbsp;<br></span>Feel g=
+ood and save money with these tax deductible holiday donation&nbsp;tips=2E<=
+/td>
+										</tr>
+									</table></td>
+                                  </tr>
+			</table>
+	        <=21--=5Bif mso=5D></td><td width=3D=2233%=22 valign=3D=22top=22 b=
+gcolor=3D=22=23f1f1f1=22><=21=5Bendif=5D-->
+			<=21-- height of top left sidebar set below -->
+            <table width=3D=22193=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 align=3D=22left=22 class=3D=22force-row mobile_scale=
+_320=22>
+                 <tr>
+                      <td valign=3D=22top=22 style=3D=22padding-top:5px; pa=
+dding-bottom:10px; padding-left:5px; padding-right:5px;=22><table width=3D=
+=22183=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 alig=
+n=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+  										<tr>
+  											<td align=3D=22center=22 colspan=3D=222=22><a href=3D=22https:=
+//e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2W=
+k7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3=
+DSRUDCRBYT&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1Wc=
+PvHovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg=
+0haB_1lqW8frXL4V53-f_q3DTvNv=2E=22 target=3D=22_blank=22><img src=3D=22http=
+s://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary=
+/2016/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/mobile_he=
+alth_ins_2x=2Ejpg=22 border=3D=220=22 width=3D=22183=22 height=3D=22150=22 =
+alt=3D=22=22 style=3D=22display:block; border:0;=22 class=3D=22mobile_image=
+_280x230=22></a></td>
+  										</tr>
+  										<tr>
+  											<td align=3D=22center=22 width=3D=221=22><img src=3D=22https:/=
+/static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/20=
+16/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/spacer=2Egif=
+=22  alt=3D=22=22 width=3D=221=22 height=3D=22130=22 style=3D=22display:blo=
+ck; border:0;=22 class=3D=22mobile_height_120=22></td>
+  											<td align=3D=22left=22 valign=3D=22top=22 style=3D=22padding-l=
+eft:10px; padding-right:10px; font-family:'Avenir Next', Arial, Helvetica, =
+sans-serif; color:=23393a3d;font-size:12px; line-height:14px;=22><span styl=
+e=3D=22font-size:6px; line-height:6px;=22>&nbsp;<br></span><span style=3D=
+=22font-size:14px; line-height:18px;=22><a href=3D=22https://e=2Eturbotax=
+=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFI=
+WMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRBBT&_ei=
+_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE=
+2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL=
+4V53-f_q3DTvNv=2E=22 target=3D=22_blank=22 style=3D=22color:=23393a3d; text=
+-decoration:none;=22>Guide to Marketplace Open&nbsp;Enrollment</a></span><s=
+pan style=3D=22font-size:8px; line-height:10px;=22><br>&nbsp;<br></span>Enr=
+oll in a 2017 health insurance plan that makes sense for your&nbsp;budget=
+=2E</td>
+  										</tr>
+  									</table></td>
+                                    </tr>
+  			</table>
+	        <=21--=5Bif mso=5D></td><td width=3D=2233%=22 valign=3D=22top=22 b=
+gcolor=3D=22=23f1f1f1=22><=21=5Bendif=5D-->
+			<=21-- height of top left sidebar set below -->
+            <table width=3D=22193=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 align=3D=22left=22 class=3D=22force-row mobile_scale=
+_320=22>
+                 <tr>
+                      <td valign=3D=22top=22 style=3D=22padding-top:5px; pa=
+dding-bottom:10px; padding-left:5px; padding-right:5px;=22><table width=3D=
+=22183=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 alig=
+n=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+  										<tr>
+  											<td align=3D=22center=22 colspan=3D=222=22><a href=3D=22https:=
+//e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2W=
+k7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3=
+DSRUDCRBDT&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1Wc=
+PvHovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg=
+0haB_1lqW8frXL4V53-f_q3DTvNv=2E=22 target=3D=22_blank=22><img src=3D=22http=
+s://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/content/inttax/mobile=
+_save_holiday_2x=2Ejpg=22 border=3D=220=22 width=3D=22183=22 height=3D=2215=
+0=22 alt=3D=22=22 style=3D=22display:block; border:0;=22 class=3D=22mobile_=
+image_280x230=22></a></td>
+  										</tr>
+  										<tr>
+  											<td align=3D=22center=22 width=3D=221=22><img src=3D=22https:/=
+/static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/20=
+16/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/spacer=2Egif=
+=22  alt=3D=22=22 width=3D=221=22 height=3D=22130=22 style=3D=22display:blo=
+ck; border:0;=22 class=3D=22mobile_height_120=22></td>
+  											<td align=3D=22left=22 valign=3D=22top=22 style=3D=22padding-l=
+eft:10px; padding-right:10px; font-family:'Avenir Next', Arial, Helvetica, =
+sans-serif; color:=23393a3d;font-size:12px; line-height:14px;=22><span styl=
+e=3D=22font-size:6px; line-height:6px;=22>&nbsp;<br></span><span style=3D=
+=22font-size:14px; line-height:18px;=22><a href=3D=22https://e=2Eturbotax=
+=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFI=
+WMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRCST&_ei=
+_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE=
+2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL=
+4V53-f_q3DTvNv=2E=22 target=3D=22_blank=22 style=3D=22color:=23393a3d; text=
+-decoration:none;=22>How to Save Before the Holiday Season is&nbsp;Here</a>=
+</span><span style=3D=22font-size:8px; line-height:10px;=22><br>&nbsp;<br><=
+/span>Ways to save this holiday season while still enjoying your favorite&n=
+bsp;activities=2E</td>
+  										</tr>
+  									</table></td>
+                                    </tr>
+  			</table>
+	          <=21--=5Bif mso=5D></td></tr></table><=21=5Bendif=5D-->
+		</td></tr></table></td></tr></table></td>
+</tr>
+				=09
+<=21-- end stacking trio of pods -->
+
+<=21-- stacking pair of pods -->
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22><table align=
+=3D=22center=22 border=3D=220=22 width=3D=22579=22 cellpadding=3D=220=22 ce=
+llspacing=3D=220=22 class=3D=22container3=22 style=3D=22width:579px; max-wi=
+dth:579px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22>
+
+         <=21--=5Bif mso=5D>
+         <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22579=22 align=3D=22center=22>
+         <tr><td width=3D=2250%=22 valign=3D=22top=22 bgcolor=3D=22=23f1f1f=
+1=22><=21=5Bendif=5D-->
+          <table width=3D=22289=22 border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 align=3D=22left=22 class=3D=22force-row mobile_scale_3=
+20=22 bgcolor=3D=22=23f1f1f1=22>
+               <tr>
+                    <td valign=3D=22top=22 style=3D=22padding-top:5px; padd=
+ing-bottom:10px; padding-left:5px; padding-right:5px;=22><table width=3D=22=
+279=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 align=
+=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+										<tr>
+											<td align=3D=22center=22 colspan=3D=222=22><a href=3D=22https://=
+e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7=
+HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DS=
+RUDCRCUT&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPv=
+HovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0h=
+aB_1lqW8frXL4V53-f_q3DTvNv=2E=22 target=3D=22_blank=22><img src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2=
+016/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/mobile_tail=
+gate_party_2x=2Ejpg=22 border=3D=220=22 width=3D=22279=22 height=3D=22229=
+=22 alt=3D=22=22 style=3D=22display:block; border:0;=22 class=3D=22mobile_i=
+mage_280x230=22></a></td>
+										</tr>
+										<tr>
+											<td align=3D=22center=22 width=3D=221=22><img src=3D=22https://s=
+tatic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016=
+/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/spacer=2Egif=
+=22  alt=3D=22=22 width=3D=221=22 height=3D=22112=22 style=3D=22display:blo=
+ck; border:0;=22 class=3D=22mobile_height_120=22></td>
+											<td align=3D=22left=22 valign=3D=22top=22 style=3D=22padding-lef=
+t:10px; padding-right:10px; font-family:'Avenir Next', Arial, Helvetica, sa=
+ns-serif; color:=23393a3d;font-size:12px; line-height:14px;=22><span style=
+=3D=22font-size:6px; line-height:6px;=22>&nbsp;<br></span><span style=3D=22=
+font-size:14px; line-height:18px;=22><a href=3D=22https://e=2Eturbotax=2Ein=
+tuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCP=
+qS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRCYT&_ei_=3DE=
+kMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1nc=
+wuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL4V53-=
+f_q3DTvNv=2E=22 target=3D=22_blank=22 style=3D=22color:=23393a3d; text-deco=
+ration:none;=22>Tax Realities of Fantasy&nbsp;Sports</a></span><span style=
+=3D=22font-size:8px; line-height:10px;=22><br>&nbsp;<br></span>Everyone lov=
+es a winner, especially the IRS=21 Learn what you might owe on your fantasy=
+ sports winnings (or can deduct in&nbsp;losses)=2E</td>
+										</tr>
+									</table></td>
+                                  </tr>
+			</table>
+	        <=21--=5Bif mso=5D></td><td width=3D=2250%=22 valign=3D=22top=22 b=
+gcolor=3D=22=23f1f1f1=22><=21=5Bendif=5D-->
+			<=21-- height of top left sidebar set below -->
+            <table width=3D=22289=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 align=3D=22left=22 class=3D=22force-row mobile_scale=
+_320=22>
+                 <tr>
+                      <td valign=3D=22top=22 style=3D=22padding-top:5px; pa=
+dding-bottom:10px; padding-left:5px; padding-right:5px;=22><table width=3D=
+=22279=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 alig=
+n=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+  										<tr>
+  											<td align=3D=22center=22 colspan=3D=222=22><a href=3D=22https:=
+//e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2W=
+k7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3=
+DSRUDCRCBT&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1Wc=
+PvHovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg=
+0haB_1lqW8frXL4V53-f_q3DTvNv=2E=22 target=3D=22_blank=22><img src=3D=22http=
+s://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary=
+/2016/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/mobile_ph=
+ilip_rivers_2x=2Ejpg=22 border=3D=220=22 width=3D=22279=22 height=3D=22229=
+=22 alt=3D=22=22 style=3D=22display:block; border:0;=22 class=3D=22mobile_i=
+mage_280x230=22></a></td>
+  										</tr>
+  										<tr>
+  											<td align=3D=22center=22 width=3D=221=22><img src=3D=22https:/=
+/static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/20=
+16/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/spacer=2Egif=
+=22  alt=3D=22=22 width=3D=221=22 height=3D=22112=22 style=3D=22display:blo=
+ck; border:0;=22 class=3D=22mobile_height_120=22></td>
+  											<td align=3D=22left=22 valign=3D=22top=22 style=3D=22padding-l=
+eft:10px; padding-right:10px; font-family:'Avenir Next', Arial, Helvetica, =
+sans-serif; color:=23393a3d;font-size:12px; line-height:14px;=22><span styl=
+e=3D=22font-size:6px; line-height:6px;=22>&nbsp;<br></span><span style=3D=
+=22font-size:14px; line-height:18px;=22><a href=3D=22https://e=2Eturbotax=
+=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFI=
+WMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRCDT&_ei=
+_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE=
+2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL=
+4V53-f_q3DTvNv=2E=22 target=3D=22_blank=22 style=3D=22color:=23393a3d; text=
+-decoration:none;=22>Is Your Favorite Athlete a Tax&nbsp;Star?</a></span><s=
+pan style=3D=22font-size:8px; line-height:10px;=22><br>&nbsp;<br></span>Hug=
+e salaries and hefty endorsements put these six athletes in the taxpayer ha=
+ll of fame=2E Is your favorite among&nbsp;them?</td>
+  										</tr>
+  									</table></td>
+                                    </tr>
+  			</table>
+	          <=21--=5Bif mso=5D></td></tr></table><=21=5Bendif=5D-->
+		</td></tr></table></td></tr></table></td>
+</tr>
+				=09
+<=21-- end stacking pair of pods -->
+
+<=21-- stacking module 3 -->
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22><table align=
+=3D=22center=22 border=3D=220=22 width=3D=22579=22 cellpadding=3D=220=22 ce=
+llspacing=3D=220=22 class=3D=22container3=22 style=3D=22width:579px; max-wi=
+dth:579px=22 bgcolor=3D=22=23f1f1f1=22><tr><td align=3D=22center=22>
+
+         <=21--=5Bif mso=5D>
+         <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22579=22 align=3D=22center=22>
+         <tr><td width=3D=2233%=22 valign=3D=22top=22 bgcolor=3D=22=23f1f1f=
+1=22><=21=5Bendif=5D-->
+          <table width=3D=22193=22 border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 align=3D=22left=22 class=3D=22force-row mobile_scale_3=
+20=22 bgcolor=3D=22=23f1f1f1=22>
+               <tr>
+                    <td valign=3D=22top=22 style=3D=22padding-top:5px; padd=
+ing-bottom:10px; padding-left:5px; padding-right:5px;=22><table width=3D=22=
+183=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 align=
+=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+										<tr>
+											<td align=3D=22center=22 colspan=3D=222=22><a href=3D=22https://=
+e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7=
+HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DS=
+RUDCRDST&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPv=
+HovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqzlkXP7jOcrzNfc6LYqLt-rIEmd=
+eQCt8ZBeCPVnVi=2E=22 target=3D=22_blank=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016/10/20161=
+0_36354_ty16ttnovembernewsletter/november_nl/images/mobile_chris_adams_2x=
+=2Ejpg=22 border=3D=220=22 width=3D=22183=22 height=3D=22150=22 alt=3D=22=
+=22 style=3D=22display:block; border:0;=22 class=3D=22mobile_image_280x230=
+=22></a></td>
+										</tr>
+										<tr>
+											<td align=3D=22center=22 width=3D=221=22><img src=3D=22https://s=
+tatic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016=
+/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/spacer=2Egif=
+=22  alt=3D=22=22 width=3D=221=22 height=3D=22130=22 style=3D=22display:blo=
+ck; border:0;=22 class=3D=22mobile_height_120=22></td>
+											<td align=3D=22left=22 valign=3D=22top=22 style=3D=22padding-lef=
+t:10px; padding-right:10px; font-family:'Avenir Next', Arial, Helvetica, sa=
+ns-serif; color:=23393a3d;font-size:12px; line-height:14px;=22><span style=
+=3D=22font-size:6px; line-height:6px;=22>&nbsp;<br></span><span style=3D=22=
+font-size:14px; line-height:18px;=22><a href=3D=22https://e=2Eturbotax=2Ein=
+tuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCP=
+qS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRDUT&_ei_=3DE=
+kMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1nc=
+wuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqzlkXP7jOcrzNfc6LYqLt-rIEmdeQCt8ZBeCPVnVi=2E=
+=22 target=3D=22_blank=22 style=3D=22color:=23393a3d; text-decoration:none;=
+=22>Taxes for Life Stages</a></span><span style=3D=22font-size:8px; line-he=
+ight:10px;=22><br>&nbsp;<br></span>Buying a house or having a baby? Check o=
+ut this TurboTax customer review=2E</td>
+										</tr>
+									</table></td>
+                                  </tr>
+			</table>
+	        <=21--=5Bif mso=5D></td><td width=3D=2266%=22 valign=3D=22top=22 b=
+gcolor=3D=22=23f1f1f1=22><=21=5Bendif=5D-->
+			<=21-- height of top left sidebar set below -->
+            <table width=3D=22386=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 class=3D=22force-row mobile_scale_320=22 bgcolor=3D=
+=22=23f1f1f1=22>
+                 <tr>
+                      <td valign=3D=22top=22 style=3D=22padding-top:5px; pa=
+dding-bottom:10px; padding-left:5px; padding-right:5px;=22><table width=3D=
+=22376=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 alig=
+n=3D=22center=22 bgcolor=3D=22=23f1f1f1=22 class=3D=22mobile_scale_310=22>
+  										<tr>
+  											<td align=3D=22center=22><a href=3D=22https://e=2Eturbotax=2Ei=
+ntuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYC=
+PqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRDYT&_ei_=3D=
+EkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1n=
+cwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJDJg0haB_1lqW8frXL4V53=
+-f_q3DTvNv=2E=22 target=3D=22_blank=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016/10/201610_=
+36354_ty16ttnovembernewsletter/november_nl/images/mobile_weight_loss_2x=2Ej=
+pg=22 border=3D=220=22 width=3D=22376=22 height=3D=22272=22 alt=3D=22How Po=
+st-Holiday Weight Loss Can Save You Money=22 style=3D=22display:block; bord=
+er:0;=22 class=3D=22mobile_image_280x203=22></a></td>
+  										</tr>
+  									</table></td>
+                                    </tr>
+  			</table>
+	          <=21--=5Bif mso=5D></td></tr></table><=21=5Bendif=5D-->
+		</td></tr></table></td></tr></table></td>
+</tr>
+				=09
+<=21-- end stacking module 3 -->
+
+
+
+<=21-- start security pod -->
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=23f1f1f1=22><tr>
+    <td bgcolor=3D=22=23f1f1f1=22 align=3D=22left=22 valign=3D=22top=22 sty=
+le=3D=22padding-top:22px; padding-bottom:8px; padding-left:35px; padding-ri=
+ght:15px; font-family:'Avenir Next', Arial, Helvetica, sans-serif; color:=
+=23838383; font-size:12px; line-height:18px;=22 class=3D=22mobile_sec_pod=
+=22><img align=3D=22left=22 style=3D=22display:block;=22 src=3D=22https://s=
+tatic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016=
+/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/lock=2Ejpg=22 =
+alt=3D=22=22 width=3D=2259=22 height=3D=2273=22 border=3D=220=22><b>Check b=
+efore you&nbsp;click=21</b><br><i>TurboTax will never ask you for personal =
+information in an&nbsp;email=2E<br>When you click on a link, the address sh=
+ould always contain&nbsp;</i>=22<i><span class=3D=22ios-gray=22>intuit=2Eco=
+m/</span></i>=22=2E</td>
+  </tr>
+</table></td>
+</tr>
+<=21-- end security pod -->
+
+
+<=21-- start bottom blue bar -->
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=230077c5=22><tr>
+    <td bgcolor=3D=22=230077c5=22 style=3D=22line-height:9px;=22><img style=
+=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovemberne=
+wsletter/november_nl/images/spacer=2Egif=22 width=3D=22320=22 height=3D=229=
+=22 alt=3D=22=22 border=3D=220=22></td>
+  </tr>
+  <tr><td style=3D=22font-family:'Avenir Next', Arial, Helvetica, sans-seri=
+f; color:=23ffffff; font-size:18px; line-height:20px;=22 align=3D=22center=
+=22>Trusted=2E Done Right=2E <span style=3D=22color:=23ffdc00;=22><b>Guaran=
+teed</b>=2E</span></td>
+  </tr>
+<tr>
+    <td bgcolor=3D=22=230077c5=22 style=3D=22line-height:9px;=22><img style=
+=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/=
+responsysimages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovemberne=
+wsletter/november_nl/images/spacer=2Egif=22 width=3D=22320=22 height=3D=229=
+=22 alt=3D=22=22 border=3D=220=22></td>
+  </tr>
+</table></td>
+</tr>
+<=21-- end bottom blue bar -->
+
+
+
+<=21-- start legal -->
+<tr>
+     <td bgcolor=3D=22=23ffffff=22 align=3D=22center=22><table align=3D=22c=
+enter=22 border=3D=220=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22 class=3D=22container3=22 style=3D=22width:640px; max-width:640=
+px=22 bgcolor=3D=22=23ffffff=22><tr><td colspan=3D=223=22><img style=3D=22d=
+isplay:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/respons=
+ysimages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewslette=
+r/november_nl/images/spacer=2Egif=22 width=3D=221=22 height=3D=2250=22 alt=
+=3D=22=22 border=3D=220=22 class=3D=22mobile_height_35=22></td></tr>
+		 <tr>
+            	<td colspan=3D=223=22 align=3D=22center=22><table width=3D=221=
+66=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                  <tr>
+                  	<td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9=
+AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRDBT&_ei_=3DEkMS2guAoPNu8Rh=
+6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azzAbYZZFZ=
+_TGAiBh6NHGlfZlHmqzlkXP7jOcrzNfc6LYqLt-rIEmdeQCt8ZBeCPVnVi=2E=22 target=3D=
+=22_blank=22><img style=3D=22display:block; color:=23ffffff; background-col=
+or:=233c5a97; font-family:'Avenir Next', Arial, Helvetica, sans-serif; font=
+-size:8px;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/n=
+ovember_nl/images/mobile_facebook_2x=2Egif=22 width=3D=2226=22 height=3D=22=
+26=22 alt=3D=22Facebook=22 border=3D=220=22></a></td>
+                    <td style=3D=22line-height:1px;=22><img style=3D=22disp=
+lay:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/n=
+ovember_nl/images/spacer=2Egif=22 alt=3D=22=22 width=3D=229=22 height=3D=22=
+1=22 border=3D=220=22></td>
+                    <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m=
+9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCRDDT&_ei_=3DEkMS2guAoPNu8R=
+h6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azzAbYZZF=
+Z_TGAiBh6NHGlfZlHmqzlkXP7jOcrzNfc6LYqLt-rIEmdeQCt8ZBeCPVnVi=2E=22 target=3D=
+=22_blank=22><img style=3D=22display:block; color:=23ffffff; background-col=
+or:=2355acee; font-family:'Avenir Next', Arial, Helvetica, sans-serif; font=
+-size:8px;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/n=
+ovember_nl/images/mobile_twitter_2x=2Egif=22 width=3D=2226=22 height=3D=222=
+6=22 alt=3D=22Twitter=22 border=3D=220=22></a></td>
+                    <td style=3D=22line-height:1px;=22><img style=3D=22disp=
+lay:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/n=
+ovember_nl/images/spacer=2Egif=22 alt=3D=22=22 width=3D=229=22 height=3D=22=
+1=22 border=3D=220=22></td>
+                    <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m=
+9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCSRST&_ei_=3DEkMS2guAoPNu8R=
+h6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azzAbYZZF=
+Z_TGAiBh6NHGlfZlHmqzlkXP7jOcrzNfc6LYqLt-rIEmdeQCt8ZBeCPVnVi=2E=22 target=3D=
+=22_blank=22><img style=3D=22display:block; color:=23ffffff; background-col=
+or:=23e42c27; font-family:'Avenir Next', Arial, Helvetica, sans-serif; font=
+-size:8px;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/n=
+ovember_nl/images/mobile_youtube_2x=2Egif=22 width=3D=2226=22 height=3D=222=
+6=22 alt=3D=22You Tube=22 border=3D=220=22></a></td>
+                    <td style=3D=22line-height:1px;=22><img style=3D=22disp=
+lay:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/n=
+ovember_nl/images/spacer=2Egif=22 alt=3D=22=22 width=3D=229=22 height=3D=22=
+1=22 border=3D=220=22></td>
+                    <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m=
+9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCSRUT&_ei_=3DEkMS2guAoPNu8R=
+h6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azzAbYZZF=
+Z_TGAiBh6NHGlfZlHmqzlkXP7jOcrzNfc6LYqLt-rIEmdeQCt8ZBeCPVnVi=2E=22 target=3D=
+=22_blank=22><img style=3D=22display:block; color:=23ffffff; background-col=
+or:=23c91f27; font-family:'Avenir Next', Arial, Helvetica, sans-serif; font=
+-size:8px;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/n=
+ovember_nl/images/mobile_pinterest_2x=2Egif=22 width=3D=2226=22 height=3D=
+=2226=22 alt=3D=22Pinterest=22 border=3D=220=22></a></td>
+                    <td style=3D=22line-height:1px;=22><img style=3D=22disp=
+lay:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/n=
+ovember_nl/images/spacer=2Egif=22 alt=3D=22=22 width=3D=229=22 height=3D=22=
+1=22 border=3D=220=22></td>
+                    <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m=
+9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCSRYT&_ei_=3DEkMS2guAoPNu8R=
+h6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azzAbYZZF=
+Z_TGAiBh6NHGlfZlHmqzlkXP7jOcrzNfc6LYqLt-rIEmdeQCt8ZBeCPVnVi=2E=22 target=3D=
+=22_blank=22><img style=3D=22display:block; color:=23ffffff; background-col=
+or:=23fa7921; font-family:'Avenir Next', Arial, Helvetica, sans-serif; font=
+-size:8px;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/n=
+ovember_nl/images/mobile_blog_2x=2Egif=22 width=3D=2226=22 height=3D=2226=
+=22 alt=3D=22Blog=22 border=3D=220=22></a></td>
+                  </tr>
+                </table></td>
+  </tr>
+  <tr>
+    <td colspan=3D=223=22><img style=3D=22display:block;=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2=
+016/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/spacer=2Egi=
+f=22 width=3D=221=22 height=3D=2225=22 alt=3D=22=22 border=3D=220=22></td>
+  </tr>
+  <tr>
+    <td colspan=3D=223=22 align=3D=22center=22><img style=3D=22display:bloc=
+k; color:=23009; font-size:16px; font-family:Avenir, Arial, Helvetica, sans=
+-serif;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimag=
+es/inttax/contentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/nove=
+mber_nl/images/mobile_intuit_simplify_2x=2Egif=22 width=3D=22305=22 height=
+=3D=2250=22 alt=3D=22Intuit&reg; simplify the business of life=22 border=3D=
+=220=22></td>
+  </tr>
+  <tr>
+    <td colspan=3D=223=22 align=3D=22center=22 style=3D=22padding-top:4px;=
+=22><img style=3D=22display:block; color:=23009; font-size:11px; font-famil=
+y:Avenir, Arial, Helvetica, sans-serif;=22 src=3D=22https://static=2Ecdn=2E=
+responsys=2Enet/i2/responsysimages/inttax/contentlibrary/2016/10/201610_363=
+54_ty16ttnovembernewsletter/november_nl/images/mobile_footer_brands_2x=2Egi=
+f=22 width=3D=22305=22 height=3D=2214=22 alt=3D=22turbotax - quickbooks - p=
+roconnect - mint=22 border=3D=220=22></td>
+  </tr>
+  <tr>
+    <td colspan=3D=223=22><img style=3D=22display:block;=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/contentlibrary/2=
+016/10/201610_36354_ty16ttnovembernewsletter/november_nl/images/spacer=2Egi=
+f=22 width=3D=221=22 height=3D=2230=22 alt=3D=22=22 border=3D=220=22></td>
+  </tr>
+  <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/con=
+tentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/november_nl/image=
+s/spacer=2Egif=22 width=3D=2220=22 height=3D=221=22 alt=3D=22=22 border=3D=
+=220=22></td>
+    <td align=3D=22center=22 style=3D=22font-size:11px; line-height:13px; f=
+ont-family:Avenir, Arial, Helvetica, sans-serif; color:=236b6c72;=22><=21--=
+ START legal -->
+                    This email was sent to the following address: kyle=40ky=
+lefisher=2Ecom
+                    <br />&nbsp;<br />=20
+                    If you receive a suspicious email, please report it by =
+forwarding the email to spoof=40intuit=2Ecom=2E<br />
+Visit <a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizb=
+MpO3YEwlzghdzf0RnVXtpKX%3DSRUDCSRBT&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-j=
+viQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHm=
+qzlkXP7jOcrzNfc6LYqLt-rIEmdeQCt8ZBeCPVnVi=2E=22 target=3D=22_blank=22 style=
+=3D=22color:=230077c5;=22>Security</a> to find out&nbsp;more=2E
+                    <br />&nbsp;<br />
+      <a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizb=
+MpO3YEwlzghdzf0RnVXtpKX%3DSRUDCSRDT&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-j=
+viQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHm=
+qzlkXP7jOcrzNfc6LYqLt-rIEmdeQCt8ZBeCPVnVi=2E=22 target=3D=22_blank=22 style=
+=3D=22color:=230077c5;=22>Privacy Policy</a>=2E <a href=3D=22https://e=2Etu=
+rbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbW=
+Ab0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCSS=
+ST&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02=
+GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJC3--ltnGocY=
+mEsFPq3XuqX604Mjv2ch8DTWsYAnpYo=2E=22 target=3D=22_blank=22 style=3D=22colo=
+r:=230077c5;=22>Unsubscribe</a>=2E  <a href=3D=22https://e=2Eturbotax=2Eint=
+uit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPq=
+S9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXtpKX%3DSRUDCSSUT&_ei_=3DEk=
+MS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncw=
+uH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqKOxoQXipQzSkWrfBvBbiJC3--ltnGocYmEsFPq3XuqX6=
+04Mjv2ch8DTWsYAnpYo=2E=22 target=3D=22_blank=22 style=3D=22color:=230077c5;=
+=22>Manage Preferences</a>=2E
+                    <br />&nbsp;<br />=20
+                    &copy; 2016 Intuit Inc=2E All rights reserved=2E <a hre=
+f=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjH=
+JlTQGmK06Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghd=
+zf0RnVXtpKX%3DSRUDCSSYT&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0=
+fPnMJJp6zj1WcPvHovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqzlkXP7jOcrz=
+Nfc6LYqLt-rIEmdeQCt8ZBeCPVnVi=2E=22 target=3D=22_blank=22 style=3D=22color:=
+=230077c5;=22>Trademark</a>=2E
+                    <br />&nbsp;<br />
+                    Customer Communications, 2800 E=2E Commerce Center Plac=
+e, Tucson,&nbsp;AZ&nbsp;85706
+                    <br />&nbsp;<br />
+                    36354-1
+                    <br />&nbsp;<br />
+
+<=21-- PLACE IN FOOTER -->
+
+<=21-- Capture hashed auth ID and sync with AAM -->
+<img src=3D=22https://dpm=2Edemdex=2Enet/ibs:dpid=3D1029&dpuuid=3D261b84356=
+9454&cache=3D111ccc8107320161129084155291891943=22 width=3D=223=22 height=
+=3D=222=22 border=3D=220=22 />
+
+<=21-- Capture IVID and sync with AAM -->
+<img src=3D=22https://dpm=2Edemdex=2Enet/ibs:dpid=3D28016&dpuuid=3D&cache=
+=3D111ddd93577020161129084155291472593=22 width=3D=223=22 height=3D=222=22 =
+border=3D=220=22 />
+=20
+<=21-- AAM pixel to capture CID, segment and creative ver2 -->
+<img src=3D=22https://turbotax=2Edemdex=2Enet/event?q=3D111eee7956302016112=
+9084155291470493&d_sid=3D1390806&d_dpid=3D1029&d_dpuuid=3D261b843569454&c_e=
+mail=3Dtt-general&c_emailcc=3D36354&c_emailsc=3D6601&c_emailcr=3D001&c_emai=
+ldomain=3D=22 width=3D=222=22 height=3D=223=22 border=3D=220=22 />
+=20
+<=21-- Capture hashed auth ID and sync with Convertro -->
+<img src=3D=22https://sp1=2Econvertro=2Ecom/trax/user/intuit/1/cvo=2Egif?id=
+=3D261b843569454&cache=3D111fff72840220161129084155292116138=22 width=3D=22=
+2=22 height=3D=221=22 border=3D=220=22/>
+=20
+<=21-- Convertro pixel for attribution tracking to capture segment and CID =
+-->
+<img src=3D=22https://intuit=2Esp1=2Econvertro=2Ecom/view/vt/v1/intuit/1/cv=
+o=2Egif?cvosrc=3Demail=2E36354=2Eem_36354_6601_001&cache=3D111ggg5268442016=
+1129084155292440155=22 width=3D=222=22 height=3D=222=22 border=3D=220=22 />
+
+<=21-- TruEffect =2Eintuit=2Ecom Tracking & Measurement Tag -->
+<img src=3D=22https://dpm=2Edemdex=2Enet/event?d_event=3Dclick&dpid=3D28017=
+&dpuuid=3D9999&d_rd=3Dhttps%3A%2F%2Fcmm=2Eintuit=2Ecom%2FcookE%2Fgeoip%2Fim=
+age%3Fspacedesc%3D29720298_29720296_1x1_29720297_29720298%26x_aam_did2%3D%2=
+5d_uuid%25=7C%25d_region%25%26random%3D111hhh10849920161129084155292352034=
+=22 WIDTH=3D1 HEIGHT=3D1 ALT=3D=22=22 BORDER=3D0>
+
+<=21-- TruEffect =2Eturbotax=2Ecom Tracking & Measurement Tag -->
+<img src=3D=22https://dpm=2Edemdex=2Enet/event?d_event=3Dclick&dpid=3D28017=
+&dpuuid=3D9999&d_rd=3Dhttps%3A%2F%2Fcmm=2Eturbotax=2Ecom%2FcookE%2Fgeoip%2F=
+image%3Fspacedesc%3D29720345_15422036_1x1_29720344_29720345%26x_aam_did2%3D=
+%25d_uuid%25=7C%25d_region%25%26random%3D111iii6795052016112908415529243232=
+0=22 WIDTH=3D1 HEIGHT=3D1 ALT=3D=22=22 BORDER=3D0>
+<=21-- END FOOTER --><br>
+
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 border=3D=220=22>
+<tr>
+<td style=3D=22color: =23505150; font-size: 12px; font-family: Arial, Helve=
+tica, sans-serif;=22>
+</td></tr></table>
+<img src=3D=22https://pixel=2Emonitor1=2Ereturnpath=2Enet/pixel=2Egif?r=3D5=
+7821c29ee8f8576f496403ec26c15bb5aababca&s=3D2757495682&CMC_ID=3D36354&Campa=
+ign_Name=3D36354_TTO_BALANCE&CELL=3D001&SEGMENT_CODE=3D6601&BU=3DCGTTX=22 w=
+idth=3D=221=22 height=3D=221=22></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/inttax/con=
+tentlibrary/2016/10/201610_36354_ty16ttnovembernewsletter/november_nl/image=
+s/spacer=2Egif=22 width=3D=2220=22 height=3D=221=22 alt=3D=22=22 border=3D=
+=220=22></td>
+  </tr></table></td>
+</tr>
+				=09
+<=21-- end legal -->
+						=09
+		 <=21-- Start legal -->
+		 	               =20
+		             </table>
+
+		 <=21-- ///// END PREHEADER ///// -->
+
+		           </td>
+		         </tr>
+		       </table>
+		 <=21--///// END 640PX CONTAINER ///// -->
+
+
+		       </td>
+		     </tr>
+		   </table>
+		 <=21-- ///// END 100% BACKGROUND WRAPPER ///// --><br>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border: 0px; =
+padding: 0px; margin: 0px; position: absolute; display: none; float: left=
+=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img height=3D=221=22 width=3D=221=22 style=3D =22padding: 0px 0px; =21=
+important; margin: 0px 0px; font-size: 1px; line-height: 1px;=22 src=3D=22h=
+ttps://e=2Eturbotax=2Eintuit=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGmK0=
+6Gr2Wk7HrAhbWAb0qFIWMYCPqS9zckHzfzf5m9AU2EvbCFrLhLhrizbMpO3YEwlzghdzf0RnVXH=
+kMX%3Dw&_ei_=3DEkMS2guAoPNu8Rh6hm5XxTRfmoIzdE-jviQ60WmbY4Y0fPnMJJp6zj1WcPvH=
+ovH02GIBTgE2R1ncwuH0azzAbYZZFZ_TGAiBh6NHGlfZlHmqzlkXP7jOcrzNfc6LYqLt-rIEmde=
+QCt8ZBeCPVnVi=2E=22></img>
+<br><IMG SRC=3D=22https://tags=2Ebluekai=2Ecom/site/29183?e_id_s29183=3Ded6=
+7558e677e050094f1a728d6110c9b964f6fe45d874e4282790c8ac7f95d29&e_id_m18826=
+=3D80c3bb60bf4371a87fa8433bcc5a4027=22 HEIGHT=3D=221=22 WIDTH=3D=221=22>
+</td>
+</tr>
+</table>
+
+
+		 </body>
+		 </html>
+
+

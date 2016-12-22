@@ -1,0 +1,1124 @@
+Return-path: <bounces+303007-022f-kyle=kylefisher.com@sendgrid.myfonts.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 20 Dec 2016 08:40:30 -0500
+Received: from o1.sendgrid.myfonts.com ([50.31.50.193]:40787)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+303007-022f-kyle=kylefisher.com@sendgrid.myfonts.com>)
+	id 1cJKec-001hhT-GI
+	for kyle@kylefisher.com; Tue, 20 Dec 2016 08:40:30 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=myfonts.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=smtpapi; bh=0Ze8P22zsTzKRt5Rm1NIxH6DLEU=; b=G9fWE4cB+6dBZlBP3v
+	mDRv/jpq3lXeZtffVkQR7pB4g2yar+BdwjJhu9f5wwhhyEw4HT5LYdJMNvQMhkSi
+	yLI7dkg2gqeu0PGG/u7kvkdUTqCF7Z0ZExNElc++Ds9TWrljlIm8SqmRvZYXQcki
+	oQPHK/bt7Dk1QsLfKzJR0ep5c=
+Received: by filter0642p1mdw1.sendgrid.net with SMTP id filter0642p1mdw1-32603-585934A9-1A
+        2016-12-20 13:39:53.19524285 +0000 UTC
+Received: from MzAzMDA3 (o16789125x204.outbound-mail.sendgrid.net [167.89.125.204])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with HTTP id 2Fe3XORRQLya1KJVttlB7A
+	for <newsletters-no-reply@myfonts.com>; Tue, 20 Dec 2016 13:39:53.210 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=e693553ed4fd786473af7eec55cace68c8ddfd20b81c2943eb369ef2380d
+Date: Tue, 20 Dec 2016 13:39:53 +0000
+From: "MyFonts News" <newsletters-no-reply@myfonts.com>
+Mime-Version: 1.0
+Reply-to: newsletters-no-reply@myfonts.com
+Subject: A collection of 20, 20th century inspired fonts for $29.70
+To: kyle@kylefisher.com
+Message-ID: <2Fe3XORRQLya1KJVttlB7A@ismtpd0004p1iad1.sendgrid.net>
+List-Unsubscribe: <http://sendgrid.myfonts.com/asm/unsubscribe/?user_id=303007&data=Fc_XNkNp94E1UVUS-JDJK_aKtwk_5ZrafbaNlfVLoq2YOT8chkQo5UOmisjklodT-B3Gz01oPV_3oRZSGDaLcr3YsBXcWVQVAqkLGOofnm7GYFaOE23hsvDjjVZDIHLkAH_jCQjTRsrjpRDioabTeZ9p_Co6FQ0d6jLNWjp7q8yuDUbGFjLLBz-OZIzMrDAw_86rA9G2G9FDA39HWig-PRte6YXEXYZFCxY-922jz0DXAHiO3JF5-ZQNJ317unMnHJZ2UYAu56xRiQy5HYEu3v9_S-P2EUQnOYfcK9z1fWE5SRBGUM6gaZBkB44tpgl7-h50RtSXoFobTCy3JCyeKcHTukeX207gqCjQKNhalRAOjlJ9xY5s2bf1m1efdU_iaaE8MGZHrDThF_TlZNgRLPF01sM3SvN8K-5kuhqWF6RznVp03LTiBMXBtUYetNW0Qvr2QnAXYV4Y5AwQ_-GeGKgMZvE0M6Ldh3CUxttttmYTww7cVNwr5h89TT4vHI0djMh5AH_gsdOg0-xpoCBYKWHzB8MZVMHqHpoSSdWlJjJwMGnpw88iEIjgyDvRDsGaHEChbvElUNvw8z7kOu1rCaYtFx5Bbt9PxWRkJdJKIAY=>, <mailto:unsubscribe@sendgrid.myfonts.com?subject=http://sendgrid.myfonts.com/asm/unsubscribe/*q*user_id=303007&data=Fc_XNkNp94E1UVUS-JDJK_aKtwk_5ZrafbaNlfVLoq2YOT8chkQo5UOmisjklodT-B3Gz01oPV_3oRZSGDaLcr3YsBXcWVQVAqkLGOofnm7GYFaOE23hsvDjjVZDIHLkAH_jCQjTRsrjpRDioabTeZ9p_Co6FQ0d6jLNWjp7q8yuDUbGFjLLBz-OZIzMrDAw_86rA9G2G9FDA39HWig-PRte6YXEXYZFCxY-922jz0DXAHiO3JF5-ZQNJ317unMnHJZ2UYAu56xRiQy5HYEu3v9_S-P2EUQnOYfcK9z1fWE5SRBGUM6gaZBkB44tpgl7-h50RtSXoFobTCy3JCyeKcHTukeX207gqCjQKNhalRAOjlJ9xY5s2bf1m1efdU_iaaE8MGZHrDThF_TlZNgRLPF01sM3SvN8K-5kuhqWF6RznVp03LTiBMXBtUYetNW0Qvr2QnAXYV4Y5AwQ_-GeGKgMZvE0M6Ldh3CUxttttmYTww7cVNwr5h89TT4vHI0djMh5AH_gsdOg0-xpoCBYKWHzB8MZVMHqHpoSSdWlJjJwMGnpw88iEIjgyDvRDsGaHEChbvElUNvw8z7kOu1rCaYtFx5Bbt9PxWRkJdJKIAY=>
+X-SG-EID: eU/ka35llXGMH3nAOV67BrlAvnJbsZjQ68cwO3vk6pWA8HGnJ37zZNr9/9tGn/sUxPp18sw/K+cAu+
+ avdvhoIfNe1Md7sVSL7N+nDX59VqurURUwUYWesUubTPq7I36wNe+CuMsbWhKIXiEHUEh4ibbuj00H
+ locFj2r5/etzbpNcx67dcuG7fK0cpqImgN3xZwiqqB4OjgqxVRO1Y3Ux/NvdWrXYK/Sfao802ps7+c
+ e0cZVOL24uFA5ezybn3jPk
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP2/M7L5Lt5zOHxGGR6pC497Jvri4mUE37CoNX
+ t8LlR6qlspCjvR/zCd2sr70ziYfTk73WCl2ib+A+IVYNsPXaapxqLvpDWP8qolCPWbirWfA19D5Tee
+ +nkFa+6ny1iBLd/S85n/IvBc6eU8NYdD+nBjGGF3Mgoi+5xLc7/aDGCh5LzQwl+/egkHCRcYMWrvOV
+ 4=
+
+--e693553ed4fd786473af7eec55cace68c8ddfd20b81c2943eb369ef2380d
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+# New Bundle On MyFonts
+
+http://www.myfonts.com/bundles/?utm_source=3Dnewsletter&utm_campaign=3Dbund=
+les+20161220+Type+Noir&utm_medium=3Demail
+
+New Bundle On MyFonts
+
+A Type Noir Collection
+
+https://www.myfonts.com/package/572099/?utm_source=3Dnewsletter&utm_campaig=
+n=3Dbundles+20161220+Type+Noir&utm_medium=3Demail
+
+20 fonts for $29.70 http://www.myfonts.com/package/572099/?utm_source=3Dnew=
+sletter&utm_campaign=3Dbundles+20161220+Type+Noir&utm_medium=3Demail
+
+One of the newest bundles on MyFonts, A Type Noir Collection is a bundle of=
+ 20 fonts that will take you back in time to an era of neon lights and marq=
+uee letters. This bundle =E2=80=94 an elegant nod to the 20th century movie=
+ industry =E2=80=94 is full of display fonts that would make even Charlie C=
+haplin swoon.
+
+https://www.myfonts.com/package/572099/?utm_source=3Dnewsletter&utm_campaig=
+n=3Dbundles+20161220+Type+Noir&utm_medium=3Demail
+
+Influenced by the hand-painted signs on cinema facades of the early cinema =
+days, this collection is made of fonts from the Lichtspielhaus, Lichtspielh=
+aus Handmade and Lichtspielhaus Slab families and includes tons of alternat=
+e features.
+
+https://www.myfonts.com/package/572099/?utm_source=3Dnewsletter&utm_campaig=
+n=3Dbundles+20161220+Type+Noir&utm_medium=3Demail
+
+Grab A Type Noir Collection for 70% off before the sale ends January 27 at =
+midnight EST.
+
+MyFonts Inc.
+ 600 Unicorn Park Drive
+Woburn, MA 01801
+USA
+
+It is never our intention to send unwanted e-mail.=20
+
+This message was sent to kyle@kylefisher.com.
+
+Want out? Unsubscribe From All Emails http://sendgrid.myfonts.com/asm/unsub=
+scribe/global/?user_id=3D303007&data=3DZfTRjbIQmYUuBTUruOv-NNz1m-mH7m-YgaGT=
+gJYlmRwkskmQW_mAyHMLkqQx0Tgj-XwDjFVQB94qwmagU2ksEpQZckUwaj_np3uBh2wGpUyT3WN=
+JV8BE2UCxt9t7yh_pjZC1dNyMy-YhQaqPMcJ9T5KvTyrfN4Ofo_z-h-qw5uxeWKQbKYa7QRBWt_=
+1-XZPVNvuhuM-KbgzBaH571Rmev4oWgG6DZLmsR_PfP6-cU-Kuc5gCOjYpTxC0p-5zH-7pLNRCV=
+a6ftXMeBx725zR2QExNAs-cQ9G9BTiOVvIIuOAyTXgW3ghiNkM5893E7us6T5KCa5dmz1JManFm=
+j77nXFizv-pvY7wmo706uvYj4pSxZBvagkFN9Lo86olZMnyhTqrRkQ18ehIB1B5LL0kg-BIV-WD=
+So7m1Dnum6RLNebT3KV0AGqXXdFtq_hX6Md7VM_Ly4QHNF55I8xxfVHQ5iN9QMEiUm_sItKtans=
+Y-WN-BA_jrYb49nSZwuLMZqOCHW2tFeuWOyT1DqkTcxYgZFQr70tkihBoqkyYgWkyyVBG2O_Qnm=
+Lk3F4Givcs7txb6V_UcqjMB13M9wgsuudJYEyuwk5pcdFFiUMfqScA_4tk=3D=20
+
+Or click here to unsubscribe from bundles emails http://sendgrid.myfonts.co=
+m/asm/unsubscribe/?user_id=3D303007&data=3DFc_XNkNp94E1UVUS-JDJK_aKtwk_5Zra=
+fbaNlfVLoq2YOT8chkQo5UOmisjklodT-B3Gz01oPV_3oRZSGDaLcr3YsBXcWVQVAqkLGOofnm7=
+GYFaOE23hsvDjjVZDIHLkAH_jCQjTRsrjpRDioabTeZ9p_Co6FQ0d6jLNWjp7q8yuDUbGFjLLBz=
+-OZIzMrDAw_86rA9G2G9FDA39HWig-PRte6YXEXYZFCxY-922jz0DXAHiO3JF5-ZQNJ317unMnH=
+JZ2UYAu56xRiQy5HYEu3v9_S-P2EUQnOYfcK9z1fWE5SRBGUM6gaZBkB44tpgl7-h50RtSXoFob=
+TCy3JCyeKcHTukeX207gqCjQKNhalRAOjlJ9xY5s2bf1m1efdU_iaaE8MGZHrDThF_TlZNgRLPF=
+01sM3SvN8K-5kuhqWF6RznVp03LTiBMXBtUYetNW0Qvr2QnAXYV4Y5AwQ_-GeGKgMZvE0M6Ldh3=
+CUxttttmYTww7cVNwr5h89TT4vHI0djMh5AH_gsdOg0-xpoCBYKWHzB8MZVMHqHpoSSdWlJjJwM=
+Gnpw88iEIjgyDvRDsGaHEChbvElUNvw8z7kOu1rCaYtFx5Bbt9PxWRkJdJKIAY=3D only.=09=
+=09=09=09=09=09=09=09=09
+
+MyFonts and MyFonts.com are trademarks of MyFonts Inc. registered in the U.=
+S. Patent and Trademark Office and may be registered in certain other juris=
+dictions. Other technologies, font names, and brand names are used for info=
+rmation only and remain trademarks or registered trademarks of their respec=
+tive companies.
+=C2=A9 MyFonts Inc. 2016=09=09=09=09=09=09=09=09=09
+										=C2=A0 http://sendgrid.myfonts.com/asm/unsubscribe/?user_id=3D303=
+007&data=3DFc_XNkNp94E1UVUS-JDJK_aKtwk_5ZrafbaNlfVLoq2YOT8chkQo5UOmisjklodT=
+-B3Gz01oPV_3oRZSGDaLcr3YsBXcWVQVAqkLGOofnm7GYFaOE23hsvDjjVZDIHLkAH_jCQjTRsr=
+jpRDioabTeZ9p_Co6FQ0d6jLNWjp7q8yuDUbGFjLLBz-OZIzMrDAw_86rA9G2G9FDA39HWig-PR=
+te6YXEXYZFCxY-922jz0DXAHiO3JF5-ZQNJ317unMnHJZ2UYAu56xRiQy5HYEu3v9_S-P2EUQnO=
+YfcK9z1fWE5SRBGUM6gaZBkB44tpgl7-h50RtSXoFobTCy3JCyeKcHTukeX207gqCjQKNhalRAO=
+jlJ9xY5s2bf1m1efdU_iaaE8MGZHrDThF_TlZNgRLPF01sM3SvN8K-5kuhqWF6RznVp03LTiBMX=
+BtUYetNW0Qvr2QnAXYV4Y5AwQ_-GeGKgMZvE0M6Ldh3CUxttttmYTww7cVNwr5h89TT4vHI0djM=
+h5AH_gsdOg0-xpoCBYKWHzB8MZVMHqHpoSSdWlJjJwMGnpw88iEIjgyDvRDsGaHEChbvElUNvw8=
+z7kOu1rCaYtFx5Bbt9PxWRkJdJKIAY=3D=
+
+--e693553ed4fd786473af7eec55cace68c8ddfd20b81c2943eb369ef2380d
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<link href=3D"https://cdn.myfonts.net/s/ec/common-assets/fonts/rooney-sans/=
+rooney-sans-reg-it-bld-bldit.css" rel=3D"stylesheet" type=3D"text/css">
+<link href=3D"https://cdn.myfonts.net/s/ec/common-assets/fonts/rooney-sans/=
+rooney-sans-lt.css" rel=3D"stylesheet" type=3D"text/css">
+
+
+<style media=3D"screen" type=3D"text/css">
+@media only screen {
+  html {
+    min-height: 100%;
+    background: #f3f3f3;
+  }
+}
+</style>
+=20=20=20=20
+
+
+<style media=3D"only screen and (max-width: 650px)" type=3D"text/css">
+@media only screen and (max-width: 596px) {
+  .small-float-center {
+    margin: 0 auto !important;
+    float: none !important;
+    text-align: center !important;
+  }
+  .small-text-center {
+    text-align: center !important;
+  }
+  .small-text-left {
+    text-align: left !important;
+  }
+  .small-text-right {
+    text-align: right !important;
+  }
+}
+</style>
+
+
+
+<style media=3D"only screen and (max-width: 596px)" type=3D"text/css">
+@media only screen and (max-width: 596px) {
+  table.body table.container .hide-for-large {
+    display: block !important;
+    width: auto !important;
+    overflow: visible !important;
+  }
+}
+</style>
+
+
+
+<style media=3D"only screen and (max-width: 596px)" type=3D"text/css">
+@media only screen and (max-width: 596px) {
+  table.body table.container .row.hide-for-large,
+  table.body table.container .row.hide-for-large {
+    display: table !important;
+    width: 100% !important;
+  }
+}
+
+
+@media only screen and (max-width: 596px) {
+  table.body table.container .show-for-large {
+    display: none !important;
+    width: 0;
+    mso-hide: all;
+    overflow: hidden;
+  }
+}
+</style>
+
+=20
+
+
+<style media=3D"only screen and (max-width: 596px)" type=3D"text/css">
+@media only screen and (max-width: 596px) {
+  body,
+table.body,
+p,
+td,
+th, {
+    font-size: 600px;
+  }
+  .emailBody ul {
+    list-style-position: inside;
+  }
+  .title-row h1 {
+    font-size: 1.5em !important;
+    margin: 0 auto !important;
+  }
+  .intro p {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    font-size: 1.2em;
+  }
+  th.legal {
+    font-size: 0.7em;
+  }
+  table.header td.wrapper-inner {
+    padding: 10px 20px 0;
+  }
+  table.button {
+    margin: 0 !important;
+  }
+  table.body img {
+    width: auto !important;
+    height: auto !important;
+  }
+  table.body center {
+    min-width: 0 !important;
+  }
+  table.body .container {
+    width: 100% !important;
+    border-radius: 0 !important;
+  }
+  table.body .columns,
+  table.body .column {
+    height: auto !important;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  table.body .columns .column,
+    table.body .columns .columns,
+    table.body .column .column,
+    table.body .column .columns {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  table.body .collapse .columns,
+  table.body .collapse .column {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  td.small-1,
+  th.small-1 {
+    display: inline-block !important;
+    width: 8.33333% !important;
+  }
+  td.small-2,
+  th.small-2 {
+    display: inline-block !important;
+    width: 16.66667% !important;
+  }
+  td.small-3,
+  th.small-3 {
+    display: inline-block !important;
+    width: 25% !important;
+  }
+  td.small-4,
+  th.small-4 {
+    display: inline-block !important;
+    width: 33.33333% !important;
+  }
+  td.small-5,
+  th.small-5 {
+    display: inline-block !important;
+    width: 41.66667% !important;
+  }
+  td.small-6,
+  th.small-6 {
+    display: inline-block !important;
+    width: 50% !important;
+  }
+  td.small-7,
+  th.small-7 {
+    display: inline-block !important;
+    width: 58.33333% !important;
+  }
+  td.small-8,
+  th.small-8 {
+    display: inline-block !important;
+    width: 66.66667% !important;
+  }
+  td.small-9,
+  th.small-9 {
+    display: inline-block !important;
+    width: 75% !important;
+  }
+  td.small-10,
+  th.small-10 {
+    display: inline-block !important;
+    width: 83.33333% !important;
+  }
+  td.small-11,
+  th.small-11 {
+    display: inline-block !important;
+    width: 91.66667% !important;
+  }
+  td.small-12,
+  th.small-12 {
+    display: inline-block !important;
+    width: 100% !important;
+  }
+  .columns td.small-12,
+  .column td.small-12,
+  .columns th.small-12,
+  .column th.small-12 {
+    display: block !important;
+    width: 100% !important;
+  }
+  table.body td.small-offset-1,
+  table.body th.small-offset-1 {
+    margin-left: 8.33333% !important;
+    Margin-left: 8.33333% !important;
+  }
+  table.body td.small-offset-2,
+  table.body th.small-offset-2 {
+    margin-left: 16.66667% !important;
+    Margin-left: 16.66667% !important;
+  }
+  table.body td.small-offset-3,
+  table.body th.small-offset-3 {
+    margin-left: 25% !important;
+    Margin-left: 25% !important;
+  }
+  table.body td.small-offset-4,
+  table.body th.small-offset-4 {
+    margin-left: 33.33333% !important;
+    Margin-left: 33.33333% !important;
+  }
+  table.body td.small-offset-5,
+  table.body th.small-offset-5 {
+    margin-left: 41.66667% !important;
+    Margin-left: 41.66667% !important;
+  }
+  table.body td.small-offset-6,
+  table.body th.small-offset-6 {
+    margin-left: 50% !important;
+    Margin-left: 50% !important;
+  }
+  table.body td.small-offset-7,
+  table.body th.small-offset-7 {
+    margin-left: 58.33333% !important;
+    Margin-left: 58.33333% !important;
+  }
+  table.body td.small-offset-8,
+  table.body th.small-offset-8 {
+    margin-left: 66.66667% !important;
+    Margin-left: 66.66667% !important;
+  }
+  table.body td.small-offset-9,
+  table.body th.small-offset-9 {
+    margin-left: 75% !important;
+    Margin-left: 75% !important;
+  }
+  table.body td.small-offset-10,
+  table.body th.small-offset-10 {
+    margin-left: 83.33333% !important;
+    Margin-left: 83.33333% !important;
+  }
+  table.body td.small-offset-11,
+  table.body th.small-offset-11 {
+    margin-left: 91.66667% !important;
+    Margin-left: 91.66667% !important;
+  }
+  table.body table.columns td.expander,
+  table.body table.columns th.expander {
+    display: none !important;
+  }
+  table.body .right-text-pad,
+  table.body .text-pad-right {
+    padding-left: 10px !important;
+  }
+  table.body .left-text-pad,
+  table.body .text-pad-left {
+    padding-right: 10px !important;
+  }
+  table.menu {
+    width: 100% !important;
+  }
+  table.menu td,
+    table.menu th {
+    width: auto !important;
+    display: inline-block !important;
+  }
+  table.menu.vertical td,
+    table.menu.vertical th, table.menu.small-vertical td,
+    table.menu.small-vertical th {
+    display: block !important;
+  }
+  table.menu[align=3D"center"] {
+    width: auto !important;
+  }
+}
+</style>=20
+<style type=3D"text/css">
+@media only screen and (max-width: 600px) {
+  #mls_logo {
+    width: 50px !important;
+    height: 50px !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+  }
+}
+</style>=20
+
+</head>
+
+<body style=3D"width: 100% !important; min-width: 100%; -webkit-text-size-a=
+djust: 100%; -ms-text-size-adjust: 100%; margin: 0; Margin: 0; padding: 0; =
+-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: bo=
+rder-box; color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida San=
+s', sans-serif; font-weight: normal; text-align: left; line-height: 1.4; fo=
+nt-size: 16px; background-color: #f1f1f1; margin-bottom: 1.4em;">
+<!--[if mso]>
+<style type=3D"text/css">
+.text-pad {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<!-- <style> -->
+<div style=3D"display:none;font-size:1px;color:#f1f1f1;line-height:1px;max-=
+height:0px;max-width:0px;opacity:0;overflow:hidden;">
+# New Bundle On MyFonts</div>
+<table class=3D"body" data-made-with-foundation=3D"" style=3D"border-spacin=
+g: 0; border-collapse: collapse; vertical-align: top; background-color: #f1=
+f1f1; padding: 0; text-align: left; background: none; height: 100%; width: =
+100%; color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', =
+sans-serif; font-weight: normal; margin: 0; Margin: 0; line-height: 1.4; fo=
+nt-size: 16px; margin-bottom: 1.4em;">
+	<!-- iphone gmail fix -->
+<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td styl=
+e=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyph=
+ens: auto; border-collapse: collapse !important; padding: 0; vertical-align=
+: top; text-align: left; color: #0a0a0a; font-family: 'RooneySans', 'PT San=
+s', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; Margin: 0; l=
+ine-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+		<div class=3D"gmailfix" style=3D"display: none !important; white-space: n=
+owrap; font: 15px courier; line-height: 0;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+</td>	</tr>
+<!-- close iphone gmail fix -->
+<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td clas=
+s=3D"float-center" align=3D"center" valign=3D"top" style=3D"word-wrap: brea=
+k-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-co=
+llapse: collapse !important; padding: 0; vertical-align: top; color: #0a0a0=
+a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-we=
+ight: normal; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em; text=
+-align: center; margin: 0 auto; Margin: 0 auto; float: none;">
+		<center data-parsed=3D"" style=3D"width: 100%; min-width: 760px;">
+=09=09=09=09
+=09=09=09=09
+		<table class=3D"container float-center" id=3D"main_content" style=3D"bord=
+er-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; =
+text-align: center; background: none; width: 760px; margin: 0 auto; Margin:=
+ 0 auto; float: none; background-color: #ffffff; border-radius: 1em; margin=
+-bottom: 2em; margin-top: 2em;">
+		<tbody>
+		<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td st=
+yle=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hy=
+phens: auto; border-collapse: collapse !important; padding: 0; vertical-ali=
+gn: top; text-align: left; color: #0a0a0a; font-family: 'RooneySans', 'PT S=
+ans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; Margin: 0;=
+ line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								<table class=3D"twelve columns" style=3D"border-spacing: 0; border-=
+collapse: collapse; padding: 0; vertical-align: top; text-align: left;">
+<tr style=3D"padding: 0; vertical-align: top; text-align: left;">	<td id=3D=
+"masthead" class=3D"twelve columns" align=3D"center" style=3D"word-wrap: br=
+eak-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-=
+collapse: collapse !important; padding: 0; color: #0a0a0a; font-family: 'Ro=
+oneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; line-=
+height: 1.4; font-size: 16px; margin-bottom: 1.4em; margin: 0 auto; Margin:=
+ 0 auto; padding-bottom: 16px; padding-left: 0; text-align: center; vertica=
+l-align: middle;"><a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3DjaJ=
+sJncthVCK7FYYCUzqOznllfHnQRaZivq1AZc-2F0V-2Bryjo2DQ8neVHAdUEPms5pZDUeyeKMi4=
+KU81UoAb-2BH0JNkmwcd474X6T4ikLHiCHYiSVnm64GY10-2F90tGhsd7zzpknezK4Ru1DN5Zat=
+7-2BQFyRwJQn-2FJuLIqUWd4dQXZ2c-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F=
+2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCow=
+eACHEEdrlve5sxVQgkvIKjY3Ctn8C-2F-2FhITLYRtRzSFu5rNR9qMNy4Nx1Y3bRO1xXid7byBV=
+gCCapmZfR2jrmRR-2B79ogfaTK4OzPug-2BF2AT5LVjS0tQkdPvSsbAV9Fc930dRCQmPpHro-2B=
+tH5lnG5VJo3DmWLYdLAco8TJPWaUOtkR-2FVufGvZkQr0hNF-2FHwt0rFyPi4d74pzweq-2BLuw=
+M9iAFbrpPNkQ39GJZYqkdFRI2BvNlcgwNiNdV1wwg7b5PGQumlZ-2Bz88A9NdK2OL-2BZrDjqKP=
+aiQ6sdHr3NfwuhZ2-2Fo1QKR3R2Gn-2Bi-2F9j9mNobh20mDg4KjAowdaYBoL-2FgBBjUI8CSGm=
+-2BfJgpCAdV6r1g9gNzkXb7wwT8XDDur8rJwYGiI-3D" style=3D"color: #0099ff; font-=
+family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: no=
+rmal; padding: 0; margin: 0; Margin: 0; text-align: left; line-height: 1.4;=
+ text-decoration: none; margin-bottom: 1.4em;"><img width=3D"760" height=3D=
+"220" alt=3D"MyFonts Bundles" src=3D"https://cdn.myfonts.net/s/ec/common-as=
+sets/images/bundles/mf_bundles_masthead.png" style=3D"outline: none; text-d=
+ecoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 1=
+00%; clear: both; display: block; border: none;"></a></td>
+
+	<td class=3D"expander" style=3D"word-wrap: break-word; -webkit-hyphens: au=
+to; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important=
+; vertical-align: top; text-align: left; color: #0a0a0a; font-family: 'Roon=
+eySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin:=
+ 0; Margin: 0; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em; pad=
+ding: 0 !important; visibility: hidden; width: 0;"></td>	</tr>
+</table> 												<table class=3D"row" style=3D"border-spacing: 0; borde=
+r-collapse: collapse; vertical-align: top; text-align: left; padding: 0; wi=
+dth: 100%; position: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+47.33333px; padding-right: 8px; padding-left: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+
+				</th>	<th class=3D"small-12 large-10 columns" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8px; p=
+adding-bottom: 16px; width: 617.33333px; padding-right: 8px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"title-row center" align=3D"center" style=3D"word-wrap: break-wor=
+d; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collaps=
+e: collapse !important; padding: 0; vertical-align: top; text-align: left; =
+color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-s=
+erif; font-weight: normal; margin: 0; Margin: 0; line-height: 1.4; font-siz=
+e: 16px; margin-bottom: 1.4em;">
+								<h1 style=3D"color: inherit; font-weight: normal; padding: 0; Margi=
+n: 0; line-height: 1.4em; word-wrap: normal; margin-bottom: 0.7em; Margin-b=
+ottom: 10px; margin-top: 1em; font-family: 'RooneySans-Light', 'PT Sans', '=
+Lucida Sans', sans-serif; margin: 1em 0 0.7em; text-align: center; font-siz=
+e: 2.4em;">New Bundle On MyFonts</h1>
+
+																<h2 style=3D"color: inherit; font-family: 'RooneySans', 'PT=
+ Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: 0; Margin:=
+ 0; line-height: 1.4; word-wrap: normal; margin-bottom: 1.4rem; Margin-bott=
+om: 10px; margin: 0.7em 0; text-align: center; font-size: 1.8em;">A Type No=
+ir Collection</h2>
+						</td> 	</tr>
+						</table>
+				</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8p=
+x; padding-bottom: 16px; width: 47.33333px; padding-right: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	</tr>
+				</tbody>
+				</table> <!-- Title -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-12 columns center poster" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8px; p=
+adding-bottom: 16px; width: 744px; padding-right: 8px;">
+												<center style=3D"width: 100%; min-width: 712px;">
+<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXqQO0Uk6sO=
+fEMQEcD6kk6wqEE5qj4A5ZiU2VW1S9uAxHFi4pDpRfTGXtIrBSjX-2FII0FaLDl02DIbf5G9-2F=
+OtFHvFYZar2FXb9aM8wlKdUOxEmf84O2PwTdO3gEzXhh5VqioYmvPzou0JDp2JfWFCNIBNyTF9-=
+2B4uVA-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8Dhy=
+Rt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCoweACHEEdrlve5sxVQgkvIKjY3=
+Ctn8C-2F-2FhITLYRtRzSFu5rNR9qMNy4Nx1Y3bRO1xXid7byBVgCCapmZfR2jrmRR-2B79ogfa=
+TK4OzPug-2BF2AT5LVjS0tQkdPvSsbAV9Fc930dRCQmPpHro-2BtH5lnG5VJoDlKW0nJE5qgbtF=
+LsPMEnenazwJDqTy1WWNZUl5kDbe3rJlj223vaOLSHIKgkSl4cQQSME4Am78Ut18dtLJMO9FHFb=
+H8A3OSFHIJ1y8oO45OkPEwqqGwY3E9gV8WV0nyuDcfmG5ZI5TMg4qhpyb5y-2B9WPfS4x64DDOT=
+qVobAwxKEeMosAhlZ9J-2BjhMJVsgbJ27npV2nC8yJAVvbMxGBRs-2BDA-2BxOoL0KmZ-2F3shu=
+m9lCqM-3D" style=3D"color: #0099ff; font-family: 'RooneySans', 'PT Sans', '=
+Lucida Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margi=
+n: 0; text-align: left; line-height: 1.4; text-decoration: none; margin-bot=
+tom: 1.4em;"><img src=3D"http://cdn.myfonts.net/s/ec/bundles-20161220/typen=
+oir-1.png" class=3D"float-center" align=3D"center" alt=3D"Type Noir" width=
+=3D"720" height=3D"360" style=3D"outline: none; text-decoration: none; -ms-=
+interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; dis=
+play: block; border: none; margin: 0 auto; Margin: 0 auto; float: none; tex=
+t-align: center;"></a>
+</center>										</th>	</tr>
+				</tbody>
+				</table>=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-3 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+174px; padding-right: 8px; padding-left: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	<th class=3D"small-12 large-6 columns center" style=3D"color: #0a=
+0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font=
+-weight: normal; padding: 0; text-align: left; line-height: 1.4; font-size:=
+ 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: =
+8px; padding-bottom: 16px; width: 364px; padding-right: 8px;">
+						<center style=3D"width: 100%; min-width: 332px;">
+						<table class=3D"button large center" style=3D"border-spacing: 0; bord=
+er-collapse: collapse; padding: 0; vertical-align: top; text-align: left; m=
+argin: 0 0 16px 0; Margin: 0 0 16px 0; width: 100%;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+h style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sa=
+ns', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; tex=
+t-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								<table class=3D"center" style=3D"border-spacing: 0; border-collapse=
+: collapse; padding: 0; vertical-align: top; text-align: left; width: 100%;=
+">
+																								<tr style=3D"padding: 0; vertical-align: top; text-=
+align: left;">		<td style=3D"word-wrap: break-word; -webkit-hyphens: auto; =
+-moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; pa=
+dding: 0; vertical-align: top; font-family: 'RooneySans', 'PT Sans', 'Lucid=
+a Sans', sans-serif; font-weight: normal; margin: 0; Margin: 0; font-size: =
+16px; margin-bottom: 1.4em; line-height: 0.8em !important; border-radius: 0=
+.3em; text-align: center; color: #ffffff; background: #0099ff; border: none=
+;">
+										<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3DjaJsJncthVC=
+K7FYYCUzqO6u3qBsRBu7hmlIqxXCcq168TxyzI-2FnDM4BC9NYzbml4xwRqc7ZL2lzDBpdlJ7de=
+ODqD-2BXJQ9cAGenFLLLa5TLtnRztf7J9YALgFqdfcU9JAuPR1TnaEus0kt-2BJHPEYFsH9iExf=
+1mnbNQD7n2J1Ya74-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9Rm=
+yjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCoweACHEEdrlve5sx=
+VQgkvIKjY3Ctn8C-2F-2FhITLYRtRzSFu5rNR9qMNy4Nx1Y3bRO1xXid7byBVgCCapmZfR2jrmR=
+R-2B79ogfaTK4OzPug-2BF2AT5LVjS0tQkdPvSsbAV9Fc930dRCQmPpHro-2BtH5lnG5VJoFugF=
+M0-2F2hwC581W5wNUSt7yJkoTnTisiWDnEMKbBJhgbs6fyYsyDFBqIBXXnFqG-2F3x5fTmSSUUj=
+-2F58GdnTdlct5-2Fta8x3R4v3ewweNwZncRzsOHxX4QKn3bRF-2Bp-2FuBq-2B0DQ8b0LRe8Xy=
+8rJedvqIqJn0Ly2iIJr-2FiSJDh63BuEMZsVYlHLd83MVTtXUA-2FpNtTjkfASB2gQK9AYCaLfH=
+Roj5BvveDdjpZffUJLZJu78U-3D" style=3D"margin: 0; Margin: 0; text-align: cen=
+ter; line-height: 0.8em; margin-bottom: 0; color: #ffffff; font-family: 'Ro=
+oneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; text-=
+decoration: none; display: inline-block; border: none; border-radius: 3px; =
+padding: 20px 30px; font-size: 20px;">20 fonts for $29.70</a>
+								</td>	</tr>																</table>
+						</th>	</tr>
+						</table>
+						</center>
+				</th>	<th class=3D"small-12 large-3 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8p=
+x; padding-bottom: 16px; width: 174px; padding-right: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+						</th>
+				</tr>
+				</tbody>
+				</table>=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+47.33333px; padding-right: 8px; padding-left: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	<th class=3D"small-12 large-10 columns center emailBody" style=3D=
+"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-=
+serif; font-weight: normal; padding: 0; text-align: left; line-height: 1.4;=
+ font-size: 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; pad=
+ding-left: 8px; padding-bottom: 16px; width: 617.33333px; padding-right: 8p=
+x;">
+						<p style=3D"margin: 0; Margin: 0; color: #0a0a0a; font-family: 'Roone=
+ySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding:=
+ 0; text-align: left; line-height: 1.4; margin-bottom: 1.4em; Margin-bottom=
+: 10px; font-size: 1.2em;">One of the newest bundles on MyFonts, A Type Noi=
+r Collection is a bundle of 20 fonts that will take you back in time to an =
+era of neon lights and marquee letters. This bundle &mdash; an elegant nod =
+to the 20th century movie industry &mdash; is full of display fonts that wo=
+uld make even Charlie Chaplin swoon.</p>
+
+				</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8p=
+x; padding-bottom: 16px; width: 47.33333px; padding-right: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	</tr>
+				</tbody>
+				</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-12 columns center poster" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8px; p=
+adding-bottom: 16px; width: 744px; padding-right: 8px;">
+												<center style=3D"width: 100%; min-width: 712px;">
+<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXqQO0Uk6sO=
+fEMQEcD6kk6wqEE5qj4A5ZiU2VW1S9uAxHFi4pDpRfTGXtIrBSjX-2FII0FaLDl02DIbf5G9-2F=
+OtFHvFYZar2FXb9aM8wlKdUOxEmf84O2PwTdO3gEzXhh5VqioYmvPzou0JDp2JfWFCNIBNyTF9-=
+2B4uVA-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8Dhy=
+Rt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCoweACHEEdrlve5sxVQgkvIKjY3=
+Ctn8C-2F-2FhITLYRtRzSFu5rNR9qMNy4Nx1Y3bRO1xXid7byBVgCCapmZfR2jrmRR-2B79ogfa=
+TK4OzPug-2BF2AT5LVjS0tQkdPvSsbAV9Fc930dRCQmPpHro-2BtH5lnG5VJojPPUOdYwZCX7vf=
+SlxsWt-2FBgzH3X4NS07RpbJ9GIygEykm8LsxWYzIugo0qVbtLw2qT-2FDvk9YykOtko7kNfOlv=
+SKVHCXtpGJn65oA-2FRyIeRYzCCf-2FRR5gkvE91JC71QtPe-2BTL9lifHkoB6Bf7FDM18epgeo=
+-2Bygwke8pW1l3dbXSCOSX0qCmh6V6RAVKvFOOxi-2BOwTY992Q2V5gWVSllfn58DOS8u5dYa5K=
+I2fNds-2BmUE-3D" style=3D"color: #0099ff; font-family: 'RooneySans', 'PT Sa=
+ns', 'Lucida Sans', sans-serif; font-weight: normal; padding: 0; margin: 0;=
+ Margin: 0; text-align: left; line-height: 1.4; text-decoration: none; marg=
+in-bottom: 1.4em;"><img src=3D"http://cdn.myfonts.net/s/ec/bundles-20161220=
+/typenoir-2.png" class=3D"float-center" align=3D"center" alt=3D"Type Noir" =
+width=3D"720" height=3D"360" style=3D"outline: none; text-decoration: none;=
+ -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both=
+; display: block; border: none; margin: 0 auto; Margin: 0 auto; float: none=
+; text-align: center;"></a>
+</center>										</th>	</tr>
+				</tbody>
+				</table>=09=09=09=09
+=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+47.33333px; padding-right: 8px; padding-left: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	<th class=3D"small-12 large-10 columns center emailBody" style=3D=
+"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-=
+serif; font-weight: normal; padding: 0; text-align: left; line-height: 1.4;=
+ font-size: 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; pad=
+ding-left: 8px; padding-bottom: 16px; width: 617.33333px; padding-right: 8p=
+x;">
+						<p style=3D"margin: 0; Margin: 0; color: #0a0a0a; font-family: 'Roone=
+ySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding:=
+ 0; text-align: left; line-height: 1.4; margin-bottom: 1.4em; Margin-bottom=
+: 10px; font-size: 1.2em;">Influenced by the hand-painted signs on cinema f=
+acades of the early cinema days, this collection is made of fonts from the =
+Lichtspielhaus, Lichtspielhaus Handmade and Lichtspielhaus Slab families an=
+d includes tons of alternate features.</p>
+
+				</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8p=
+x; padding-bottom: 16px; width: 47.33333px; padding-right: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	</tr>
+				</tbody>
+				</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-12 columns center poster" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8px; p=
+adding-bottom: 16px; width: 744px; padding-right: 8px;">
+												<center style=3D"width: 100%; min-width: 712px;">
+<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXqQO0Uk6sO=
+fEMQEcD6kk6wqEE5qj4A5ZiU2VW1S9uAxHFi4pDpRfTGXtIrBSjX-2FII0FaLDl02DIbf5G9-2F=
+OtFHvFYZar2FXb9aM8wlKdUOxEmf84O2PwTdO3gEzXhh5VqioYmvPzou0JDp2JfWFCNIBNyTF9-=
+2B4uVA-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8Dhy=
+Rt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCoweACHEEdrlve5sxVQgkvIKjY3=
+Ctn8C-2F-2FhITLYRtRzSFu5rNR9qMNy4Nx1Y3bRO1xXid7byBVgCCapmZfR2jrmRR-2B79ogfa=
+TK4OzPug-2BF2AT5LVjS0tQkdPvSsbAV9Fc930dRCQmPpHro-2BtH5lnG5VJo-2BAG9ojip1sxn=
+UVS0zbBFFMaYYgSWd5UNATw915MBQ4-2BLQh8D3NcayJfSSXREPl-2BiK8V4P-2Bce61r21nFhl=
+lXqvRdJ-2B1XRtOLm5MBzhWO5i7T9FjnOBfht0YMBKXhTEbQSkdi7eGelOJ6NRlyHV8IYta4mNH=
+FSqzSemHGfUQOCbseOnmc6dwm0t-2BkvTZV8lRuQ4BXeKkEFkptZQbkhzGfgntAdpX-2BgvT3Nm=
+Avf0aZq8ZQ-3D" style=3D"color: #0099ff; font-family: 'RooneySans', 'PT Sans=
+', 'Lucida Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; M=
+argin: 0; text-align: left; line-height: 1.4; text-decoration: none; margin=
+-bottom: 1.4em;"><img src=3D"http://cdn.myfonts.net/s/ec/bundles-20161220/t=
+ypenoir-3.png" class=3D"float-center" align=3D"center" alt=3D"Type Noir" wi=
+dth=3D"720" height=3D"360" style=3D"outline: none; text-decoration: none; -=
+ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; =
+display: block; border: none; margin: 0 auto; Margin: 0 auto; float: none; =
+text-align: center;"></a>
+</center>										</th>	</tr>
+				</tbody>
+				</table>=09=09=09=09
+=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+47.33333px; padding-right: 8px; padding-left: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	<th class=3D"small-12 large-10 columns center emailBody" style=3D=
+"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-=
+serif; font-weight: normal; padding: 0; text-align: left; line-height: 1.4;=
+ font-size: 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; pad=
+ding-left: 8px; padding-bottom: 16px; width: 617.33333px; padding-right: 8p=
+x;">
+						<p style=3D"margin: 0; Margin: 0; color: #0a0a0a; font-family: 'Roone=
+ySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding:=
+ 0; text-align: left; line-height: 1.4; margin-bottom: 1.4em; Margin-bottom=
+: 10px; font-size: 1.2em;">Grab A Type Noir Collection for 70% off before t=
+he sale ends January 27 at midnight EST.</p>
+
+				</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8p=
+x; padding-bottom: 16px; width: 47.33333px; padding-right: 16px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	</tr>
+				</tbody>
+				</table>
+=09=09=09=09=09=09=09=09
+
+		</td>	</tr>
+		</tbody></table>
+
+		<table class=3D"container footer float-center" align=3D"center" style=3D"=
+border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: t=
+op; text-align: center; background: none; width: 760px; margin: 2em 0; Marg=
+in: 0 auto; float: none;">
+		<tbody>
+		<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td cl=
+ass=3D"wrapper-inner" style=3D"word-wrap: break-word; -webkit-hyphens: auto=
+; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; =
+padding: 0; vertical-align: top; text-align: left; color: #0a0a0a; font-fam=
+ily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norma=
+l; margin: 0; Margin: 0; line-height: 1.4; font-size: 16px; margin-bottom: =
+1.4em;">
+				<table class=3D"container" style=3D"border-spacing: 0; border-collapse:=
+ collapse; padding: 0; vertical-align: top; text-align: inherit; background=
+: none; width: 760px; margin: 0 auto; Margin: 0 auto;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; =
+hyphens: auto; border-collapse: collapse !important; padding: 0; vertical-a=
+lign: top; text-align: left; color: #0a0a0a; font-family: 'RooneySans', 'PT=
+ Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; Margin: =
+0; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+						<table class=3D"row" style=3D"border-spacing: 0; border-collapse: col=
+lapse; vertical-align: top; text-align: left; padding: 0; width: 100%; posi=
+tion: relative; display: table;">
+						<tbody>
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+h class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fa=
+mily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norm=
+al; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin=
+-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width=
+: 47.33333px; padding-right: 8px; padding-left: 16px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida =
+Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; t=
+ext-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								</th>	</tr>
+								</table>
+						</th>	<th class=3D"small-6 large-5 columns" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8px; p=
+adding-bottom: 16px; width: 300.66667px; padding-right: 8px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th class=3D"legal text-left" style=3D"color: #0a0a0a; font-family: 'Rooney=
+Sans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: =
+0; margin: 0; Margin: 0; text-align: left; line-height: 1.4; margin-bottom:=
+ 1.4em; font-size: 0.8em;">
+										MyFonts Inc.<br> 600 Unicorn Park Drive<br>Woburn, MA 01801<br>USA
+								</th>	</tr>
+								</table>
+						</th>	<th class=3D"small-6 large-5 columns" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8px; p=
+adding-bottom: 16px; width: 300.66667px; padding-right: 8px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th class=3D"legal text-right" style=3D"color: #0a0a0a; font-family: 'Roone=
+ySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding:=
+ 0; margin: 0; Margin: 0; text-align: left; line-height: 1.4; margin-bottom=
+: 1.4em; font-size: 0.8em;">										It is never our intention to send unw=
+anted e-mail. <br>
+This message was sent to kyle@kylefisher.com.<br>
+Want out? <a href=3D"http://sendgrid.myfonts.com/asm/unsubscribe/global/?us=
+er_id=3D303007&data=3DZfTRjbIQmYUuBTUruOv-NNz1m-mH7m-YgaGTgJYlmRwkskmQW_mAy=
+HMLkqQx0Tgj-XwDjFVQB94qwmagU2ksEpQZckUwaj_np3uBh2wGpUyT3WNJV8BE2UCxt9t7yh_p=
+jZC1dNyMy-YhQaqPMcJ9T5KvTyrfN4Ofo_z-h-qw5uxeWKQbKYa7QRBWt_1-XZPVNvuhuM-Kbgz=
+BaH571Rmev4oWgG6DZLmsR_PfP6-cU-Kuc5gCOjYpTxC0p-5zH-7pLNRCVa6ftXMeBx725zR2QE=
+xNAs-cQ9G9BTiOVvIIuOAyTXgW3ghiNkM5893E7us6T5KCa5dmz1JManFmj77nXFizv-pvY7wmo=
+706uvYj4pSxZBvagkFN9Lo86olZMnyhTqrRkQ18ehIB1B5LL0kg-BIV-WDSo7m1Dnum6RLNebT3=
+KV0AGqXXdFtq_hX6Md7VM_Ly4QHNF55I8xxfVHQ5iN9QMEiUm_sItKtansY-WN-BA_jrYb49nSZ=
+wuLMZqOCHW2tFeuWOyT1DqkTcxYgZFQr70tkihBoqkyYgWkyyVBG2O_QnmLk3F4Givcs7txb6V_=
+UcqjMB13M9wgsuudJYEyuwk5pcdFFiUMfqScA_4tk=3D">Unsubscribe From All Emails</=
+a> <br>
+
+Or click here to <a href=3D"http://sendgrid.myfonts.com/asm/unsubscribe/?us=
+er_id=3D303007&data=3DFc_XNkNp94E1UVUS-JDJK_aKtwk_5ZrafbaNlfVLoq2YOT8chkQo5=
+UOmisjklodT-B3Gz01oPV_3oRZSGDaLcr3YsBXcWVQVAqkLGOofnm7GYFaOE23hsvDjjVZDIHLk=
+AH_jCQjTRsrjpRDioabTeZ9p_Co6FQ0d6jLNWjp7q8yuDUbGFjLLBz-OZIzMrDAw_86rA9G2G9F=
+DA39HWig-PRte6YXEXYZFCxY-922jz0DXAHiO3JF5-ZQNJ317unMnHJZ2UYAu56xRiQy5HYEu3v=
+9_S-P2EUQnOYfcK9z1fWE5SRBGUM6gaZBkB44tpgl7-h50RtSXoFobTCy3JCyeKcHTukeX207gq=
+CjQKNhalRAOjlJ9xY5s2bf1m1efdU_iaaE8MGZHrDThF_TlZNgRLPF01sM3SvN8K-5kuhqWF6Rz=
+nVp03LTiBMXBtUYetNW0Qvr2QnAXYV4Y5AwQ_-GeGKgMZvE0M6Ldh3CUxttttmYTww7cVNwr5h8=
+9TT4vHI0djMh5AH_gsdOg0-xpoCBYKWHzB8MZVMHqHpoSSdWlJjJwMGnpw88iEIjgyDvRDsGaHE=
+ChbvElUNvw8z7kOu1rCaYtFx5Bbt9PxWRkJdJKIAY=3D" style=3D"color: #0099ff; font=
+-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: n=
+ormal; padding: 0; margin: 0; Margin: 0; text-align: left; line-height: 1.4=
+; text-decoration: none; margin-bottom: 1.4em;">unsubscribe from bundles em=
+ails</a> only.								</th>	</tr>
+								</table>
+						</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a=
+0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font=
+-weight: normal; padding: 0; text-align: left; line-height: 1.4; font-size:=
+ 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: =
+8px; padding-bottom: 16px; width: 47.33333px; padding-right: 16px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida =
+Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; t=
+ext-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								</th>	</tr>
+								</table>
+								</th></tr>
+						</tbody>
+						</table>
+				</td>	</tr>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; =
+hyphens: auto; border-collapse: collapse !important; padding: 0; vertical-a=
+lign: top; text-align: left; color: #0a0a0a; font-family: 'RooneySans', 'PT=
+ Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; Margin: =
+0; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+						<table class=3D"row" style=3D"border-spacing: 0; border-collapse: col=
+lapse; vertical-align: top; text-align: left; padding: 0; width: 100%; posi=
+tion: relative; display: table;">
+						<tbody>
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+h class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fa=
+mily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norm=
+al; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin=
+-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width=
+: 47.33333px; padding-right: 8px; padding-left: 16px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida =
+Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; t=
+ext-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								</th>	</tr>
+								</table>
+						</th>	<th class=3D"small-12 large-10 columns" style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16p=
+x; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 8px;=
+ padding-bottom: 16px; width: 617.33333px; padding-right: 8px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th class=3D"legal text-left" style=3D"color: #0a0a0a; font-family: 'Rooney=
+Sans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: =
+0; margin: 0; Margin: 0; text-align: left; line-height: 1.4; margin-bottom:=
+ 1.4em; font-size: 0.8em;">=20
+										MyFonts and MyFonts.com are trademarks of MyFonts Inc. registered=
+ in the U.S. Patent and Trademark Office and may be registered in certain o=
+ther jurisdictions.  Other technologies, font names, and brand names are us=
+ed for information only and remain trademarks or registered trademarks of t=
+heir respective companies.<br>=C2=A9 MyFonts Inc. 2016								</th>	</tr>
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<td style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: au=
+to; hyphens: auto; border-collapse: collapse !important; padding: 0; vertic=
+al-align: top; text-align: left; font-family: 'RooneySans', 'PT Sans', 'Luc=
+ida Sans', sans-serif; font-weight: normal; margin: 0; Margin: 0; margin-bo=
+ttom: 1.4em; display: none; font-size: 1px; color: #f1f1f1; line-height: 1p=
+x; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;"><a href=
+=3D"http://sendgrid.myfonts.com/asm/unsubscribe/?user_id=3D303007&data=3DFc=
+_XNkNp94E1UVUS-JDJK_aKtwk_5ZrafbaNlfVLoq2YOT8chkQo5UOmisjklodT-B3Gz01oPV_3o=
+RZSGDaLcr3YsBXcWVQVAqkLGOofnm7GYFaOE23hsvDjjVZDIHLkAH_jCQjTRsrjpRDioabTeZ9p=
+_Co6FQ0d6jLNWjp7q8yuDUbGFjLLBz-OZIzMrDAw_86rA9G2G9FDA39HWig-PRte6YXEXYZFCxY=
+-922jz0DXAHiO3JF5-ZQNJ317unMnHJZ2UYAu56xRiQy5HYEu3v9_S-P2EUQnOYfcK9z1fWE5SR=
+BGUM6gaZBkB44tpgl7-h50RtSXoFobTCy3JCyeKcHTukeX207gqCjQKNhalRAOjlJ9xY5s2bf1m=
+1efdU_iaaE8MGZHrDThF_TlZNgRLPF01sM3SvN8K-5kuhqWF6RznVp03LTiBMXBtUYetNW0Qvr2=
+QnAXYV4Y5AwQ_-GeGKgMZvE0M6Ldh3CUxttttmYTww7cVNwr5h89TT4vHI0djMh5AH_gsdOg0-x=
+poCBYKWHzB8MZVMHqHpoSSdWlJjJwMGnpw88iEIjgyDvRDsGaHEChbvElUNvw8z7kOu1rCaYtFx=
+5Bbt9PxWRkJdJKIAY=3D" style=3D"color: #0099ff; font-family: 'RooneySans', '=
+PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: 0; margi=
+n: 0; Margin: 0; text-align: left; line-height: 1.4; text-decoration: none;=
+ margin-bottom: 1.4em;">&nbsp;</a>
+								</td>	</tr>
+								</table>
+						</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a=
+0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font=
+-weight: normal; padding: 0; text-align: left; line-height: 1.4; font-size:=
+ 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: =
+8px; padding-bottom: 16px; width: 47.33333px; padding-right: 16px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida =
+Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; t=
+ext-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								</th>	</tr>
+								</table>
+								</th></tr>
+						</tbody>
+						</table>
+				</td>	</tr>
+
+				</tbody>
+				</table>
+		</td>	</tr>
+		</tbody>
+		</table>
+=09=09
+		</center>
+</td>	</tr>
+</table>
+<img src=3D"http://sendgrid.myfonts.com/wf/open?upn=3DuYgC-2F3OCcIGiEY2WBSJ=
+okfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNX=
+rlB3EV-2FiWx2UsmfCoweACHEEdrlve5sxVQgkvIKjY3Ctn8C-2F-2FhITLYRtRzSFu5rNR9qMN=
+y4Nx1Y3bRO1xXid7byBVgCCapmZfR2jrmRR-2B79ogfaTK4OzPug-2BF2AT5LVjS0tQkdPvSsbA=
+V9Fc930dRCQmPpHro-2BtH5lnG5VJo8NGoMP4psRPs9KsMoDkgCpEappEEWkQ8lYmEBraZLrEwP=
+jQziCcBjbz0HNhxGOJ851aAtbl3uNAb9FFfFqjs4PftDGaFo3VOwQrTmCr6AgWlCbccM38-2BmB=
+hwa7ss7wCUM0t1hAlLmLZAe3LlN9bg7L0q6evBqDPiCOVbkzfDaurYQlQ8-2Bi5oJGl1vX91EJ8=
+xHmPD9XKbxHpIyH8qJsiEvmTpBxgR9fKpY4v-2FEuNeOsg-3D" alt=3D"" width=3D"1" hei=
+ght=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;=
+border-width:0 !important;margin-top:0 !important;margin-bottom:0 !importan=
+t;margin-right:0 !important;margin-left:0 !important;padding-top:0 !importa=
+nt;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !i=
+mportant;"/>
+</body>
+</html>
+
+--e693553ed4fd786473af7eec55cace68c8ddfd20b81c2943eb369ef2380d--

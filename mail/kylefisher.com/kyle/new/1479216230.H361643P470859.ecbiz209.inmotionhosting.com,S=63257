@@ -1,0 +1,1677 @@
+Return-path: <bounces+303007-022f-kyle=kylefisher.com@sendgrid.myfonts.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 15 Nov 2016 08:23:50 -0500
+Received: from o1.sendgrid.myfonts.com ([50.31.50.193]:24712)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+303007-022f-kyle=kylefisher.com@sendgrid.myfonts.com>)
+	id 1c6diH-001ySz-LF
+	for kyle@kylefisher.com; Tue, 15 Nov 2016 08:23:50 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=myfonts.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=smtpapi; bh=py6pPEvZwsM7f985P7ng+zDxMok=; b=QCYjfE97f2sPjeRf/u
+	HZ+IUOliNelws0RO7abMbiLaa/F5aU553xbOoSV30GllBwr5bLkDlPjoDfU8EAR6
+	gKlZscD/xzZMvJLcq5ykH4kxd0C0bW9ho2m37JwgWprTyoEGF+XVzG/3El/eAd0v
+	u6V0vE8S5BJpDcyMN+hilapF0=
+Received: by filter0226p1las1.sendgrid.net with SMTP id filter0226p1las1-24183-582B0C13-56
+        2016-11-15 13:22:27.873039044 +0000 UTC
+Received: from MzAzMDA3 (o16789125x204.outbound-mail.sendgrid.net [167.89.125.204])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with HTTP id CkZCjYKOQ5G9VwFnsCPA1w
+	for <newsletters-no-reply@myfonts.com>; Tue, 15 Nov 2016 13:22:27.353 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=0abc774006add63734c29ee49d924cba9cc1b6301743d895d39e6ed9c2a7
+Date: Tue, 15 Nov 2016 13:22:27 +0000
+From: "MyFonts News" <newsletters-no-reply@myfonts.com>
+Mime-Version: 1.0
+Reply-to: newsletters-no-reply@myfonts.com
+Subject: 14 bestselling fonts for just $50
+To: kyle@kylefisher.com
+Message-ID: <CkZCjYKOQ5G9VwFnsCPA1w@ismtpd0005p1iad1.sendgrid.net>
+List-Unsubscribe: <http://sendgrid.myfonts.com/asm/unsubscribe/?user_id=303007&data=mcayffyAC4orZnO1-mOksecu6QiqrG2PvCrDxb8iT807sKPUTJm-pOqymPl63we7lfeYPZPd3SyVGY16Mh8PZX5kAtv_-8FPgCrdsUxPivo9BmTJ7r9wRyfmxyJaxXzkvWBS_8X7hrK3_obIneRi4EnfK8-2HtFQLq6_MZ0M5_xkaVrpLJQkBxZFz0IbBq-AVW8WneFKmo6yE4J2LhQtPlN7YruRJuQzyTcmaBq1lSeHCq22Po_bx21f3MMajHt2PorCa0G7hoCMqDiEWr_BfoAfqPjHfe8GtqlUtp_JGJr2KzfDforUNXup8gxoSWYjElMvk2zUQUG3x1YmV1zqirWu5G24OAiFwI5wImp6VxrQiuNr_NqwSAzyISooS1wEYGTfPrRM1c7SFYgL5TZgw_awfYaBrwl3r-dlGmcIU6QT3-Dui4GGVUSaVeKRDQ2O7UFvv0Krjk--kWs7I88PRsoeZB-8ZZScvOQyuH20-5Tk8VaVK_oN3xmeya-Bv7oud5AeUmcoQ_Kuei6yC17iEovd2w6JQyI5tSrlGA8q4DTM8ASJK2gECzZl2Vh4gesOdLG3H6I0zMmyUkyuPxJgF9OapR27gxVfC56XSkwu56M=>, <mailto:unsubscribe@sendgrid.myfonts.com?subject=http://sendgrid.myfonts.com/asm/unsubscribe/*q*user_id=303007&data=mcayffyAC4orZnO1-mOksecu6QiqrG2PvCrDxb8iT807sKPUTJm-pOqymPl63we7lfeYPZPd3SyVGY16Mh8PZX5kAtv_-8FPgCrdsUxPivo9BmTJ7r9wRyfmxyJaxXzkvWBS_8X7hrK3_obIneRi4EnfK8-2HtFQLq6_MZ0M5_xkaVrpLJQkBxZFz0IbBq-AVW8WneFKmo6yE4J2LhQtPlN7YruRJuQzyTcmaBq1lSeHCq22Po_bx21f3MMajHt2PorCa0G7hoCMqDiEWr_BfoAfqPjHfe8GtqlUtp_JGJr2KzfDforUNXup8gxoSWYjElMvk2zUQUG3x1YmV1zqirWu5G24OAiFwI5wImp6VxrQiuNr_NqwSAzyISooS1wEYGTfPrRM1c7SFYgL5TZgw_awfYaBrwl3r-dlGmcIU6QT3-Dui4GGVUSaVeKRDQ2O7UFvv0Krjk--kWs7I88PRsoeZB-8ZZScvOQyuH20-5Tk8VaVK_oN3xmeya-Bv7oud5AeUmcoQ_Kuei6yC17iEovd2w6JQyI5tSrlGA8q4DTM8ASJK2gECzZl2Vh4gesOdLG3H6I0zMmyUkyuPxJgF9OapR27gxVfC56XSkwu56M=>
+X-SG-EID: eU/ka35llXGMH3nAOV67BrlAvnJbsZjQ68cwO3vk6pU/0rH5Coghr6aZ3xC2vVKetbiyKvLuCNgAZ7
+ VXHzkK0hjxIlpTLLqNO4aRDMYTS14WBq5ZzvPYvYUTAJYkeWdx7isBx6SXMmekSf9pxL/1KSiJy6ly
+ Of8+qosSu71IsGvck6Arnw9RJFi7Tjkh8yB8VGIkwGH5enovErEe13HgIp/olGAdaMUD5UOmcVx1cB
+ yFN6OJJsaOZCkO0ATYmbI5
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP1NWX9YNJbSp8KjSYn9FyJiNdIBkhvPVUFDcT
+ gadNac0mjE4BHAsSokoX/+1xqgL+IXjE3RMemFHVRBdaV8JbaCC5E2pap1PNzUf+7QJGcl7WVODgPx
+ 2hTKU28pkLb4jpuDrWuiBRLeVeqRF/S7WKOjv/AdUiW90b2jcR4SWzLn/Nq0chOXD+7uccRovsP/jF
+ c=
+
+--0abc774006add63734c29ee49d924cba9cc1b6301743d895d39e6ed9c2a7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Our Latest Bundle:
+
+Best Of Indian Type Foundry Bundle is 75% off
+
+14 fonts for $50 https://www.myfonts.com/newsletters/bdls/20161115/links/pa=
+ckage/568951/
+
+The Best Of Indian Type Foundry bundle brings together 14 beautiful, versat=
+ile, best selling fonts. The Ahmedabad, India-based foundry=E2=80=99s catal=
+og is as diverse as it is deep, and this bundle reflects that by offering e=
+verything from workhorse text fonts to finely tuned display fonts.
+
+The bundle includes two weights from their flagship typeface Kohinoor=E2=80=
+=94a type system that was developed to support the 780 languages that are w=
+ritten in 11 different scripts across India=E2=80=94as well as fonts from t=
+he hugely popular industrial grotesk families Weissenhof Grotesk and Akhand=
+ Soft. It also offers some contrast with classical serifs Zahrah and Begum,=
+ geometric sans Volte and transitional book-face Abelard.
+The collection is a powerful toolbox of possibilities for graphic designers=
+ and would be very useful in editorial, branding, signage and web applicati=
+ons.=20
+
+Pick up the Best Of Indian Type Foundry Bundle for 75% before this introduc=
+tory offer ends December 18th at midnight EST!
+
+MyFonts Inc.
+ 600 Unicorn Park Drive
+Woburn, MA 01801
+USA
+
+It is never our intention to send unwanted e-mail.=20
+
+This message was sent to kyle@kylefisher.com.
+
+Want out? Unsubscribe From All Emails http://sendgrid.myfonts.com/asm/unsub=
+scribe/global/?user_id=3D303007&data=3DWi1mDmY1YW-E93gDofrOpnbMkzfZB0X44zxU=
+zuqtn9e1kD4rsZ_A_AGAbusFyqnAdXSt-NFqqFbiauibGpsXcBQ13mxk6_jD8Aw9tT0RDw8qoor=
+Ew2mr0sywdqQDD4Z16xonmRdpBlAGskpO6vSaFc2F3bdOoCPkvHwQR6P-m407WOaQ9iuexQClRk=
+16MLFGeCIkiteUNQsYlOC82WuaoeL4G2RjqQdZpvlnRXWC0BEJtZrKf3Bp6ny_TYGbsGULpbgzU=
+2--GuxEEki5Q_XDMtLLCLjANJdfK_WEp9WH8TCHmMFaEa1K2CpgAlUJYd4rAiP3u6e_vh93L9A3=
+hV46KKiXP-uXEPRTvc0xrK5Eu41jqFE98gZ6bRI3nuUQVOb2uHXGAx8Iy6-tYSsb_PolApeD-JX=
+fGYBeZJjhJSvYfCpmoODN8EVAViWFRuZkCFpq3pXfVSAeiSK9PewFaotu_pPg0spAR3CF_AdSlU=
+oUSXe9LkiHL0s87yKW5yIquwtOuPrMS6EKE-4FivPLul4_J2ENrWuIeN6JglME1ADEDY2lVi_8A=
+_Yb6bs8Q_wiJRuEV2fStOC8h2aQJhUV26UrDwTbbYnRVvBrZdhYCgytShE=3D=20
+
+Or click here to unsubscribe from Bundles emails http://sendgrid.myfonts.co=
+m/asm/unsubscribe/?user_id=3D303007&data=3DmcayffyAC4orZnO1-mOksecu6QiqrG2P=
+vCrDxb8iT807sKPUTJm-pOqymPl63we7lfeYPZPd3SyVGY16Mh8PZX5kAtv_-8FPgCrdsUxPivo=
+9BmTJ7r9wRyfmxyJaxXzkvWBS_8X7hrK3_obIneRi4EnfK8-2HtFQLq6_MZ0M5_xkaVrpLJQkBx=
+ZFz0IbBq-AVW8WneFKmo6yE4J2LhQtPlN7YruRJuQzyTcmaBq1lSeHCq22Po_bx21f3MMajHt2P=
+orCa0G7hoCMqDiEWr_BfoAfqPjHfe8GtqlUtp_JGJr2KzfDforUNXup8gxoSWYjElMvk2zUQUG3=
+x1YmV1zqirWu5G24OAiFwI5wImp6VxrQiuNr_NqwSAzyISooS1wEYGTfPrRM1c7SFYgL5TZgw_a=
+wfYaBrwl3r-dlGmcIU6QT3-Dui4GGVUSaVeKRDQ2O7UFvv0Krjk--kWs7I88PRsoeZB-8ZZScvO=
+QyuH20-5Tk8VaVK_oN3xmeya-Bv7oud5AeUmcoQ_Kuei6yC17iEovd2w6JQyI5tSrlGA8q4DTM8=
+ASJK2gECzZl2Vh4gesOdLG3H6I0zMmyUkyuPxJgF9OapR27gxVfC56XSkwu56M=3D only.=09=
+=09=09=09=09=09=09=09
+
+MyFonts and MyFonts.com are trademarks of MyFonts Inc. registered in the U.=
+S. Patent and Trademark Office and may be registered in certain other juris=
+dictions. Other technologies, font names, and brand names are used for info=
+rmation only and remain trademarks or registered trademarks of their respec=
+tive companies.
+=C2=A9 MyFonts Inc. 2016=
+
+--0abc774006add63734c29ee49d924cba9cc1b6301743d895d39e6ed9c2a7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<link href=3D"https://cdn.myfonts.net/s/ec/common-assets/fonts/rooneysans-l=
+t-reg-med-bld/rooneysans-lt-reg-med-bld.css" rel=3D"stylesheet" type=3D"tex=
+t/css">
+<link href=3D"https://cdn.myfonts.net/s/ec/common-assets/fonts/rooney-sans/=
+rooney-sans-lt.css" rel=3D"stylesheet" type=3D"text/css">
+
+<style type=3D"text/css">
+
+/**********************************************
+* Ink v1.0.5 - Copyright 2013 ZURB Inc				*
+**********************************************/
+
+/* Client-specific Styles and Reset */
+
+#outlook a {
+	padding:0;
+}
+
+body{
+	width:100% !important;
+	min-width: 100%;
+	-webkit-text-size-adjust:100%;
+	-ms-text-size-adjust:100%;
+	margin:0;
+	padding:0;
+}
+
+	/* .ExternalClass applies to Outlook.com (the artist formerly known as Hot=
+mail)	*/
+
+.ExternalClass {
+	width:100%;
+}
+
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+	line-height: 100%;
+}
+
+#backgroundTable {
+	background-color: #f1f1f1;
+	margin:0;
+	padding:0;
+	width:100% !important;
+	line-height: 100% !important;
+}
+
+img {
+	outline:none;
+	text-decoration:none;
+	-ms-interpolation-mode: bicubic;
+	width: auto;
+	max-width: 100%;
+	clear: both;
+	display: block;
+	margin: 0 auto;
+}
+
+p img {
+	margin: 1.5em 0;
+	}
+
+center {
+	width: 100%;
+	min-width: 820px;
+}
+
+a img {
+	border: none;
+}
+
+p {
+	margin: 0 0 0 10px;
+}
+
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+td {
+	word-break: break-word;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	hyphens: none;
+	border-collapse: collapse !important;
+}
+
+table, tr, td {
+	padding: 0;
+	vertical-align: top;
+	text-align: left;
+}
+
+hr {
+	color: #d9d9d9;
+	background-color: #d9d9d9;
+	height: 1px;
+	border: none;
+}
+
+/* Responsive Grid */
+
+table.body {
+height: 100%;
+width: 100%;
+}
+
+table.container {
+	width: 820px;
+	margin: 0 auto;
+	text-align: inherit;
+}
+
+table.row {
+	padding: 0px;
+	width: 100%;
+	position: relative;
+}
+
+table.container table.row {
+	display: block;
+}
+
+td.wrapper {
+	padding: 10px 20px 0px 0px;
+	position: relative;
+}
+
+table.columns,
+table.column {
+	margin: 0 auto;
+}
+
+table.columns td,
+table.column td {
+	padding: 0px 0px 10px;
+}
+
+table.columns td.sub-columns,
+table.column td.sub-columns,
+table.columns td.sub-column,
+table.column td.sub-column {
+	padding-right: 10px;
+}
+
+td.sub-column, td.sub-columns {
+	min-width: 0px;
+}
+
+table.row td.last,
+table.container td.last {
+	padding-right: 0px;
+}
+
+/* table.one { width: 30px; }
+table.two { width: 80px; }
+table.three { width: 130px; }
+table.four { width: 180px; }
+table.five { width: 230px; }
+table.six { width: 280px; }
+table.seven { width: 330px; }
+table.eight { width: 380px; }
+table.nine { width: 430px; }
+table.ten { width: 480px; }
+table.eleven { width: 530px; }
+table.twelve { width: 580px; }
+
+table.one center { min-width: 30px; }
+table.two center { min-width: 80px; }
+table.three center { min-width: 130px; }
+table.four center { min-width: 180px; }
+table.five center { min-width: 230px; }
+table.six center { min-width: 280px; }
+table.seven center { min-width: 330px; }
+table.eight center { min-width: 380px; }
+table.nine center { min-width: 430px; }
+table.ten center { min-width: 480px; }
+table.eleven center { min-width: 530px; }
+table.twelve center { min-width: 580px; } */
+
+table.one 		{width: 50px;}
+table.two		{width: 120px;}
+table.three		{width: 190px;}
+table.four		{width:	260px;}
+table.five		{width: 330px;}
+table.six		{width: 400px;}
+table.seven		{width: 470px;}
+table.eight		{width: 520px;}
+table.nine		{width: 610px;}
+table.ten		{width: 680px;}
+table.eleven		{width: 750px;}
+table.twelve 	{width: 820px;}
+
+table.one center	 	{min-width: 50px;}
+table.two center		{min-width: 120px;}
+table.three center	{min-width: 190px;}
+table.four center	{min-width:	260px;}
+table.five center	{min-width: 330px;}
+table.six center		{min-width: 400px;}
+table.seven	center	{min-width: 470px;}
+table.eight	center	{min-width: 520px;}
+table.nine center	{min-width: 610px;}
+table.ten center		{min-width: 680px;}
+table.eleven center	{min-width: 750px;}
+table.twelve center	{min-width: 820px;}
+
+table.one .panel center { min-width: 10px; }
+table.two .panel center { min-width: 60px; }
+table.three .panel center { min-width: 110px; }
+table.four .panel center { min-width: 160px; }
+table.five .panel center { min-width: 210px; }
+table.six .panel center { min-width: 260px; }
+table.seven .panel center { min-width: 310px; }
+table.eight .panel center { min-width: 360px; }
+table.nine .panel center { min-width: 410px; }
+table.ten .panel center { min-width: 460px; }
+table.eleven .panel center { min-width: 510px; }
+table.twelve .panel center { min-width: 560px; }
+
+.body .columns td.one,
+.body .column td.one { width: 8.333333%; }
+.body .columns td.two,
+.body .column td.two { width: 16.666666%; }
+.body .columns td.three,
+.body .column td.three { width: 25%; }
+.body .columns td.four,
+.body .column td.four { width: 33.333333%; }
+.body .columns td.five,
+.body .column td.five { width: 41.666666%; }
+.body .columns td.six,
+.body .column td.six { width: 50%; }
+.body .columns td.seven,
+.body .column td.seven { width: 58.333333%; }
+.body .columns td.eight,
+.body .column td.eight { width: 66.666666%; }
+.body .columns td.nine,
+.body .column td.nine { width: 75%; }
+.body .columns td.ten,
+.body .column td.ten { width: 83.333333%; }
+.body .columns td.eleven,
+.body .column td.eleven { width: 91.666666%; }
+.body .columns td.twelve,
+.body .column td.twelve { width: 100%; }
+
+td.offset-by-one { padding-left: 50px; }
+td.offset-by-two { padding-left: 100px; }
+td.offset-by-three { padding-left: 150px; }
+td.offset-by-four { padding-left: 200px; }
+td.offset-by-five { padding-left: 250px; }
+td.offset-by-six { padding-left: 300px; }
+td.offset-by-seven { padding-left: 350px; }
+td.offset-by-eight { padding-left: 400px; }
+td.offset-by-nine { padding-left: 450px; }
+td.offset-by-ten { padding-left: 500px; }
+td.offset-by-eleven { padding-left: 550px; }
+
+td.expander {
+	visibility: hidden;
+	width: 0px;
+	padding: 0 !important;
+}
+
+table.columns .text-pad,
+table.column .text-pad {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+table.columns .left-text-pad,
+table.columns .text-pad-left,
+table.column .left-text-pad,
+table.column .text-pad-left {
+	padding-left: 10px;
+}
+
+table.columns .right-text-pad,
+table.columns .text-pad-right,
+table.column .right-text-pad,
+table.column .text-pad-right {
+	padding-right: 10px;
+}
+
+/* Block Grid */
+
+.block-grid {
+	width: 100%;
+	max-width: 580px;
+}
+
+.block-grid td {
+	display: inline-block;
+	padding:10px;
+}
+
+.two-up td {
+	width:270px;
+}
+
+.three-up td {
+	width:173px;
+}
+
+.four-up td {
+	width:125px;
+}
+
+.five-up td {
+	width:96px;
+}
+
+.six-up td {
+	width:76px;
+}
+
+.seven-up td {
+	width:62px;
+}
+
+.eight-up td {
+	width:52px;
+}
+
+/* Alignment and Visibility Classes */
+
+table.center, td.center {
+	text-align: center;
+}
+
+h1.center,
+h2.center,
+h3.center,
+h4.center,
+h5.center,
+h6.center,
+p.center {
+	text-align: center;
+}
+
+span.center {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+img.center {
+	margin: 0 auto;
+	float: none;
+}
+
+.show-for-small,
+.hide-for-desktop {
+	display: none;
+	width:0;
+	mso-hide:all;
+	overflow:hidden;
+}
+
+.show-for-small *,
+.hide-for-desktop * {
+	mso-hide:all;
+}
+
+/* Typography */
+
+body, table.body, h1, h2, h3, h4, h5, h6, p, td {
+	color: #4A4A4A;
+	font-family: "RooneySans", "PT Sans", "Lucida Sans", sans-serif;
+	font-weight: normal;
+	padding:0;
+	margin: 0;
+	text-align: left;
+	line-height: 1.3;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	word-break: normal;
+}
+
+h1 {font-size: 40px;}
+h2 {font-size: 36px;}
+h3 {font-size: 32px;}
+h4 {font-size: 24px; margin-bottom: 1em;}
+h5 {font-size: 24px;}
+h6 {font-size: 20px;}
+body, table.body, p, td {font-size: 16px;line-height:1.3em;}
+
+
+p.lead, p.lede, p.leed {
+	font-size: 18px;
+	line-height:21px;
+}
+
+p {
+	margin-bottom: 10px;
+}
+
+small {
+	font-size: 10px;
+}
+
+a {
+	color: #0099FF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #2795b6 !important;
+}
+
+a:active {
+	color: #2795b6 !important;
+}
+
+a:visited {
+	color: #2ba6cb !important;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+	color: #2ba6cb;
+}
+
+h1 a:active,
+h2 a:active,
+h3 a:active,
+h4 a:active,
+h5 a:active,
+h6 a:active {
+	color: #2ba6cb !important;
+}
+
+h1 a:visited,
+h2 a:visited,
+h3 a:visited,
+h4 a:visited,
+h5 a:visited,
+h6 a:visited {
+	color: #2ba6cb !important;
+}
+
+/* Panels */
+
+.panel {
+	background: #f2f2f2;
+	border: 1px solid #d9d9d9;
+	padding: 10px !important;
+}
+
+.sub-grid table {
+	width: 100%;
+}
+
+.sub-grid td.sub-columns {
+	padding-bottom: 0;
+}
+
+/* Buttons */
+
+table.button,
+table.tiny-button,
+table.small-button,
+table.medium-button,
+table.large-button {
+	width: 100%;
+	overflow: hidden;
+}
+
+table.button td,
+table.tiny-button td,
+table.small-button td,
+table.medium-button td,
+table.large-button td {
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	display: block;
+	width: auto !important;
+	text-align: center;
+	background: #0099ff;
+	border: 1px solid #2284a1;
+	color: #ffffff;
+	padding: 8px 0;
+	line-height: initial !important;
+}
+
+table.tiny-button td {
+	padding: 5px 0;
+}
+
+table.small-button td {
+	padding: 8px 0;
+}
+
+table.medium-button td {
+	padding: 12px 0;
+}
+
+table.large-button td {
+	padding: 21px 0;
+	margin: 1.5em 0;
+}
+
+table.button td a,
+table.tiny-button td a,
+table.small-button td a,
+table.medium-button td a,
+table.large-button td a {
+	font-weight: bold;
+	text-decoration: none;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #ffffff;
+	font-size: 24px;
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+
+table.tiny-button td a {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+table.small-button td a {
+	font-size: 16px;
+}
+
+table.medium-button td a {
+	font-size: 20px;
+}
+
+table.large-button td a {
+	font-size: 24px;
+}
+
+table.button:hover td,
+table.button:visited td,
+table.button:active td {
+	background: #2795b6 !important;
+}
+
+table.button:hover td a,
+table.button:visited td a,
+table.button:active td a {
+	color: #ffffff !important;
+}
+
+/*table.button:hover td,
+table.tiny-button:hover td,
+table.small-button:hover td,
+table.medium-button:hover td,
+table.large-button:hover td {
+	background: #0099ff !important;
+}*/
+
+table.button:hover td a,
+table.button:active td a,
+table.button td a:visited,
+table.tiny-button:hover td a,
+table.tiny-button:active td a,
+table.tiny-button td a:visited,
+table.small-button:hover td a,
+table.small-button:active td a,
+table.small-button td a:visited,
+table.medium-button:hover td a,
+table.medium-button:active td a,
+table.medium-button td a:visited,
+table.large-button:hover td a,
+table.large-button:active td a,
+table.large-button td a:visited {
+	color: #ffffff !important;
+}
+
+table.secondary td {
+	background: #e9e9e9;
+	border-color: #d0d0d0;
+	color: #555555;
+}
+
+table.secondary td a {
+	color: #555555;
+}
+
+table.secondary:hover td {
+	background: #d0d0d0 !important;
+	color: #555555;
+}
+
+table.secondary:hover td a,
+table.secondary td a:visited,
+table.secondary:active td a {
+	color: #555555 !important;
+}
+
+table.success td {
+	background: #5da423;
+	border-color: #457a1a;
+}
+
+table.success:hover td {
+	background: #457a1a !important;
+}
+
+table.alert td {
+	background: #c60f13;
+	border-color: #970b0e;
+}
+
+table.alert:hover td {
+	background: #970b0e !important;
+}
+
+table.radius td {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+table.round td {
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	border-radius: 500px;
+}
+
+/* Customisations */
+
+body, .body {	background-color: #f1f1f1; }
+
+#main_content {
+	background-color: #ffffff;
+	border-radius: 1em;
+	margin-bottom: 2em;
+	margin-top: 2em;
+}
+
+.title-row h1 {
+	text-align: center;
+/*	font-family: Calibri, sans-serif; */
+	font-size: 2.8em;
+	margin: 0 0 0.7em;
+}
+
+.title-row h2 {
+	text-align: center;
+	font-size: 2em;
+	padding: 0 0 0.5em;
+}
+
+#logo {	}
+
+#mls_logo {
+	padding: 3em 0 2em;
+	}
+
+.pre-titles {
+	text-align: center;
+	margin-bottom: 1.5em;
+	}
+
+.pre-header p {
+	font-size: 0.7em;
+	text-align: right;
+	}
+
+h1, .intro p {
+/* 	font-family: Calibri, sans-serif; */
+	font-size: 1.75em;
+	margin-top: 1em;
+	margin-bottom: 0.7em;
+}
+
+.emailBody p {
+	font-size: 1.25em;
+}
+
+.pre-titles h1 {
+	font-size: 10px !important;
+	}
+
+table.large-button td {
+	border-radius: 0.5em;
+	background-color: #0099ff;
+	border: none;
+	padding:21px 0;
+	line-height: 0.8em !important;
+}
+
+/*table.large-button:hover td,
+table.large-button:visited td,
+table.large-button:active td {
+	background: #0099ff !important;
+}*/
+
+table.large-button td a, table.large-button td p {
+/*	font-family: Calibri, sans-serif; */
+	font-weight: bold;
+	color: #ffffff;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+table.footer {
+	margin: 2em 0;
+}
+
+p.legal  {
+	font-size: 0.8em;
+}
+
+body, table.body, h1, h2, h3, h4, h5, h6, p, td {
+font-family: "RooneySans", "PT Sans", "Lucida Sans", sans-serif;
+	}
+=09
+h1, .intro p {
+font-family: "RooneySans-Light", "PT Sans", "Lucida Sans", sans-serif;
+	}
+=09
+table.large-button td a, table.large-button td p {
+font-family: "RooneySans-Medium", "PT Sans", "Lucida Sans", sans-serif;
+font-weight: normal;
+	}
+=09
+.title-row h1 {
+font-family: "RooneySans-Light", "PT Sans", "Lucida Sans", sans-serif;
+	}
+
+a:visited {
+	color: #0099ff !important;
+}
+
+
+/* Outlook First */
+
+body.outlook p {
+	display: inline !important;
+}
+
+/*	Media Queries */
+
+@media only screen and (max-width: 600px) {
+
+	table[class=3D"body"] img {
+		max-width: auto !important;
+		max-height: auto !important;
+	}
+
+	table[class=3D"body"] center {
+		min-width: 0 !important;
+	}
+
+	table[class=3D"body"] .container {
+		width: 95% !important;
+	}
+
+	table[class=3D"body"] .row {
+		width: 100% !important;
+		display: block !important;
+	}
+
+	table[class=3D"body"] .wrapper {
+		display: block !important;
+		padding-right: 0 !important;
+	}
+
+	table[class=3D"body"] .columns,
+	table[class=3D"body"] .column {
+		table-layout: fixed !important;
+		float: none !important;
+		width: 100% !important;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		display: block !important;
+	}
+
+	table[class=3D"body"] .wrapper.first .columns,
+	table[class=3D"body"] .wrapper.first .column {
+		display: table !important;
+	}
+
+	table[class=3D"body"] table.columns td,
+	table[class=3D"body"] table.column td {
+		width: 100% !important;
+	}
+
+	table[class=3D"body"] .columns td.one,
+	table[class=3D"body"] .column td.one { width: 8.333333% !important; }
+	table[class=3D"body"] .columns td.two,
+	table[class=3D"body"] .column td.two { width: 16.666666% !important; }
+	table[class=3D"body"] .columns td.three,
+	table[class=3D"body"] .column td.three { width: 25% !important; }
+	table[class=3D"body"] .columns td.four,
+	table[class=3D"body"] .column td.four { width: 33.333333% !important; }
+	table[class=3D"body"] .columns td.five,
+	table[class=3D"body"] .column td.five { width: 41.666666% !important; }
+	table[class=3D"body"] .columns td.six,
+	table[class=3D"body"] .column td.six { width: 50% !important; }
+	table[class=3D"body"] .columns td.seven,
+	table[class=3D"body"] .column td.seven { width: 58.333333% !important; }
+	table[class=3D"body"] .columns td.eight,
+	table[class=3D"body"] .column td.eight { width: 66.666666% !important; }
+	table[class=3D"body"] .columns td.nine,
+	table[class=3D"body"] .column td.nine { width: 75% !important; }
+	table[class=3D"body"] .columns td.ten,
+	table[class=3D"body"] .column td.ten { width: 83.333333% !important; }
+	table[class=3D"body"] .columns td.eleven,
+	table[class=3D"body"] .column td.eleven { width: 91.666666% !important; }
+	table[class=3D"body"] .columns td.twelve,
+	table[class=3D"body"] .column td.twelve { width: 100% !important; }
+
+	table[class=3D"body"] td.offset-by-one,
+	table[class=3D"body"] td.offset-by-two,
+	table[class=3D"body"] td.offset-by-three,
+	table[class=3D"body"] td.offset-by-four,
+	table[class=3D"body"] td.offset-by-five,
+	table[class=3D"body"] td.offset-by-six,
+	table[class=3D"body"] td.offset-by-seven,
+	table[class=3D"body"] td.offset-by-eight,
+	table[class=3D"body"] td.offset-by-nine,
+	table[class=3D"body"] td.offset-by-ten,
+	table[class=3D"body"] td.offset-by-eleven {
+		padding-left: 0 !important;
+	}
+
+	table[class=3D"body"] table.columns td.expander {
+		width: 1px !important;
+	}
+
+	table[class=3D"body"] .right-text-pad,
+	table[class=3D"body"] .text-pad-right {
+		padding-left: 10px !important;
+	}
+
+	table[class=3D"body"] .left-text-pad,
+	table[class=3D"body"] .text-pad-left {
+		padding-right: 10px !important;
+	}
+
+	table[class=3D"body"] .hide-for-small,
+	table[class=3D"body"] .show-for-desktop {
+		display: none !important;
+	}
+
+	table[class=3D"body"] .show-for-small,
+	table[class=3D"body"] .hide-for-desktop {
+		display : block !important;
+		width : auto !important;
+		overflow : visible !important;
+	}
+=09
+			table[class=3D"body"] .title-row h1 {
+			font-size: 1.8em !important;
+			text-align: left !important;
+		}
+=09=09
+			table[class=3D"body"] .title-row h2 {
+			font-size: 1.2em !important;
+			text-align: left !important;
+		}
+=09=09
+=09=09
+		table[class=3D"body"] .hero table {
+			margin-bottom: 0.5em !important;
+		}
+=09=09
+		table[class=3D"body"] img {
+			width: 100% !important;
+			height: auto !important;
+		}
+=09=09
+		table[class=3D"body"] .pre-titles {
+			font-size: 0.7em !important;
+			margin-bottom: 0.7em !important;
+			line-height: 1.3em !important;
+		}
+
+		table[class=3D"body"] .pre-header {
+			font-size: 0.7em !important;
+			margin-bottom: 0.7em !important;
+			line-height: 1.3em !important;
+		}
+=09=09
+		table[class=3D"body"] #main_content {
+			margin-top: 0.5em !important;
+			border-radius: 0 !important;
+		}
+=09=09
+		table[class=3D"body"] #logo {
+			width: 75px !important;
+			height: 37px !important;
+			margin: 0.8em auto 0 !important;
+		}
+=09=09
+			table[class=3D"body"] #mls_logo {
+			width: 50px !important;
+			height: 50px !important;
+			margin: 0.8em auto 0 !important;
+		}
+=09=09
+		table[class=3D"body"] h1, .intro p {
+			font-size: 1.3em !important;
+		}
+=09=09
+		table[class=3D"body"] p.legal {
+			font-size: 0.65em !important;
+		}
+}
+.gmailfix {
+ display:none;
+ display:none!important;
+}
+
+</style>=20
+
+</head>
+
+<body background=3D"#f1f1f1" style=3D"width: 100% !important; min-width: 10=
+0%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; =
+padding: 0; color: #4A4A4A; font-family: 'RooneySans', 'PT Sans', 'Lucida S=
+ans', sans-serif; font-weight: normal; text-align: left; line-height: 1.3em=
+; font-size: 16px; background-color: #f1f1f1;">
+<!--[if mso]>
+<style type=3D"text/css">
+.text-pad {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<div style=3D"display:none;font-size:1px;color:#f1f1f1;line-height:1px;max-=
+height:0px;max-width:0px;opacity:0;overflow:hidden;">
+14 for $50
+</div>
+<table class=3D"body" style=3D"border-spacing: 0; border-collapse: collapse=
+; vertical-align: top; background-color: #f1f1f1; padding: 0; text-align: l=
+eft; height: 100%; width: 100%; color: #4A4A4A; font-family: 'RooneySans', =
+'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; line-=
+height: 1.3em; font-size: 16px; background: #f1f1f1;">
+	<!-- iphone gmail fix -->
+<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td styl=
+e=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyp=
+hens: none; border-collapse: collapse !important; padding: 0; vertical-alig=
+n: top; text-align: left; color: #4A4A4A; font-family: 'RooneySans', 'PT Sa=
+ns', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; line-height=
+: 1.3em; font-size: 16px;">
+		<div class=3D"gmailfix" style=3D"display: none !important; white-space: n=
+owrap; font: 15px courier; line-height: 0;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+</td>	</tr>
+<!-- close iphone gmail fix -->
+<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td clas=
+s=3D"center" align=3D"center" valign=3D"top" style=3D"word-break: break-wor=
+d; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collaps=
+e: collapse !important; padding: 0; vertical-align: top; color: #4A4A4A; fo=
+nt-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight:=
+ normal; margin: 0; line-height: 1.3em; font-size: 16px; text-align: center=
+;">
+		<center style=3D"width: 100%; min-width: 820px;">
+=09=09
+
+		<table id=3D"main_content" class=3D"twelve columns center" style=3D"borde=
+r-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; t=
+ext-align: center; margin: 0 auto; width: 820px; background-color: #ffffff;=
+ border-radius: 1em; margin-bottom: 2em; margin-top: 2em;"> <!-- content st=
+art -->
+		<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td cl=
+ass=3D"center" align=3D"center" style=3D"word-break: break-word; -webkit-hy=
+phens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !=
+important; vertical-align: top; color: #4A4A4A; font-family: 'RooneySans', =
+'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; line-=
+height: 1.3em; font-size: 16px; text-align: center; padding: 0px 0px 10px;">
+				<center style=3D"width: 100%; min-width: 820px;">
+
+				<table style=3D"border-spacing: 0; border-collapse: collapse; padding: =
+0; vertical-align: top; text-align: left;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">	<td c=
+lass=3D"wrapper last" style=3D"word-break: break-word; -webkit-hyphens: non=
+e; -moz-hyphens: none; hyphens: none; border-collapse: collapse !important;=
+ vertical-align: top; text-align: left; color: #4A4A4A; font-family: 'Roone=
+ySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: =
+0; line-height: 1.3em; font-size: 16px; position: relative; padding: 0px 0p=
+x 10px;">
+=09=09=09=09=09
+						<table class=3D"twelve columns" style=3D"border-spacing: 0; border-co=
+llapse: collapse; padding: 0; vertical-align: top; text-align: left; margin=
+: 0 auto; width: 820px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">	<td=
+ class=3D"twelve columns" align=3D"center" style=3D"word-break: break-word;=
+ -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse:=
+ collapse !important; color: #4A4A4A; font-family: 'RooneySans', 'PT Sans',=
+ 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; line-height: 1.=
+3em; font-size: 16px; padding: 0px 0px 10px; width: 100%; text-align: cente=
+r; vertical-align: middle;"><a href=3D"http://sendgrid.myfonts.com/wf/click=
+?upn=3DjaJsJncthVCK7FYYCUzqO0XcfMaTURKYzC3H-2FhQBjLeoE-2Bqzf5wNpDTkYCQsamxc=
+pwexEKT-2B3Apgh6PqTDcwRa4qw1n2eLXh4-2BmPMRHN0Qg-3D_uYgC-2F3OCcIGiEY2WBSJokf=
+QZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB=
+3EV-2FiWx2UsmfCowdmZ-2FCi9bhY6XOdrNxLeGzvnjBogAqCCip-2Bq3Iv1CuZL4-2F8DdsDa-=
+2BcBojOON-2FiWrPnSnhpqCTwpSxS2B3XOLei-2Bv3V7kF2UQdnfpFe1-2B4pV8cJwm-2FjVEZ1=
+fVHSBFAqaMEmMzP5jjU-2Fww4POFyoBf2hfyeIgO7aimUxFacoe4GEUE5i4Igtswx2-2ByaQamZ=
+Sh9iuF-2BPUPNy2hK5zyHjhZPAMPavtFgNl3U8-2FmiQvuOTocrpeG4zQaFKpdbPGD-2FUnxwPj=
+dqI6aHjnj8Gz1VpuQIQkedjRIxKKy7Y07YmYpeiBEoQ-2F41gCmK6O5CaxH-2BTcFOpO3Ft5RRE=
+C5ahHeKc4VZ3jF3Zk3B-2Fm0Nwu1WNeLAPMAQDC60GlqwjNWrXOlv3OfuIY-3D" style=3D"co=
+lor: #0099FF; text-decoration: none;"><img src=3D"http://cdn.myfonts.net/s/=
+ec/bdls-20161115/mf_bundles_masthead.png" width=3D"820" height=3D"238" alt=
+=3D"MyFonts Bundles" style=3D"outline: none; text-decoration: none; -ms-int=
+erpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; displa=
+y: block; margin: 0 auto; border: none;"></a></td>
+=09=09
+							<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyph=
+ens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !im=
+portant; vertical-align: top; text-align: left; color: #4A4A4A; font-family=
+: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; =
+margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !important; visi=
+bility: hidden; width: 0px;"></td>	</tr>
+						</table>=20
+=09=09
+				</td>	</tr>
+				</table>
+
+=09=09=09=09
+				<table class=3D"row" style=3D"border-spacing: 0; border-collapse: colla=
+pse; vertical-align: top; text-align: left; padding: 0px; width: 100%; posi=
+tion: relative;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+align=3D"center" class=3D"wrapper last center" style=3D"word-break: break-w=
+ord; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-colla=
+pse: collapse !important; vertical-align: top; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; m=
+argin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position=
+: relative; padding: 0px 0px 10px; padding-right: 0px;">
+						<table class=3D"ten columns" style=3D"border-spacing: 0; border-colla=
+pse: collapse; padding: 0; vertical-align: top; text-align: left; margin: 0=
+ auto; width: 680px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"text-pad center title-row" style=3D"word-break: break-word; -web=
+kit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: coll=
+apse !important; vertical-align: top; color: #4A4A4A; font-family: 'RooneyS=
+ans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0;=
+ line-height: 1.3em; font-size: 16px; text-align: center; padding: 0px 0px =
+10px; padding-left: 10px; padding-right: 10px;">
+								<h1 style=3D"color: #4A4A4A; font-weight: normal; padding: 0; line-=
+height: 1.3; word-break: normal; margin-top: 1em; margin-bottom: 0.7em; fon=
+t-family: 'RooneySans-Light', 'PT Sans', 'Lucida Sans', sans-serif; margin:=
+ 0 0 0.7em; text-align: center; font-size: 2.8em;">Our Latest Bundle:</h1>
+
+																<h2 style=3D"color: #4A4A4A; font-family: 'RooneySans', 'PT=
+ Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; line-hei=
+ght: 1.3; word-break: normal; padding: 0 0 0.5em; text-align: center; font-=
+size: 2em;">Best Of Indian Type Foundry Bundle is 75% off</h2>
+								</td> 	<td class=3D"expander" style=3D"word-break: break-word; -web=
+kit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: coll=
+apse !important; vertical-align: top; text-align: left; color: #4A4A4A; fon=
+t-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: =
+normal; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !importa=
+nt; visibility: hidden; width: 0px;"></td>
+						</tr>
+						</table>
+				</td>	</tr>
+				</table>		<!-- Title -->
+
+				<table class=3D"row" style=3D"border-spacing: 0; border-collapse: colla=
+pse; vertical-align: top; text-align: left; padding: 0px; width: 100%; posi=
+tion: relative;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+align=3D"center" class=3D"wrapper last center" style=3D"word-break: break-w=
+ord; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-colla=
+pse: collapse !important; vertical-align: top; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; m=
+argin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position=
+: relative; padding: 0px 0px 10px; padding-right: 0px;">
+						<table class=3D"ten columns" style=3D"border-spacing: 0; border-colla=
+pse: collapse; padding: 0; vertical-align: top; text-align: left; margin: 0=
+ auto; width: 680px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"text-pad center intro" style=3D"word-break: break-word; -webkit-=
+hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse=
+ !important; vertical-align: top; color: #4A4A4A; font-family: 'RooneySans'=
+, 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; lin=
+e-height: 1.3em; font-size: 16px; text-align: center; padding: 0px 0px 10px=
+; padding-left: 10px; padding-right: 10px;">
+=09=09=09=09=09=09=09=09
+
+														</td> 	<td class=3D"expander" style=3D"word-break: break-word=
+; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse=
+: collapse !important; vertical-align: top; text-align: left; color: #4A4A4=
+A; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-we=
+ight: normal; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !i=
+mportant; visibility: hidden; width: 0px;"></td>
+						</tr>
+						</table>
+				</td>	</tr>
+				</table> <!-- Intro -->
+=09=09=09=09=09=09=09=09
+
+				<table class=3D"row hero" style=3D"border-spacing: 0; border-collapse: =
+collapse; vertical-align: top; text-align: left; padding: 0px; width: 100%;=
+ position: relative;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+align=3D"center" class=3D"wrapper last center" style=3D"word-break: break-w=
+ord; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-colla=
+pse: collapse !important; vertical-align: top; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; m=
+argin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position=
+: relative; padding: 0px 0px 10px; padding-right: 0px;">
+						<table class=3D"twelve columns" style=3D"border-spacing: 0; border-co=
+llapse: collapse; padding: 0; vertical-align: top; text-align: left; margin=
+: 0 auto; width: 820px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"center" align=3D"center" style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collap=
+se !important; vertical-align: top; color: #4A4A4A; font-family: 'RooneySan=
+s', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; l=
+ine-height: 1.3em; font-size: 16px; text-align: center; padding: 0px 0px 10=
+px;">
+								<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXq=
+QO0Uk6sOUKXL0xkogQlbNMfku3xRgiSqF6O-2Fi9IL55Nhap0VGM1lSNZK3FFE1LMHUEVOCiOWV=
+pgp9NqFwyzATOEPDu7kY8-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0=
+OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowdmZ-2FCi9=
+bhY6XOdrNxLeGzvnjBogAqCCip-2Bq3Iv1CuZL4-2F8DdsDa-2BcBojOON-2FiWrPnSnhpqCTwp=
+SxS2B3XOLei-2Bv3V7kF2UQdnfpFe1-2B4pV8cJwm-2FjVEZ1fVHSBFAqaMEmMzP5jjU-2Fww4P=
+OFyoBf2hf8hAnYtmtSvMUSEnMMcl0rkeb-2F07o7ZeC5-2BGdbaoY5ysvUR68xz1xsRxjiCBjN-=
+2B4-2BbYJktb57ABf-2F2T2z4E1nH7RiXYmZtbQYydg6oZZzVNxBBraBbOKzUOQYzS0rOgJAsTL=
+Jx0MRsm5c-2BY4HFO5d-2FZmuL5usYhlcTKgRch8EzfsNeMLp5nQZNaf4MwIHIWfuKRED2TPvpK=
+26GFaleatBmTqp9tJh69LYsNgeUrK68IE-3D" style=3D"color: #0099FF; text-decorat=
+ion: none;"><img src=3D"http://cdn.myfonts.net/s/ec/bdls-20161115/ITF_selec=
+t-1.png" class=3D"center" alt=3D"" width=3D"780" height=3D"390" style=3D"ou=
+tline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width:=
+ auto; max-width: 100%; clear: both; display: block; border: none; margin: =
+0 auto; float: none;"></a>
+						</td> 	<td class=3D"expander" style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collap=
+se !important; vertical-align: top; text-align: left; color: #4A4A4A; font-=
+family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: no=
+rmal; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !important=
+; visibility: hidden; width: 0px;"></td>
+						</tr>
+						</table>
+				</td>	</tr>
+				</table> <!-- Hero image -->
+
+=09=09=09=09
+				<table class=3D"six columns" style=3D"border-spacing: 0; border-collaps=
+e: collapse; padding: 0; vertical-align: top; text-align: left; margin: 0 a=
+uto; width: 400px;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+class=3D"text-pad" style=3D"word-break: break-word; -webkit-hyphens: none; =
+-moz-hyphens: none; hyphens: none; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; color: #4A4A4A; font-family: 'RooneySa=
+ns', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; =
+line-height: 1.3em; font-size: 16px; padding: 0px 0px 10px; padding-left: 1=
+0px; padding-right: 10px;">
+						<table class=3D"large-button expanded" style=3D"border-spacing: 0; bo=
+rder-collapse: collapse; padding: 0; vertical-align: top; text-align: left;=
+ width: 100%; overflow: hidden;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d style=3D"word-break: break-word; -webkit-hyphens: none; -moz-hyphens: non=
+e; hyphens: none; border-collapse: collapse !important; vertical-align: top=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; font-size: 16px; padding: 21px 0; text-align: center; color: #=
+ffffff; margin: 1.5em 0; line-height: initial !important; box-sizing: borde=
+r-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; display=
+: block; width: auto !important; background: #0099ff; border: none; border-=
+radius: 0.5em; background-color: #0099ff;">
+								<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXq=
+QO0Uk6sOUKXL0xkogQlbNMfku3xRgiSqF6O-2Fi9IL55Nhap0VGM1lSNZK3FFE1LMHUEVOCiOWV=
+pgp9NqFwyzATOEPDu7kY8-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0=
+OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowdmZ-2FCi9=
+bhY6XOdrNxLeGzvnjBogAqCCip-2Bq3Iv1CuZL4-2F8DdsDa-2BcBojOON-2FiWrPnSnhpqCTwp=
+SxS2B3XOLei-2Bv3V7kF2UQdnfpFe1-2B4pV8cJwm-2FjVEZ1fVHSBFAqaMEmMzP5jjU-2Fww4P=
+OFyoBf2hfFJE-2BSqlrix7tEatrk9RhhXSEljXCSyH24EtTYctha5k55K5trEw-2Fxf2-2BriIT=
+BUI2HPhnaitGMh2sSlsz1NLvMMmGisrtkco-2FvaJ9698B9B6ia-2FcY-2BW6l6hfr2WR8G910t=
+NN96E8GDOUIemi9ivP9wccvppyAI0kaCuqu3Vf3zZoJd2qxUzY7-2Beloi2y-2BcZzV1tl-2Fj3=
+DHhFJjws6zRexz3lK86P002SNNLlVHSZl-2BPuI-3D" style=3D"color: #ffffff; text-d=
+ecoration: none; font-weight: normal; font-family: 'RooneySans-Medium', 'PT=
+ Sans', 'Lucida Sans', sans-serif; font-size: 24px; display: block; height:=
+ 100%; width: 100%; text-align: center; margin-bottom: 0;"> 14 fonts for $5=
+0</a>
+						</td>	</tr>
+						</table>
+				</td> 	<td class=3D"expander" style=3D"word-break: break-word; -webkit-=
+hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse=
+ !important; vertical-align: top; text-align: left; color: #4A4A4A; font-fa=
+mily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norm=
+al; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !important; =
+visibility: hidden; width: 0px;"></td>
+				</tr>
+				</table>=09=09=09=09
+
+=09=09=09=09
+				<!-- button 1 -->
+=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0px; width: 100%; =
+position: relative;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+align=3D"center" class=3D"wrapper last center" style=3D"word-break: break-w=
+ord; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-colla=
+pse: collapse !important; vertical-align: top; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; m=
+argin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position=
+: relative; padding: 0px 0px 10px; padding-right: 0px;">
+						<table class=3D"ten columns" style=3D"border-spacing: 0; border-colla=
+pse: collapse; padding: 0; vertical-align: top; text-align: left; margin: 0=
+ auto; width: 680px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"text-pad center emailBody" style=3D"word-break: break-word; -web=
+kit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: coll=
+apse !important; vertical-align: top; color: #4A4A4A; font-family: 'RooneyS=
+ans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0;=
+ line-height: 1.3em; font-size: 16px; text-align: center; padding: 0px 0px =
+10px; padding-left: 10px; padding-right: 10px;">
+								<p style=3D"margin: 0; color: #4A4A4A; font-family: 'RooneySans', '=
+PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: 0; text-=
+align: left; line-height: 1.3em; margin-bottom: 10px; font-size: 1.25em;">T=
+he Best Of Indian Type Foundry bundle brings together 14 beautiful, versati=
+le, best selling fonts. The Ahmedabad, India-based foundry&rsquo;s catalog =
+is as diverse as it is deep, and this bundle reflects that by offering ever=
+ything from workhorse text fonts to finely tuned display fonts.</p>
+
+						</td> 	<td class=3D"expander" style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collap=
+se !important; vertical-align: top; text-align: left; color: #4A4A4A; font-=
+family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: no=
+rmal; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !important=
+; visibility: hidden; width: 0px;"></td>
+						</tr>
+						</table>
+				</td>	</tr>
+				</table>
+=09=09=09=09=20
+=09=09=09=09
+				<table class=3D"row hero" style=3D"border-spacing: 0; border-collapse: =
+collapse; vertical-align: top; text-align: left; padding: 0px; width: 100%;=
+ position: relative;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+align=3D"center" class=3D"wrapper last center" style=3D"word-break: break-w=
+ord; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-colla=
+pse: collapse !important; vertical-align: top; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; m=
+argin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position=
+: relative; padding: 0px 0px 10px; padding-right: 0px;">
+						<table class=3D"twelve columns" style=3D"border-spacing: 0; border-co=
+llapse: collapse; padding: 0; vertical-align: top; text-align: left; margin=
+: 0 auto; width: 820px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"center" align=3D"center" style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collap=
+se !important; vertical-align: top; color: #4A4A4A; font-family: 'RooneySan=
+s', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; l=
+ine-height: 1.3em; font-size: 16px; text-align: center; padding: 0px 0px 10=
+px;">
+								<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXq=
+QO0Uk6sOUKXL0xkogQlbNMfku3xRgiSqF6O-2Fi9IL55Nhap0VGM1lSNZK3FFE1LMHUEVOCiOWV=
+pgp9NqFwyzATOEPDu7kY8-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0=
+OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowdmZ-2FCi9=
+bhY6XOdrNxLeGzvnjBogAqCCip-2Bq3Iv1CuZL4-2F8DdsDa-2BcBojOON-2FiWrPnSnhpqCTwp=
+SxS2B3XOLei-2Bv3V7kF2UQdnfpFe1-2B4pV8cJwm-2FjVEZ1fVHSBFAqaMEmMzP5jjU-2Fww4P=
+OFyoBf2hfKgZUXTjtT8cXATGhI5DehtGVFzPasMExm2GkLkSpZ7vsvI9S6h4KhNvjmIlWyGsohU=
+FwVOrkio7aSv0FaLNstf3ZfVqTdO-2BoLFyjgJZcOOASAh45CFGMy0X-2FLjpTNe0qctdCxF90I=
+VLupi4SNxkmsBvTGjMDXwHWO-2BubxvPik56kyk4kLocc2S0GjZY1O0MWwvZa2wm2n2WdgsWIJV=
+g9EYh2rl0xBv1AUoXHLkl8YXM-3D" style=3D"color: #0099FF; text-decoration: non=
+e;"><img src=3D"http://cdn.myfonts.net/s/ec/bdls-20161115/ITF_select-2.png"=
+ class=3D"center" alt=3D"" width=3D"780" height=3D"390" style=3D"outline: n=
+one; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; m=
+ax-width: 100%; clear: both; display: block; border: none; margin: 0 auto; =
+float: none;"></a>
+						</td> 	<td class=3D"expander" style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collap=
+se !important; vertical-align: top; text-align: left; color: #4A4A4A; font-=
+family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: no=
+rmal; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !important=
+; visibility: hidden; width: 0px;"></td>
+						</tr>
+						</table>
+				</td>	</tr>
+				</table> <!-- Hero image -->
+
+=09=09=09=09=09=09=09=09
+
+=09=09=09=09
+				<!-- button 1 -->
+=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0px; width: 100%; =
+position: relative;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+align=3D"center" class=3D"wrapper last center" style=3D"word-break: break-w=
+ord; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-colla=
+pse: collapse !important; vertical-align: top; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; m=
+argin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position=
+: relative; padding: 0px 0px 10px; padding-right: 0px;">
+						<table class=3D"ten columns" style=3D"border-spacing: 0; border-colla=
+pse: collapse; padding: 0; vertical-align: top; text-align: left; margin: 0=
+ auto; width: 680px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"text-pad center emailBody" style=3D"word-break: break-word; -web=
+kit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: coll=
+apse !important; vertical-align: top; color: #4A4A4A; font-family: 'RooneyS=
+ans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0;=
+ line-height: 1.3em; font-size: 16px; text-align: center; padding: 0px 0px =
+10px; padding-left: 10px; padding-right: 10px;">
+								<p style=3D"margin: 0; color: #4A4A4A; font-family: 'RooneySans', '=
+PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: 0; text-=
+align: left; line-height: 1.3em; margin-bottom: 10px; font-size: 1.25em;">T=
+he bundle includes two weights from their flagship typeface Kohinoor=E2=80=
+=94a type system that was developed to support the 780 languages that are w=
+ritten in 11 different scripts across India=E2=80=94as well as fonts from t=
+he hugely popular industrial grotesk families Weissenhof Grotesk and Akhand=
+ Soft. It also offers some contrast with classical serifs Zahrah and Begum,=
+ geometric sans Volte and transitional book-face Abelard.</p>
+
+						</td> 	<td class=3D"expander" style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collap=
+se !important; vertical-align: top; text-align: left; color: #4A4A4A; font-=
+family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: no=
+rmal; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !important=
+; visibility: hidden; width: 0px;"></td>
+						</tr>
+						</table>
+				</td>	</tr>
+				</table>
+=09=09=09=09=20
+=09=09=09=09
+				<table class=3D"row hero" style=3D"border-spacing: 0; border-collapse: =
+collapse; vertical-align: top; text-align: left; padding: 0px; width: 100%;=
+ position: relative;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+align=3D"center" class=3D"wrapper last center" style=3D"word-break: break-w=
+ord; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-colla=
+pse: collapse !important; vertical-align: top; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; m=
+argin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position=
+: relative; padding: 0px 0px 10px; padding-right: 0px;">
+						<table class=3D"twelve columns" style=3D"border-spacing: 0; border-co=
+llapse: collapse; padding: 0; vertical-align: top; text-align: left; margin=
+: 0 auto; width: 820px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"center" align=3D"center" style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collap=
+se !important; vertical-align: top; color: #4A4A4A; font-family: 'RooneySan=
+s', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; l=
+ine-height: 1.3em; font-size: 16px; text-align: center; padding: 0px 0px 10=
+px;">
+								<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXq=
+QO0Uk6sOUKXL0xkogQlbNMfku3xRgiSqF6O-2Fi9IL55Nhap0VGM1lSNZK3FFE1LMHUEVOCiOWV=
+pgp9NqFwyzATOEPDu7kY8-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0=
+OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowdmZ-2FCi9=
+bhY6XOdrNxLeGzvnjBogAqCCip-2Bq3Iv1CuZL4-2F8DdsDa-2BcBojOON-2FiWrPnSnhpqCTwp=
+SxS2B3XOLei-2Bv3V7kF2UQdnfpFe1-2B4pV8cJwm-2FjVEZ1fVHSBFAqaMEmMzP5jjU-2Fww4P=
+OFyoBf2hfsJzOk7-2F-2B1Eac31Jj5plE3TBe6akE0iRdILujhyHvVeG0U9qBmuDpJ-2F1J-2BX=
+2FBfvd2hpI2di3VZ1GKaPUzfzSZEGJ7Y9d3tYJa1LgbG9YEBvjgcAkc2B0qRDGRXbXTn37Uot9Y=
+2sZOtKDcRV7-2BDXMVJHGik5X7i-2BDD8tNejsujBPQybSrQBvdsvAgpXSIQTo5vVmM17CnX7L5=
+Wgts0Fa2nZcWPvfnnF50eDLBll3m-2Bec-3D" style=3D"color: #0099FF; text-decorat=
+ion: none;"><img src=3D"http://cdn.myfonts.net/s/ec/bdls-20161115/ITF_selec=
+t-3.png" class=3D"center" alt=3D"" width=3D"780" height=3D"390" style=3D"ou=
+tline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width:=
+ auto; max-width: 100%; clear: both; display: block; border: none; margin: =
+0 auto; float: none;"></a>
+						</td> 	<td class=3D"expander" style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collap=
+se !important; vertical-align: top; text-align: left; color: #4A4A4A; font-=
+family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: no=
+rmal; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !important=
+; visibility: hidden; width: 0px;"></td>
+						</tr>
+						</table>
+				</td>	</tr>
+				</table> <!-- Hero image -->
+
+=09=09=09=09=09=09=09=09
+
+=09=09=09=09
+				<!-- button 1 -->
+=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0px; width: 100%; =
+position: relative;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+align=3D"center" class=3D"wrapper last center" style=3D"word-break: break-w=
+ord; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-colla=
+pse: collapse !important; vertical-align: top; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; m=
+argin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position=
+: relative; padding: 0px 0px 10px; padding-right: 0px;">
+						<table class=3D"ten columns" style=3D"border-spacing: 0; border-colla=
+pse: collapse; padding: 0; vertical-align: top; text-align: left; margin: 0=
+ auto; width: 680px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"text-pad center emailBody" style=3D"word-break: break-word; -web=
+kit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: coll=
+apse !important; vertical-align: top; color: #4A4A4A; font-family: 'RooneyS=
+ans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0;=
+ line-height: 1.3em; font-size: 16px; text-align: center; padding: 0px 0px =
+10px; padding-left: 10px; padding-right: 10px;">
+								<p style=3D"margin: 0; color: #4A4A4A; font-family: 'RooneySans', '=
+PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: 0; text-=
+align: left; line-height: 1.3em; margin-bottom: 10px; font-size: 1.25em;">T=
+he collection is a powerful toolbox of possibilities for graphic designers =
+and would be very useful in editorial, branding, signage and web applicatio=
+ns. </p>
+
+<p style=3D"margin: 0; color: #4A4A4A; font-family: 'RooneySans', 'PT Sans'=
+, 'Lucida Sans', sans-serif; font-weight: normal; padding: 0; text-align: l=
+eft; line-height: 1.3em; margin-bottom: 10px; font-size: 1.25em;">Pick up t=
+he Best Of Indian Type Foundry Bundle for 75% before this introductory offe=
+r ends December 18th at midnight EST!</p>
+
+						</td> 	<td class=3D"expander" style=3D"word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collap=
+se !important; vertical-align: top; text-align: left; color: #4A4A4A; font-=
+family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: no=
+rmal; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !important=
+; visibility: hidden; width: 0px;"></td>
+						</tr>
+						</table>
+				</td>	</tr>
+				</table>
+=09=09=09=09=20
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09
+=09=09=09=09
+
+		</center></td>	</tr>
+		</table>
+
+		<table class=3D"twelve columns center" style=3D"border-spacing: 0; border=
+-collapse: collapse; padding: 0; vertical-align: top; text-align: center; m=
+argin: 0 auto; width: 820px;">
+		<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td al=
+ign=3D"center" class=3D"wrapper last center" style=3D"word-break: break-wor=
+d; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collaps=
+e: collapse !important; vertical-align: top; color: #4A4A4A; font-family: '=
+RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; mar=
+gin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position: =
+relative; padding: 0px 0px 10px;">
+				<table class=3D"row footer" style=3D"border-spacing: 0; border-collapse=
+: collapse; vertical-align: top; text-align: left; padding: 0px; width: 100=
+%; position: relative; margin: 2em 0;">
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+align=3D"center" class=3D"wrapper last center" style=3D"word-break: break-w=
+ord; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-colla=
+pse: collapse !important; vertical-align: top; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; m=
+argin: 0; line-height: 1.3em; font-size: 16px; text-align: center; position=
+: relative; padding: 0px 0px 10px; padding-right: 0px;">
+						<table class=3D"ten columns" style=3D"border-spacing: 0; border-colla=
+pse: collapse; padding: 0; vertical-align: top; text-align: left; margin: 0=
+ auto; width: 680px;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"five sub-columns left-text-pad footer" style=3D"word-break: brea=
+k-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-co=
+llapse: collapse !important; vertical-align: top; text-align: left; color: =
+#4A4A4A; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; f=
+ont-weight: normal; margin: 0; line-height: 1.3em; font-size: 16px; min-wid=
+th: 0px; padding: 0px 0px 10px; padding-left: 10px; padding-right: 10px; wi=
+dth: 41.666666%;">
+								<p class=3D"legal" style=3D"margin: 0; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; p=
+adding: 0; text-align: left; line-height: 1.3em; margin-bottom: 10px; font-=
+size: 0.8em;">MyFonts Inc.<br> 600 Unicorn Park Drive<br>Woburn, MA 01801<b=
+r>USA</p>
+								</td>
+								<td class=3D"seven sub-columns right-text-pad" style=3D"word-break:=
+ break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; bord=
+er-collapse: collapse !important; vertical-align: top; text-align: left; co=
+lor: #4A4A4A; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-ser=
+if; font-weight: normal; margin: 0; line-height: 1.3em; font-size: 16px; mi=
+n-width: 0px; padding: 0px 0px 10px; padding-right: 10px; width: 58.333333%=
+;">
+								<p class=3D"legal" style=3D"margin: 0; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; p=
+adding: 0; line-height: 1.3em; margin-bottom: 10px; font-size: 0.8em; text-=
+align: right;">
+									It is never our intention to send unwanted e-mail. <br>
+This message was sent to kyle@kylefisher.com.<br>
+Want out? <a href=3D"http://sendgrid.myfonts.com/asm/unsubscribe/global/?us=
+er_id=3D303007&data=3DWi1mDmY1YW-E93gDofrOpnbMkzfZB0X44zxUzuqtn9e1kD4rsZ_A_=
+AGAbusFyqnAdXSt-NFqqFbiauibGpsXcBQ13mxk6_jD8Aw9tT0RDw8qoorEw2mr0sywdqQDD4Z1=
+6xonmRdpBlAGskpO6vSaFc2F3bdOoCPkvHwQR6P-m407WOaQ9iuexQClRk16MLFGeCIkiteUNQs=
+YlOC82WuaoeL4G2RjqQdZpvlnRXWC0BEJtZrKf3Bp6ny_TYGbsGULpbgzU2--GuxEEki5Q_XDMt=
+LLCLjANJdfK_WEp9WH8TCHmMFaEa1K2CpgAlUJYd4rAiP3u6e_vh93L9A3hV46KKiXP-uXEPRTv=
+c0xrK5Eu41jqFE98gZ6bRI3nuUQVOb2uHXGAx8Iy6-tYSsb_PolApeD-JXfGYBeZJjhJSvYfCpm=
+oODN8EVAViWFRuZkCFpq3pXfVSAeiSK9PewFaotu_pPg0spAR3CF_AdSlUoUSXe9LkiHL0s87yK=
+W5yIquwtOuPrMS6EKE-4FivPLul4_J2ENrWuIeN6JglME1ADEDY2lVi_8A_Yb6bs8Q_wiJRuEV2=
+fStOC8h2aQJhUV26UrDwTbbYnRVvBrZdhYCgytShE=3D">Unsubscribe From All Emails</=
+a> <br>
+
+Or click here to <a href=3D"http://sendgrid.myfonts.com/asm/unsubscribe/?us=
+er_id=3D303007&data=3DmcayffyAC4orZnO1-mOksecu6QiqrG2PvCrDxb8iT807sKPUTJm-p=
+OqymPl63we7lfeYPZPd3SyVGY16Mh8PZX5kAtv_-8FPgCrdsUxPivo9BmTJ7r9wRyfmxyJaxXzk=
+vWBS_8X7hrK3_obIneRi4EnfK8-2HtFQLq6_MZ0M5_xkaVrpLJQkBxZFz0IbBq-AVW8WneFKmo6=
+yE4J2LhQtPlN7YruRJuQzyTcmaBq1lSeHCq22Po_bx21f3MMajHt2PorCa0G7hoCMqDiEWr_Bfo=
+AfqPjHfe8GtqlUtp_JGJr2KzfDforUNXup8gxoSWYjElMvk2zUQUG3x1YmV1zqirWu5G24OAiFw=
+I5wImp6VxrQiuNr_NqwSAzyISooS1wEYGTfPrRM1c7SFYgL5TZgw_awfYaBrwl3r-dlGmcIU6QT=
+3-Dui4GGVUSaVeKRDQ2O7UFvv0Krjk--kWs7I88PRsoeZB-8ZZScvOQyuH20-5Tk8VaVK_oN3xm=
+eya-Bv7oud5AeUmcoQ_Kuei6yC17iEovd2w6JQyI5tSrlGA8q4DTM8ASJK2gECzZl2Vh4gesOdL=
+G3H6I0zMmyUkyuPxJgF9OapR27gxVfC56XSkwu56M=3D" style=3D"color: #0099FF; text=
+-decoration: none;">unsubscribe from Bundles emails</a> only.								</p></=
+td>
+								<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse !i=
+mportant; vertical-align: top; text-align: left; color: #4A4A4A; font-famil=
+y: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal;=
+ margin: 0; line-height: 1.3em; font-size: 16px; padding: 0 !important; vis=
+ibility: hidden; width: 0px;"></td>
+						</tr>
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"text-pad" colspan=3D"2" style=3D"word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e !important; vertical-align: top; text-align: left; color: #4A4A4A; font-f=
+amily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: nor=
+mal; margin: 0; line-height: 1.3em; font-size: 16px; padding: 0px 0px 10px;=
+ padding-left: 10px; padding-right: 10px;">
+								<p class=3D"legal" style=3D"margin: 0; color: #4A4A4A; font-family:=
+ 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; p=
+adding: 0; text-align: left; line-height: 1.3em; margin-bottom: 10px; font-=
+size: 0.8em;">MyFonts and MyFonts.com are trademarks of MyFonts Inc. regist=
+ered in the U.S. Patent and Trademark Office and may be registered in certa=
+in other jurisdictions.  Other technologies, font names, and brand names ar=
+e used for information only and remain trademarks or registered trademarks =
+of their respective companies.<br>=C2=A9 MyFonts Inc. 2016</p>						</td>	<=
+/tr>
+						</table>
+				</td>	</tr>
+				</table>
+		</td>	</tr>
+		</table>
+=09=09
+		</center>
+</td>	</tr>
+</table>
+
+<img src=3D"http://sendgrid.myfonts.com/wf/open?upn=3DuYgC-2F3OCcIGiEY2WBSJ=
+okfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNX=
+rlB3EV-2FiWx2UsmfCowdmZ-2FCi9bhY6XOdrNxLeGzvnjBogAqCCip-2Bq3Iv1CuZL4-2F8Dds=
+Da-2BcBojOON-2FiWrPnSnhpqCTwpSxS2B3XOLei-2Bv3V7kF2UQdnfpFe1-2B4pV8cJwm-2FjV=
+EZ1fVHSBFAqaMEmMzP5jjU-2Fww4POFyoBf2hfzV63TESxJLCzJEM8ARyEBevjZxBcjpsfaOz2J=
+eB1ual8Nvo3aYDykklicmVBklHGImndSx0nTQAGdPSOtBmZkDRNTNkjHOxsNIO2SBcTM8kQ74k8=
+CZcUAgx6BC9HfKezomuGkSQXB1UVvvgcRpxKelELl3Mivay-2Bt2i-2FKwTjZQP39B5CVBHBy9e=
+ZZh824yvS5QAN3MauiNOKQZwp-2FOCSa32YyXkXiS1OfVrEKIVBLwQ-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/>
+</body>
+</html>
+
+--0abc774006add63734c29ee49d924cba9cc1b6301743d895d39e6ed9c2a7--

@@ -1,0 +1,388 @@
+/*------------instant coupon-----------------*/
+.cp-modal-body.cp-instant-coupon,
+.cp-instant-coupon .cp-modal-body {
+    background-color: transparent;
+}
+
+.cp-instant-coupon .cp-text-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.cp-instant-coupon .cp-title {
+    color: #101010;
+    font-weight: 600;
+    line-height: 1.25em;
+    font-family: "impact", sans-serif;
+    font-size: 80px;
+    margin-bottom: 0px;
+    padding: 0;
+    margin: 0;
+}
+
+.cp-instant-coupon .cp-description-container {
+    display: block;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.cp-instant-coupon .cp-short-desc-container {
+    display: block;
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.cp-instant-coupon .cp-desc-container {
+    margin-bottom: 0px;
+    width: auto;
+    margin: 0 auto;
+    float: none;
+    max-width: 100%;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.cp-instant-coupon .cp-description {
+    display: inline-block !important;
+}
+
+.cp-instant-coupon .cp-desc-container.cp-empty .cp-description {
+    display: block !important;
+}
+
+.cp-instant-coupon .cp-description,
+.cp-instant-coupon h2.cp-description {
+    margin: 0;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: #fff;
+    line-height: 1.25em;
+}
+.cp-instant-coupon-container .cp-overlay-close span{
+        font-family: "Roboto",serif;
+}
+.cp-instant-coupon .cp-short-description {
+    display: block;
+    width: 100%;
+    float: left;
+    margin: 0 0 15px;
+    font-family: "Roboto", Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 1em;
+    font-weight: 600;
+    color: #333;
+}
+
+.cp-instant-coupon .cp-desc-container.cp-empty .cp-description {
+    background-color: transparent !important;
+}
+
+.cp-instant-coupon .cp-form-container {
+    margin: 0 auto;
+    max-width: 650px;
+    font-family: "Roboto", Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.64em;
+    color: #333;
+}
+
+.cp-instant-coupon .cp-info-container,
+.cp-instant-coupon .cp-info-container p {
+    font-family: "Roboto", Helvetica, sans-serif;
+    color: #333;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1em;
+    margin-top: 15px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.cp-instant-coupon .cp-submit,
+.cp-instant-coupon .cp-submit:hover,
+.cp-instant-coupon .cp-submit:active,
+.cp-instant-coupon .cp-submit:focus {
+    background-color: rgb(255, 76, 107);
+    background-image: none;
+    color: #fff;
+    border: none;
+}
+
+.cp-instant-coupon .cp-submit {
+    background-color: rgb(3, 177, 133);
+    color: #FFF;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 1em;
+    outline: none;
+    margin-top: 5px;
+    /* border-radius: 0px; */
+    margin-right: 0px;
+}
+
+.cp-instant-coupon .cp-form-layout-3 .cp-submit {
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.cp-instant-coupon .cp-form-without-name,
+.cp-instant-coupon .cp-form-with-name {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.cp-instant-coupon .cp-form-container .cp-form-field button,
+.cp-instant-coupon .cp-form-container .cp-form-field button:active,
+.cp-instant-coupon .cp-form-container .cp-form-field button:hover,
+.cp-instant-coupon .cp-form-container .cp-form-field button:focus,
+.cp-instant-coupon .cp-form-container .cp-form-field input,
+.cp-instant-coupon .cp-form-container .cp-form-field input:active,
+.cp-instant-coupon .cp-form-container .cp-form-field input:hover,
+.cp-instant-coupon .cp-form-container .cp-form-field input:focus,
+.cp-instant-coupon .cp-form-container .cp-form-field select,
+.cp-instant-coupon .cp-form-container .cp-form-field select:active,
+.cp-instant-coupon .cp-form-container .cp-form-field select:hover,
+.cp-instant-coupon .cp-form-container .cp-form-field select:focus,
+.cp-instant-coupon .cp-form-container .cp-form-field textarea,
+.cp-instant-coupon .cp-form-container .cp-form-field textarea:active,
+.cp-instant-coupon .cp-form-container .cp-form-field textarea:hover,
+.cp-instant-coupon .cp-form-container .cp-form-field textarea:focus {
+    /* -webkit-box-shadow: inset 1px 1px 3px 0px #A5A5A5;
+    -moz-box-shadow: inset 1px 1px 3px 0px #A5A5A5;
+    box-shadow: inset 1px 1px 3px 0px #A5A5A5; */
+}
+
+.cp-form-container.cp-no-padding {
+    padding-top: 0px;
+}
+
+.cp-instant-coupon .cp-modal-window-size .cp-modal-body,
+.cp-modal-window-size .cp-modal-body.cp-instant-coupon {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.cp-instant-coupon .cp-description {
+    position: relative;
+    border-top-color: rgb(238, 238, 238);
+}
+
+.cp-instant-coupon .cp-desc-container {
+    -ms-transform: translate3d(0, 0%, 0) rotate(-2deg);
+    -moz-transform: translate3d(0, 0%, 0) rotate(-2deg);
+    -webkit-transform: translate3d(0, 0%, 0) rotate(-2deg);
+    -o-transform: translate3d(0, 0%, 0) rotate(-2deg);
+    transform: translate3d(0, 0%, 0) rotate(-2deg);
+}
+
+.cp-instant-coupon .cp-title-container {
+    margin: 0 0 5px;
+    padding: 0;
+}
+
+/*--- form ---*/
+.cp-instant-coupon .cp-name-btn {
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.cp-instant-coupon form#smile-optin-form {
+    margin-bottom: 0;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.cp-instant-coupon .cp-description {
+    background-color: #ddd;
+    padding: 5px 20px;
+    line-height: 1em;   /*  border-radius: 5px; */
+}
+
+.cp-instant-coupon .cp-info-container .error,
+.cp-instant-coupon .cp-info-container .success {
+    width: 100%;
+    max-width: 90%;
+    padding: 20px 15px;
+    margin-left: 0;
+    margin: 0 auto;
+    color: #333;
+    border-color: #333;
+}
+
+.cp-instant-coupon  #cp_button_editor span.cp_responsive.cp_font {
+    line-height: 1em;
+}
+
+.cp-instant-coupon .cp-submit.cp-button-on-same-line  .cp-transform-button,
+.cp-instant-coupon .cp-button-on-same-line button.cp-submit  .cp-transform-button {
+    margin-top: 0px;
+}
+
+.cp-instant-coupon .cp_responsive.cp_font {
+    line-height: normal;
+}
+
+.cp-live-preview .cp-modal .cp-instant-coupon .cp-btn-3d.cp-submit {
+    background: rgb(108, 148, 30) !important;
+    border-radius: 3px;
+    position: relative;
+    box-shadow: 0 6px rgb(95, 135, 17);
+}
+
+.cp-live-preview .cp-modal ..cp-instant-coupon .cp-btn-3d.cp-submit:hover {
+    background: rgb(108, 148, 30) !important;
+    top: 2px;
+    box-shadow: 0 4px rgb(95, 135, 17);
+}
+
+@media (max-width:990px) {
+    .cp-instant-coupon .cp-submit.cp-button-on-same-line .cp-transform-button {
+        font-size: 14px;
+        padding: 0;
+        line-height: 1.5em;
+    }
+
+}
+
+@media (max-width:768px) {
+    .cp-modal-body.cp-instant-coupon {
+        text-align: center;
+    }
+
+    .cp-instant-coupon input.cp-email {
+        text-align: center;
+    }
+
+    .cp-instant-coupon input.cp_name {
+        text-align: center;
+    }
+
+    .cp-instant-coupon .cp-modal-window-size .cp-modal-body,
+    .cp-modal-window-size .cp-modal-body.cp-instant-coupon {
+        max-width: 100%;
+    }
+
+    .cp-instant-coupon .cp-formwith-name .form-button {
+        width: 100%;
+    }
+
+    .cp-instant-coupon .cp-form-simple .form-button {
+        padding-top: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float: left;
+        width: 100%;
+    }
+
+    .cp-instant-coupon .cp-info-container .error,
+    .cp-instant-coupon .cp-info-container .success {
+        max-width: 100%;
+    }
+
+    .cp-instant-coupon .cp-right-contain {
+        float: left;
+    }
+
+    .cp-instant-coupon .cp-form-name input[name="name"] {
+        text-align: center;
+    }
+
+    .cp-instant-coupon .cp-submit.cp-button-on-same-line,
+    .cp-instant-coupon .cp-button-on-same-line button.cp-submit.btn-modal.btn.btn-subscribe {
+        font-size: 14px;
+        line-height: 1em;
+        padding: 10px;
+    }
+
+    .cp-instant-coupon .cp-form-email.form-content {
+        float: left;
+        width: 100%;
+    }
+
+    .cp-instant-coupon .cp-submit.cp-button-on-same-line,
+    .cp-instant-coupon .cp-button-on-same-line button.cp-submit.btn-modal.btn.btn-subscribe {
+        font-size: 40px;
+        line-height: 1.38em;
+        outline: none;
+        padding: 10px 20px;
+    }
+
+    .cp-instant-coupon .cp-submit-container {
+        display: block;
+        float: left;
+        width: 100%;
+    }
+
+    .cp-instant-coupon .cp-short-desc-container {
+        margin-bottom: 5px;
+    }
+
+    .cp-instant-coupon .cp-info-container {
+        margin-top: 0px;
+    }
+
+    .cp-instant-coupon .cp-form-name {
+        width: 100%;
+    }
+
+}
+
+@media (max-width:610px) {
+    .cp-instant-coupon .cp-submit {
+        font-size: 14px;
+        line-height: 1.38em;
+        padding: 10px 20px;
+    }
+
+    .cp-instant-coupon .cp-description-container,
+    .cp-instant-coupon .cp-description {
+        font-size: 35px;
+        margin-bottom: 5px;
+    }
+
+    .cp-instant-coupon .cp-short-description {
+        font-size: 15px;
+    }
+
+    .cp-instant-coupon .cp-description,
+    .cp-instant-coupon h2.cp-description {
+        font-size: 12px;
+    }
+
+    .cp-instant-coupon .cp-desc-container {
+        margin-bottom: 0px;
+    }
+
+    .cp-instant-coupon .cp-info-container,
+    .cp-instant-coupon .cp-info-container p {
+        font-size: 12px;
+    }
+
+    .cp-instant-coupon form#smile-optin-form {
+        max-width: 100%;
+    }
+
+    .cp-instant-coupon .form-main {
+        padding: 0;
+    }
+
+    .cp-instant-coupon .cp-submit.cp-button-on-same-line,
+    .cp-instant-coupon .cp-button-on-same-line .cp-submit.btn-subscribe {
+        font-size: 14px;
+        line-height: 1em;
+        padding: 10px;
+    }
+
+    .cp-instant-coupon .cp-name-btn {
+        margin-top: 0px;
+    }
+
+    .cp-modal .cp-instant-coupon .cp-submit {
+        padding: 10px;
+    }
+
+}

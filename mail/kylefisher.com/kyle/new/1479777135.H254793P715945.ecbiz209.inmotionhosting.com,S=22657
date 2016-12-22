@@ -1,0 +1,529 @@
+Return-path: <bounce+4e469c.8eddcb-kyle=kylefisher.com@forum.epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 21 Nov 2016 20:12:15 -0500
+Received: from mail-s48.mailgun.us ([184.173.153.48]:19772)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+4e469c.8eddcb-kyle=kylefisher.com@forum.epicodus.com>)
+	id 1c8zd9-0030FA-5j
+	for kyle@kylefisher.com; Mon, 21 Nov 2016 20:12:15 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=forum.epicodus.com; q=dns/txt;
+ s=mailo; t=1479777135; h=List-Unsubscribe: Content-Transfer-Encoding:
+ Content-Type: Mime-Version: Subject: Message-ID: To: Reply-To: From:
+ Date: Sender; bh=G86Q+kdd4yruBFCNYTWqNXINBEJwaxVMsBDuliomZfo=; b=O823JOjfUqyUr09bbVfJpoPvtp3EgKn4FOPFKF13XJXiv7QVoHDLjNnIlIvGMBtLz0UzrV1a
+ 2wYr1hFIiaPIJPuHuiddH90/sSJicUMCr41JrA5yy/Wsj+5Z7cDUdqPCmGyySLL7gvuuT5TE
+ 6Im3q+WPwv9P1lMWlFbBFCLEHSY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=forum.epicodus.com;
+ s=mailo; q=dns; h=Sender: Date: From: Reply-To: To: Message-ID:
+ Subject: Mime-Version: Content-Type: Content-Transfer-Encoding:
+ List-Unsubscribe;
+ b=ReskvP1PuQdWym76WHDJNfTj86+u2Jg2JC02C/qgMqC9zF0jyv/Owfm6cZ1+45ckQCCV8D
+ uI4bDsVTpsEyp22LiFdMDhKNgQBUhCGv7nmLOYDHQxs5FAXvEr3HGhGzcnj0o6QYb5G7js5M
+ Z7h6oBx2YBjqMuDl5gEjF/oBJNZMs=
+Sender: noreply@forum.epicodus.com
+X-Mailgun-Sending-Ip: 184.173.153.48
+X-Mailgun-Sid: WyI4Y2Q0NiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgIjhlZGRjYiJd
+Received: from localhost.localdomain (forum.epicodus.com [104.236.200.211])
+ by mxa.mailgun.org with ESMTP id 58339b6e.7efe8c0ced30-smtp-out-n01;
+ Tue, 22 Nov 2016 01:12:14 -0000 (UTC)
+Date: Tue, 22 Nov 2016 01:12:14 +0000
+From: Epicodus Forum summary <noreply@forum.epicodus.com>
+Reply-To: Epicodus Forum summary <noreply@forum.epicodus.com>
+To: kyle@kylefisher.com
+Message-ID: <3fb6ed2a-3f28-461a-b099-8307ba2650d9@forum.epicodus.com>
+Subject: [Epicodus Forum] Summary
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_58339b6e9deee_17823fd4f6cfd1d02286df";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://forum.epicodus.com/email/unsubscribe/25d4ed756a4cc4696e0156d23a59e3bb76b5207057eea7638d7ba7183251ecd9>
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+
+
+----==_mimepart_58339b6e9deee_17823fd4f6cfd1d02286df
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+A brief summary of [Epicodus Forum][1] since your last visit on August 5
+
+### Popular posts
+
+[Google Secret Code Challenge][2]
+
+ Article Link On secret code challenges =
+
+
+foobar:~/i_love_lance_janice guest$ cat readme.txt I Love Lance & Janice =
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D =
+
+
+You've caught two of your fellow minions passing coded notes back and for=
+th - while they're on duty, no less! Worse, you're pretty sure it's not j=
+ob-related - they're both huge fans of the space soap opera "Lance & Jani=
+ce". You know how much Commander Lambda hates waste, so if you can prove =
+that these minions are wasting her time passing non-job-related notes, it=
+'ll put you that much closer to a promotion.  =
+
+
+Fortunately for you, the minions aren't exactly advanced cryptographers. =
+In their code, every lowercase letter [a..z] is replaced with the corresp=
+onding one in [z..a], while every other character (including uppercase le=
+tters and punctuation) is left untouched.  That is, 'a' becomes 'z', 'b' =
+becomes 'y', 'c' becomes 'x', etc.  For instance, the word "vmxibkgrlm", =
+when decoded, would become "encryption". =
+
+
+Write a function called answer(s) which t...
+-------------------------------------------------------------------------=
+-------
+
+
+[Job hunter Alert! Marketo is Hiring][3]
+
+ Good morning Epicodus! I recently  got a new job as a Technical Support =
+Engineer at Marketo and the company is still hiring for more! The current=
+ support management is primarily interested in customer service ability. =
+The position requires ability to track down problems in a vast, interconn=
+ected system, but not much coding at all. If support doesn't sound up you=
+r alley, the company also recently announced a desire to hire 50 new deve=
+lopers in the near future. =
+
+
+If either of these positions look interesting to you, great! The pay and =
+benefits are great and, with a location in Downtown Portland, it's easy t=
+o get to. =
+
+
+Here are the job descriptions: Support: http://app.jobvite.com/m?36ddkiwD=
+ Developer: http://app.jobvite.com/m?3xcdkiw3
+-------------------------------------------------------------------------=
+-------
+
+
+[Technical interviewing & code challenge tips from a hiring person][4]
+
+ I got sent some excellent advice from someone in charge of hiring at a l=
+ocal tech company, that I thought I'd pass along for any job seekers to c=
+heck out. Note some of this is Ruby/Rails specific, but most is advice no=
+t tied to language: =
+
+
+Interviewing: =
+
+
+When we look at code school graduates in general we first look at their G=
+H profile and see what they have been up to since they graduated.  We wan=
+t to see growth and improvement of quality in the following fields post g=
+raduation: =
+
+
+
+object oriented design =
+
+test driven development =
+
+exception/error handling.  =
+
+
+
+Rails specific best practices such as:  =
+
+
+
+convention over configuration =
+
+use of built in libraries to do work for you
+general knowledge of the framework =
+
+
+
+Bonus points for demonstrating knowledge/skills in concepts not taught/on=
+ly taught a little at Epicodus: =
+
+
+
+Service oriented architecture
+API creation
+
+
+Also, we not only look at the technical foundation. We are also looking f=
+or candidates who would make a good consultant. S...
+-------------------------------------------------------------------------=
+-------
+
+
+[Web Development Volunteer Opportunity][5]
+
+ Hey everyone! Karen Carrillo over at Columbia Slough Watershed Council i=
+s looking for a volunteer web developer. If you=E2=80=99re interested, fe=
+el free to reach out to her through this post. https://columbiaslough.org=
+/files/uploads/WebsiteDeveloper16PositionDescription.pdf
+-------------------------------------------------------------------------=
+-------
+
+
+[Android/Gradle Help][6]
+
+ I get this error trying to download projects I've worked on at school (A=
+ndroid 2.1) on my laptop (Android 2.2). It doesn't seem to respond to the=
+ disable instant run/build clean fix:  =
+
+
+ ![image](//forum.epicodus.com/uploads/default/optimized/2X/3/3691934a4a3=
+d84463fe26531b3f36dc399522e08_1_690x110.png)
+
+Any other suggestions? I've tried both the suggestions on the messages wi=
+thout any luck.
+-------------------------------------------------------------------------=
+-------
+
+
+
+**Popular topics**
+
+* [CSS Positioning Explained By Building An Ice Cream Sundae][7] - 1 - [G=
+eneral Chatter]
+* [Data Privacy PDX Meetup][8] - 1 - [Social Activities]
+* [Trying to figure out where I can live][9] - 1 - [New Students (Intros,=
+ Housing, etc.)]
+* [Pacific Northwest Drupal Summit][10] - 1 - [Social Activities]
+
+
+
+
+[1]: http://forum.epicodus.com/
+[2]: http://forum.epicodus.com/t/google-secret-code-challenge/1158
+[3]: http://forum.epicodus.com/t/job-hunter-alert-marketo-is-hiring/1156
+[4]: http://forum.epicodus.com/t/technical-interviewing-code-challenge-ti=
+ps-from-a-hiring-person/1154
+[5]: http://forum.epicodus.com/t/web-development-volunteer-opportunity/11=
+59
+[6]: http://forum.epicodus.com/t/android-gradle-help/1160
+[7]: http://forum.epicodus.com/t/css-positioning-explained-by-building-an=
+-ice-cream-sundae/1157
+[8]: http://forum.epicodus.com/t/data-privacy-pdx-meetup/1164
+[9]: http://forum.epicodus.com/t/trying-to-figure-out-where-i-can-live/11=
+72
+[10]: http://forum.epicodus.com/t/pacific-northwest-drupal-summit/1166
+
+
+
+This summary is sent from [Epicodus Forum][1] when we haven't seen you in=
+ a while. To unsubscribe [click here][11].
+
+[11]: http://forum.epicodus.com/email/unsubscribe/25d4ed756a4cc4696e0156d=
+23a59e3bb76b5207057eea7638d7ba7183251ecd9
+
+
+
+----==_mimepart_58339b6e9deee_17823fd4f6cfd1d02286df
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<table style=3D"border: 20px solid #eee;" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tr>
+  <td style=3D"padding: 10px 10px; background-color: #ffffff;">
+    <a href=3D"http://forum.epicodus.com" style=3D"text-decoration: none;=
+ font-weight: bold; color: #006699;; color: #0088cc">
+      <img src=3D"http://static1.squarespace.com/static/5524448ee4b0d6f6b=
+83ab9e2/t/5759a4c71bbee022293505cd/1466190401806/" style=3D"max-height: 3=
+5px; min-height: 35px; height: 35px;" alt=3D"Epicodus Forum">
+    </a>
+  </td>
+</tr>
+<tr>
+  <td style=3D"background-color: #fff; padding: 10px 10px; font-family: A=
+rial, Helvetica, sans-serif; font-size: 14px;">
+    A brief summary of <a href=3D"http://forum.epicodus.com" style=3D"tex=
+t-decoration: none; font-weight: bold; color: #006699;; color: #0088cc">E=
+picodus Forum</a> since your last visit on August 5
+
+      <hr style=3D"background-color: #ddd; height: 1px; border: 1px;">
+      <h3 style=3D"margin: 15px 0 20px 0;">Popular posts</h3>
+
+
+        <div>
+          <a href=3D"http://forum.epicodus.com/t/google-secret-code-chall=
+enge/1158" style=3D"text-decoration: none; font-weight: bold; color: #006=
+699; line-height:1.5em;; text-decoration: none; font-weight: bold; color:=
+ #006699;; color: #0088cc">Google Secret Code Challenge</a>
+          <br>
+          <a href=3D"http://forum.epicodus.com/c/tech-help-questions" sty=
+le=3D"text-decoration: none; font-weight: bold; color: #006699; line-heig=
+ht:1.5em;; text-decoration: none; font-weight: bold; color: #006699;; fon=
+t-size: 0.857em; white-space: nowrap; display: inline-block; position: re=
+lative; line-height: 1; margin-right: 10px;"><span style=3D"background-co=
+lor: #8C6238;display: inline-block; width: 10px; height: 10px;"></span><s=
+pan style=3D"color: #FFFFFF;color: #222222 !important; vertical-align: te=
+xt-top; line-height: 1; margin-left: 4px; padding-left: 2px; display: inl=
+ine;max-width: 150px; overflow: hidden; text-overflow: ellipsis;" data-dr=
+op-close=3D"true" title=3D"Surely someone here knows how to fix your codi=
+ng dilemma.">Tech Help</span></a>
+        </div>
+
+          <div style=3D"margin-left: 15px; margin-top: -5px; max-width: 6=
+94px;">
+            <p><a href=3D"http://thehustle.co/the-secret-google-interview=
+-that-landed-me-a-job" rel=3D"nofollow" style=3D"text-decoration: none; f=
+ont-weight: bold; color: #006699;">Article Link On secret code challenges=
+</a></p>
+          </div>
+
+        =
+
+
+        =
+
+
+        <div>
+          <a href=3D"http://forum.epicodus.com/t/job-hunter-alert-marketo=
+-is-hiring/1156" style=3D"text-decoration: none; font-weight: bold; color=
+: #006699; line-height:1.5em;; text-decoration: none; font-weight: bold; =
+color: #006699;; color: #0088cc">Job hunter Alert! Marketo is Hiring</a>
+          <br>
+          <a href=3D"http://forum.epicodus.com/c/jobs" style=3D"text-deco=
+ration: none; font-weight: bold; color: #006699; line-height:1.5em;; text=
+-decoration: none; font-weight: bold; color: #006699;; font-size: 0.857em=
+; white-space: nowrap; display: inline-block; position: relative; line-he=
+ight: 1; margin-right: 10px;"><span style=3D"background-color: #ED207B;di=
+splay: inline-block; width: 10px; height: 10px;"></span><span style=3D"co=
+lor: #FFFFFF;color: #222222 !important; vertical-align: text-top; line-he=
+ight: 1; margin-left: 4px; padding-left: 2px; display: inline;max-width: =
+150px; overflow: hidden; text-overflow: ellipsis;" data-drop-close=3D"tru=
+e" title=3D"The place for sharing job leads and company contact info.">Jo=
+bs</span></a>
+        </div>
+
+          <div style=3D"margin-left: 15px; margin-top: -5px; max-width: 6=
+94px;">
+            <p>Good morning Epicodus! I recently  got a new job as a Tech=
+nical Support Engineer at Marketo and the company is still hiring for mor=
+e! The current support management is primarily interested in customer ser=
+vice ability. The position requires ability to track down problems in a v=
+ast, interconnected system, but not much coding at all. If support doesn'=
+t sound up your alley, the company also recently announced a desire to hi=
+re 50 new developers in the near future.</p>
+          </div>
+
+        =
+
+
+        =
+
+
+        <div>
+          <a href=3D"http://forum.epicodus.com/t/technical-interviewing-c=
+ode-challenge-tips-from-a-hiring-person/1154" style=3D"text-decoration: n=
+one; font-weight: bold; color: #006699; line-height:1.5em;; text-decorati=
+on: none; font-weight: bold; color: #006699;; color: #0088cc">Technical i=
+nterviewing &amp; code challenge tips from a hiring person</a>
+          <br>
+          <a href=3D"http://forum.epicodus.com/c/jobs" style=3D"text-deco=
+ration: none; font-weight: bold; color: #006699; line-height:1.5em;; text=
+-decoration: none; font-weight: bold; color: #006699;; font-size: 0.857em=
+; white-space: nowrap; display: inline-block; position: relative; line-he=
+ight: 1; margin-right: 10px;"><span style=3D"background-color: #ED207B;di=
+splay: inline-block; width: 10px; height: 10px;"></span><span style=3D"co=
+lor: #FFFFFF;color: #222222 !important; vertical-align: text-top; line-he=
+ight: 1; margin-left: 4px; padding-left: 2px; display: inline;max-width: =
+150px; overflow: hidden; text-overflow: ellipsis;" data-drop-close=3D"tru=
+e" title=3D"The place for sharing job leads and company contact info.">Jo=
+bs</span></a>
+        </div>
+
+          <div style=3D"margin-left: 15px; margin-top: -5px; max-width: 6=
+94px;">
+            <p><em>I got sent some excellent advice from someone in charg=
+e of hiring at a local tech company, that I thought I'd pass along for an=
+y job seekers to check out. Note some of this is Ruby/Rails specific, but=
+ most is advice not tied to language:</em></p>
+          </div>
+
+        =
+
+
+        =
+
+
+        <div>
+          <a href=3D"http://forum.epicodus.com/t/web-development-voluntee=
+r-opportunity/1159" style=3D"text-decoration: none; font-weight: bold; co=
+lor: #006699; line-height:1.5em;; text-decoration: none; font-weight: bol=
+d; color: #006699;; color: #0088cc">Web Development Volunteer Opportunity=
+</a>
+          <br>
+          <a href=3D"http://forum.epicodus.com/c/general-chatter" style=3D=
+"text-decoration: none; font-weight: bold; color: #006699; line-height:1.=
+5em;; text-decoration: none; font-weight: bold; color: #006699;; font-siz=
+e: 0.857em; white-space: nowrap; display: inline-block; position: relativ=
+e; line-height: 1; margin-right: 10px;"><span style=3D"background-color: =
+#3AB54A;display: inline-block; width: 10px; height: 10px;"></span><span s=
+tyle=3D"color: #FFFFFF;color: #222222 !important; vertical-align: text-to=
+p; line-height: 1; margin-left: 4px; padding-left: 2px; display: inline;m=
+ax-width: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-cl=
+ose=3D"true" title=3D"Everything else. Remember to always be kind.">Gener=
+al Chatter</span></a>
+        </div>
+
+          <div style=3D"margin-left: 15px; margin-top: -5px; max-width: 6=
+94px;">
+            <p>Hey everyone! Karen Carrillo over at Columbia Slough Water=
+shed Council is looking for a volunteer web developer. If you=E2=80=99re =
+interested, feel free to reach out to her through this post. <a href=3D"h=
+ttps://columbiaslough.org/files/uploads/WebsiteDeveloper16PositionDescrip=
+tion.pdf" style=3D"text-decoration: none; font-weight: bold; color: #0066=
+99;">https://columbiaslough.org/files/uploads/WebsiteDeveloper16PositionD=
+escription.pdf</a></p>
+          </div>
+
+        =
+
+
+        =
+
+
+        <div>
+          <a href=3D"http://forum.epicodus.com/t/android-gradle-help/1160=
+" style=3D"text-decoration: none; font-weight: bold; color: #006699; line=
+-height:1.5em;; text-decoration: none; font-weight: bold; color: #006699;=
+; color: #0088cc">Android/Gradle Help</a>
+          <br>
+          <a href=3D"http://forum.epicodus.com/c/tech-help-questions" sty=
+le=3D"text-decoration: none; font-weight: bold; color: #006699; line-heig=
+ht:1.5em;; text-decoration: none; font-weight: bold; color: #006699;; fon=
+t-size: 0.857em; white-space: nowrap; display: inline-block; position: re=
+lative; line-height: 1; margin-right: 10px;"><span style=3D"background-co=
+lor: #8C6238;display: inline-block; width: 10px; height: 10px;"></span><s=
+pan style=3D"color: #FFFFFF;color: #222222 !important; vertical-align: te=
+xt-top; line-height: 1; margin-left: 4px; padding-left: 2px; display: inl=
+ine;max-width: 150px; overflow: hidden; text-overflow: ellipsis;" data-dr=
+op-close=3D"true" title=3D"Surely someone here knows how to fix your codi=
+ng dilemma.">Tech Help</span></a>
+        </div>
+
+          <div style=3D"margin-left: 15px; margin-top: -5px; max-width: 6=
+94px;">
+            <p>I get this error trying to download projects I've worked o=
+n at school (Android 2.1) on my laptop (Android 2.2). It doesn't seem to =
+respond to the disable instant run/build clean fix: </p>
+          </div>
+
+        =
+
+
+        =
+
+
+
+    =
+
+
+      <hr style=3D"background-color: #ddd; height: 1px; border: 1px;">
+      <h3 style=3D"margin: 15px 0 20px 0;">Popular topics</h3>
+
+        <ul style=3D"margin: 0 0 0 10px; padding: 0 0 0 20px;">
+          <li style=3D"padding-bottom: 10px">
+            <a href=3D"http://forum.epicodus.com/t/css-positioning-explai=
+ned-by-building-an-ice-cream-sundae/1157" style=3D"text-decoration: none;=
+ font-weight: bold; color: #006699;; color: #0088cc">CSS Positioning Expl=
+ained By Building An Ice Cream Sundae</a>
+            <span style=3D"margin: 0 5px; color: #777;">1</span>
+            <a href=3D"http://forum.epicodus.com/c/general-chatter" style=
+=3D"text-decoration: none; font-weight: bold; color: #006699;; font-size:=
+ 0.857em; white-space: nowrap; display: inline-block; position: relative;=
+ line-height: 1; margin-right: 10px;"><span style=3D"background-color: #3=
+AB54A;display: inline-block; width: 10px; height: 10px;"></span><span sty=
+le=3D"color: #FFFFFF;color: #222222 !important; vertical-align: text-top;=
+ line-height: 1; margin-left: 4px; padding-left: 2px; display: inline;max=
+-width: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-clos=
+e=3D"true" title=3D"Everything else. Remember to always be kind.">General=
+ Chatter</span></a>
+          </li>
+        </ul>
+        <ul style=3D"margin: 0 0 0 10px; padding: 0 0 0 20px;">
+          <li style=3D"padding-bottom: 10px">
+            <a href=3D"http://forum.epicodus.com/t/data-privacy-pdx-meetu=
+p/1164" style=3D"text-decoration: none; font-weight: bold; color: #006699=
+;; color: #0088cc">Data Privacy PDX Meetup</a>
+            <span style=3D"margin: 0 5px; color: #777;">1</span>
+            <a href=3D"http://forum.epicodus.com/c/social-activities" sty=
+le=3D"text-decoration: none; font-weight: bold; color: #006699;; font-siz=
+e: 0.857em; white-space: nowrap; display: inline-block; position: relativ=
+e; line-height: 1; margin-right: 10px;"><span style=3D"background-color: =
+#F7941D;display: inline-block; width: 10px; height: 10px;"></span><span s=
+tyle=3D"color: #FFFFFF;color: #222222 !important; vertical-align: text-to=
+p; line-height: 1; margin-left: 4px; padding-left: 2px; display: inline;m=
+ax-width: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-cl=
+ose=3D"true" title=3D"Going to a great new Meet-up? Forming a study group=
+? Getting together for dinner and drinks with classmates and friends? Let=
+ everyone know all the details here!">Social Activities</span></a>
+          </li>
+        </ul>
+        <ul style=3D"margin: 0 0 0 10px; padding: 0 0 0 20px;">
+          <li style=3D"padding-bottom: 10px">
+            <a href=3D"http://forum.epicodus.com/t/trying-to-figure-out-w=
+here-i-can-live/1172" style=3D"text-decoration: none; font-weight: bold; =
+color: #006699;; color: #0088cc">Trying to figure out where I can live</a=
+>
+            <span style=3D"margin: 0 5px; color: #777;">1</span>
+            <a href=3D"http://forum.epicodus.com/c/new-students-intros-ho=
+using-etc" style=3D"text-decoration: none; font-weight: bold; color: #006=
+699;; font-size: 0.857em; white-space: nowrap; display: inline-block; pos=
+ition: relative; line-height: 1; margin-right: 10px;"><span style=3D"back=
+ground-color: #B3B5B4;display: inline-block; width: 10px; height: 10px;">=
+</span><span style=3D"color: #FFFFFF;color: #222222 !important; vertical-=
+align: text-top; line-height: 1; margin-left: 4px; padding-left: 2px; dis=
+play: inline;max-width: 150px; overflow: hidden; text-overflow: ellipsis;=
+" data-drop-close=3D"true" title=3D"New around here? Please introduce you=
+rself, share info about housing, find roommates, etc.">New Students (Intr=
+os, Housing, etc.)</span></a>
+          </li>
+        </ul>
+        <ul style=3D"margin: 0 0 0 10px; padding: 0 0 0 20px;">
+          <li style=3D"padding-bottom: 10px">
+            <a href=3D"http://forum.epicodus.com/t/pacific-northwest-drup=
+al-summit/1166" style=3D"text-decoration: none; font-weight: bold; color:=
+ #006699;; color: #0088cc">Pacific Northwest Drupal Summit</a>
+            <span style=3D"margin: 0 5px; color: #777;">1</span>
+            <a href=3D"http://forum.epicodus.com/c/social-activities" sty=
+le=3D"text-decoration: none; font-weight: bold; color: #006699;; font-siz=
+e: 0.857em; white-space: nowrap; display: inline-block; position: relativ=
+e; line-height: 1; margin-right: 10px;"><span style=3D"background-color: =
+#F7941D;display: inline-block; width: 10px; height: 10px;"></span><span s=
+tyle=3D"color: #FFFFFF;color: #222222 !important; vertical-align: text-to=
+p; line-height: 1; margin-left: 4px; padding-left: 2px; display: inline;m=
+ax-width: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-cl=
+ose=3D"true" title=3D"Going to a great new Meet-up? Forming a study group=
+? Getting together for dinner and drinks with classmates and friends? Let=
+ everyone know all the details here!">Social Activities</span></a>
+          </li>
+        </ul>
+
+
+    =
+
+
+  </td>
+</tr>
+</table>
+
+
+
+<div style=3D"color:#666; font-size:95%; text-align:center; padding-top:1=
+5px;">
+  This summary is sent from <a href=3D"http://forum.epicodus.com" style=3D=
+"text-decoration: none; font-weight: bold; color: #006699;; color: #0088c=
+c">Epicodus Forum</a> when we haven't seen you in a while. To unsubscribe=
+ <a style=3D"text-decoration: none; font-weight: bold; color: #006699;; c=
+olor: #0088cc" href=3D"http://forum.epicodus.com/email/unsubscribe/25d4ed=
+756a4cc4696e0156d23a59e3bb76b5207057eea7638d7ba7183251ecd9">click here</a=
+>.
+</div>
+
+
+
+----==_mimepart_58339b6e9deee_17823fd4f6cfd1d02286df--

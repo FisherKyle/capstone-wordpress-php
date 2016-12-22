@@ -1,0 +1,49 @@
+Return-path: <no-reply@alertsp.chase.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 22 Dec 2016 09:03:25 -0500
+Received: from shvj12.jpmchase.com ([159.53.110.180]:28065)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <no-reply@alertsp.chase.com>)
+	id 1cK3xt-001u4D-6T
+	for kyle@kylefisher.com; Thu, 22 Dec 2016 09:03:25 -0500
+Received: from spi2.svr.us.jpmchase.net (spi2.svr.us.jpmchase.net [169.81.124.222])       by shvj12.jpmchase.com  with ESMTP id uBME3OF2004146       (using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384(256 bits) verified OK)       for <kyle@kylefisher.com>; Thu, 22 Dec 2016 14:03:24 GMT
+DKIM-Filter: OpenDKIM Filter v2.7.5 shvj12.jpmchase.com uBME3OF2004146
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=alertsp.chase.com;
+	s=d4815; t=1482415404;
+	bh=EAlUvSathPmMuLahodh14ec5JQHUHYaE3AydU97MO98=;
+	h=Date:From:To:Subject;
+	b=cS08eHPMDxIaCHW+zqpa1idmKP4dZsTSGmcSTDy2OX5YAGE7aGR1VDZNAZGlKAWdu
+	 7lrvzy5f5ZPtinfHykwhhm8824buI5HVFQ7BL7Ijo7PRdbWvMdnJF0audFfPgvsKX6
+	 6ZRR4lc3puDPTzsloqFhWO9LzNbAhCgYb4572iGubC1cgg0ffSVlid9IhL/MA4XkhO
+	 40u/5YHJbwc1lUK6brJUk8chxMRIQoaWuJe7+CLK1tkHwW8Pge1mk4xAUVSAmPdzHC
+	 q5TlXAyA039Pw2yE7i4YRSc908NejPcRJZmpCQdL0Qc9UzTYwjRJcJFXpTMxTN0Uc4
+	 VsReLlAfA8X5A==
+Received: from cdc2vpc5lpr20.svr.us.jpmchase.net (cdc2vpc5lpr20.svr.us.jpmchase.net [169.121.236.225])       by spi2.svr.us.jpmchase.net  with ESMTP id uBME3NW5025608       for <kyle@kylefisher.com>; Thu, 22 Dec 2016 14:03:24 GMT
+Received: from cdc2vpc5lpr20 (loopback [127.0.0.1])
+	by cdc2vpc5lpr20.svr.us.jpmchase.net (AIX6.1/8.14.4/8.11.0) with ESMTP id uBME3NH231523030
+	for <kyle@kylefisher.com>; Thu, 22 Dec 2016 09:03:23 -0500
+Date: Thu, 22 Dec 2016 09:03:23 -0500 (EST)
+From: Chase <no-reply@alertsp.chase.com>
+To: kyle@kylefisher.com
+Message-ID: <920931014.14726725.1482415403908.JavaMail.wasadm@cdc2vpc5lpr20>
+Subject: Your Credit Card Payment is Due Alert From Chase Card Services
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+DEVICE-ID: 96942846
+APP-SOURCE: Alerts
+NOTIFICATION-ID: 1021640841811
+Content-Language: ENG
+
+
+For credit card account ending in 9756: Your credit card payment is due in 10 days.
+
+This Alert was sent according to your settings.  To update your settings, log on at www.Chase.com.
+---------------------
+
+Don't delay.  No hassles.  No stamps.  No envelopes.  Pay your credit card bill today.  Log in now.
+
+Please don't reply to this Alert. To send a secure message from your Inbox, log on at www.Chase.com
+
+			

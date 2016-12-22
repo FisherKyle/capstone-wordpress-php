@@ -1,0 +1,401 @@
+Return-path: <msprvs1=17147fUvSmaqS=bounces-101375@sparkpostmail1.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 05 Dec 2016 12:01:59 -0500
+Received: from mta63a.sparkpostmail.com ([54.244.48.140]:41591)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <msprvs1=17147fUvSmaqS=bounces-101375@sparkpostmail1.com>)
+	id 1cDweN-000xev-H9
+	for kyle@kylefisher.com; Mon, 05 Dec 2016 12:01:59 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=premiumlogodesigners.us; s=scph1116; t=1480957303;
+	i=@premiumlogodesigners.us;
+	bh=jzLmxHW0QEnepHIOsAOkk5vd6eoPDZEwTsLGtNr4NNc=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe:List-Id;
+	b=SxWBiBIN/TYceG1xhsUNHhRgqqQJzVCcCmDiUl0/0BeRINaZU/bkR6Oxy95LNUVKR
+	 lQoo4GmdMFKykYc0p27nUOox30qMupK1VheqX+BlN9iYjOu/PTAsMskVtG3EeFrgwf
+	 wWduZ9dGKG9nJn/jYK+4IBqffJE6yHh4cV/MEdYM=
+X-MSFBL: 0wvCxyc4ym7FbKag15FxWihUVFT64BO5cFq+PLA0eKI=|eyJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsInRlbXBsYXRlX2lkIjoic210cF84NDQ3OTI4MzU5NDQxOTg1MiI
+	sImZyaWVuZGx5X2Zyb20iOiJhYnVzZUBwcmVtaXVtbG9nb2Rlc2lnbmVycy51cyI
+	sImlwX3Bvb2wiOiJzaGFyZWQiLCJiIjoiaXBfNTQuMjQ0LjQ4LjE0MCIsImlwX3B
+	vb2xfcmF3IjoibmV3IiwidHJhbnNtaXNzaW9uX2lkIjoiODQ0NzkyODM1OTQ0MTk
+	4NTIiLCJyY3B0X3RhZ3MiOlsgXSwicmNwdF9tZXRhIjp7IH0sInIiOiJreWxlQGt
+	5bGVmaXNoZXIuY29tIiwiZyI6ImJnX25ldyIsInNlbmRpbmdfaXAiOiI1NC4yNDQ
+	uNDguMTQwIiwic3ViYWNjb3VudF9pZCI6IjAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJ
+	tZXNzYWdlX2lkIjoiMDAwNDc3OWQ0NTU4ZmE1ODRkYjIiLCJjdXN0b21lcl9pZCI
+	6IjEwMTM3NSJ9
+Authentication-Results:  momentum4.platform1.us-west-2.aws.cl.messagesystems.com smtp.user=smtp_injection; auth=pass (LOGIN)
+Received: from [144.217.88.9] ([144.217.88.9:38898] helo=localhost.localdomain)
+	by momentum4.platform1.us-west-2.aws.cl.messagesystems.com (envelope-from <msprvs1=17147fUvSmaqS=bounces-101375@sparkpostmail1.com>)
+	(ecelerity 4.2.27.57778 r(Core:4.2.27.2)) with ESMTPSA (cipher=ECDHE-RSA-AES128-SHA) 
+	id D4/2B-22778-77D95485; Mon, 05 Dec 2016 17:01:43 +0000
+Date: Mon, 5 Dec 2016 12:01:42 -0500
+To: kyle@kylefisher.com
+From: Sarah Jane <abuse@premiumlogodesigners.us>
+Reply-to: Sarah Jane <admin@premiumlogodesigners.us>
+Subject: Give Your Business a Professional Logo and Website.
+Message-ID: <1816e6578796c4ea5b533c48393eb411@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_1816e6578796c4ea5b533c48393eb411"
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:M1L0TNioo9bpBs_H4XY3M7RByIv0UHKmxaKZ6Ei9pPU~|eyAicmNwdF90byI6ICJreWxlQGt5bGVmaXNoZXIuY29tIiwgInJjcHRfbWV0YSI6ICJ7fSIsICJyY3B0X3RhZ3MiOiAiWyBdIiwgImZyaWVuZGx5X2Zyb20iOiAiYWJ1c2VAcHJlbWl1bWxvZ29kZXNpZ25lcnMudXMiLCAidGVtcGxhdGVfaWQiOiAic210cF84NDQ3OTI4MzU5NDQxOTg1MiIsICJ0cmFuc21pc3Npb25faWQiOiAiODQ0NzkyODM1OTQ0MTk4NTIiLCAic2VuZGluZ19pcCI6ICI1NC4yNDQuNDguMTQwIiwgInRlbXBsYXRlX3ZlcnNpb24iOiAiMCIsICJtYWlsZnJvbSI6ICJtc3BydnMxPTE3MTQ3ZlV2U21hcVM9Ym91bmNlcy0xMDEzNzVAc3Bhcmtwb3N0bWFpbDEuY29tIiwgImlwX3Bvb2wiOiAic2hhcmVkIiwgImlwX3Bvb2xfcmF3IjogIm5ldyIsICJjdXN0b21lcl9pZCI6ICIxMDEzNzUiLCAidGVuYW50X2lkIjogInNwYyIsICJzdWJhY2NvdW50X2lkIjogIjAiLCAibWVzc2FnZV9pZCI6ICIwMDA0Nzc5ZDQ1NThmYTU4NGRiMiIgfQ~~>
+List-Id: <spc-101375-0>
+
+
+--b1_1816e6578796c4ea5b533c48393eb411
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+ FREE Design Consultation : +1 302 261 5261
+
+Custom Logo Design
+
+*Custom Logo Designs * Revisions * Dedicated Designers
+*Color Options & Grey scale Format 
+* Print & Web formats * Complete Ownership 
+*Unique Design * Complete Satisfaction 
+
+$35.00 USD
+was $60 USD 
+
+View Details
+
+
+
+
+Custom Website Design
+
+Custom Theme - No Template * CMS - Admin Panel * Mobile Version
+ On Page SEO * Stock Images * Domain Name * Email Address
+Google Friendly Sitemap * W3C Certified HTML
+
+
+$280 USD
+was $600 USD
+View Details
+
+
+
+("Larry Warner") Pleased.
+
+They listened and then designed two very different logos. One was EXACTLY what I was looking for, hoping for - clean and crisp with a free flowing, unpretentious feel to it. The initial work and the revisions were completed in a timely manner. Very please with experience, outcome and price.
+
+Click here to Unsubscribe
+
+
+
+
+--b1_1816e6578796c4ea5b533c48393eb411
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<table align="center" cellpadding="0" cellspacing="0" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td valign="top">
+			<table cellpadding="0" cellspacing="0" style="width: 100%;">
+				<tbody>
+					<tr>
+						<td bgcolor="#566687" class="DarkBgImageAltColor">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; background: #000000;">
+							<tbody>
+								<tr>
+									<td class="headerBG" valign="top" width="100%">
+									<table align="center" cellpadding="0" cellspacing="0" class="BoxWrap" style="width: 600px;">
+										<tbody>
+											<tr>
+												<td>
+												<table align="center" cellpadding="0" cellspacing="0" class="BoxWrap" style="width: 100%;">
+													<tbody>
+														<tr>
+															<td align="center" width="250">
+															<p align="center" style="padding-bottom: 0px; padding-top: 27px; padding-left: 0px; padding-right: 0px;"><span style="font-size: 24px;"><strong><span style="color: #ffffff;">&nbsp;FREE Design Consultation&nbsp;: +1 302 261 5261</span></strong></span></p>
+															</td>
+														</tr>
+														<tr>
+															<td>
+															<h2 myriad="" pro="" style="font-size: 32px; text-align: center;"><span style="font-size: 45px; font-weight: 600; color: #699eef;">Custom Logo Design</span></h2>
+
+															<address style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: rgb(255, 255, 255); line-height: 20px; text-align: center;"><span style="padding: 0px !important;">*Custom Logo Designs&nbsp;* Revisions&nbsp;* Dedicated Designers<br />
+															*Color Options &amp; Grey scale Format&nbsp;</span></address>
+
+															<address style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: rgb(255, 255, 255); line-height: 20px; text-align: center;"><span style="padding: 0px !important;">* Print &amp; Web formats&nbsp;</span>* Complete Ownership&nbsp;</address>
+
+															<address style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: rgb(255, 255, 255); line-height: 20px; text-align: center;">*Unique Design * Complete Satisfaction&nbsp;</address>
+															</td>
+														</tr>
+														<tr>
+															<td>&nbsp;</td>
+														</tr>
+														<tr>
+															<td>
+															<table align="center" cellpadding="20" cellspacing="0" class="BoxWrap" style="width: 600px;">
+																<tbody>
+																	<tr>
+																		<td align="center" class="menu" mc:edit="li-04" style="font-size: 27px; font-weight: bold; color: #fff; padding: 0px;" valign="middle"><span style="font-size:36px;"><span class="percent" style="color: rgb(105, 158, 239);">$35.00</span> USD</span></td>
+																	</tr>
+																	<tr>
+																		<td align="center" class="menu" mc:edit="li-04" style="font-size: 27px; font-weight: bold; color: #fff;" valign="middle"><span style="font-size:24px;">was <span class="percent" style="text-decoration: line-through; color: rgb(252, 186, 16);"> $60</span> USD</span>&nbsp;</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<tr>
+															<td>&nbsp;</td>
+														</tr>
+														<tr>
+															<td bgcolor="#EF811B" class="title TemplateColor01" myriad="" pro="" style="font-size: 20px; height: 45px; text-align: center;"><span style="font-size:36px;"><a href="http://www.alphalogodesigns.online/sendy2/l/trAfeiZA9Qt99jHJjRcLQQ/G7m54bdMcr2yFZRMvNlonw/gOT0ymoEneQZfudBdyPS4w" style="text-decoration: none; color: rgb(255, 255, 255);">View Details</a></span></td>
+														</tr>
+														<tr>
+															<td bgcolor="transparent" class="DarkBgImageAltColor" height="10" width="100%">&nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<p align="center">&nbsp;</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#566687" class="DarkBgImageAltColor">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; background: #000000;">
+							<tbody>
+								<tr>
+									<td class="headerBG" valign="top" width="100%">
+									<table align="center" cellpadding="0" cellspacing="0" class="BoxWrap" style="width: 600px;">
+										<tbody>
+											<tr>
+												<td>
+												<table align="left" cellpadding="0" cellspacing="0" class="BoxWrap" style="width: 100%;">
+													<tbody>
+														<tr>
+															<td height="10" width="100%">&nbsp;</td>
+														</tr>
+														<tr>
+															<td>
+															<h2 myriad="" pro="" style="font-size: 32px; text-align: center;"><span style="font-size: 45px; font-weight: 600; color: #fcba10;">Custom Website Design</span></h2>
+
+															<h3 style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: rgb(255, 255, 255); line-height: 20px; text-align: center;"><span style="padding: 0px !important;">Custom Theme - No Template&nbsp;* CMS - Admin Panel&nbsp;* Mobile Version<br />
+															&nbsp;On Page SEO&nbsp;* Stock Images&nbsp;* Domain Name&nbsp;* Email Address<br />
+															Google Friendly Sitemap&nbsp;* W3C Certified HTML</span></h3>
+															</td>
+														</tr>
+														<tr>
+															<td>&nbsp;</td>
+														</tr>
+														<tr>
+															<td>
+															<table align="center" cellpadding="20" cellspacing="0" class="BoxWrap" style="width: 600px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">
+																<tbody>
+																	<tr>
+																		<td align="center" class="menu" mc:edit="li-04" style="font-size: 27px; font-weight: bold; color: #fff; padding: 0px;" valign="middle"><span style="font-size:36px;"><span class="percent" style="color: rgb(254, 182, 3);">$280</span> USD</span></td>
+																	</tr>
+																	<tr>
+																		<td align="center" class="menu" mc:edit="li-04" style="font-size: 27px; font-weight: bold; color: #fff;" valign="middle"><span style="font-size:24px;">was <span class="percent" style="text-decoration: line-through; color: rgb(209, 84, 43);"> $600</span> USD</span></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<tr>
+															<td bgcolor="#EF811B" class="title TemplateColor01" myriad="" pro="" style="font-size: 20px; height: 45px; text-align: center;"><span style="font-size:36px;"><a href="http://www.alphalogodesigns.online/sendy2/l/trAfeiZA9Qt99jHJjRcLQQ/G7m54bdMcr2yFZRMvNlonw/gOT0ymoEneQZfudBdyPS4w" style="text-decoration: none; color: rgb(255, 255, 255);">View Details</a></span></td>
+														</tr>
+														<tr>
+															<td bgcolor="transparent" class="DarkBgImageAltColor" height="10" width="100%">&nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td class="BackgroundColor03" style="background: #000;" valign="top">
+						<table align="center" cellpadding="0" cellspacing="0" class="BoxWrap" style="width: 600px;">
+							<tbody>
+								<tr>
+									<td class="title" mc:edit="DarkThreeColumnProducts_title" myriad="" pro="" style="font-size: 20px; font-family: ">
+									<h2 style="font-size: 32px; text-transform: uppercase; color: rgb(254, 182, 3);"><img src="http://www.vivomed.com/Images/Trustpilot-Excellent.jpg" style="width: 600px; height: 201px;" /></h2>
+									</td>
+								</tr>
+								<tr>
+									<td>
+									<table align="left" cellpadding="0" cellspacing="0" class="BoxWrap" style="width: 100%;">
+										<tbody>
+											<tr>
+												<td>
+												<h2 myriad="" pro="" style="font-size: 19px; text-align: center;"><a style="color: rgb(55, 54, 50);"><span style="color: #ffffff;"><span style="font-weight: 900;">(&quot;Larry Warner&quot;)</span> Pleased</span></a><span style="color: #ffffff;">.</span></h2>
+
+												<h3 style="font-size: 13px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #6d7074; text-align: center; line-height: 20px;"><span style="color: #ffffff;">They listened and then designed two very different logos. One was EXACTLY what I was looking for, hoping for - clean and crisp with a free flowing, unpretentious feel to it. The initial work and the revisions were completed in a timely manner. Very please with experience, outcome and price.</span></h3>
+
+												<p style="text-align: center;"><a href="http://www.alphalogodesigns.online/sendy2/unsubscribe/itR7Y5upwb8zHLNuIJMgHXWTJ892C3TKdD9fo2A2zJzAo/aV892kv1H8fBMgNDqApBPc3A/gOT0ymoEneQZfudBdyPS4w"><span style="color: #ffffff;">Click here to Unsubscribe</span></a></p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#000" class="TemplateColor02" valign="top">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<style type="text/css"><!--
+/*<![CDATA[*/
+            @media only screen and (max-width: 900px) {
+              td[class=headerBG] {
+                width: 100%!important;
+                background-repeat: no-repeat!important;
+                background-size: 900px!important;
+                background-position: center middle!important;
+              }
+            }
+            @media only screen and (max-width: 640px) {
+              body {
+                width:auto!important;
+              }
+              /* Box Wrap */
+              .BoxWrap {
+                width:440px !important;
+              }
+              /* Show/Hide  */
+              .RespoHideMedium {
+                display:none !important;
+              }
+              .RespoShowMedium {
+                display:block !important;
+              }
+              .RespoCenterMedium {
+                text-align:center !important;
+              }
+              .RespoTitle {
+                font-size: 16px !important
+              }
+              td[class=headerBG] {
+                width: 100%!important;
+                background-repeat: no-repeat!important;
+                background-size: 800px!important;
+                background-position: center center!important;
+              }
+              img[class=RespoImage_OneTo50W],img[class=RespoImage_OneTo50]
+             {
+                width: 440px!important;
+                height: 212px!important;
+              }
+
+img[class=RespoImage_OneTo50_P_W],img[class=RespoImage_OneTo50_P]  {
+                width: 400px!important;
+                height: 193px!important;
+              }
+              img[class=RespoImage_OneTo75W],img[class=RespoImage_OneTo75]
+             {
+                width: 440px!important;
+                height: 335px!important;
+              }
+
+img[class=RespoImage_OneToOneW],img[class=RespoImage_OneToOne]     {
+                width: 440px!important;
+                height: 440px!important;
+              }
+              img[class=RespoImage_70ToOneW],img[class=RespoImage_70ToOne]
+             {
+                width: 440px!important;
+                height: 628px!important;
+              }
+              img[class=AvatarW],img[class=Avatar]
+                                     {
+                width: 50px!important;
+                height: 50px!important;
+              }
+            }
+            @media only screen and (max-width: 479px) {
+              body {
+                width:auto!important;
+              }
+              /* Box Wrap */
+              .BoxWrap {
+                width:280px !important;
+              }
+              /* Hide  */
+              .RespoHideSmall {
+                display:none !important;
+              }
+              .RespoCenterSmall {
+                text-align:center !important;
+              }
+              .RespoTitle {
+                font-size: 14px !important
+              }
+              img[class=RespoImage_OneTo50W],img[class=RespoImage_OneTo50]
+             {
+                width: 280px!important;
+                height: 135px!important;
+              }
+
+img[class=RespoImage_OneTo50_P_W],img[class=RespoImage_OneTo50_P]  {
+                width: 240px!important;
+                height: 116px!important;
+              }
+              img[class=RespoImage_OneTo75W],img[class=RespoImage_OneTo75]
+             {
+                width: 280px!important;
+                height: 213px!important;
+              }
+
+img[class=RespoImage_OneToOneW],img[class=RespoImage_OneToOne]     {
+                width: 280px!important;
+                height: 280px!important;
+              }
+              img[class=RespoImage_70ToOneW],img[class=RespoImage_70ToOne]
+             {
+                width: 280px!important;
+                height: 400px!important;
+              }
+              img[class=AvatarW],img[class=Avatar]
+                                     {
+                width: 40px!important;
+                height: 40px!important;
+              }
+            }
+    /*]]>*/
+-->
+</style>
+</body>
+</html>
+<img src="http://www.alphalogodesigns.online/sendy2/t/gOT0ymoEneQZfudBdyPS4w/trAfeiZA9Qt99jHJjRcLQQ" alt=""/>
+
+
+
+--b1_1816e6578796c4ea5b533c48393eb411--
+
+

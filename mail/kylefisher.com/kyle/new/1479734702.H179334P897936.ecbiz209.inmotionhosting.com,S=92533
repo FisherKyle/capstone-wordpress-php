@@ -1,0 +1,2447 @@
+Return-path: <bounces+303007-022f-kyle=kylefisher.com@sendgrid.myfonts.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 21 Nov 2016 08:25:02 -0500
+Received: from o1.sendgrid.myfonts.com ([50.31.50.193]:10113)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+303007-022f-kyle=kylefisher.com@sendgrid.myfonts.com>)
+	id 1c8oaj-003lM8-Ui
+	for kyle@kylefisher.com; Mon, 21 Nov 2016 08:25:02 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=myfonts.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=smtpapi; bh=lFVrTURkk89JwQEWYcMlAaxdqdI=; b=xbIzxxoVz3ybi9S8V5
+	un33IS9u9BdbO8uCxDCOXSIU7VheeHZw8KQptRLLhCaKAx2Bo4N/wOd2OyJIV3ec
+	Z/hVH0kah3ZaCbo3v0xYLHHYsPiVw7g+yUaSe+qD0Y7CDgCeACls066nMu4SZMsw
+	pSlN+ntHaNWkYocDuBtMa00cY=
+Received: by filter0536p1mdw1.sendgrid.net with SMTP id filter0536p1mdw1-26998-5832F4F6-2E
+        2016-11-21 13:21:58.482487326 +0000 UTC
+Received: from MzAzMDA3 (o16789125x221.outbound-mail.sendgrid.net [167.89.125.221])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with HTTP id NEQeHurORqCnMKgSgBW12A
+	for <newsletters-no-reply@myfonts.com>; Mon, 21 Nov 2016 13:21:58.422 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=c9a2a1a86bab966101f2f31d621e18ac624de60c9bc4aa6046b0b2e067fb
+Date: Mon, 21 Nov 2016 13:21:58 +0000
+From: "MyFonts News" <newsletters-no-reply@myfonts.com>
+Mime-Version: 1.0
+Reply-to: newsletters-no-reply@myfonts.com
+Subject: =?UTF-8?Q?Trending:_Add_this_sale_to_your_list_of_things_you=E2=80=99re_t?=
+ =?UTF-8?Q?hankful_for_this_year!?=
+To: kyle@kylefisher.com
+Message-ID: <NEQeHurORqCnMKgSgBW12A@ismtpd0001p1iad1.sendgrid.net>
+List-Unsubscribe: <http://sendgrid.myfonts.com/asm/unsubscribe/?user_id=303007&data=USXc39XZCfy6UEwkhdyUK8M6DqhGLO-KsKfRiSttAOLVlZJwFcRHmzd9lakQiXDeMNYzX-fSK7cBnk6gYrICZnnP3mw0gsJW6RqFVm6BMETM5WWADb_y-CzgpmklPUsxQAiJonag7tnbsGFYAUFrRvmNRaCjS3eqDyDfKzE7yTWNra0nUxRKVPtBBC-CqhkNbc1F2qMkCxbU01xvS2GsMHtKjx782sGSWUphgTAfzXqI5f9FTwjXzt3IonG0StbDotE1zGVvZGrSQQihC3vNnOjocmyk6tt4pDJoYaRxXXEWchqZH3bO2R8MoGBaujIipAvJ2Dl9sXYOVx_pvXxOL6hokFkm1g7ShP1lngNxzQvQDjQlrDlSMPq1cufGfaXtC6u1LWsK5nEH0iJdfdt-1OaKp52tlYt9vvI9LK5HvLtFsNtNCh1ub7dVxt_a2roBEhPU8pI585So-Otzzy5OwMhL1xbALqQRqjwipHcy24y1bvfWLiMtnVz_7GYyZY4lISBG07U3Qz5yphdJQm-wW35PToo2hexihnTw25HKsDSP1nomvCK5w50RelyRE0UO5z7ZCuySB06OwRsWio28hg==>, <mailto:unsubscribe@sendgrid.myfonts.com?subject=http://sendgrid.myfonts.com/asm/unsubscribe/*q*user_id=303007&data=USXc39XZCfy6UEwkhdyUK8M6DqhGLO-KsKfRiSttAOLVlZJwFcRHmzd9lakQiXDeMNYzX-fSK7cBnk6gYrICZnnP3mw0gsJW6RqFVm6BMETM5WWADb_y-CzgpmklPUsxQAiJonag7tnbsGFYAUFrRvmNRaCjS3eqDyDfKzE7yTWNra0nUxRKVPtBBC-CqhkNbc1F2qMkCxbU01xvS2GsMHtKjx782sGSWUphgTAfzXqI5f9FTwjXzt3IonG0StbDotE1zGVvZGrSQQihC3vNnOjocmyk6tt4pDJoYaRxXXEWchqZH3bO2R8MoGBaujIipAvJ2Dl9sXYOVx_pvXxOL6hokFkm1g7ShP1lngNxzQvQDjQlrDlSMPq1cufGfaXtC6u1LWsK5nEH0iJdfdt-1OaKp52tlYt9vvI9LK5HvLtFsNtNCh1ub7dVxt_a2roBEhPU8pI585So-Otzzy5OwMhL1xbALqQRqjwipHcy24y1bvfWLiMtnVz_7GYyZY4lISBG07U3Qz5yphdJQm-wW35PToo2hexihnTw25HKsDSP1nomvCK5w50RelyRE0UO5z7ZCuySB06OwRsWio28hg==>
+X-SG-EID: eU/ka35llXGMH3nAOV67BrlAvnJbsZjQ68cwO3vk6pWmVrR4iNt46ptxM6RZmggR01n4UE4Ri8CeN5
+ z6qt8rRqG+gDIXLdCRzaT9hMUKYVs/yqC4xGEA8HMqYINRhSGsJ8shTsrdbRc/iavVdMgXiv0aB46y
+ BHoUDU8gBkbgZ8x3sX+UAzvTb6L3Y5SpQ6rpPCF12/Jf3/oOravMdQQDXdbdMpt3WUfZDlpPa0HjR/
+ GbJ+bBXp1ZFrcqIKhvtNJS
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP2Aqldn5E8GQPo+paAN//5dlu7IQwaHPYwtFJ
+ w+oFXcjYUJ5TiW6zkrFEAFNCv0JmhH7yy3FJmsPnRzFkSdGgO84T86p2N3/MPHAWbB64Hs7eUewUnb
+ rM1maKy3+7MQqPuBECsUJ7S2VQ4CYzK5iSTbOwTU681E0UXD2FtsH16+zSvS+h3QT/z50dBGES1lOZ
+ w=
+
+--c9a2a1a86bab966101f2f31d621e18ac624de60c9bc4aa6046b0b2e067fb
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+A little something extra to be thankful for
+
+http://www.myfonts.com/newsletters/trending/20161121/links/
+
+Hot New Font Volte Rounded Is 75% Off =E2=80=94 Sale Ends Friday!
+
+For anyone dreading their turn in the family =E2=80=9Cwhat are you thankful=
+ for=E2=80=9D game at the dinner table Thursday night =E2=80=94 it=E2=80=99=
+s a lot of pressure! =E2=80=94 we=E2=80=99re here to help you out with Indi=
+an Type Foundry=E2=80=99s latest release.
+
+https://www.myfonts.com/newsletters/trending/20161121/links/fonts/indian-ty=
+pe-foundry/volte-rounded/=09=09=09=09=09
+
+5 fonts for $32.50 http://www.myfonts.com/newsletters/trending/20161121/lin=
+ks/fonts/indian-type-foundry/volte-rounded/
+
+A sequel to Indian Type Foundry=E2=80=99s 2015 hit Volte, Volte Rounded is =
+a geometric sans serif with fully-rounded sausage-like stroke endings. This=
+ robust, approachable 5-font family is 75% off until Friday=E2=80=94so make=
+ sure you pick it up before the sale ends!
+
+https://www.myfonts.com/newsletters/trending/20161121/links/fonts/indian-ty=
+pe-foundry/volte-rounded/=09=09=09=09=09
+
+Aside from the family=E2=80=99s eye-catching geometry, simplification was t=
+he biggest design principal at play when creating Volte Rounded with the de=
+signer, Namrata Goyal https://www.myfonts.com/newsletters/trending/20161121=
+/links/person/Namrata_Goyal/ going for low-contrast letterforms even in the=
+ bolder weights. Other characteristics of the family such as its nearly-cir=
+cular counters, moderate x-height and tall ascenders make the family feel f=
+un and approachable.
+
+https://www.myfonts.com/newsletters/trending/20161121/links/fonts/indian-ty=
+pe-foundry/volte-rounded/=09=09=09=09=09
+
+Volte Rounded is 75% off until this Friday at midnight EST =E2=80=94 pick i=
+t up today!
+
+MyFonts Inc.
+ 600 Unicorn Park Drive
+Woburn, MA 01801
+USA
+
+It is never our intention to send unwanted e-mail.=20
+
+This message was sent to kyle@kylefisher.com.
+
+Want out? Unsubscribe From All Emails http://sendgrid.myfonts.com/asm/unsub=
+scribe/global/?user_id=3D303007&data=3DXpImpxtlfAlaa1cosZ5JXcGreX7o58nhv-5n=
+HrV_8iym0Xn_mQNKG_19TvcFu56mokNB5o78vddaWVfOgrGmmOCzOact6lJX6N0a3gJCjPXVC5x=
+0S1bB2SjuaAr3RqmkHi9onrQKKUE8IGkZ6Pt5w8WmIEqSZXYOZuvUGc5B4gw2WtZR0TkspyndpV=
+-QvV53nueQjj4lNxTsvZsqvONHPp9BGPGVKNKkAqKeqMacM1UqMsIqcY_ZhBw2wsWYuKo4hDfmD=
+09qzGmO1xjCYIzTAMOqZm2pMfhOGeLO_gB9L1LJ8SNhs6jJ1ASfkIz6b7jx2dUXXhaAupqj7gWf=
+Mdyq6YlKVKH4WfD8WYwQ4ffg4FzJ-Tnu-y_Q1FTSbJqpuNijQwQUJDwQr7s-hfxuq1HE4EYVN8M=
+xUm4TPmNE59LB0WA2BuLoptCOwJPBtnsP2-_-Zd0HrqiM8hEmhyOr89lPsgyfFWkr8KNuLtA0E6=
+h4GgfB984NbNSt2sqjLbpfkbnvAmYLmi7sE73EcNIjwHJY1noRIIe_Fn25Ws6sTvuqfJ8_ZQgY9=
+FqTf44cnxP5Ndln6dfr_h9aBXB1PGjyU5HSYw=3D=3D=20
+
+Or click here to unsubscribe from trending emails http://sendgrid.myfonts.c=
+om/asm/unsubscribe/?user_id=3D303007&data=3DUSXc39XZCfy6UEwkhdyUK8M6DqhGLO-=
+KsKfRiSttAOLVlZJwFcRHmzd9lakQiXDeMNYzX-fSK7cBnk6gYrICZnnP3mw0gsJW6RqFVm6BME=
+TM5WWADb_y-CzgpmklPUsxQAiJonag7tnbsGFYAUFrRvmNRaCjS3eqDyDfKzE7yTWNra0nUxRKV=
+PtBBC-CqhkNbc1F2qMkCxbU01xvS2GsMHtKjx782sGSWUphgTAfzXqI5f9FTwjXzt3IonG0StbD=
+otE1zGVvZGrSQQihC3vNnOjocmyk6tt4pDJoYaRxXXEWchqZH3bO2R8MoGBaujIipAvJ2Dl9sXY=
+OVx_pvXxOL6hokFkm1g7ShP1lngNxzQvQDjQlrDlSMPq1cufGfaXtC6u1LWsK5nEH0iJdfdt-1O=
+aKp52tlYt9vvI9LK5HvLtFsNtNCh1ub7dVxt_a2roBEhPU8pI585So-Otzzy5OwMhL1xbALqQRq=
+jwipHcy24y1bvfWLiMtnVz_7GYyZY4lISBG07U3Qz5yphdJQm-wW35PToo2hexihnTw25HKsDSP=
+1nomvCK5w50RelyRE0UO5z7ZCuySB06OwRsWio28hg=3D=3D only.=09=09=09=09=09=09=09=
+=09=09
+
+MyFonts and MyFonts.com are trademarks of MyFonts Inc. registered in the U.=
+S. Patent and Trademark Office and may be registered in certain other juris=
+dictions. Other technologies, font names, and brand names are used for info=
+rmation only and remain trademarks or registered trademarks of their respec=
+tive companies.
+=C2=A9 MyFonts Inc. 2016=09=09=09=09=09=09=09=09=09
+										=C2=A0 http://sendgrid.myfonts.com/asm/unsubscribe/?user_id=3D303=
+007&data=3DUSXc39XZCfy6UEwkhdyUK8M6DqhGLO-KsKfRiSttAOLVlZJwFcRHmzd9lakQiXDe=
+MNYzX-fSK7cBnk6gYrICZnnP3mw0gsJW6RqFVm6BMETM5WWADb_y-CzgpmklPUsxQAiJonag7tn=
+bsGFYAUFrRvmNRaCjS3eqDyDfKzE7yTWNra0nUxRKVPtBBC-CqhkNbc1F2qMkCxbU01xvS2GsMH=
+tKjx782sGSWUphgTAfzXqI5f9FTwjXzt3IonG0StbDotE1zGVvZGrSQQihC3vNnOjocmyk6tt4p=
+DJoYaRxXXEWchqZH3bO2R8MoGBaujIipAvJ2Dl9sXYOVx_pvXxOL6hokFkm1g7ShP1lngNxzQvQ=
+DjQlrDlSMPq1cufGfaXtC6u1LWsK5nEH0iJdfdt-1OaKp52tlYt9vvI9LK5HvLtFsNtNCh1ub7d=
+Vxt_a2roBEhPU8pI585So-Otzzy5OwMhL1xbALqQRqjwipHcy24y1bvfWLiMtnVz_7GYyZY4lIS=
+BG07U3Qz5yphdJQm-wW35PToo2hexihnTw25HKsDSP1nomvCK5w50RelyRE0UO5z7ZCuySB06Ow=
+RsWio28hg=3D=3D=
+
+--c9a2a1a86bab966101f2f31d621e18ac624de60c9bc4aa6046b0b2e067fb
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<link href=3D"https://cdn.myfonts.net/s/ec/common-assets/fonts/rooney-sans/=
+rooney-sans-reg-it-bld-bldit.css" rel=3D"stylesheet" type=3D"text/css">
+<link href=3D"https://cdn.myfonts.net/s/ec/common-assets/fonts/rooney-sans/=
+rooney-sans-lt.css" rel=3D"stylesheet" type=3D"text/css">
+<style type=3D"text/css">
+=09
+
+
+.wrapper 		{	width: 100%; }
+
+#outlook a 		{	padding: 0; }
+
+body 			{	width: 100% !important;
+					min-width: 100%;
+					-webkit-text-size-adjust: 100%;
+					-ms-text-size-adjust: 100%;
+					margin: 0;
+					Margin: 0;
+					padding: 0;
+					-moz-box-sizing: border-box;
+					-webkit-box-sizing: border-box;
+					box-sizing: border-box; }
+
+.ExternalClass 	{	width: 100%; }
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {line-height: 100%; }
+
+#backgroundTable {	margin: 0;
+					Margin: 0;
+					padding: 0;
+					width: 100% !important;
+					line-height: 100% !important; }
+
+img				 {	outline: none;
+					text-decoration: none;
+					-ms-interpolation-mode: bicubic;
+					width: auto;
+					max-width: 100%;
+					clear: both;
+					display: block; }
+
+center			 {	width: 100%;
+					min-width: 580px; }
+
+a img 			{	border: none; }
+
+p				{	margin: 0 0 0 10px;
+					Margin: 0 0 0 10px; }
+
+table			{	border-spacing: 0;
+					border-collapse: collapse; }
+
+td 				{	word-wrap: break-word;
+					-webkit-hyphens: auto;
+					-moz-hyphens: auto;
+					hyphens: auto;
+					border-collapse: collapse !important; }
+
+table, tr, td 	{	padding: 0;
+					vertical-align: top;
+					text-align: left; }
+</style>
+
+<style media=3D"screen" type=3D"text/css">
+@media only screen {
+html 			{	min-height: 100%;
+					background: #f3f3f3; } }
+</style>
+=20=20=20=20
+<style type=3D"text/css">
+table.body 		{	background: none;
+					height: 100%;
+					width: 100%; }
+
+table.container {	background: none;
+					width: 820px;
+					margin: 0 auto;
+					Margin: 0 auto;
+					text-align: inherit; }
+
+table.row 		{	padding: 0;
+					width: 100%;
+					position: relative; }
+
+table.container table.row {	display: table; }
+
+td.columns,
+td.column,
+th.columns,
+th.column 		{	margin: 0 auto;
+					Margin: 0 auto;
+					padding-left: 16px;
+					padding-bottom: 16px; }
+
+td.columns.last,
+td.column.last,
+th.columns.last,
+th.column.last 	{	padding-right: 20px; }
+
+td.columns table,
+td.column table,
+th.columns table,
+th.column table {	width: 100%; }
+
+td.large-1,
+th.large-1 		{	width: 50px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-1.first,
+th.large-1.first {	padding-left: 20px; }
+
+td.large-1.last,
+th.large-1.last 	{	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-1,
+.collapse > tbody > tr > th.large-1=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 48.33333px; }
+
+.collapse td.large-1.first,
+.collapse th.large-1.first,
+.collapse td.large-1.last,
+.collapse th.large-1.last=20
+				{	width: 56.33333px; }
+
+td.large-2,
+th.large-2 		{	width: 120px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-2.first,
+th.large-2.first {	padding-left: 20px; }
+
+td.large-2.last,
+th.large-2.last 	{	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-2,
+.collapse > tbody > tr > th.large-2=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 96.66667px; }
+
+.collapse td.large-2.first,
+.collapse th.large-2.first,
+.collapse td.large-2.last,
+.collapse th.large-2.last=20
+				{	width: 104.66667px; }
+
+td.large-3,
+th.large-3 		{	width: 190px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-3.first,
+th.large-3.first {	padding-left: 20px; }
+
+td.large-3.last,
+th.large-3.last {	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-3,
+.collapse > tbody > tr > th.large-3=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 145px; }
+
+.collapse td.large-3.first,
+.collapse th.large-3.first,
+.collapse td.large-3.last,
+.collapse th.large-3.last=20
+				{	width: 153px; }
+
+td.large-4,
+th.large-4 		{	width: 260px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-4.first,
+th.large-4.first {	padding-left: 20px; }
+
+td.large-4.last,
+th.large-4.last 	{	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-4,
+.collapse > tbody > tr > th.large-4=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 193.33333px; }
+
+.collapse td.large-4.first,
+.collapse th.large-4.first,
+.collapse td.large-4.last,
+.collapse th.large-4.last=20
+				{	width: 201.33333px; }
+
+td.large-5,
+th.large-5 		{	width: 330px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-5.first,
+th.large-5.first {	padding-left: 20px; }
+
+td.large-5.last,
+th.large-5.last {	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-5,
+.collapse > tbody > tr > th.large-5=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 241.66667px; }
+
+.collapse td.large-5.first,
+.collapse th.large-5.first,
+.collapse td.large-5.last,
+.collapse th.large-5.last=20
+				{	width: 249.66667px; }
+
+td.large-6,
+th.large-6 		{	width: 400px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-6.first,
+th.large-6.first {	padding-left: 20px; }
+
+td.large-6.last,
+th.large-6.last {	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-6,
+.collapse > tbody > tr > th.large-6=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 290px; }
+
+.collapse td.large-6.first,
+.collapse th.large-6.first,
+.collapse td.large-6.last,
+.collapse th.large-6.last=20
+				{	width: 298px; }
+
+td.large-7,
+th.large-7 		{	width: 470px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-7.first,
+th.large-7.first {	padding-left: 20px; }
+
+td.large-7.last,
+th.large-7.last {	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-7,
+.collapse > tbody > tr > th.large-7=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 338.33333px; }
+
+.collapse td.large-7.first,
+.collapse th.large-7.first,
+.collapse td.large-7.last,
+.collapse th.large-7.last=20
+				{	width: 346.33333px; }
+
+td.large-8,
+th.large-8 		{	width: 520px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-8.first,
+th.large-8.first {	padding-left: 20px; }
+
+td.large-8.last,
+th.large-8.last {	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-8,
+.collapse > tbody > tr > th.large-8=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 386.66667px; }
+
+.collapse td.large-8.first,
+.collapse th.large-8.first,
+.collapse td.large-8.last,
+.collapse th.large-8.last=20
+				{	width: 394.66667px; }
+
+td.large-9,
+th.large-9 		{	width: 590px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-9.first,
+th.large-9.first {	padding-left: 20px; }
+
+td.large-9.last,
+th.large-9.last {	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-9,
+.collapse > tbody > tr > th.large-9=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 435px; }
+
+.collapse td.large-9.first,
+.collapse th.large-9.first,
+.collapse td.large-9.last,
+.collapse th.large-9.last=20
+				{	width: 443px; }
+
+td.large-10,
+th.large-10		{	width: 660px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-10.first,
+th.large-10.first {	padding-left: 20px; }
+
+td.large-10.last,
+th.large-10.last {	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-10,
+.collapse > tbody > tr > th.large-10=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 483.33333px; }
+
+.collapse td.large-10.first,
+.collapse th.large-10.first,
+.collapse td.large-10.last,
+.collapse th.large-10.last=20
+				{	width: 491.33333px; }
+
+td.large-11,
+th.large-11 		{	width: 730px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-11.first,
+th.large-11.first {	padding-left: 20px; }
+
+td.large-11.last,
+th.large-11.last {	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-11,
+.collapse > tbody > tr > th.large-11=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 531.66667px; }
+
+.collapse td.large-11.first,
+.collapse th.large-11.first,
+.collapse td.large-11.last,
+.collapse th.large-11.last=20
+				{	width: 539.66667px; }
+
+td.large-12,
+th.large-12		{	width: 800px;
+					padding-left: 10px;
+					padding-right: 10px; }
+
+td.large-12.first,
+th.large-12.first {	padding-left: 20px; }
+
+td.large-12.last,
+th.large-12.last {	padding-right: 20px; }
+
+.collapse > tbody > tr > td.large-12,
+.collapse > tbody > tr > th.large-12=20
+				{	padding-right: 0;
+					padding-left: 0;
+					width: 580px; }
+
+.collapse td.large-12.first,
+.collapse th.large-12.first,
+.collapse td.large-12.last,
+.collapse th.large-12.last=20
+				{	width: 588px; }
+
+td.large-1 center,
+th.large-1 center {	min-width: 0.33333px; }
+
+td.large-2 center,
+th.large-2 center {	min-width: 48.66667px; }
+
+td.large-3 center,
+th.large-3 center {	min-width: 97px; }
+
+td.large-4 center,
+th.large-4 center {	min-width: 145.33333px; }
+
+td.large-5 center,
+th.large-5 center {	min-width: 193.66667px; }
+
+td.large-6 center,
+th.large-6 center {	min-width: 242px; }
+
+td.large-7 center,
+th.large-7 center {	min-width: 290.33333px; }
+
+td.large-8 center,
+th.large-8 center {	min-width: 338.66667px; }
+
+td.large-9 center,
+th.large-9 center {	min-width: 387px; }
+
+td.large-10 center,
+th.large-10 center {	min-width: 435.33333px; }
+
+td.large-11 center,
+th.large-11 center {	min-width: 483.66667px; }
+
+td.large-12 center,
+th.large-12 center {	min-width: 532px; }
+
+.body .columns td.large-1,
+.body .column td.large-1,
+.body .columns th.large-1,
+.body .column th.large-1=20
+				{	width: 8.33333%; }
+
+.body .columns td.large-2,
+.body .column td.large-2,
+.body .columns th.large-2,
+.body .column th.large-2=20
+				{	width: 16.66667%; }
+
+.body .columns td.large-3,
+.body .column td.large-3,
+.body .columns th.large-3,
+.body .column th.large-3=20
+				{	width: 25%; }
+
+.body .columns td.large-4,
+.body .column td.large-4,
+.body .columns th.large-4,
+.body .column th.large-4=20
+				{	width: 33.33333%; }
+
+.body .columns td.large-5,
+.body .column td.large-5,
+.body .columns th.large-5,
+.body .column th.large-5=20
+				{	width: 41.66667%; }
+
+.body .columns td.large-6,
+.body .column td.large-6,
+.body .columns th.large-6,
+.body .column th.large-6=20
+				{	width: 50%; }
+
+.body .columns td.large-7,
+.body .column td.large-7,
+.body .columns th.large-7,
+.body .column th.large-7=20
+				{	width: 58.33333%; }
+
+.body .columns td.large-8,
+.body .column td.large-8,
+.body .columns th.large-8,
+.body .column th.large-8=20
+				{	width: 66.66667%; }
+
+.body .columns td.large-9,
+.body .column td.large-9,
+.body .columns th.large-9,
+.body .column th.large-9=20
+				{	width: 75%; }
+
+.body .columns td.large-10,
+.body .column td.large-10,
+.body .columns th.large-10,
+.body .column th.large-10=20
+				{	width: 83.33333%; }
+
+.body .columns td.large-11,
+.body .column td.large-11,
+.body .columns th.large-11,
+.body .column th.large-11=20
+				{	width: 91.66667%; }
+
+.body .columns td.large-12,
+.body .column td.large-12,
+.body .columns th.large-12,
+.body .column th.large-12=20
+				{	width: 100%; }
+
+td.large-offset-1,
+td.large-offset-1.first,
+td.large-offset-1.last,
+th.large-offset-1,
+th.large-offset-1.first,
+th.large-offset-1.last=20
+				{	padding-left: 64.33333px; }
+
+td.large-offset-2,
+td.large-offset-2.first,
+td.large-offset-2.last,
+th.large-offset-2,
+th.large-offset-2.first,
+th.large-offset-2.last=20
+				{	padding-left: 112.66667px; }
+
+td.large-offset-3,
+td.large-offset-3.first,
+td.large-offset-3.last,
+th.large-offset-3,
+th.large-offset-3.first,
+th.large-offset-3.last=20
+				{	padding-left: 161px; }
+
+td.large-offset-4,
+td.large-offset-4.first,
+td.large-offset-4.last,
+th.large-offset-4,
+th.large-offset-4.first,
+th.large-offset-4.last {	padding-left: 209.33333px; }
+
+td.large-offset-5,
+td.large-offset-5.first,
+td.large-offset-5.last,
+th.large-offset-5,
+th.large-offset-5.first,
+th.large-offset-5.last=20
+				{	padding-left: 257.66667px; }
+
+td.large-offset-6,
+td.large-offset-6.first,
+td.large-offset-6.last,
+th.large-offset-6,
+th.large-offset-6.first,
+th.large-offset-6.last=20
+				{	padding-left: 306px; }
+
+td.large-offset-7,
+td.large-offset-7.first,
+td.large-offset-7.last,
+th.large-offset-7,
+th.large-offset-7.first,
+th.large-offset-7.last=20
+				{	padding-left: 354.33333px; }
+
+td.large-offset-8,
+td.large-offset-8.first,
+td.large-offset-8.last,
+th.large-offset-8,
+th.large-offset-8.first,
+th.large-offset-8.last=20
+				{	padding-left: 402.66667px; }
+
+td.large-offset-9,
+td.large-offset-9.first,
+td.large-offset-9.last,
+th.large-offset-9,
+th.large-offset-9.first,
+th.large-offset-9.last=20
+				{	padding-left: 451px; }
+
+td.large-offset-10,
+td.large-offset-10.first,
+td.large-offset-10.last,
+th.large-offset-10,
+th.large-offset-10.first,
+th.large-offset-10.last=20
+				{	padding-left: 499.33333px; }
+
+td.large-offset-11,
+td.large-offset-11.first,
+td.large-offset-11.last,
+th.large-offset-11,
+th.large-offset-11.first,
+th.large-offset-11.last=20
+				{	padding-left: 547.66667px; }
+
+td.expander,
+th.expander		{	visibility: hidden;
+					width: 0;
+					padding: 0 !important; }
+
+.block-grid 		{	width: 100%;
+					max-width: 580px; }
+.block-grid td 	{	display: inline-block;
+					padding: 8px; }
+
+.up-2 td			{	width: 274px !important; }
+
+.up-3 td			{	width: 177px !important; }
+
+.up-4 td 		{	width: 129px !important; }
+
+.up-5 td 		{	width: 100px !important; }
+
+.up-6 td 		{	width: 80px !important; }
+
+.up-7 td 		{	width: 66px !important; }
+
+.up-8 td 		{	width: 56px !important; }
+
+table.text-center,
+td.text-center,
+h1.text-center,
+h2.text-center,
+h3.text-center,
+h4.text-center,
+h5.text-center,
+h6.text-center,
+p.text-center,
+span.text-center {	text-align: center; }
+
+h1.text-left,
+h2.text-left,
+h3.text-left,
+h4.text-left,
+h5.text-left,
+h6.text-left,
+p.text-left,
+span.text-left 	{	text-align: left; }
+
+h1.text-right,
+h2.text-right,
+h3.text-right,
+h4.text-right,
+h5.text-right,
+h6.text-right,
+p.text-right,
+span.text-right {	text-align: right; }
+
+span.text-center {	display: block;
+					width: 100%;
+					text-align: center; }
+</style>
+
+<style media=3D"only screen and (max-width: 650px)" type=3D"text/css">
+@media only screen and (max-width: 596px) {
+.small-float-center=20
+				{	margin: 0 auto !important;
+					float: none !important;
+					text-align: center !important; }
+.small-text-center=20
+				{	text-align: center !important; }
+  .small-text-left=20
+  				{	text-align: left !important; }
+  .small-text-right=20
+  				{	text-align: right !important; } }
+</style>
+
+<style type=3D"text/css">
+img.float-left 	{	float: left;
+					text-align: left; }
+
+img.float-right {	float: right;
+					text-align: right; }
+
+img.float-center,
+img.text-center {	margin: 0 auto;
+					Margin: 0 auto;
+					float: none;
+					text-align: center; }
+
+table.float-center,
+td.float-center,
+th.float-center {	margin: 0 auto;
+					Margin: 0 auto;
+					float: none;
+					text-align: center; }
+
+table.body table.container .hide-for-large=20
+				{	display: none;
+					width: 0;
+					mso-hide: all;
+					overflow: hidden;
+					max-height: 0px;
+					font-size: 0;
+					width: 0px;
+					line-height: 0; }
+</style>
+
+<style media=3D"only screen and (max-width: 596px)" type=3D"text/css">=20
+@media only screen and (max-width: 596px) {	table.body table.container .hid=
+e-for-large {
+      display: block !important;
+      width: auto !important;
+      overflow: visible !important; } }
+</style>
+
+<style type=3D"text/css">
+table.body table.container .hide-for-large * {
+  mso-hide: all; }
+</style>
+
+<style media=3D"only screen and (max-width: 596px)" type=3D"text/css">
+@media only screen and (max-width: 596px) {
+  table.body table.container .row.hide-for-large,
+  table.body table.container .row.hide-for-large {	display: table !importan=
+t;
+					width: 100% !important; } }
+
+@media only screen and (max-width: 596px) {
+table.body table.container .show-for-large {	display: none !important;
+					width: 0;
+mso-hide: all;
+					overflow: hidden; } }
+</style>
+
+<style type=3D"text/css">
+body,
+table.body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+td,
+th,
+a 				{	color: #0a0a0a;
+					font-family: Helvetica, Arial, sans-serif;
+					font-weight: normal;
+					padding: 0;
+					margin: 0;
+					Margin: 0;
+					text-align: left;
+					line-height: 1.3; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 				{	color: inherit;
+					word-wrap: normal;
+					font-family: Helvetica, Arial, sans-serif;
+					font-weight: normal;
+					margin-bottom: 10px;
+					Margin-bottom: 10px; }
+
+h1 				{	font-size: 34px; }
+
+h 2				{	font-size: 30px; }
+
+h 3				{	font-size: 28px; }
+
+h 4				{	font-size: 24px; }
+
+h 5				{	font-size: 20px; }
+
+h 6				{	font-size: 18px; }
+
+body,
+table.body,
+p,
+td,
+th 				{	font-size: 16px;
+					line-height: 19px; }
+
+p 				{	margin-bottom: 10px;
+					Margin-bottom: 10px; }
+p.lead 			{	font-size: 20px;
+					line-height: 1.6; }
+p.subheader 		{	margin-top: 4px;
+					margin-bottom: 8px;
+					Margin-top: 4px;
+					Margin-bottom: 8px;
+					font-weight: normal;
+					line-height: 1.4;
+					color: #8a8a8a; }
+
+small 			{	font-size: 80%;
+					color: #cacaca; }
+
+a 				{	color: #2199e8;
+					text-decoration: none; }
+a:hover 			{	color: #147dc2; }
+a:active 		{	color: #147dc2; }
+a:visited 		{	color: #2199e8; }
+
+h1 a,
+h1 a:visited,
+h2 a,
+h2 a:visited,
+h3 a,
+h3 a:visited,
+h4 a,
+h4 a:visited,
+h5 a,
+h5 a:visited,
+h6 a,
+h6 a:visited 	{	color: #2199e8; }
+
+pre 				{	background: #f3f3f3;
+					margin: 30px 0;
+					Margin: 30px 0; }
+pre code 		{	color: #cacaca; }
+pre code span.callout {
+					color: #8a8a8a;
+					font-weight: bold; }
+pre code span.callout-strong {
+					color: #ff6908;
+					font-weight: bold; }
+
+hr {
+					max-width: 800px;
+					height: 0;
+					border-right: 0;
+					border-top: 0;
+					border-bottom: 1px solid #cacaca;
+					border-left: 0;
+					margin: 20px auto;
+					Margin: 20px auto;
+					clear: both; }
+
+.stat 			{	font-size: 40px;
+					line-height: 1; }
+p + .stat 		{	margin-top: -16px;
+					Margin-top: -16px; }
+
+table.button 	{	width: auto !important;
+					margin: 0 0 16px 0;
+					Margin: 0 0 16px 0; }
+table.button table td {
+					text-align: left;
+					color: #fefefe;
+					background: #2199e8;
+					border: 2px solid #2199e8; }
+table.button table td a {
+					font-family: Helvetica, Arial, sans-serif;
+					font-size: 16px;
+					font-weight: bold;
+					color: #fefefe;
+					text-decoration: none;
+					display: inline-block;
+					padding: 8px 16px 8px 16px;
+					border: 0px solid #2199e8;
+					border-radius: 3px; }
+table.button.radius table td {
+					border-radius: 3px;
+					border: none; }
+table.button.rounded table td {
+					border-radius: 500px;
+					border: none; }
+
+table.button:hover table tr td a,
+table.button:active table tr td a,
+table.button table tr td a:visited,
+table.button.tiny:hover table tr td a,
+table.button.tiny:active table tr td a,
+table.button.tiny table tr td a:visited,
+table.button.small:hover table tr td a,
+table.button.small:active table tr td a,
+table.button.small table tr td a:visited,
+table.button.large:hover table tr td a,
+table.button.large:active table tr td a,
+table.button.large table tr td a:visited=20
+				{	color: #0099ff }
+
+table.button.tiny table td,
+table.button.tiny table a=20
+				{	padding: 4px 8px 4px 8px; }
+
+table.button.tiny table a=20
+				{	font-size: 10px;
+					font-weight: normal; }
+
+table.button.small table td,
+table.button.small table a=20
+				{	padding: 5px 10px 5px 10px;
+					font-size: 12px; }
+
+table.button.large table a=20
+				{	padding: 10px 20px 10px 20px;
+					font-size: 20px; }
+
+table.button.expand,
+table.button.expanded=20
+				{	width: 100% !important; }
+=09=09=09=09
+table.button.expand table,
+table.button.expanded table=20
+				{	width: 100%; }
+table.button.expand table a,
+table.button.expanded table a=20
+				{	text-align: center;
+					width: 100%;
+					padding-left: 0;
+					padding-right: 0; }
+table.button.expand center,
+table.button.expanded center=20
+				{	min-width: 0; }
+
+table.button:hover table td,
+table.button:visited table td,
+table.button:active table td=20
+				{	background: #147dc2;
+					color: #fefefe; }
+
+table.button:hover table a,
+table.button:visited table a,
+table.button:active table a=20
+				{	border: 0px solid #147dc2; }
+
+table.button.secondary table td=20
+				{	background: #777777;
+					color: #fefefe;
+					border: 2px solid #777777; }
+
+table.button.secondary table a=20
+				{	color: #fefefe;
+					border: 0px solid #777777; }
+
+table.button.secondary:hover table td=20
+				{	background: #919191;
+					color: #fefefe; }
+
+table.button.secondary:hover table a=20
+				{	border: 0px solid #919191; }
+
+table.button.secondary:hover table td a=20
+				{	color: #fefefe; }
+
+table.button.secondary:active table td a=20
+				{	color: #fefefe; }
+
+table.button.secondary table td a:visited=20
+				{	color: #fefefe; }
+
+table.button.success table td=20
+				{	background: #3adb76;
+  border: 2px solid #3adb76; }
+
+table.button.success table a=20
+				{	border: 0px solid #3adb76; }
+
+table.button.success:hover table td=20
+				{	background: #23bf5d; }
+
+table.button.success:hover table a=20
+				{	border: 0px solid #23bf5d; }
+
+table.button.alert table td=20
+				{	background: #ec5840;
+  border: 2px solid #ec5840; }
+
+table.button.alert table a=20
+				{	border: 0px solid #ec5840; }
+
+table.button.alert:hover table td=20
+				{	background: #e23317; }
+
+table.button.alert:hover table a=20
+				{	border: 0px solid #e23317; }
+
+table.callout 	{	margin-bottom: 16px;
+					Margin-bottom: 16px; }
+
+th.callout-inner=20
+				{	width: 100%;
+					border: 1px solid #cbcbcb;
+					padding: 10px;
+					background: #fefefe; }
+th.callout-inner.primary=20
+				{	background: #def0fc;
+					border: 1px solid #444444;
+					color: #0a0a0a; }
+th.callout-inner.secondary=20
+				{	background: #ebebeb;
+					border: 1px solid #444444;
+					color: #0a0a0a; }
+th.callout-inner.success=20
+				{	background: #e1faea;
+					border: 1px solid #1b9448;
+					color: #fefefe; }
+  th.callout-inner.warning=20
+				{	background: #fff3d9;
+					border: 1px solid #996800;
+					color: #fefefe; }
+  th.callout-inner.alert=20
+				{	background: #fce6e2;
+					border: 1px solid #b42912;
+					color: #fefefe; }
+
+.thumbnail 		{	border: solid 4px #fefefe;
+					box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+					display: inline-block;
+					line-height: 0;
+					max-width: 100%;
+					transition: box-shadow 200ms ease-out;
+					border-radius: 3px;
+					margin-bottom: 16px; }
+
+.thumbnail:hover, .thumbnail:focus=20
+				{	box-shadow: 0 0 6px 1px rgba(33, 153, 232, 0.5); }
+
+table.menu=20
+				{	width: 580px; }
+  table.menu td.menu-item,
+  table.menu th.menu-item=20
+				{	padding: 10px;
+					padding-right: 10px; }
+    table.menu td.menu-item a,
+    table.menu th.menu-item a=20
+				{	color: #2199e8; }
+
+table.menu.vertical td.menu-item,
+table.menu.vertical th.menu-item=20
+				{	padding: 10px;
+  padding-right: 0;
+  display: block; }
+  table.menu.vertical td.menu-item a,
+  table.menu.vertical th.menu-item a=20
+				{	width: 100%; }
+
+table.menu.vertical td.menu-item table.menu.vertical td.menu-item,
+table.menu.vertical td.menu-item table.menu.vertical th.menu-item,
+table.menu.vertical th.menu-item table.menu.vertical td.menu-item,
+table.menu.vertical th.menu-item table.menu.vertical th.menu-item=20
+				{	padding-left: 10px; }
+
+table.menu.text-center a=20
+				{	text-align: center; }
+
+.menu[align=3D"center"]=20
+				{	width: auto !important; }
+
+body.outlook p=20
+				{	display: inline !important; }
+=09=09=09=09
+.gmailfix {
+ display:none;
+ display:none!important;
+}
+
+</style>=20
+<style type=3D"text/css">
+
+/* Customisations */
+
+body, .body {	background-color: #f1f1f1; }
+
+body, table.body, h1, h2, h3, h4, h5, h6, p, td, th, a {=20
+	font-family: "RooneySans", "PT Sans", "Lucida Sans", sans-serif;
+	line-height: 1.4;=20
+	margin-bottom: 1.4em;}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 { margin-bottom: 1.4rem; }
+
+a {
+  color: #0099ff;
+  text-decoration: none; }
+  a:hover {
+    color: #0099ff; }
+  a:active {
+    color: #0099ff; }
+  a:visited {
+    color: #0099ff; }
+
+#main_content {
+	background-color: #ffffff;
+	border-radius: 1em;
+	margin-bottom: 2em;
+	margin-top: 2em;
+}
+
+.title-row h1 {
+	text-align: center;
+/*	font-family: Calibri, sans-serif; */
+	font-size: 2.4em;
+	margin: 1em 0 0.7em;
+}
+
+.title-row h2 {
+	text-align: center;
+/*	font-family: Calibri, sans-serif; */
+	font-size: 1.4em;
+	margin: 1em 0 0.7em;
+}
+
+#logo {
+	margin: 0 auto;
+	}
+
+.pre-header {
+	text-align: center;
+	margin-bottom: 1.5em;
+	display: none;
+	}
+
+h1, .intro p {
+/* 	font-family: Calibri, sans-serif; */
+	font-size: 1.5em;
+	margin-top: 1em;
+	margin-bottom: 0.7em;
+	line-height: 1.4em;
+}
+
+h3 {margin-top: 1em;}
+
+table.button td {
+	border-radius: 0.3em;
+	border: none;
+	line-height: 0.8em !important;
+}
+
+
+table.button td a, table.button td p {
+	font-weight: normal;
+	color: #4a4a4a;
+	text-align: center;
+	margin-bottom: 0;
+	padding: 10px 0;
+	line-height: 0.8em;
+}
+
+table.button table td {
+	text-align: center;
+	color: #ffffff;
+	background: #0099ff;
+	border: none; }
+table.button table td a {
+	font-size: 14px;=09
+	font-family: "RooneySans", "PT Sans", "Lucida Sans", sans-serif;
+	font-weight: normal;
+	color: #ffffff;
+	padding: 0px;
+	border: none;}
+=09
+table.button:hover table td,
+table.button:visited table td,
+table.button:active table td {
+  background: #0077ff;
+ }
+=20=20
+table.button:hover table tr td a, table.button:active table tr td a, table.=
+button table tr td a:visited, table.button.tiny:hover table tr td a, table.=
+button.tiny:active table tr td a, table.button.tiny table tr td a:visited, =
+table.button.small:hover table tr td a, table.button.small:active table tr =
+td a, table.button.small table tr td a:visited, table.button.large:hover ta=
+ble tr td a, table.button.large:active table tr td a, table.button.large ta=
+ble tr td a:visited {
+    color: #ffffff;
+}
+
+table.footer {
+	margin: 2em 0;
+}
+
+p.legal, th.legal {
+	font-size: 0.8em;
+}
+
+body, table.body, h1, h2, h3, h4, h5, h6, p, td {
+font-family: "RooneySans", "PT Sans", "Lucida Sans", sans-serif;
+	}
+=09
+h1, .intro p {
+font-family: "RooneySans-Light", "PT Sans", "Lucida Sans", sans-serif;
+	}
+=09
+table.button td a, table.button td p {
+font-family: "RooneySans-Medium", "PT Sans", "Lucida Sans", sans-serif;
+font-weight: normal;
+
+	}
+=09
+.title-row h1 {
+font-family: "RooneySans-Light", "PT Sans", "Lucida Sans", sans-serif;
+	}
+
+table.specimenBox {
+	border: 1px solid #E0E0E0;
+	padding: 0px;
+	}
+
+
+
+.BC-button {
+	height: 35px;
+	width: 120px
+}
+
+.BC-button p {
+	font-weight: normal;
+}
+
+.specimenBox td, .specimenBox th {
+	padding:10px;
+	}
+
+img.inline		{	width: 100%;
+						padding-bottom: 20px; }
+=09
+table.subs_wrapper {
+	border: 1px solid #E0E0E0;
+	padding: 0px;=20
+	}
+=09
+.subs_wrapper h2 {
+	font-size: 20px;=09
+	margin-top: 10px;
+}
+
+table.options-table h1 {
+	font-size: 1.2em;
+	font-family: "RooneySans", "PT Sans", "Lucida Sans", sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+table.options-table {
+	border-radius: 1em;
+	border: 1px #c8c8c8 solid;
+	padding: 0px;
+	height: 100%;
+}
+
+table.options-table th {
+	background-color: #c8c8c8;
+}
+
+.options-table td {
+	vertical-align: middle;
+}
+
+table#promote {
+	border: 2px #f0f solid;
+}
+
+#promote th {
+	background-color: #f0f;
+}
+
+#promote table.button table td  {
+	text-align: center;
+	color: #ffffff;
+	background: #f0f;
+	border: none; }
+
+table.options-table th, table.options-table td {
+	padding: 0.5em;
+}
+
+table.options-table li {
+	list-style: none;
+	margin-left: -2em;
+}
+
+.options-table .emailBody p {
+	font-size: 1.3em;
+	text-align: center;
+	}
+
+th.no-wrapper, td.no-wrapper {padding: 8px 0px;}
+
+th.no-wrapper p, td.no-wrapper p {margin-bottom: 0px}
+
+.emailBody p {
+	font-size: 1.3em;
+	}
+=09
+.emailBody h1 {
+	font-size: 2.3em;
+	}
+=09
+.emailBody ul {
+	font-size: 1.3em;
+	margin-left: -2em;
+	}
+
+.emailBody li {
+	list-style: disc;
+}
+
+</style>
+
+<style media=3D"only screen and (max-width: 596px)" type=3D"text/css">
+@media only screen and (max-width: 596px) {
+body,
+table.body,
+p,
+td,
+th, {
+  font-size: 600px;}
+
+.emailBody ul {
+	list-style-position: inside;
+	}
+
+.title-row h1 {
+		font-size: 1.5em !important;
+		margin: 0 auto !important;
+		}
+
+.intro p {
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+	font-size: 1.2em;
+}
+
+th.legal {
+	font-size: 0.7em;
+}
+
+table.header td.wrapper-inner  {
+	padding: 10px 20px 0;
+}
+
+table.button {
+	margin: 0 !important;
+	}
+
+  table.body img {
+    width: auto !important;
+    height: auto !important; }
+  table.body center {
+    min-width: 0 !important; }
+  table.body .container {
+    width: 100% !important;
+    border-radius: 0 !important; }
+  table.body .columns,
+  table.body .column {
+    height: auto !important;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 16px !important;
+    padding-right: 16px !important; }
+    table.body .columns .column,
+    table.body .columns .columns,
+    table.body .column .column,
+    table.body .column .columns {
+      padding-left: 0 !important;
+      padding-right: 0 !important; }
+  table.body .collapse .columns,
+  table.body .collapse .column {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+  td.small-1,
+  th.small-1 {
+    display: inline-block !important;
+    width: 8.33333% !important; }
+  td.small-2,
+  th.small-2 {
+    display: inline-block !important;
+    width: 16.66667% !important; }
+  td.small-3,
+  th.small-3 {
+    display: inline-block !important;
+    width: 25% !important; }
+  td.small-4,
+  th.small-4 {
+    display: inline-block !important;
+    width: 33.33333% !important; }
+  td.small-5,
+  th.small-5 {
+    display: inline-block !important;
+    width: 41.66667% !important; }
+  td.small-6,
+  th.small-6 {
+    display: inline-block !important;
+    width: 50% !important; }
+  td.small-7,
+  th.small-7 {
+    display: inline-block !important;
+    width: 58.33333% !important; }
+  td.small-8,
+  th.small-8 {
+    display: inline-block !important;
+    width: 66.66667% !important; }
+  td.small-9,
+  th.small-9 {
+    display: inline-block !important;
+    width: 75% !important; }
+  td.small-10,
+  th.small-10 {
+    display: inline-block !important;
+    width: 83.33333% !important; }
+  td.small-11,
+  th.small-11 {
+    display: inline-block !important;
+    width: 91.66667% !important; }
+  td.small-12,
+  th.small-12 {
+    display: inline-block !important;
+    width: 100% !important; }
+  .columns td.small-12,
+  .column td.small-12,
+  .columns th.small-12,
+  .column th.small-12 {
+    display: block !important;
+    width: 100% !important; }
+  table.body td.small-offset-1,
+  table.body th.small-offset-1 {
+    margin-left: 8.33333% !important;
+    Margin-left: 8.33333% !important; }
+  table.body td.small-offset-2,
+  table.body th.small-offset-2 {
+    margin-left: 16.66667% !important;
+    Margin-left: 16.66667% !important; }
+  table.body td.small-offset-3,
+  table.body th.small-offset-3 {
+    margin-left: 25% !important;
+    Margin-left: 25% !important; }
+  table.body td.small-offset-4,
+  table.body th.small-offset-4 {
+    margin-left: 33.33333% !important;
+    Margin-left: 33.33333% !important; }
+  table.body td.small-offset-5,
+  table.body th.small-offset-5 {
+    margin-left: 41.66667% !important;
+    Margin-left: 41.66667% !important; }
+  table.body td.small-offset-6,
+  table.body th.small-offset-6 {
+    margin-left: 50% !important;
+    Margin-left: 50% !important; }
+  table.body td.small-offset-7,
+  table.body th.small-offset-7 {
+    margin-left: 58.33333% !important;
+    Margin-left: 58.33333% !important; }
+  table.body td.small-offset-8,
+  table.body th.small-offset-8 {
+    margin-left: 66.66667% !important;
+    Margin-left: 66.66667% !important; }
+  table.body td.small-offset-9,
+  table.body th.small-offset-9 {
+    margin-left: 75% !important;
+    Margin-left: 75% !important; }
+  table.body td.small-offset-10,
+  table.body th.small-offset-10 {
+    margin-left: 83.33333% !important;
+    Margin-left: 83.33333% !important; }
+  table.body td.small-offset-11,
+  table.body th.small-offset-11 {
+    margin-left: 91.66667% !important;
+    Margin-left: 91.66667% !important; }
+  table.body table.columns td.expander,
+  table.body table.columns th.expander {
+    display: none !important; }
+  table.body .right-text-pad,
+  table.body .text-pad-right {
+    padding-left: 10px !important; }
+  table.body .left-text-pad,
+  table.body .text-pad-left {
+    padding-right: 10px !important; }
+  table.menu {
+    width: 100% !important; }
+    table.menu td,
+    table.menu th {
+      width: auto !important;
+      display: inline-block !important; }
+    table.menu.vertical td,
+    table.menu.vertical th, table.menu.small-vertical td,
+    table.menu.small-vertical th {
+      display: block !important; }
+  table.menu[align=3D"center"] {
+    width: auto !important; }=20
+    }
+=20=20=20=20
+=20=20=20=20
+</style>=20
+<style type=3D"text/css">
+
+
+#mls_logo {
+	padding: 3em 0 2em;
+	}
+=09
+.pre-titles {
+	text-align: center;
+	margin-bottom: 1.5em;
+	}
+
+@media only screen and (max-width: 600px) {
+#mls_logo {
+		width: 50px !important;
+		height: 50px !important;
+		margin: 0 auto !important;
+		padding: 0 !important;
+		}
+
+}
+
+</style>=20
+
+</head>
+
+<body style=3D"width: 100% !important; min-width: 100%; -webkit-text-size-a=
+djust: 100%; -ms-text-size-adjust: 100%; margin: 0; Margin: 0; padding: 0; =
+-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: bo=
+rder-box; color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida San=
+s', sans-serif; font-weight: normal; text-align: left; line-height: 1.4; fo=
+nt-size: 16px; background-color: #f1f1f1; margin-bottom: 1.4em;">
+<!--[if mso]>
+<style type=3D"text/css">
+.text-pad {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<!-- <style> -->
+<div style=3D"display:none;font-size:1px;color:#f1f1f1;line-height:1px;max-=
+height:0px;max-width:0px;opacity:0;overflow:hidden;">
+A little something extra to be thankful for
+</div>
+<table class=3D"body" data-made-with-foundation=3D"" style=3D"border-spacin=
+g: 0; border-collapse: collapse; vertical-align: top; background-color: #f1=
+f1f1; padding: 0; text-align: left; background: none; height: 100%; width: =
+100%; color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', =
+sans-serif; font-weight: normal; margin: 0; Margin: 0; line-height: 1.4; fo=
+nt-size: 16px; margin-bottom: 1.4em;">
+	<!-- iphone gmail fix -->
+<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td styl=
+e=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyph=
+ens: auto; border-collapse: collapse !important; padding: 0; vertical-align=
+: top; text-align: left; color: #0a0a0a; font-family: 'RooneySans', 'PT San=
+s', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; Margin: 0; l=
+ine-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+		<div class=3D"gmailfix" style=3D"display: none !important; white-space: n=
+owrap; font: 15px courier; line-height: 0;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+</td>	</tr>
+<!-- close iphone gmail fix -->
+<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td clas=
+s=3D"float-center" align=3D"center" valign=3D"top" style=3D"word-wrap: brea=
+k-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-co=
+llapse: collapse !important; padding: 0; vertical-align: top; color: #0a0a0=
+a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-we=
+ight: normal; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em; text=
+-align: center; margin: 0 auto; Margin: 0 auto; float: none;">
+		<center data-parsed=3D"" style=3D"width: 100%; min-width: 580px;">
+		<style type=3D"text/css" align=3D"center" class=3D"float-center">=20=09
+		.header { background: transparent; }
+		.header .columns { padding-bottom: 0; }=20=20
+		.header p { color: #5e5e5e; padding-top: 15px; }
+		.header .wrapper-inner { padding: 20px; }=20
+		.header .container { background: transparent; }=20
+		table.button.facebook table td { background: #3B5998 !important; border-c=
+olor: #3B5998; }
+		table.button.twitter table td { background: #1daced !important; border-co=
+lor: #1daced; }
+		table.button.google table td { background: #DB4A39 !important; border-col=
+or: #DB4A39; }=20
+		.wrapper.secondary { background: #f3f3f3;}=09
+		</style>=09=09
+										<table class=3D"wrapper header float-center" align=3D"center" sty=
+le=3D"border-spacing: 0; border-collapse: collapse; padding: 0; vertical-al=
+ign: top; width: 100%; background: transparent; text-align: center; margin:=
+ 0 auto; Margin: 0 auto; float: none;">
+		<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td cl=
+ass=3D"wrapper-inner" style=3D"word-wrap: break-word; -webkit-hyphens: auto=
+; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; =
+vertical-align: top; text-align: left; color: #0a0a0a; font-family: 'Rooney=
+Sans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0=
+; Margin: 0; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em; paddi=
+ng: 20px;">
+				<table class=3D"container" style=3D"border-spacing: 0; border-collapse:=
+ collapse; padding: 0; vertical-align: top; text-align: inherit; width: 820=
+px; margin: 0 auto; Margin: 0 auto; background: transparent;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans=
+', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; text-=
+align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+						<table class=3D"row collapse" style=3D"border-spacing: 0; border-coll=
+apse: collapse; vertical-align: top; text-align: left; padding: 0; width: 1=
+00%; position: relative; display: table;">
+						<tbody>
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+h class=3D"small-4 large-4 columns first" style=3D"color: #0a0a0a; font-fam=
+ily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norma=
+l; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-=
+bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 0; padding-l=
+eft: 0; padding-right: 0; width: 201.33333px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"pa=
+dding: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-hei=
+ght: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th>	</tr></table>
+						</th>	<th class=3D"small-4 large-4 columns first" style=3D"color: #0a=
+0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font=
+-weight: normal; padding: 0; text-align: left; line-height: 1.4; font-size:=
+ 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom=
+: 0; padding-left: 0; padding-right: 0; width: 201.33333px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida =
+Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; t=
+ext-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">=
+=20
+										<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3DjaJsJncthVC=
+K7FYYCUzqO0XcfMaTURKYzC3H-2FhQBjLcwplBa4tslwglubnGRLAAD91FNsWoiik0lLj5ZnriT=
+8bT7rv1vLqNRTg3o1L3DolA-3D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEP=
+t0OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowcz0ng5L=
+LU62DsYH4LrN7q-2BBSRJHX61HnMpNBuOEiEnSK326cYakIluPO1JgC1CLF6WGJu-2BAymw6V35=
+HBQX5DJDUvw6tYi0gHod-2FyRNzL17c1BdQyRA52ZrQkjYrP81cH2wCZZ-2BZGRszY54o3YWXSb=
+FzOkY4eypMMm462z6jEMN-2FnV2O8lAyzqTuAWy46E7XSJBZH6KpOlYBuw1qQfWN2lJw42bxR9I=
+wA2rG7WgtaIxYLNZ6t9UJYfFddMyHAP9D9Cr9NKQmfqdBCVqtlzbiYRqnZv8zrdQ6tSR-2Bb76m=
+BTobyGDa-2FJKe9xs-2BftpqP1XsVrAyarIaVtOzt5kG1jhVv0qDS29Hx2yOiWM5ZCAC8-2B8RQ=
+-3D-3D" style=3D"color: #0099ff; font-family: 'RooneySans', 'PT Sans', 'Luc=
+ida Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: =
+0; text-align: left; line-height: 1.4; text-decoration: none; margin-bottom=
+: 1.4em;"><img class=3D"center" id=3D"logo" alt=3D"MyFonts" src=3D"https://=
+cdn.myfonts.net/s/ec/common-assets/logos/MFheaderLogoBig.png" width=3D"150"=
+ height=3D"71" style=3D"outline: none; text-decoration: none; -ms-interpola=
+tion-mode: bicubic; width: auto; max-width: 100%; clear: both; display: blo=
+ck; border: none; margin: 0 auto;"></a>
+								</th>	</tr>
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">=
+=09=09
+								</tr></table>
+						</th>	<th class=3D"small-4 large-4 columns last" style=3D"color: #0a0=
+a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-=
+weight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: =
+16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom:=
+ 0; padding-left: 0; padding-right: 0; width: 201.33333px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"pa=
+dding: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-hei=
+ght: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th>	</tr></table>
+						</th>	</tr>
+						</tbody>
+						</table>
+				</th>	</tr>				</tbody>
+				</table>
+		</td>	</tr>
+		</table>=09=09=09=09
+		<table class=3D"container float-center" id=3D"main_content" style=3D"bord=
+er-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; =
+text-align: center; background: none; width: 820px; margin: 0 auto; Margin:=
+ 0 auto; float: none; background-color: #ffffff; border-radius: 1em; margin=
+-bottom: 2em; margin-top: 2em;">
+		<tbody>
+		<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td st=
+yle=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hy=
+phens: auto; border-collapse: collapse !important; padding: 0; vertical-ali=
+gn: top; text-align: left; color: #0a0a0a; font-family: 'RooneySans', 'PT S=
+ans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; Margin: 0;=
+ line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+												<table class=3D"spacer" style=3D"border-spacing: 0; border-coll=
+apse: collapse; padding: 0; vertical-align: top; text-align: left;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+height=3D"48px" style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz=
+-hyphens: auto; hyphens: auto; border-collapse: collapse !important; paddin=
+g: 0; vertical-align: top; text-align: left; color: #0a0a0a; font-family: '=
+RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; mar=
+gin: 0; Margin: 0; margin-bottom: 1.4em; font-size: 48px; line-height: 48px=
+;">&#xA0;
+				</td>	</tr>
+				</tbody>
+				</table>												<table class=3D"row" style=3D"border-spacing: 0; bo=
+rder-collapse: collapse; vertical-align: top; text-align: left; padding: 0;=
+ width: 100%; position: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+50px; padding-right: 10px; padding-left: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+
+				</th>	<th class=3D"small-12 large-10 columns" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10px; =
+padding-bottom: 16px; width: 660px; padding-right: 10px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+d class=3D"title-row center" align=3D"center" style=3D"word-wrap: break-wor=
+d; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collaps=
+e: collapse !important; padding: 0; vertical-align: top; text-align: left; =
+color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-s=
+erif; font-weight: normal; margin: 0; Margin: 0; line-height: 1.4; font-siz=
+e: 16px; margin-bottom: 1.4em;">
+								<h1 style=3D"color: inherit; font-weight: normal; padding: 0; Margi=
+n: 0; line-height: 1.4em; word-wrap: normal; margin-bottom: 0.7em; Margin-b=
+ottom: 10px; margin-top: 1em; font-family: 'RooneySans-Light', 'PT Sans', '=
+Lucida Sans', sans-serif; margin: 1em 0 0.7em; text-align: center; font-siz=
+e: 2.4em;">Hot New Font <i>Volte Rounded</i> Is 75% Off =E2=80=94 Sale Ends=
+ Friday!</h1>
+						</td> 	</tr>
+						</table>
+				</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10=
+px; padding-bottom: 16px; width: 50px; padding-right: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	</tr>
+				</tbody>
+				</table> <!-- Title -->
+												<table class=3D"row" style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; padding: 0; width: 100%=
+; position: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+50px; padding-right: 10px; padding-left: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+
+				</th>	<th class=3D"small-12 large-10 columns" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10px; =
+padding-bottom: 16px; width: 660px; padding-right: 10px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;">=09
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+h class=3D"intro" style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT S=
+ans', 'Lucida Sans', sans-serif; font-weight: normal; padding: 0; margin: 0=
+; Margin: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-bo=
+ttom: 1.4em;">
+								<p style=3D"margin: 0; Margin: 0; color: #0a0a0a; font-weight: norm=
+al; padding: 0; text-align: left; Margin-bottom: 10px; font-family: 'Rooney=
+Sans-Light', 'PT Sans', 'Lucida Sans', sans-serif; line-height: 1.4em; font=
+-size: 1.5em; margin-bottom: 0.7em; margin-top: 1em;">For anyone dreading t=
+heir turn in the family =E2=80=9Cwhat are you thankful for=E2=80=9D game at=
+ the dinner table Thursday night =E2=80=94 it=E2=80=99s a lot of pressure! =
+=E2=80=94 we=E2=80=99re here to help you out with Indian Type Foundry=E2=80=
+=99s latest release.</p>
+
+						</th>	</tr>
+						</table>
+
+				</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10=
+px; padding-bottom: 16px; width: 50px; padding-right: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	</tr>
+
+				</tbody>
+				</table>=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-12 columns poster" style=3D"color: #0a0a0a; font-fa=
+mily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norm=
+al; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin=
+-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10px; padding=
+-bottom: 16px; width: 800px; padding-right: 10px;">
+						<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXqQO=
+0Uk6sOUKXL0xkogQlbNMfku3xRgjH1iN7C4l119ovVF1A9xnOeoNShVZIVk8nIEDYEypOI-2BaP=
+m8O9cLl6qEnOoyLUc-2B2AwZIZyHuut8gLXIojk1lYPuU-2B42wOYLT9M94KUoDK2g-3D-3D_uY=
+gC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWrY1uL=
+XPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowcz0ng5LLU62DsYH4LrN7q-2BBSRJHX61HnMp=
+NBuOEiEnSK326cYakIluPO1JgC1CLF6WGJu-2BAymw6V35HBQX5DJDUvw6tYi0gHod-2FyRNzL1=
+7c1BdQyRA52ZrQkjYrP81cH2gcX2UdK3W1wVxlQ-2Fyo05rCqoNKtXG2-2F1Jq-2F5zWwd3WBqE=
+fIuNAcASPGgktESqrL1bSQmRBCI1nBPUBdeGUkKKU715RCN-2FTZKb5trcIZ8naUVbwp7qK1fS2=
+n4frkfuoxL3ZPT26M0tune2xDYhSt5R-2Fcy0Y2wq1kI7Z9JRqbhfM4qDqk2uSSphAAW-2FBXtB=
+-2BKPsmaWehcy1CCR4SLBJQjHaLc2JqJ12YScCHu8cGkm3ow-3D-3D" style=3D"color: #00=
+99ff; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font=
+-weight: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-h=
+eight: 1.4; text-decoration: none; margin-bottom: 1.4em;"><img src=3D"http:=
+//cdn.myfonts.net/s/ec/trending-20161121/volte-rounded-1.png" class=3D"cent=
+er" alt=3D"Volte-Rounded" width=3D"780" height=3D"auto" style=3D"outline: n=
+one; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; m=
+ax-width: 100%; clear: both; display: block; border: none;"></a>				</th>	<=
+/tr>
+				</tbody>
+				</table>=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-3 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+190px; padding-right: 10px; padding-left: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	<th class=3D"small-12 large-6 columns center" style=3D"color: #0a=
+0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font=
+-weight: normal; padding: 0; text-align: left; line-height: 1.4; font-size:=
+ 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: =
+10px; padding-bottom: 16px; width: 400px; padding-right: 10px;">
+						<center style=3D"width: 100%; min-width: 242px;">
+						<table class=3D"button large center" style=3D"border-spacing: 0; bord=
+er-collapse: collapse; padding: 0; vertical-align: top; text-align: left; m=
+argin: 0 0 16px 0; Margin: 0 0 16px 0; width: 100%;">
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+h style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sa=
+ns', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; tex=
+t-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								<table class=3D"center" style=3D"border-spacing: 0; border-collapse=
+: collapse; padding: 0; vertical-align: top; text-align: left; width: 100%;=
+">
+																<tr style=3D"padding: 0; vertical-align: top; text-align: l=
+eft;">		<td style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyp=
+hens: auto; hyphens: auto; border-collapse: collapse !important; padding: 0=
+; vertical-align: top; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans',=
+ sans-serif; font-weight: normal; margin: 0; Margin: 0; font-size: 16px; ma=
+rgin-bottom: 1.4em; line-height: 0.8em !important; border-radius: 0.3em; te=
+xt-align: center; color: #ffffff; background: #0099ff; border: none;">
+										<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3DjaJsJncthVC=
+K7FYYCUzqO0XcfMaTURKYzC3H-2FhQBjLcwplBa4tslwglubnGRLAAD91FNsWoiik0lLj5ZnriT=
+8R7zx7ey6kbAdyLIjra2iyFNs2T725XzKnM-2B1-2BO5bw1ChS3lRfWKGpbw1k8FikC6Bg-3D-3=
+D_uYgC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWr=
+Y1uLXPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowcz0ng5LLU62DsYH4LrN7q-2BBSRJHX61=
+HnMpNBuOEiEnSK326cYakIluPO1JgC1CLF6WGJu-2BAymw6V35HBQX5DJDUvw6tYi0gHod-2FyR=
+NzL17c1BdQyRA52ZrQkjYrP81cH0uV0s9oO6TXaiUKfBtvl8wR2MLgdyl0fOWl31VOkZqtJJIZ5=
+QSNKFwSjEBVXGtXNFmfdiMTt0tGYBq3wvJfEZQbqRV2KDDfPtQBWL6VZ-2FT01de-2BjTfv2AB1=
+3JrpaqOh-2Fr1uD07Hm5pTdKnBQyhSCv-2BeWn92k4cmu9gHD0-2Ff51Co-2F43QMF5y3tgwGBH=
+ImZRo9Ihaf-2B-2FgfPDUsfLbPaClqL7M2rJ2Q7RsCNJGpiUdpzd6Q-3D-3D" style=3D"marg=
+in: 0; Margin: 0; text-align: center; line-height: 0.8em; margin-bottom: 0;=
+ color: #ffffff; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-=
+serif; font-weight: normal; text-decoration: none; display: inline-block; b=
+order: none; border-radius: 3px; padding: 10px 20px 10px 20px; font-size: 2=
+0px;">5 fonts for $32.50</a>
+								</td>	</tr>								</table>
+						</th>	</tr>
+						</table>
+						</center>
+				</th>	<th class=3D"small-12 large-3 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10=
+px; padding-bottom: 16px; width: 190px; padding-right: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+						</th>
+				</tr>
+				</tbody>
+				</table>=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+50px; padding-right: 10px; padding-left: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	<th class=3D"small-12 large-10 columns center emailBody" style=3D=
+"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-=
+serif; font-weight: normal; padding: 0; text-align: left; line-height: 1.4;=
+ font-size: 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; pad=
+ding-left: 10px; padding-bottom: 16px; width: 660px; padding-right: 10px;">
+						<p style=3D"margin: 0; Margin: 0; color: #0a0a0a; font-family: 'Roone=
+ySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding:=
+ 0; text-align: left; line-height: 1.4; margin-bottom: 1.4em; Margin-bottom=
+: 10px; font-size: 1.3em;">A sequel to Indian Type Foundry&rsquo;s 2015 hit=
+ Volte, Volte Rounded is a geometric sans serif with fully-rounded sausage-=
+like stroke endings. This robust, approachable 5-font family is 75% off unt=
+il Friday=E2=80=94so make sure you pick it up before the sale ends!</p>
+
+				</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10=
+px; padding-bottom: 16px; width: 50px; padding-right: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	</tr>
+				</tbody>
+				</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-12 columns poster" style=3D"color: #0a0a0a; font-fa=
+mily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norm=
+al; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin=
+-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10px; padding=
+-bottom: 16px; width: 800px; padding-right: 10px;">
+						<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXqQO=
+0Uk6sOUKXL0xkogQlbNMfku3xRgjH1iN7C4l119ovVF1A9xnOeoNShVZIVk8nIEDYEypOI-2BaP=
+m8O9cLl6qEnOoyLUc-2B2AwZIZyHuut8gLXIojk1lYPuU-2B42wOYLT9M94KUoDK2g-3D-3D_uY=
+gC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWrY1uL=
+XPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowcz0ng5LLU62DsYH4LrN7q-2BBSRJHX61HnMp=
+NBuOEiEnSK326cYakIluPO1JgC1CLF6WGJu-2BAymw6V35HBQX5DJDUvw6tYi0gHod-2FyRNzL1=
+7c1BdQyRA52ZrQkjYrP81cH2dPP8mHJymwCPut22S-2Fs1hP3K5-2BIB6SObRlbhII5kcruqau2=
+VJhffA6RjvOuJ1OOzwYRJgE9vtlDa7e4ib4D1nIM1GooxuHjWmHIeFAtvxG2Qcp9ThYSZUwyYCv=
+g4dEXCf3lOYr4oNa-2F3B-2B-2F311kyBbrC43WqAmltFk5m3kBwlmQnZdc1fdvF-2Fz3MMG4rf=
+gNhxygx6yZXbQAbJ-2FihZd0OBtZX-2FKHY4TeLyqWLLbHivKQ-3D-3D" style=3D"color: #=
+0099ff; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; fo=
+nt-weight: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line=
+-height: 1.4; text-decoration: none; margin-bottom: 1.4em;"><img src=3D"htt=
+p://cdn.myfonts.net/s/ec/trending-20161121/volte-rounded-2.png" class=3D"ce=
+nter" alt=3D"Volte-Rounded" width=3D"780" height=3D"auto" style=3D"outline:=
+ none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto;=
+ max-width: 100%; clear: both; display: block; border: none;"></a>				</th>=
+	</tr>
+				</tbody>
+				</table>=09=09=09=09
+=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+50px; padding-right: 10px; padding-left: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	<th class=3D"small-12 large-10 columns center emailBody" style=3D=
+"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-=
+serif; font-weight: normal; padding: 0; text-align: left; line-height: 1.4;=
+ font-size: 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; pad=
+ding-left: 10px; padding-bottom: 16px; width: 660px; padding-right: 10px;">
+						<p style=3D"margin: 0; Margin: 0; color: #0a0a0a; font-family: 'Roone=
+ySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding:=
+ 0; text-align: left; line-height: 1.4; margin-bottom: 1.4em; Margin-bottom=
+: 10px; font-size: 1.3em;">Aside from the family&rsquo;s eye-catching geome=
+try, simplification was the biggest design principal at play when creating =
+Volte Rounded with the designer, <a href=3D"http://sendgrid.myfonts.com/wf/=
+click?upn=3Di9BsJptWTuLXqQO0Uk6sOUKXL0xkogQlbNMfku3xRgjH1iN7C4l119ovVF1A9xn=
+OeoNShVZIVk8nIEDYEypOIxolZEure1ltkBFS7NHJGMbSLp4ajIKIbaz96pVL6OWe_uYgC-2F3O=
+CcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cY=
+iSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowcz0ng5LLU62DsYH4LrN7q-2BBSRJHX61HnMpNBuOEiE=
+nSK326cYakIluPO1JgC1CLF6WGJu-2BAymw6V35HBQX5DJDUvw6tYi0gHod-2FyRNzL17c1BdQy=
+RA52ZrQkjYrP81cH1gBqIZBiPETb0G-2FBelCpnn8BOppFNOEIzksVXuCWxhL-2BVKxBtyRW2TE=
+HgLSOhvEVQa8JXXczyajBw0L3Lo-2FXou7cLQYkyhlXxyT5k-2Bb1vW-2FjPui0RFkiNXb7PeqA=
+qyQXyMYomQbbhxkGZ-2BELjVlzHYAh25UQmXVRVPy1WWJCso7gVy9xo5GnPTk2oKRsasjgOxq4v=
+U-2Bs9nlW-2FpMBXUQYF72EPcW9NBQUAHo1t49b2M7g-3D-3D" style=3D"color: #0099ff;=
+ font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weig=
+ht: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-height=
+: 1.4; text-decoration: none; margin-bottom: 1.4em;">Namrata Goyal</a> goin=
+g for low-contrast letterforms even in the bolder weights. Other characteri=
+stics of the family such as its nearly-circular counters, moderate x-height=
+ and tall ascenders make the family feel fun and approachable.</p>
+
+				</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10=
+px; padding-bottom: 16px; width: 50px; padding-right: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	</tr>
+				</tbody>
+				</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-12 columns poster" style=3D"color: #0a0a0a; font-fa=
+mily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norm=
+al; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin=
+-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10px; padding=
+-bottom: 16px; width: 800px; padding-right: 10px;">
+						<a href=3D"http://sendgrid.myfonts.com/wf/click?upn=3Di9BsJptWTuLXqQO=
+0Uk6sOUKXL0xkogQlbNMfku3xRgjH1iN7C4l119ovVF1A9xnOeoNShVZIVk8nIEDYEypOI-2BaP=
+m8O9cLl6qEnOoyLUc-2B2AwZIZyHuut8gLXIojk1lYPuU-2B42wOYLT9M94KUoDK2g-3D-3D_uY=
+gC-2F3OCcIGiEY2WBSJokfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWrY1uL=
+XPae6cYiSX-2BX19ZNXrlB3EV-2FiWx2UsmfCowcz0ng5LLU62DsYH4LrN7q-2BBSRJHX61HnMp=
+NBuOEiEnSK326cYakIluPO1JgC1CLF6WGJu-2BAymw6V35HBQX5DJDUvw6tYi0gHod-2FyRNzL1=
+7c1BdQyRA52ZrQkjYrP81cH0luZ-2F-2F4EVLE2f9eegD0GBOC-2FYszQrO0-2FLAiwWoTQxVks=
+by6R-2Fc0VqHRPyJuCVdnRUcvletP6mg0ANlu-2BT5nAu50ZjKPEZDHZDhkIVhKR1kajc3xjVg0=
+FUylo4QUGN9zN32yLpTFLXO0dKQdZ62VrfevIMU2K7AeLn5PgdZQUYEdx9-2BIqIb0R7knHqV-2=
+Bv5ErZT2TivY0XWysj-2FuiAr0ggttXRfepKSAw2ok-2Fe-2BD3F235w-3D-3D" style=3D"co=
+lor: #0099ff; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-ser=
+if; font-weight: normal; padding: 0; margin: 0; Margin: 0; text-align: left=
+; line-height: 1.4; text-decoration: none; margin-bottom: 1.4em;"><img src=
+=3D"http://cdn.myfonts.net/s/ec/trending-20161121/volte-rounded-3.png" clas=
+s=3D"center" alt=3D"Volte-Rounded" width=3D"780" height=3D"auto" style=3D"o=
+utline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width=
+: auto; max-width: 100%; clear: both; display: block; border: none;"></a>		=
+		</th>	</tr>
+				</tbody>
+				</table>=09=09=09=09
+=09=09=09=09=09=09=09=09
+								<table class=3D"row" style=3D"border-spacing: 0; border-collapse: c=
+ollapse; vertical-align: top; text-align: left; padding: 0; width: 100%; po=
+sition: relative; display: table;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<th =
+class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fami=
+ly: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal=
+; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin-b=
+ottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width: =
+50px; padding-right: 10px; padding-left: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	<th class=3D"small-12 large-10 columns center emailBody" style=3D=
+"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-=
+serif; font-weight: normal; padding: 0; text-align: left; line-height: 1.4;=
+ font-size: 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; pad=
+ding-left: 10px; padding-bottom: 16px; width: 660px; padding-right: 10px;">
+						<p style=3D"margin: 0; Margin: 0; color: #0a0a0a; font-family: 'Roone=
+ySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding:=
+ 0; text-align: left; line-height: 1.4; margin-bottom: 1.4em; Margin-bottom=
+: 10px; font-size: 1.3em;">Volte Rounded is 75% off until this Friday at mi=
+dnight EST &mdash; pick it up today!</p>
+
+				</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a0a=
+0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-w=
+eight: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 1=
+6px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10=
+px; padding-bottom: 16px; width: 50px; padding-right: 20px;">
+						<table style=3D"border-spacing: 0; border-collapse: collapse; padding=
+: 0; vertical-align: top; text-align: left; width: 100%;"><tr style=3D"padd=
+ing: 0; vertical-align: top; text-align: left;"><th style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; text-align: left; line-heigh=
+t: 1.4; font-size: 16px; margin-bottom: 1.4em;"></th></tr></table>
+				</th>	</tr>
+				</tbody>
+				</table>
+=09=09=09=09=09=09=09=09
+
+		</td>	</tr>
+		</tbody></table>
+
+		<table class=3D"wrapper footer float-center" align=3D"center" style=3D"bo=
+rder-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top=
+; width: 100%; text-align: center; margin: 2em 0; Margin: 0 auto; float: no=
+ne;">
+		<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td cl=
+ass=3D"wrapper-inner" style=3D"word-wrap: break-word; -webkit-hyphens: auto=
+; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; =
+padding: 0; vertical-align: top; text-align: left; color: #0a0a0a; font-fam=
+ily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norma=
+l; margin: 0; Margin: 0; line-height: 1.4; font-size: 16px; margin-bottom: =
+1.4em;">
+				<table class=3D"container" style=3D"border-spacing: 0; border-collapse:=
+ collapse; padding: 0; vertical-align: top; text-align: inherit; background=
+: none; width: 820px; margin: 0 auto; Margin: 0 auto;">
+				<tbody>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; =
+hyphens: auto; border-collapse: collapse !important; padding: 0; vertical-a=
+lign: top; text-align: left; color: #0a0a0a; font-family: 'RooneySans', 'PT=
+ Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; Margin: =
+0; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+						<table class=3D"row" style=3D"border-spacing: 0; border-collapse: col=
+lapse; vertical-align: top; text-align: left; padding: 0; width: 100%; posi=
+tion: relative; display: table;">
+						<tbody>
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+h class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fa=
+mily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norm=
+al; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin=
+-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width=
+: 50px; padding-right: 10px; padding-left: 20px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida =
+Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; t=
+ext-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								</th>	</tr>
+								</table>
+						</th>	<th class=3D"small-6 large-5 columns" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10px; =
+padding-bottom: 16px; width: 330px; padding-right: 10px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th class=3D"legal text-left" style=3D"color: #0a0a0a; font-family: 'Rooney=
+Sans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: =
+0; margin: 0; Margin: 0; text-align: left; line-height: 1.4; margin-bottom:=
+ 1.4em; font-size: 0.8em;">
+										MyFonts Inc.<br> 600 Unicorn Park Drive<br>Woburn, MA 01801<br>USA
+								</th>	</tr>
+								</table>
+						</th>	<th class=3D"small-6 large-5 columns" style=3D"color: #0a0a0a; =
+font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weigh=
+t: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16px;=
+ margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10px; =
+padding-bottom: 16px; width: 330px; padding-right: 10px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th class=3D"legal text-right" style=3D"color: #0a0a0a; font-family: 'Roone=
+ySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding:=
+ 0; margin: 0; Margin: 0; text-align: left; line-height: 1.4; margin-bottom=
+: 1.4em; font-size: 0.8em;">										It is never our intention to send unw=
+anted e-mail. <br>
+This message was sent to kyle@kylefisher.com.<br>
+Want out? <a href=3D"http://sendgrid.myfonts.com/asm/unsubscribe/global/?us=
+er_id=3D303007&data=3DXpImpxtlfAlaa1cosZ5JXcGreX7o58nhv-5nHrV_8iym0Xn_mQNKG=
+_19TvcFu56mokNB5o78vddaWVfOgrGmmOCzOact6lJX6N0a3gJCjPXVC5x0S1bB2SjuaAr3Rqmk=
+Hi9onrQKKUE8IGkZ6Pt5w8WmIEqSZXYOZuvUGc5B4gw2WtZR0TkspyndpV-QvV53nueQjj4lNxT=
+svZsqvONHPp9BGPGVKNKkAqKeqMacM1UqMsIqcY_ZhBw2wsWYuKo4hDfmD09qzGmO1xjCYIzTAM=
+OqZm2pMfhOGeLO_gB9L1LJ8SNhs6jJ1ASfkIz6b7jx2dUXXhaAupqj7gWfMdyq6YlKVKH4WfD8W=
+YwQ4ffg4FzJ-Tnu-y_Q1FTSbJqpuNijQwQUJDwQr7s-hfxuq1HE4EYVN8MxUm4TPmNE59LB0WA2=
+BuLoptCOwJPBtnsP2-_-Zd0HrqiM8hEmhyOr89lPsgyfFWkr8KNuLtA0E6h4GgfB984NbNSt2sq=
+jLbpfkbnvAmYLmi7sE73EcNIjwHJY1noRIIe_Fn25Ws6sTvuqfJ8_ZQgY9FqTf44cnxP5Ndln6d=
+fr_h9aBXB1PGjyU5HSYw=3D=3D">Unsubscribe From All Emails</a> <br>
+
+Or click here to <a href=3D"http://sendgrid.myfonts.com/asm/unsubscribe/?us=
+er_id=3D303007&data=3DUSXc39XZCfy6UEwkhdyUK8M6DqhGLO-KsKfRiSttAOLVlZJwFcRHm=
+zd9lakQiXDeMNYzX-fSK7cBnk6gYrICZnnP3mw0gsJW6RqFVm6BMETM5WWADb_y-CzgpmklPUsx=
+QAiJonag7tnbsGFYAUFrRvmNRaCjS3eqDyDfKzE7yTWNra0nUxRKVPtBBC-CqhkNbc1F2qMkCxb=
+U01xvS2GsMHtKjx782sGSWUphgTAfzXqI5f9FTwjXzt3IonG0StbDotE1zGVvZGrSQQihC3vNnO=
+jocmyk6tt4pDJoYaRxXXEWchqZH3bO2R8MoGBaujIipAvJ2Dl9sXYOVx_pvXxOL6hokFkm1g7Sh=
+P1lngNxzQvQDjQlrDlSMPq1cufGfaXtC6u1LWsK5nEH0iJdfdt-1OaKp52tlYt9vvI9LK5HvLtF=
+sNtNCh1ub7dVxt_a2roBEhPU8pI585So-Otzzy5OwMhL1xbALqQRqjwipHcy24y1bvfWLiMtnVz=
+_7GYyZY4lISBG07U3Qz5yphdJQm-wW35PToo2hexihnTw25HKsDSP1nomvCK5w50RelyRE0UO5z=
+7ZCuySB06OwRsWio28hg=3D=3D" style=3D"color: #0099ff; font-family: 'RooneySa=
+ns', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: 0;=
+ margin: 0; Margin: 0; text-align: left; line-height: 1.4; text-decoration:=
+ none; margin-bottom: 1.4em;">unsubscribe from trending emails</a> only.			=
+					</th>	</tr>
+								</table>
+						</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a=
+0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font=
+-weight: normal; padding: 0; text-align: left; line-height: 1.4; font-size:=
+ 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: =
+10px; padding-bottom: 16px; width: 50px; padding-right: 20px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida =
+Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; t=
+ext-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								</th>	</tr>
+								</table>
+								</th></tr>
+						</tbody>
+						</table>
+				</td>	</tr>
+				<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<td =
+style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; =
+hyphens: auto; border-collapse: collapse !important; padding: 0; vertical-a=
+lign: top; text-align: left; color: #0a0a0a; font-family: 'RooneySans', 'PT=
+ Sans', 'Lucida Sans', sans-serif; font-weight: normal; margin: 0; Margin: =
+0; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+						<table class=3D"row" style=3D"border-spacing: 0; border-collapse: col=
+lapse; vertical-align: top; text-align: left; padding: 0; width: 100%; posi=
+tion: relative; display: table;">
+						<tbody>
+						<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		<t=
+h class=3D"small-12 large-1 columns first" style=3D"color: #0a0a0a; font-fa=
+mily: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: norm=
+al; padding: 0; text-align: left; line-height: 1.4; font-size: 16px; margin=
+-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-bottom: 16px; width=
+: 50px; padding-right: 10px; padding-left: 20px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida =
+Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; t=
+ext-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								</th>	</tr>
+								</table>
+						</th>	<th class=3D"small-12 large-10 columns" style=3D"color: #0a0a0a=
+; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font-wei=
+ght: normal; padding: 0; text-align: left; line-height: 1.4; font-size: 16p=
+x; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: 10px=
+; padding-bottom: 16px; width: 660px; padding-right: 10px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th class=3D"legal text-left" style=3D"color: #0a0a0a; font-family: 'Rooney=
+Sans', 'PT Sans', 'Lucida Sans', sans-serif; font-weight: normal; padding: =
+0; margin: 0; Margin: 0; text-align: left; line-height: 1.4; margin-bottom:=
+ 1.4em; font-size: 0.8em;">=20
+										MyFonts and MyFonts.com are trademarks of MyFonts Inc. registered=
+ in the U.S. Patent and Trademark Office and may be registered in certain o=
+ther jurisdictions.  Other technologies, font names, and brand names are us=
+ed for information only and remain trademarks or registered trademarks of t=
+heir respective companies.<br>=C2=A9 MyFonts Inc. 2016								</th>	</tr>
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<td style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: au=
+to; hyphens: auto; border-collapse: collapse !important; padding: 0; vertic=
+al-align: top; text-align: left; font-family: 'RooneySans', 'PT Sans', 'Luc=
+ida Sans', sans-serif; font-weight: normal; margin: 0; Margin: 0; margin-bo=
+ttom: 1.4em; display: none; font-size: 1px; color: #f1f1f1; line-height: 1p=
+x; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;"><a href=
+=3D"http://sendgrid.myfonts.com/asm/unsubscribe/?user_id=3D303007&data=3DUS=
+Xc39XZCfy6UEwkhdyUK8M6DqhGLO-KsKfRiSttAOLVlZJwFcRHmzd9lakQiXDeMNYzX-fSK7cBn=
+k6gYrICZnnP3mw0gsJW6RqFVm6BMETM5WWADb_y-CzgpmklPUsxQAiJonag7tnbsGFYAUFrRvmN=
+RaCjS3eqDyDfKzE7yTWNra0nUxRKVPtBBC-CqhkNbc1F2qMkCxbU01xvS2GsMHtKjx782sGSWUp=
+hgTAfzXqI5f9FTwjXzt3IonG0StbDotE1zGVvZGrSQQihC3vNnOjocmyk6tt4pDJoYaRxXXEWch=
+qZH3bO2R8MoGBaujIipAvJ2Dl9sXYOVx_pvXxOL6hokFkm1g7ShP1lngNxzQvQDjQlrDlSMPq1c=
+ufGfaXtC6u1LWsK5nEH0iJdfdt-1OaKp52tlYt9vvI9LK5HvLtFsNtNCh1ub7dVxt_a2roBEhPU=
+8pI585So-Otzzy5OwMhL1xbALqQRqjwipHcy24y1bvfWLiMtnVz_7GYyZY4lISBG07U3Qz5yphd=
+JQm-wW35PToo2hexihnTw25HKsDSP1nomvCK5w50RelyRE0UO5z7ZCuySB06OwRsWio28hg=3D=
+=3D" style=3D"color: #0099ff; font-family: 'RooneySans', 'PT Sans', 'Lucida=
+ Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; =
+text-align: left; line-height: 1.4; text-decoration: none; margin-bottom: 1=
+.4em;">&nbsp;</a>
+								</td>	</tr>
+								</table>
+						</th>	<th class=3D"small-12 large-1 columns last" style=3D"color: #0a=
+0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida Sans', sans-serif; font=
+-weight: normal; padding: 0; text-align: left; line-height: 1.4; font-size:=
+ 16px; margin-bottom: 1.4em; margin: 0 auto; Margin: 0 auto; padding-left: =
+10px; padding-bottom: 16px; width: 50px; padding-right: 20px;">
+								<table style=3D"border-spacing: 0; border-collapse: collapse; paddi=
+ng: 0; vertical-align: top; text-align: left; width: 100%;">
+								<tr style=3D"padding: 0; vertical-align: top; text-align: left;">		=
+<th style=3D"color: #0a0a0a; font-family: 'RooneySans', 'PT Sans', 'Lucida =
+Sans', sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; t=
+ext-align: left; line-height: 1.4; font-size: 16px; margin-bottom: 1.4em;">
+								</th>	</tr>
+								</table>
+								</th></tr>
+						</tbody>
+						</table>
+				</td>	</tr>
+
+				</tbody>
+				</table>
+		</td>	</tr>
+		</table>
+=09=09
+		</center>
+</td>	</tr>
+</table>
+<img src=3D"http://sendgrid.myfonts.com/wf/open?upn=3DuYgC-2F3OCcIGiEY2WBSJ=
+okfQZA-2Fx1GwTcUu-2F2t4IMEPt0OG9RmyjmkUW8DhyRt9ACgWrY1uLXPae6cYiSX-2BX19ZNX=
+rlB3EV-2FiWx2UsmfCowcz0ng5LLU62DsYH4LrN7q-2BBSRJHX61HnMpNBuOEiEnSK326cYakIl=
+uPO1JgC1CLF6WGJu-2BAymw6V35HBQX5DJDUvw6tYi0gHod-2FyRNzL17c1BdQyRA52ZrQkjYrP=
+81cH0JF-2Bfg4eAKpIZfU5YnO1nnYva80cQjbmSAJregY6phLjxCdboDHeG8bxgjDXu3Xj-2BfL=
+mgFZByOge4tOSFGOmnkAl2H0GDh4C6HIAKMZXdfN1lBHOwoEpFCO8fpf4Ck5K-2F1upeCuexy0s=
+joyslyB3N-2Bhg2hT72wJICqFAGc41FVdPzcsPOXIRqIFmeCSdCu75Y3BsC3cJ7m1zMqsf6RXS8=
+qJXCUcoywW-2F6-2BVLXn2ORC5g-3D-3D" alt=3D"" width=3D"1" height=3D"1" border=
+=3D"0" style=3D"height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--c9a2a1a86bab966101f2f31d621e18ac624de60c9bc4aa6046b0b2e067fb--

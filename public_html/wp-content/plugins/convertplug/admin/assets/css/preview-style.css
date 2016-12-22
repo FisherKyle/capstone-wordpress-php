@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+.cp-add-new-style div#TB_load {
+	z-index: 9999999 !important;
+}
+.cp-add-new-style #TB_window, #TB_ajaxContent{
+	overflow: auto;
+	padding: 0;
+}
+.cp-add-new-style #TB_window {
+    overflow: hidden;
+	padding-bottom: 30px;
+	bottom: 40px !important;
+	position: initial;
+    top: 0 !important;
+    left: -800px !important;
+}
+.cp-add-new-style #TB_title {
+    border: none !important;
+}
+.cp-add-new-style #TB_ajaxContent {
+    width: 100% !important;
+    padding: 15px;
+    box-sizing: border-box;
+    overflow: auto;
+    height: inherit !important;
+}
+.cp-action-link.style-demo {
+    cursor: pointer;
+}

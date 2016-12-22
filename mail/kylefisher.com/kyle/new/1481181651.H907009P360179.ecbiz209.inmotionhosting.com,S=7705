@@ -1,0 +1,159 @@
+Return-path: <kajal+bncBDA2Z5OVZUKRBSMTUTBAKGQEW6KKPWY@nokiamark.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 08 Dec 2016 02:20:51 -0500
+Received: from mail-pg0-f70.google.com ([74.125.83.70]:38448)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <kajal+bncBDA2Z5OVZUKRBSMTUTBAKGQEW6KKPWY@nokiamark.com>)
+	id 1cEt0d-001Vh7-MS
+	for kyle@kylefisher.com; Thu, 08 Dec 2016 02:20:51 -0500
+Received: by mail-pg0-f70.google.com with SMTP id e9sf147446488pgc.5
+        for <kyle@kylefisher.com>; Wed, 07 Dec 2016 23:20:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nokiamark.com; s=google;
+        h=mime-version:from:date:message-id:subject:to:x-original-sender
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-subscribe:list-unsubscribe;
+        bh=Irym379m9zZ017HiYkiuXpq0vpiel13remcQN0LPFn0=;
+        b=Q/KguCkpP5R41UJYSVZPvLNgcAu79P3Bp7EnkLoZKoo2Rvf+AlH/RgZYeoEW3UQ18s
+         IuVWWU8n6UigWESVOZtA+H3ILKI2uJNHOanSO5tjEKC3OuSQyNmP+ebd6ThvF5r893jH
+         w3JEGB0n9/4VwL2nxkVkfIqxaWEUETWAPZcF0uOo0lufnG1Dd+1SYrB+VVIl7bTLbSoe
+         sM72XBTFNr62izbYP7mtlIbakhokK1sDnz7hIbCJC9NF2fvPuWPLni/6AaVUMDJxLyWa
+         UTOzBJ5qDVD6tYHxwLF1x67SMSeWSjxEqZp7r8P+Rj3+92CksmSRnWyhOQGUoBs8zof/
+         er8w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-subscribe:list-unsubscribe;
+        bh=Irym379m9zZ017HiYkiuXpq0vpiel13remcQN0LPFn0=;
+        b=kqP9uMX0Ykg93dmlr5j8Z7a4FQL6VsZf9XWDXS6JBJylO710ytt+JAnoMhRRrzk1wb
+         aB+VbEXIKc0VT1bd51Ljca4qgIdMazlzuZfAlaHuGNt3Ouz/tVtf2pF7aBjBzYToRXMW
+         UFvcvnhH1VobaqTOi/MCaSnl/zDXb9vU+yziYsywrYJWx2yvY3YVoxVH5ckDATXiqcyJ
+         YveYpBSccH9IhQEf05nuBMtlEOsC5f1llySF93hdBOOkBqRVoN7CRDuwPAwnILaNjw07
+         4rhXtXbdaJkcjB5dwnCtb+liuXzKGkWajSQAP+v2u96VuJdQBi49lmMGY6YBMTz1EF4v
+         uocQ==
+X-Gm-Message-State: AKaTC02gj/ameEAEz3NcS+iWflVQ6T3cTWUcA7rlYiEmVixq/DYTRJIL3zi9J33uximO9g==
+X-Received: by 10.99.115.94 with SMTP id d30mr31985205pgn.167.1481181650622;
+        Wed, 07 Dec 2016 23:20:50 -0800 (PST)
+X-BeenThere: kajal@nokiamark.com
+Received: by 10.107.135.215 with SMTP id r84ls1680941ioi.20.gmail; Wed, 07 Dec
+ 2016 23:20:40 -0800 (PST)
+X-Received: by 10.36.146.134 with SMTP id l128mr562393itd.11.1481181640908;
+        Wed, 07 Dec 2016 23:20:40 -0800 (PST)
+Received: from mail-io0-x22e.google.com (mail-io0-x22e.google.com. [2607:f8b0:4001:c06::22e])
+        by mx.google.com with ESMTPS id o188si8438515itd.111.2016.12.07.23.20.40
+        for <kajal@nokiamark.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 07 Dec 2016 23:20:40 -0800 (PST)
+Received-SPF: pass (google.com: domain of sanjit@nokiamark.com designates 2607:f8b0:4001:c06::22e as permitted sender) client-ip=2607:f8b0:4001:c06::22e;
+Received: by mail-io0-x22e.google.com with SMTP id j65so13755971iof.0
+        for <kajal@nokiamark.com>; Wed, 07 Dec 2016 23:20:40 -0800 (PST)
+X-Received: by 10.36.148.84 with SMTP id j81mr566967ite.35.1481181640153; Wed,
+ 07 Dec 2016 23:20:40 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.62.6 with HTTP; Wed, 7 Dec 2016 23:20:39 -0800 (PST)
+X-Originating-IP: [45.115.188.197]
+From: Sanjit Yadav <sanjit@nokiamark.com>
+Date: Thu, 8 Dec 2016 12:50:39 +0530
+Message-ID: <CAMiM-kpRmARPuQbVeWzTOHXk5yXZ37qO1VvTy0J4AcDmJ3+UQg@mail.gmail.com>
+Subject: Website Designing & Development Proposal!!!
+To: kajal@nokiamark.com
+Content-Type: multipart/alternative; boundary=94eb2c0ef0e2827d790543207973
+X-Original-Sender: sanjit@nokiamark.com
+X-Original-Authentication-Results: mx.google.com;       dkim=pass
+ header.i=@nokiamark.com;       spf=pass (google.com: domain of
+ sanjit@nokiamark.com designates 2607:f8b0:4001:c06::22e as permitted sender) smtp.mailfrom=sanjit@nokiamark.com
+Precedence: list
+Mailing-list: list kajal@nokiamark.com; contact kajal+owners@nokiamark.com
+List-ID: <kajal.nokiamark.com>
+X-Spam-Checked-In-Group: kajal@nokiamark.com
+X-Google-Group-Id: 1053652455677
+List-Post: <https://groups.google.com/a/nokiamark.com/group/kajal/post>, <mailto:kajal@nokiamark.com>
+List-Help: <https://support.google.com/a/nokiamark.com/bin/topic.py?topic=25838>,
+ <mailto:kajal+help@nokiamark.com>
+List-Archive: <https://groups.google.com/a/nokiamark.com/group/kajal/>
+List-Subscribe: <https://groups.google.com/a/nokiamark.com/group/kajal/subscribe>,
+ <mailto:kajal+subscribe@nokiamark.com>
+List-Unsubscribe: <mailto:googlegroups-manage+1053652455677+unsubscribe@googlegroups.com>,
+ <https://groups.google.com/a/nokiamark.com/group/kajal/subscribe>
+
+--94eb2c0ef0e2827d790543207973
+Content-Type: text/plain; charset=UTF-8
+
+*Greetings,*
+
+*I am not sure if you have received my last email. If you have missed and
+till now looking for website designers & developers,*
+
+*Please mail me back today. It's more than great if you briefly introduce
+your project as well.*
+
+*Please give us a chance to assist you on that.*
+
+*In your success,*
+
+*Thanks Regards,*
+
+*Sanjit Yadav*
+
+*Business Development Manager  *
+
+*sanjit@nokiamark.com* <sanjit@nokiamark.com>
+
+--94eb2c0ef0e2827d790543207973
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+<p class=3D"gmail-MsoNoSpacing"><b><span style=3D"color:rgb(84,141,212)">Gr=
+eetings,</span></b></p>
+
+<p class=3D"gmail-MsoNoSpacing"><b><span style=3D"color:rgb(84,141,212)">I =
+am not sure if
+you have received my last email. If you have missed and till now looking fo=
+r
+website designers &amp; developers,</span></b></p>
+
+<p class=3D"gmail-MsoNoSpacing"><b><span style=3D"color:rgb(84,141,212)">Pl=
+ease mail me
+back today. It&#39;s more than great if you briefly introduce your project =
+as well.</span></b></p>
+
+<p class=3D"gmail-MsoNoSpacing"><b><span style=3D"color:rgb(84,141,212)">Pl=
+ease give us a
+chance to assist you on that.</span></b></p>
+
+<p class=3D"gmail-MsoNoSpacing"><b><span style=3D"color:rgb(84,141,212)">In=
+ your success,</span></b></p>
+
+<p class=3D"gmail-MsoNoSpacing"><b><span style=3D"font-size:12pt;font-famil=
+y:&quot;arial narrow&quot;,&quot;sans-serif&quot;;color:black">Thanks Regar=
+ds,</span></b><b><span style=3D"font-size:12pt;font-family:&quot;times new =
+roman&quot;,&quot;serif&quot;;color:black"></span></b></p>
+
+<p class=3D"gmail-MsoNoSpacing"><b><span style=3D"font-size:12pt;font-famil=
+y:&quot;arial narrow&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">Sanj=
+it
+Yadav</span></b><b><span style=3D"font-size:12pt;font-family:&quot;times ne=
+w roman&quot;,&quot;serif&quot;;color:rgb(141,179,226)"></span></b></p>
+
+<p class=3D"gmail-MsoNoSpacing"><b><span style=3D"font-size:12pt;font-famil=
+y:&quot;arial narrow&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">Busi=
+ness
+Development Manager =C2=A0</span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal;b=
+ackground:white none repeat scroll 0% 0%"><a href=3D"mailto:sanjit@nokiamar=
+k.com"><b><span style=3D"font-size:10.5pt;font-family:&quot;arial&quot;,&qu=
+ot;sans-serif&quot;;background:rgb(247,247,247) none repeat scroll 0% 0%">s=
+anjit@nokiamark.com</span></b></a><b><span style=3D"font-size:10.5pt;font-f=
+amily:&quot;arial&quot;,&quot;sans-serif&quot;;background:rgb(247,247,247) =
+none repeat scroll 0% 0%"></span></b></p>
+
+</div>
+
+--94eb2c0ef0e2827d790543207973--

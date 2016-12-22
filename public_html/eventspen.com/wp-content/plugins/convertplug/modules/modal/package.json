@@ -1,0 +1,28 @@
+{
+  "name": "modal",
+  "version": "1.0.0",
+  "description": "Modal Popups module for ConvertPlug",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "moment-timezone": "^0.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "~0.11.0 ",
+    "grunt-contrib-uglify": "~0.7.0",
+	"grunt-contrib-imagemin": "~0.4.0",
+    "shelljs": "~0.2.6",
+	"imagemin": "^3.1.0",
+    "pretty-bytes": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.brainstormforce.com:wp-sharks/convertplug.git"
+  },
+  "author": "Brainstorm Force",
+  "license": "ISC"
+}

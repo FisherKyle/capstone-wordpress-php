@@ -1,0 +1,127 @@
+Return-path: <01000158db7a756a-263eaaf1-0396-44e4-b636-74ee7ff7a071-000000@amazonses.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Wed, 07 Dec 2016 17:50:32 -0500
+Received: from a10-77.smtp-out.amazonses.com ([54.240.10.77]:59750)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <01000158db7a756a-263eaaf1-0396-44e4-b636-74ee7ff7a071-000000@amazonses.com>)
+	id 1cEl2W-001R1q-Oh
+	for kyle@kylefisher.com; Wed, 07 Dec 2016 17:50:16 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=qbj4rklbg4bdssleu37kmepljop2lmma; d=venmo.com; t=1481150985;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date;
+	bh=rp89E7u0gXUGjaQ9246MFrdUub1NBjQFHOPOF2y1eFg=;
+	b=G5xU4HnV3AoYQHK8p1uHeh9QXz5qLZ7rQwOnaitC7AL1qdafZksYo1bjVYMZ6qtv
+	X8DXnZf/wG9+3DOajIQZlGi80AfV20HqI4w8SMa6TdTd+Ypf7Bb+1sPA3+SHKs7k3Do
+	0vCVt5lnUfiX5IC5/Nd/cr5BYYvoweJ6IqKvDEiI=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1481150985;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date:Feedback-ID;
+	bh=rp89E7u0gXUGjaQ9246MFrdUub1NBjQFHOPOF2y1eFg=;
+	b=S2lN6QwYG8Hafh8awUl0lPvKpb3vxrZjOJE/SgfKpzNxzrCUR9rf84MkdcGouNP4
+	4zeDxvQAgHswv8ez34sTrrzJ9IqYJuYnjXFH3vHAx6sKrCEHRRFbpD0ShNtggnwHoii
+	8xqNuqpAFVtSC4zJNVkZaouYA1xsbOJD7Y4iiJrc=
+From: Venmo <venmo@venmo.com>
+Reply-To: no-reply@venmo.com
+To: kyle@kylefisher.com
+Subject: Sam Peppard requests $6.27 - Uber
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Message-ID: <01000158db7a756a-263eaaf1-0396-44e4-b636-74ee7ff7a071-000000@email.amazonses.com>
+Date: Wed, 7 Dec 2016 22:49:45 +0000
+X-SES-Outgoing: 2016.12.07-54.240.10.77
+Feedback-ID: 1.us-east-1.fQ0yL0IwGSResIpU9lW9fHNtFl/iEQA4Znd52HkQv2U=:AmazonSES
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+<html class=""  id="html_container" xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title> - Venmo</title>
+    </head>
+
+    <body style="margin:0;">
+        
+        <div style="font-family:'helvetica neue';">
+            <div style="margin: 0 auto; max-width: 320px;">
+                <div style="font-size:13px;border: 2px solid #e8ebea;">
+                    <div style="padding: 10px 0; text-align: center; background-color: #3C95D2;">
+                        <img src="https://s3.amazonaws.com/venmo/venmo-logo-white.png" alt="venmo" title="venmo" style="color: #fff;width:125px;height:24px;" />
+                    </div>
+                    
+                    <div style="padding:20px;background-color:#fff;">
+                        
+
+    
+
+<div width="100%" >
+    <table width="100%">
+        <tbody>
+        <tr>
+            <!-- img of actor -->
+            <td valign="top" width="48px" style="padding-right:10px;">
+                <a href="https://venmo.com/Sam-Peppard"><img src="https://venmopics.appspot.com/u/v1/f/206abe08-1658-4638-a8fe-3ce66976226d" style="border-radius:3px;width:48px;height:48px;"/></a> 
+            </td>
+            <td style="font-size:14px;color:#333;vertical-align:top;padding-left:2px;">
+                <div style="padding-bottom:5px;">
+                    <a href="https://venmo.com/Sam-Peppard" style="color:#5291CB; text-decoration:none" >Sam Peppard</a> requests <b>$6.27</b><br/> 
+                </div>
+                
+                <!-- note -->
+                <div>
+                    <p>Uber</p>
+                </div>
+                
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td style="font-size:14px;padding-left:2px;color:grey;">
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                
+                <table style="width:170px; table-layout:fixed;font-size:14px;">
+                    <tbody>
+                    <tr>
+                        <td style="padding:10px 0; text-align:center;background-color:#3C95D2;" >
+                            
+                            <a href="https://venmo.com/complete_payment" style="text-decoration:none; color: #fff;display:block;width:100%;">Complete Charge</a>
+                            
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+                
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+                        
+                    </div>
+                    <div style="padding:10px 15px; color: #888; background-color: #e8ebea; text-align: center;">
+                        
+                        
+                        <div style="color: #888; margin-top: 14px;">PayPal is located at<br/>2211 North First Street, San Jose, CA 95131</div>
+                        <div style="margin-top: 5px;">
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                    <div><img src="https://venmo.com/vt.png?scat=&u="/></div>
+                
+                
+            </div>
+        </div>
+    </body>
+</html>

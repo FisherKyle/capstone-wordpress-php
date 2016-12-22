@@ -1,0 +1,328 @@
+Return-path: <35-U8WBMKBG4ZadQbXk-SaaSXQ-bXgeSaaSXQ.OaYWkXQWkXQRUeTQd.OaY@scoutcamp.bounces.google.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 28 Nov 2016 21:20:24 -0500
+Received: from mail-yb0-f199.google.com ([209.85.213.199]:34558)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <35-U8WBMKBG4ZadQbXk-SaaSXQ-bXgeSaaSXQ.OaYWkXQWkXQRUeTQd.OaY@scoutcamp.bounces.google.com>)
+	id 1cBY1w-003lkn-6b
+	for kyle@kylefisher.com; Mon, 28 Nov 2016 21:20:24 -0500
+Received: by mail-yb0-f199.google.com with SMTP id d59so130431357ybi.1
+        for <kyle@kylefisher.com>; Mon, 28 Nov 2016 18:20:24 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:reply-to:precedence:list-unsubscribe:feedback-id
+         :list-id:message-id:date:subject:from:to;
+        bh=eSQCbAmO8UkLHI2AN6isfYPa+Nvkumv+3qOir4Yuvis=;
+        b=hQBzScxV23UZkajOQ5Ip5hf3CDWg/eXrqtA87s9fT6Qy2KsdPJt6zKv+uQM22L2t8S
+         fCdvzMkx4iKTlVBeMx1288cgHmivUS6fFm+BPaZ+BBizSP095b7VkVexxdgNai9iJi5c
+         j4uf32r5euqnMzT7BRuhvSS7QX6J37aigpvA5wyFeuKCfu4ggC3jpeJqRBZ99kLn3iXi
+         gEejplb0bqLxR8y+F8KP+x1J/FfIwLo7qfhk6eYeTg31rIuOWvrArehYWbMSn/HcSNBv
+         SNWdUMnK50d6ZGy14v+VcBJ+PCKsBfMUAKR9rn59N2YCeTnLpuDan2bx0WjnR2Tasxkl
+         9G0A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:reply-to:precedence
+         :list-unsubscribe:feedback-id:list-id:message-id:date:subject:from
+         :to;
+        bh=eSQCbAmO8UkLHI2AN6isfYPa+Nvkumv+3qOir4Yuvis=;
+        b=cZ+rBYHJb9O5uKYEL8vpOZ+vt4xZXEaqDyNhhRkV7fWsK4v80+t39wYkERyaZCBb8G
+         VplaGkuHr6zaNL5gsrtoRiahfcO2b1klG0ahixa5eLKVQ+7PkmzmuSWBSXYENxA9NV2q
+         u3V/01ZHJtoPYiQgAKky7KnJXRlqKpVoG2eYlHU4jOLOPj5CLCV6yk0XbwDsT0MwzkdD
+         T7L0sE/e0cjht64f7y9gGcqmnfYf6S4jkp6FjrxZKKQXHDl1IdO844U5bRqCtjeL7VBC
+         axZ1iyLeD5m+p/qvflPGWTH+NxKUbdhuwmssrjG0D4FPwaehdZ1oYkIwqa48NGU3Zcfz
+         siVQ==
+X-Gm-Message-State: AKaTC038hnJ97h/fXipbUGSN648AL091ZzANIV8qc62y736b+ad4rnMMppm4pLhgONajn8U=
+MIME-Version: 1.0
+X-Received: by 10.37.219.3 with SMTP id g3mr2096546ybf.23.1480386023262; Mon,
+ 28 Nov 2016 18:20:23 -0800 (PST)
+Reply-To: "Google+" <noreply-google-plus@google.com>
+Precedence: bulk
+List-Unsubscribe: <https://www.google.com/appserve/mkt/p/vnDsbe6V3uYQbagmoH6IFz1Vz78PP8AH1p6wjc64iKGcfO4g1dqy3jNVMliQozLEQFPtho2sjpvl5o6oDYtme0glLc7-EHctPmNgz5E4o9Zh3mxxpN3J3KE8FB0XFfvtw2-QTt4RcvIUiBXy2jHAWrU6fTAwJsWXFKCv30-t3p8s1SuKHmnBHYOdKwfgIRQmXYilJt32E5KV65BDQu5IlFH3UE4h77isLI-Om709miahfVARTu2QFPcZVurRIwPJl3_uie9rf-GhGt1jnKFf8VTmkL_KRJXx1IYl43Tkgtjgcx8eM36iX37VLx360bYqyTEN>
+Feedback-ID: Len:D3332016:C10008641:gamma
+List-Id: <885bfb5b843081543c4e2b96b784f32acea7ad4c.google.com>
+Message-ID: <b449400dbdb1a852.1480386022601.100046542.10008641.en.99f21017594dc746@google.com>
+Date: Tue, 29 Nov 2016 02:20:23 +0000
+Subject: Kyle, delve into 'Wireless/Computer Networking' and much more!
+From: "Google+" <noreply-google-plus@google.com>
+To: kyle@kylefisher.com
+Content-Type: multipart/alternative; boundary=94eb2c1870540c101c0542673b89
+
+--94eb2c1870540c101c0542673b89
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+RW5kbGVzcyBkaXNjb3ZlcnkNCg0KRGl2ZSByaWdodCBpbiBhbmQgZm9sbG93IHdoYXQgeW91IGxv
+dmUNCg0KDQoNCldpcmVsZXNzL0NvbXB1dGVyIE5ldHdvcmtpbmcNCg0KDQp0YW1tIHNyaW5pdmFz
+YW4NCg0KDQoNCg0KVmlldw0KDQoNCkRlc3RpbnkgdGhlIEdhbWUNCg0KDQpKZWZmcmV5IFlvdW5n
+DQoNCg0KDQoNClZpZXcNCg0KDQoNCg0KDQoNCkhUTUwsIENTUyAtIFRpcHMgJiBUcmlja3MNCg0K
+DQrihKTwnZWS8J2VnPCdlZog4oSC8J2VmfCdlaDwnZWo8J2VlfCdlZnwnZWm8J2Vo/CdlaoNCg0K
+DQoNCg0KVmlldw0KDQoNClNvbWV0aGluZyBMaWtlIFByb2dyYW1taW5nDQoNCg0KTWljaGFlbCBC
+ZW5uZXR0DQoNCg0KDQoNClZpZXcNCg0KDQoNClZpZXcgY29sbGVjdGlvbnMNCg0KDQpUaGlzIG5v
+dGlmaWNhdGlvbiB3YXMgc2VudCB0byBreWxlQGt5bGVmaXNoZXIuY29tLiBEb24ndCB3YW50IG9j
+Y2FzaW9uYWwgIA0KdXBkYXRlcyBhYm91dCBHb29nbGUrYWN0aXZpdHkgYW5kIGZyaWVuZCBzdWdn
+ZXN0aW9ucz8NCg0KVW5zdWJzY3JpYmUgZnJvbSB0aGVzZSBlbWFpbHMuDQoNCkdvb2dsZSBJbmMu
+LCAxNjAwIEFtcGhpdGhlYXRyZSBQa3d5LCBNb3VudGFpbiBWaWV3LCBDQSA5NDA0MyBVU0ENCg0K
+DQo=
+--94eb2c1870540c101c0542673b89
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+  <html dir=3D"auto">
+    <body style=3D"background:#eee;display:block;font-family:Roboto,RobotoD=
+raft,Helvetica,Arial,sans-serif;">
+      <center>
+        <div style=3D"background:#fff;width:552px;">
+          <a href=3D"https://plus.google.com/stream?g=3DHgnWq9TcUVvpE-o96GO=
+B0i6cTaqdyLGLGSwcttpEGgNujLMvubD4Fau8H-wGKuLoy9wohHmZ3Uch" style=3D"text-de=
+coration:none;">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"width:100%;">
+              <tr>
+                <td align=3D"center" style=3D"background-color:#d44b38;padd=
+ing-bottom:15px;padding-top:20px;">
+                  <a href=3D"https://plus.google.com/stream?g=3DHgnWq9TcUVv=
+pE-o96GOB0i6cTaqdyLGLGSwcttpEGgNujLMvubD4Fau8H-wGKuLoy9wohHmZ3Uch">
+                    <img height=3D"30" src=3D"https://ssl.gstatic.com/image=
+s/branding/lockups/2x/lockup_gplus_light_color_88x24dp.png" style=3D"border=
+:0">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </a>
+          <div style=3D"color:black;font-size:24px;padding-top:30px;">
+Endless discovery          </div>
+          <div style=3D"color:#666;font-size:16px;padding-bottom:30px;paddi=
+ng-top:12px;">
+Dive right in and follow what you love          </div>
+          <table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:504px;"=
+>
+            <tr>
+              <td>  <div style=3D"background:#ff6f42;width:240px">
+    <a style=3D"text-decoration:none;" href=3D"https://plus.google.com/_/no=
+tifications/emlink?emr=3D09459489460226286249&amp;path=3D/collection/4VVKb&=
+amp;g=3Dy_maq-XDMkMv8y7U0JEMaskCXAI8x2dB5LmqIy2yYxGLacOJSUP7bwWapmNTT969iR2=
+e9Jg193xe-qBUIOgr1BYslDZpVUU2dMvrkVoClc-90sBLICQ9qaPejQ_-uPZcDIWw9rQ3H9ZGzL=
+flOk3MAjBHmSgnMslIlQtBOlE%3D">
+      <table background=3D"https://lh3.googleusercontent.com/k9KyHmM-qtANbQ=
+0lxJFQaYCTOQAzH9w5udyT7Zy04T0=3Dw240-c-h135-k-no" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"background-repeat:no-repeat;" width=3D"10=
+0%">
+        <tr><td colspan=3D"2" height=3D"112px"></td></tr>
+        <tr><td width=3D"16px"></td><td><img height=3D"46" src=3D"https://l=
+h4.googleusercontent.com/-1IbZbSK5ywc/AAAAAAAAAAI/AAAAAAAAZBc/PzU1_p9dBXE/h=
+128/photo.jpg" style=3D"border:solid 1px #fff;border-radius:50%;-moz-border=
+-radius:50%;-webkit-border-radius:50%;" width=3D"46"></td></tr>
+        <tr>
+          <td colspan=3D"2" valign=3D"top">
+            <div style=3D"color:white;font-family:Roboto,RobotoDraft,Helvet=
+ica,Arial,sans-serif;font-size:16px;height:3.625em;padding-left:16px;paddin=
+g-right:16px;padding-top:4px">
+              <div style=3D"line-height:1.25em;max-height:2.5em;overflow:hi=
+dden;">
+                Wireless/Computer Networking
+              </div>
+              <div style=3D"line-height:0.875em;margin-top:0.25em;max-heigh=
+t:0.875em;overflow:hidden;">
+                 <div style=3D"color:rgba(255,255,255,.54);font-size:75%">
+                   tamm srinivasan
+                 </div>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan=3D"2" style=3D"color:white;font-family:Roboto,RobotoD=
+raft,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;padding:16px=
+;text-transform:uppercase;">
+View          </td>
+        </tr>
+      </table>
+    </a>
+  </div>
+</td>
+              <td width=3D"24"></td>
+              <td>  <div style=3D"background:#ff6f42;width:240px">
+    <a style=3D"text-decoration:none;" href=3D"https://plus.google.com/_/no=
+tifications/emlink?emr=3D09459489460226286249&amp;path=3D/collection/Y-lsb&=
+amp;g=3DuH3_CX3DroclLZRBm9XMB8mffwDItGORQBt7tGxfGK-GQJ4_oLm4J2t-3G6VFWgvKtK=
+V94vRevKb6IuEXnbEB2q_Nohv9Oh4-cvMTpr5-WnQTOjH0qCxxTZRnRa5lSOO6p8VrMdDCl9Ogd=
+twkVEwYiRmRy1Jo6QtVe8TFuc%3D">
+      <table background=3D"https://lh3.googleusercontent.com/zv77xudAY7zvqr=
+VCkR0IU2smWTcY2ReKKEE1cs4GX74tZ7M1QLSuAJ6nT5i0nA4NrXk1Nu_QDnI=3Dw240-c-h135=
+-k-no" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"background=
+-repeat:no-repeat;" width=3D"100%">
+        <tr><td colspan=3D"2" height=3D"112px"></td></tr>
+        <tr><td width=3D"16px"></td><td><img height=3D"46" src=3D"https://l=
+h4.googleusercontent.com/-v2QybuvNTCM/AAAAAAAAAAI/AAAAAAAFigQ/eTMvYDZ6B4c/h=
+128/photo.jpg" style=3D"border:solid 1px #fff;border-radius:50%;-moz-border=
+-radius:50%;-webkit-border-radius:50%;" width=3D"46"></td></tr>
+        <tr>
+          <td colspan=3D"2" valign=3D"top">
+            <div style=3D"color:white;font-family:Roboto,RobotoDraft,Helvet=
+ica,Arial,sans-serif;font-size:16px;height:3.625em;padding-left:16px;paddin=
+g-right:16px;padding-top:4px">
+              <div style=3D"line-height:1.25em;max-height:2.5em;overflow:hi=
+dden;">
+                Destiny the Game
+              </div>
+              <div style=3D"line-height:0.875em;margin-top:0.25em;max-heigh=
+t:0.875em;overflow:hidden;">
+                 <div style=3D"color:rgba(255,255,255,.54);font-size:75%">
+                   Jeffrey Young
+                 </div>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan=3D"2" style=3D"color:white;font-family:Roboto,RobotoD=
+raft,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;padding:16px=
+;text-transform:uppercase;">
+View          </td>
+        </tr>
+      </table>
+    </a>
+  </div>
+</td>
+            </tr>
+            <tr><td colspan=3D"3" height=3D"24"></td></tr>
+            <tr>
+              <td>  <div style=3D"background:#778f9b;width:240px">
+    <a style=3D"text-decoration:none;" href=3D"https://plus.google.com/_/no=
+tifications/emlink?emr=3D09459489460226286249&amp;path=3D/collection/8ONcAB=
+&amp;g=3Dp-NNPs4UC8lWkmm-yM3EFrq0Yx3FvXirDYdnwmNjOMMnCqbMtWkBI1Fp_80FP7JqBU=
+hJKFnB9nk1c8R2HCCeyldF9_Z-NLNYGsdIms1UPtx376DBFAysB0HQ3Lf02l5ZnZmPli5kRPB5t=
+NRqHh-geBmJTIY8gJfcC99jfaKQ">
+      <table background=3D"https://lh3.googleusercontent.com/qfi_YzsThuDgWV=
+i3drhCmaXmjnZ6a7LsMbpzFUjo-To=3Dw240-c-h135-k-no" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"background-repeat:no-repeat;" width=3D"10=
+0%">
+        <tr><td colspan=3D"2" height=3D"112px"></td></tr>
+        <tr><td width=3D"16px"></td><td><img height=3D"46" src=3D"https://l=
+h5.googleusercontent.com/-jVDd2UBU9PA/AAAAAAAAAAI/AAAAAAAABfk/plYxNblIeug/h=
+128/photo.jpg" style=3D"border:solid 1px #fff;border-radius:50%;-moz-border=
+-radius:50%;-webkit-border-radius:50%;" width=3D"46"></td></tr>
+        <tr>
+          <td colspan=3D"2" valign=3D"top">
+            <div style=3D"color:white;font-family:Roboto,RobotoDraft,Helvet=
+ica,Arial,sans-serif;font-size:16px;height:3.625em;padding-left:16px;paddin=
+g-right:16px;padding-top:4px">
+              <div style=3D"line-height:1.25em;max-height:2.5em;overflow:hi=
+dden;">
+                HTML, CSS - Tips &amp; Tricks
+              </div>
+              <div style=3D"line-height:0.875em;margin-top:0.25em;max-heigh=
+t:0.875em;overflow:hidden;">
+                 <div style=3D"color:rgba(255,255,255,.54);font-size:75%">
+                   =E2=84=A4=F0=9D=95=92=F0=9D=95=9C=F0=9D=95=9A =E2=84=82=
+=F0=9D=95=99=F0=9D=95=A0=F0=9D=95=A8=F0=9D=95=95=F0=9D=95=99=F0=9D=95=A6=F0=
+=9D=95=A3=F0=9D=95=AA
+                 </div>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan=3D"2" style=3D"color:white;font-family:Roboto,RobotoD=
+raft,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;padding:16px=
+;text-transform:uppercase;">
+View          </td>
+        </tr>
+      </table>
+    </a>
+  </div>
+</td>
+              <td width=3D"24"></td>
+              <td>  <div style=3D"background:#414141;width:240px">
+    <a style=3D"text-decoration:none;" href=3D"https://plus.google.com/_/no=
+tifications/emlink?emr=3D09459489460226286249&amp;path=3D/collection/8rKxb&=
+amp;g=3DTtJd3VqHgqoikBRhnDDQVoBTRgj9BBb_OqWdbWpaDdGK0BKOqohOpTKVdzAfqdUBSqy=
+AlJ8W05y5Xzmp-inSuJE3f-HkHYYkYTYQQHOLSR6BObUstSE1H2iFjraHQtbYnWojv_GipfPZE5=
+eB4C42g0G5GPl7P5Byve-NH2E%3D">
+      <table background=3D"https://lh3.googleusercontent.com/ZVZQNODgIleFnU=
+0_csMjWVIIG7_Hc-2jooiwpk-6hoI=3Dw240-c-h135-k-no" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"background-repeat:no-repeat;" width=3D"10=
+0%">
+        <tr><td colspan=3D"2" height=3D"112px"></td></tr>
+        <tr><td width=3D"16px"></td><td><img height=3D"46" src=3D"https://l=
+h3.googleusercontent.com/-zg-HnoZH7mQ/AAAAAAAAAAI/AAAAAAAAHs8/qLssYChbl5s/h=
+128/photo.jpg" style=3D"border:solid 1px #fff;border-radius:50%;-moz-border=
+-radius:50%;-webkit-border-radius:50%;" width=3D"46"></td></tr>
+        <tr>
+          <td colspan=3D"2" valign=3D"top">
+            <div style=3D"color:white;font-family:Roboto,RobotoDraft,Helvet=
+ica,Arial,sans-serif;font-size:16px;height:3.625em;padding-left:16px;paddin=
+g-right:16px;padding-top:4px">
+              <div style=3D"line-height:1.25em;max-height:2.5em;overflow:hi=
+dden;">
+                Something Like Programming
+              </div>
+              <div style=3D"line-height:0.875em;margin-top:0.25em;max-heigh=
+t:0.875em;overflow:hidden;">
+                 <div style=3D"color:rgba(255,255,255,.54);font-size:75%">
+                   Michael Bennett
+                 </div>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan=3D"2" style=3D"color:white;font-family:Roboto,RobotoD=
+raft,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;padding:16px=
+;text-transform:uppercase;">
+View          </td>
+        </tr>
+      </table>
+    </a>
+  </div>
+</td>
+            </tr>
+          </table>
+          <div style=3D"border-bottom:solid 1px #eee;padding-top:24px;paddi=
+ng-bottom:32px;width:504px;">
+            <a href=3D"https://plus.google.com/collections/featured?g=3DcnC=
+6k3wrsaRK0u2DZCKamewq6n8OyC43B1mow99jKEfXZ-DO9c_6w_ekahEJCparanW9hRtJVazd4x=
+w154JLY3Dd48Zq9Nk%3D" style=3D"background-color:#4285f4;border:solid 1px #d=
+fdfdf;border-radius:3px;color:#fff;display:inline-block;font-size:14px;font=
+-weight:500;line-height:36px;min-height:36px;min-width:70px;padding:1px 20p=
+x;text-decoration:none;text-transform:uppercase;white-space:nowrap;">
+View collections            </a>
+          </div>
+          <div style=3D"padding-left:60px;padding-right:60px;padding-bottom=
+:14px;padding-top:14px;">
+  <div style=3D"font-size:12px;color:#666;margin-bottom:10px">
+    <div style=3D"margin-top: 10px;">
+        This notification was sent to <a href=3D"mailto:kyle@kylefisher.com=
+">kyle@kylefisher.com</a>.
+   Don&#39;t want occasional updates about Google+activity and friend sugge=
+stions?=20
+
+    </div>
+
+    <div style=3D"margin-top: 3px;">
+
+  <a href=3D"https://www.google.com/appserve/mkt/p/vnDsbe6V3uYQbagmoH6IFz1V=
+z78PP8AH1p6wjc64iKGcfO4g1dqy3jNVMliQozLEQFPtho2sjpvl5o6oDYtme0glLc7-EHctPmN=
+gz5E4o9Zh3mxxpN3J3KE8FB0XFfvtw2-QTt4RcvIUiBXy2jHAWrU6fTAwJsWXFKCv30-t3p8s1S=
+uKHmnBHYOdKwfgIRQmXYilJt32E5KV65BDQu5IlFH3UE4h77isLI-Om709miahfVARTu2QFPcZV=
+urRIwPJl3_uie9rf-GhGt1jnKFf8VTmkL_KRJXx1IYl43Tkgtjgcx8eM36iX37VLx360bYqyTEN=
+" style=3D"color:#3366cc;text-decoration:none">Unsubscribe</a> from these e=
+mails.
+    </div>
+
+    <div style=3D"margin-top: 3px;">
+      Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA
+    </div>
+  </div>
+          </div>
+        </div>
+      </center>
+    <img height=3D"1" width=3D"3" src=3D"https://www.google.com/appserve/mk=
+t/img/fxawBt3Jamf4UQ4lzyh3YJO3XAnB0_PhD_tIV3a2uQ=3D=3D.gif"></body>
+  </html>
+
+--94eb2c1870540c101c0542673b89--

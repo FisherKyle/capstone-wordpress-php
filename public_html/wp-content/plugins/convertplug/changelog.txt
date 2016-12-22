@@ -1,0 +1,118 @@
+Version 2.3.1 - June 20, 2016
+- New: Social media with form modal style
+- New: Social article modal style
+- New: Free widget slide in style
+- New: Filter hook for target page settings
+- New: HTML tags allowed in success and failure message after form submission
+- New: Added input box radius option
+- New: Added option to set timeout to display close button
+- New: Retrieving alt attribute for media images
+- New: Added download file option after redirection
+- New: Added positions for close button
+- New: Added option to appear module when user scrolls to a certain ID or Class on the page
+- New: Added option to auto close module
+- New: Added option to set actions after successful form submission
+- New: Added option to minimize optin widget slide in style on load
+- New: Added option to attach input field and submit button
+- Improvement: Display style edit link at front end only for users who has access to ConvertPlug
+- Improvement: Fixed conflicts with WooCommerce, Ultimate Member and Blog Manager plugin
+- Fixed: Mod security for relative image path
+- Fixed: Modal overlapping on other HTML containers after closing
+- Fixed: Sanitize folder name issue while importing style
+- Fixed: Custom CSS style including multiple times
+
+Version 2.3.0 - May 19, 2016
+- New: Introduced 30+ new styles
+- New: Introduced social media styles
+- New: Introduced floating social bar style
+- New: Introduced predefined images set for close image
+- New: Introduced style importer which will import hot link images into WP Media
+- New: Introduced image source option
+- Improvement: Google font import / export  through style exporter
+- Improvement: Something went wrong email notification to administrator
+- Fixed: Fatal error for memory exhausted issue, improved target pages setting
+- Fixed: Form field values in customizer are not saving
+- Fixed: Conflict with WooCommerce update counter
+- Fixed: File permissions issue while style import
+
+Version 2.2.0 - March 31, 2016
+- New: Introduced new option to control double optin setting for third party mailers
+- New: Introduced new setting to manage ConvertPlug dashboard access for user roles
+- New: Introduced new height option for textarea field in form designer
+- New: Introduced new shadow option for input field in form designer
+- Improvement: Partial AJAX call in customizer to improve customizer performance
+- Improvement: Odd fields support for Form Layout 2
+- Fixed: Referrer detection issue
+
+Version 2.1.0 - March 09, 2016
+- New: Introduced smart trigger to display module inline before / after post
+- New: Introduced widget for inline display of modules
+- New: Introduced new countdown style for Modal
+- New: Introduced ConvertPlug Addon installer feature in plugin itself
+- Improvement: Load custom admin page in customizer to avoid conflicts
+- Improvement: Moved inbuilt third party mailers into separate addon
+- Improvement: Load module's JS on respective pages only
+- Improvement: Display toggle button from initial load for Slide In & Info Bar
+- Improvement: Provided more comparison factors to single style analytics as like impression, conversion etc.
+- Fixed: "Something went wrong" error message when user is already subscribed
+- Fixed: Duplicate H1 issue in module content
+- Fixed: Date select issue in Analytics
+- Fixed: Reset analytics issue for multi variant styles
+- Fixed: Optimized shortcode variables
+- Fixed: Slide In z-index issue
+- Fixed: Module's trigger issue with manual launch triggers
+- Fixed: Warning errors of category archive page
+
+Version 2.0.1 - February 11, 2016
+- Fixed: Leads submission data display issue at backend
+- Fixed: Cookies store issue
+
+Version 2.0.0 - February 10, 2016
+- New: Introduced unlimited input field support for all forms & styles
+- New: Introduced Flexi style for Modal, now create unlimited modal structures from one style
+- New: Introduced Social Media style for Modal
+- New: Introduced Referral Detection trigger in Target Visitors setting
+- New: Introduced Clear Analytics functionality to all styles
+- Improvement: Provided height option for Blank style modal
+
+Version 1.1.1 - 20 January, 2015
+- Improvement: Manual triggers support like shortocode, display inline for Info Bar & Slide In
+- Improvement: Push page down support for Info Bar
+- Improvement: Special pages (Frontpage / Blog Page / Search / 404 / Author / Archive) support in Target Pages setting
+- Fixed: Mozilla Firefox hyperlink issue
+
+Version 1.1.0 - 8 January 2015
+- New: Introduced new module - Slide In
+- New: Introduced new trigger - At the end of post / page content
+- New: Introduced 3 brand new Info Bar styles
+- New: Introduced toggle button feature for Info Bar
+- Improvement: Conversion can calculate from submit button click as well
+- Improvement: Added border color option for Info Bar
+- Improvement: Provided default styling for Contact Form 7 added by shortcode
+
+Version 1.0.3 - 30 December 2015
+- Fixed: Compatibility issue with mod_security
+- Fixed: Hyperlink issue of Info Bar module
+- Fixed: Info Bar import / export issue
+- Fixed: Scheduled Popup JS issue
+- Fixed: TripAdvisor js blocking issue
+- Improvement: Introduced new feature to display modal popup inline as a part of page content / widget
+- Improvement: Provided an option to disable modules on mobile / tab devices
+- Improvement: Provided an option to disable Google font loading at frontend
+
+Version 1.0.2 - 22 December, 2015
+- Fixed: Modal not saving issue due to mod_security
+- Fixed: Redirect after subscription
+- Improvement: Connects List
+
+Version 1.0.1 - 17 December, 2015
+- Fixed: Anchor tag color of default WP dashboard is hijacking through CP admin CSS
+- Fixed: License registration not working
+- Fixed: Modal / Info Bar loading priority for same trigger event
+- Improvement: Custom post type support for target pages
+- Improvement: Introduced new inline close link position for Info Bar
+- Improvement: JS optimization
+- Improvement: Quick view action button for behaviour settings
+
+Version 1.0.0 - 14 December, 2015
+- Initial ConvertPlug Plugin

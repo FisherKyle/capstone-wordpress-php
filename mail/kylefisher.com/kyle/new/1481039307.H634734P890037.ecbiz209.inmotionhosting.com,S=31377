@@ -1,0 +1,524 @@
+Return-path: <neil.herren@lexjet.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 06 Dec 2016 10:48:27 -0500
+Received: from mail-bn3nam01on0055.outbound.protection.outlook.com ([104.47.33.55]:4096 helo=NAM01-BN3-obe.outbound.protection.outlook.com)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <neil.herren@lexjet.com>)
+	id 1cEHyl-003jVH-Gp
+	for kyle@kylefisher.com; Tue, 06 Dec 2016 10:48:27 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=soneholdings.onmicrosoft.com; s=selector1-lexjet-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=n9bTHbqU0P3n/xeod76wP2DrMlKO5F+xThPb+k7yiwM=;
+ b=iPJ+Ni8ujKghB2KcMr963kOg0HjvkljWfLxWS4ihoTxsC7d5EKiBajva07Vf1qjOG9U3BRJmHsdckMCJxvpER/bv0DnmhCCp11gmO4Pm2DsV6RdMRVHkLF62oXsnkZZi7IOq+++VWErylRF/TAlqZraVYQpaXRYH/fG0rlGLM9Q=
+Received: from BLUPR02MB1618.namprd02.prod.outlook.com (10.162.212.156) by
+ BLUPR02MB1618.namprd02.prod.outlook.com (10.162.212.156) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.761.9; Tue, 6 Dec 2016 15:48:24 +0000
+Received: from BLUPR02MB1618.namprd02.prod.outlook.com ([10.162.212.156]) by
+ BLUPR02MB1618.namprd02.prod.outlook.com ([10.162.212.156]) with mapi id
+ 15.01.0761.014; Tue, 6 Dec 2016 15:48:24 +0000
+From: Neil Herren <neil.herren@lexjet.com>
+To: "kyle@kylefisher.com" <kyle@kylefisher.com>
+Subject: December Printer Promotions: Be Ready For The New Year!
+Thread-Topic: December Printer Promotions: Be Ready For The New Year!
+Thread-Index: AdJP1v0jYNLNisL/Ssa4TIuWDn0iWw==
+Date: Tue, 6 Dec 2016 15:41:54 +0000
+Message-ID: <BLUPR02MB1618E131E8E932F7BCF2616D99820@BLUPR02MB1618.namprd02.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=neil.herren@lexjet.com; 
+x-originating-ip: [4.28.31.2]
+x-ms-office365-filtering-correlation-id: 870bdfac-282b-4e71-4ced-08d41def4ff3
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:BLUPR02MB1618;
+x-microsoft-exchange-diagnostics: 1;BLUPR02MB1618;7:IT108N3P73zGvHm+E5lFjjZoLF/l+qJmDogdfsmyE5A+ELa/7BVQnMx8Umt3lkER6f87pJHtokHaM51fMQYhyOFgdtdx5Wu4apSNKRG6VI8c4qgXfL8oSeeX603yyL0Nl6IMjyzd2W945wX3I5D+lTAWAaDU8oLcIg05XlRA9gCIHctmiY5cZQkJMPpTYusCMO25K4viScZkD+jYa7vqekU76n20moa9s5IsadNK2nr8Ze4rk+xZPxsP7NCYfQJaiVfauL/dtBYfVOpYf6vp8rMiPh6bX0FrF+Dmgse1NsOJlmY30nMHgpCoeSwpCCKQghQz+iI3MWrcTVDBLSL37B+AeDk6HG1R7UtXigyg3+bKRdIT3+KzyjvEBxvFbvQkBDY41D+esXSRKI/eW+xYwESN0ekfYmZq4IJvX9RPQRIpxKSIwDUlCGUsInInhpFAmqikISrrxOUQGYW09bUm6Q==
+x-microsoft-antispam-prvs: <BLUPR02MB161835F13D9A1B5590932C7C99820@BLUPR02MB1618.namprd02.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(170941317407291)(224945534805241)(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415395)(6040375)(601004)(2401047)(5005006)(8121501046)(10201501046)(3002001)(6041248)(20161123555025)(20161123564025)(20161123560025)(20161123562025)(6072148);SRVR:BLUPR02MB1618;BCL:0;PCL:0;RULEID:;SRVR:BLUPR02MB1618;
+x-forefront-prvs: 01480965DA
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(7916002)(189002)(199003)(107886002)(76576001)(19618635001)(3660700001)(81166006)(66066001)(8936002)(2501003)(606004)(6666003)(3280700002)(6916009)(2906002)(38730400001)(50986999)(1730700003)(5630700001)(110136003)(81156014)(3846002)(5660300001)(102836003)(6116002)(9686002)(39450400002)(8676002)(68736007)(39850400001)(7906003)(2900100001)(7736002)(7846002)(86362001)(450100001)(92566002)(14613045005)(18926415007)(105586002)(97736004)(33656002)(77096006)(39410400001)(6506006)(7696004)(5640700002)(101416001)(106356001)(74316002)(861006)(790700001)(189998001)(19627405001)(2351001)(39840400001)(226693001)(99286002)(122556002)(54356999)(99936001)(7099028)(16866105001);DIR:OUT;SFP:1101;SCL:1;SRVR:BLUPR02MB1618;H:BLUPR02MB1618.namprd02.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: lexjet.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_004_BLUPR02MB1618E131E8E932F7BCF2616D99820BLUPR02MB1618namp_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-OriginatorOrg: lexjet.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Dec 2016 15:41:54.0246
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 79e3dff5-bd7c-4c54-b53c-eee3015aff32
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR02MB1618
+
+--_004_BLUPR02MB1618E131E8E932F7BCF2616D99820BLUPR02MB1618namp_
+Content-Type: multipart/alternative;
+	boundary="_000_BLUPR02MB1618E131E8E932F7BCF2616D99820BLUPR02MB1618namp_"
+
+--_000_BLUPR02MB1618E131E8E932F7BCF2616D99820BLUPR02MB1618namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Good Morning Kyle,
+Now is the time to make sure you are ready to go for 2017. There are incred=
+ible printer deals out there for December so don't miss out! Not sure what =
+you want? Call me for questions or to take advantage of these great offers.
+
+With any printer purchase this month, receive free shipping for an entire y=
+ear every time you order! Plus, free shipping on all printers!
+
+Canon PRO-4000<http://t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6=
+l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww=
+.lexjet.com%2Fp-7230-Canon-imagePROGRAF-PRO-4000.aspx&si=3D6506466694135808=
+&pi=3Daf805598-1419-4c28-bc47-06813d36ad97> - There is an $800 mail-in-reba=
+te until December 15!  Available in 24", 44", and 60"
+
+Epson P9000<http://t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B=
+9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.le=
+xjet.com%2Fp-6314-EPSON-SureColor-P9000-Standard-Edition-Printer.aspx&si=3D=
+6506466694135808&pi=3Daf805598-1419-4c28-bc47-06813d36ad97> - $1000 Instant=
+ Rebate Through December 31! Available in 24", 44" and 64"
+
+New! Epson Solvent Printers - S40600<http://t.sidekickopen16.com/e1t/c/5/f1=
+8dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF0=
+2?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-6452-EPSON-SureColor-S40600-Productio=
+n-Edition.aspx&si=3D6506466694135808&pi=3Daf805598-1419-4c28-bc47-06813d36a=
+d97> - CMYK, All Epson Solvent Printers come with free on-site installation=
+ and training!
+                                                       S60600<http://t.side=
+kickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1=
+q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-6453-EPSON-S=
+ureColor-S60600-Production-Edition.aspx&si=3D6506466694135808&pi=3Daf805598=
+-1419-4c28-bc47-06813d36ad97> - Dual CMYK w/ External Print Dryer, This one=
+ is all about speed!
+                                                       S80600<http://t.side=
+kickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1=
+q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-6454-EPSON-S=
+ureColor-S80600-Production-Edition.aspx&si=3D6506466694135808&pi=3Daf805598=
+-1419-4c28-bc47-06813d36ad97> - 9 Colors, Optional White or Metallic Ink
+
+HP Latex Printers - L335<http://t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8d=
+DMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3=
+A%2F%2Fwww.lexjet.com%2Fp-7343-HP-Latex-335-Printer.aspx&si=3D6506466694135=
+808&pi=3Daf805598-1419-4c28-bc47-06813d36ad97> - All HP Latex Printers come=
+ with a full set of 775ml inks plus on-site installation and training for f=
+ree!
+                                   L365<http://t.sidekickopen16.com/e1t/c/5=
+/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7=
+ZF02?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-7344-HP-Latex-365-Printer.aspx&si=
+=3D6506466694135808&pi=3Daf805598-1419-4c28-bc47-06813d36ad97>
+                                   L370<http://t.sidekickopen16.com/e1t/c/5=
+/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7=
+ZF02?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-6166-HP-Latex-370-64in-Printer.asp=
+x&si=3D6506466694135808&pi=3Daf805598-1419-4c28-bc47-06813d36ad97> - 3L bul=
+k ink tanks for high production environments
+
+HP Z6800<http://t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nM=
+JW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.lexje=
+t.com%2Fp-5846-HP-DesignJet-Z6800-Photo-Production-Printer.aspx&si=3D650646=
+6694135808&pi=3Daf805598-1419-4c28-bc47-06813d36ad97> - Fast with a wide co=
+lor gamut!
+
+We have many other printers available along with laminators, cutters, and t=
+he best RIP software for Mac or PC. Call any time!
+My Best,
+[https://s3.amazonaws.com/s-one/marketing/lexjet200.png]<http://t.sidekicko=
+pen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98=
+VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2F&si=3D6506466694135=
+808&pi=3Daf805598-1419-4c28-bc47-06813d36ad97>
+
+Neil Herren
+LexJet | www.lexjet.com<http://t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8dD=
+MPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A=
+%2F%2Fwww.lexjet.com%2F%3Futm_source%3Dlexjet%26utm_medium%3Demail%26utm_ca=
+mpaign%3Dsignature&si=3D6506466694135808&pi=3Daf805598-1419-4c28-bc47-06813=
+d36ad97>
+
+
+1605 Main Street - Suite 400, Sarasota, FL 34236
+
+
+T: 800-453-9538 ext.3189 | F: 941-906-3289 | neil.herren@lexjet.com<mailto:=
+neil.herren@lexjet.com>
+
+
+
+
+
+--_000_BLUPR02MB1618E131E8E932F7BCF2616D99820BLUPR02MB1618namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Good Morning Kyle,</p>
+<p class=3D"MsoNormal"><i>Now is the time to make sure you are ready to go =
+for 2017. There are incredible printer deals out there for December so don&=
+#8217;t miss out! Not sure what you want? Call me for questions or to take =
+advantage of these great offers.<o:p></o:p></i></p>
+<p class=3D"MsoNormal"><i><o:p>&nbsp;</o:p></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:14.0pt;line-height:107%;=
+color:#006600">With any printer purchase this month, receive free shipping =
+for an entire year every time you order! Plus, free shipping on all printer=
+s!<o:p></o:p></span></i></p>
+<p class=3D"MsoNormal"><i><o:p>&nbsp;</o:p></i></p>
+<p class=3D"MsoNormal"><a href=3D"http://t.sidekickopen16.com/e1t/c/5/f18dQ=
+hb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=
+=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-7230-Canon-imagePROGRAF-PRO-4000.aspx&am=
+p;si=3D6506466694135808&amp;pi=3Daf805598-1419-4c28-bc47-06813d36ad97">Cano=
+n
+ PRO-4000</a> &#8211; <span style=3D"background:yellow;mso-highlight:yellow=
+">There is an $800 mail-in-rebate until December 15!</span>&nbsp;
+<span style=3D"color:blue">Available in 24&#8221;, 44&#8221;, and 60&#8221;=
+ </span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><a href=3D"http://t.sidekickopen16.com/e1t/c/5/f18dQ=
+hb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=
+=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-6314-EPSON-SureColor-P9000-Standard-Edit=
+ion-Printer.aspx&amp;si=3D6506466694135808&amp;pi=3Daf805598-1419-4c28-bc47=
+-06813d36ad97">Epson
+ P9000</a> &#8211; <span style=3D"background:yellow;mso-highlight:yellow">$=
+1000 Instant Rebate Through December 31!</span>
+<span style=3D"color:blue">Available in 24&#8221;, 44&#8221; and 64&#8221;<=
+/span> </p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">New! Epson Solvent Printers &#8211; <a href=3D"http:=
+//t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnP=
+W3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-6452=
+-EPSON-SureColor-S40600-Production-Edition.aspx&amp;si=3D6506466694135808&a=
+mp;pi=3Daf805598-1419-4c28-bc47-06813d36ad97">
+S40600</a> &#8211; CMYK, <span style=3D"background:yellow;mso-highlight:yel=
+low">All Epson Solvent Printers come with free on-site installation and tra=
+ining!</span></p>
+<p class=3D"MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=3D"http://t.sidekic=
+kopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T=
+98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-6453-EPSON-Sure=
+Color-S60600-Production-Edition.aspx&amp;si=3D6506466694135808&amp;pi=3Daf8=
+05598-1419-4c28-bc47-06813d36ad97">
+S60600</a> &#8211; Dual CMYK w/ External Print Dryer, <span style=3D"color:=
+blue">This one is all about speed!</span></p>
+<p class=3D"MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=3D"http://t.sidekic=
+kopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T=
+98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-6454-EPSON-Sure=
+Color-S80600-Production-Edition.aspx&amp;si=3D6506466694135808&amp;pi=3Daf8=
+05598-1419-4c28-bc47-06813d36ad97">
+S80600</a> &#8211; 9 Colors, Optional White or Metallic Ink </p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">HP Latex Printers &#8211; <a href=3D"http://t.sideki=
+ckopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0=
+T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-7343-HP-Latex-=
+335-Printer.aspx&amp;si=3D6506466694135808&amp;pi=3Daf805598-1419-4c28-bc47=
+-06813d36ad97">
+L335</a> &#8211; <span style=3D"background:yellow;mso-highlight:yellow">All=
+ HP Latex Printers come with a full set of 775ml inks plus on-site installa=
+tion and training for free!</span></p>
+<p class=3D"MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; <a href=3D"http://t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l=
+2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.=
+lexjet.com%2Fp-7344-HP-Latex-365-Printer.aspx&amp;si=3D6506466694135808&amp=
+;pi=3Daf805598-1419-4c28-bc47-06813d36ad97">
+L365</a></p>
+<p class=3D"MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;<a href=3D"http://t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l=
+2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.=
+lexjet.com%2Fp-6166-HP-Latex-370-64in-Printer.aspx&amp;si=3D650646669413580=
+8&amp;pi=3Daf805598-1419-4c28-bc47-06813d36ad97">L370</a>
+ &#8211; 3L bulk ink tanks for high production environments</p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><a href=3D"http://t.sidekickopen16.com/e1t/c/5/f18dQ=
+hb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=
+=3Dhttp%3A%2F%2Fwww.lexjet.com%2Fp-5846-HP-DesignJet-Z6800-Photo-Production=
+-Printer.aspx&amp;si=3D6506466694135808&amp;pi=3Daf805598-1419-4c28-bc47-06=
+813d36ad97">HP
+ Z6800</a> &#8211; Fast with a wide color gamut!</p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">We have many other printers available along with lam=
+inators, cutters, and the best RIP software for Mac or PC. Call any time!</=
+p>
+<p class=3D"MsoNormal">My Best,</p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"800" style=3D"width:600.0pt">
+<tbody>
+<tr>
+<td width=3D"209" rowspan=3D"2" style=3D"width:156.75pt;border:none;border-=
+right:solid #333333 1.0pt;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:normal">
+<a href=3D"http://t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9=
+nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%2Fwww.lex=
+jet.com%2F&amp;si=3D6506466694135808&amp;pi=3Daf805598-1419-4c28-bc47-06813=
+d36ad97"><span style=3D"color:windowtext;text-decoration:none"><img border=
+=3D"0" width=3D"160" height=3D"41" id=3D"Picture_x0020_1" src=3D"cid:image0=
+01.png@01D24FAD.14575550" alt=3D"https://s3.amazonaws.com/s-one/marketing/l=
+exjet200.png"></span></a><o:p></o:p></p>
+</td>
+<td width=3D"20" style=3D"width:15.0pt;padding:0in 0in 0in 0in"></td>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:normal">
+<b>Neil Herren </b><br>
+LexJet | <a href=3D"http://t.sidekickopen16.com/e1t/c/5/f18dQhb0S7lC8dDMPbW=
+2n0x6l2B9nMJW7t5XYg63BmnPW3M2lNs1q0T98VQsyTK56dNpXf5Wj7ZF02?t=3Dhttp%3A%2F%=
+2Fwww.lexjet.com%2F%3Futm_source%3Dlexjet%26utm_medium%3Demail%26utm_campai=
+gn%3Dsignature&amp;si=3D6506466694135808&amp;pi=3Daf805598-1419-4c28-bc47-0=
+6813d36ad97">
+<span style=3D"color:blue">www.lexjet.com</span></a> <o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td width=3D"20" style=3D"width:15.0pt;padding:0in 0in 0in 0in"></td>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:normal">
+1605 Main Street - Suite 400, Sarasota, FL 34236 <o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"border:none;border-right:solid #333333 1.0pt;padding:0in 0in 0=
+in 0in">
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:normal">
+<b>T: </b>800-453-9538 ext.3189 | <b>F:</b> 941-906-3289 | <a href=3D"mailt=
+o:neil.herren@lexjet.com">
+<span style=3D"color:blue">neil.herren@lexjet.com</span></a> <o:p></o:p></p=
+>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:normal">
+<o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<img src=3D"http://t.sidekickopen16.com/e1t/o/5/f18dQhb0S7ks8dDMPbW2n0x6l2B=
+9gXrN7sKj6v4LQ_HW3LyKng3MqcX-N7fZjpCQFLCHW6G6vTD1k1H6H0?si=3D65064666941358=
+08&amp;pi=3Daf805598-1419-4c28-bc47-06813d36ad97" width=3D"1" height=3D"1" =
+style=3D"display:none!important;">
+</body>
+</html>
+
+--_000_BLUPR02MB1618E131E8E932F7BCF2616D99820BLUPR02MB1618namp_--
+
+--_004_BLUPR02MB1618E131E8E932F7BCF2616D99820BLUPR02MB1618namp_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=7751;
+	creation-date="Tue, 06 Dec 2016 15:41:53 GMT";
+	modification-date="Tue, 06 Dec 2016 15:41:53 GMT"
+Content-ID: <image001.png@01D24FAD.14575550>
+Content-Transfer-Encoding: base64
+
+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
+
+--_004_BLUPR02MB1618E131E8E932F7BCF2616D99820BLUPR02MB1618namp_--

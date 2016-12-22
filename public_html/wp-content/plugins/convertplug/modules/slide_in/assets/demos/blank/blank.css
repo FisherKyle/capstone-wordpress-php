@@ -1,0 +1,46 @@
+/* Style - Optin to Win */
+.cp-slidein-body.cp-slidein,
+.cp-slidein .cp-slidein-body {
+    background-color: transparent;
+}
+
+.cp-form-container.cp-no-padding {
+    padding: 0 7%;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+}
+
+.cp-slidein .cp-slidein-window-size .cp-slidein-body,
+.cp-slidein-window-size .cp-slidein-body.cp-slidein {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.cp-slidein .cp-sec-title{
+    font-size: 15px;
+}
+
+.cp-slidein .cp-text-container{
+    color: #444;
+}
+ .cp-blank-container .cp-top-img .cp-row,
+ .cp-blank-container .cp-top-img #main_title_editor {
+    margin-top: 15px;
+}
+
+
+@media (max-width:768px) {
+    .cp-slidein-body.cp-slidein {
+        text-align: center;
+    }
+
+    .cp-slidein .cp-slidein-window-size .cp-slidein-body,
+    .cp-slidein-window-size .cp-slidein-body.cp-slidein {
+        max-width: 100%;
+    }
+    .cp-slidein-body.cp-blank, .cp-slidein-body.cp-blank * {
+        text-align: center!important;
+    }
+}

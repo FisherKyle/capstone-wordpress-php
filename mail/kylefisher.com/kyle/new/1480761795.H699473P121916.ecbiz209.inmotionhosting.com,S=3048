@@ -1,0 +1,82 @@
+Return-path: <>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Sat, 03 Dec 2016 05:43:15 -0500
+Received: from mailcsi2.westgroup.com ([167.68.17.17]:39038 helo=maila-ein.westgroup.com)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	id 1cD7ml-000Vge-HS
+	for kyle@kylefisher.com; Sat, 03 Dec 2016 05:43:15 -0500
+Received: from localhost (localhost)
+	by maila-ein.westgroup.com (8.14.3/8.14.3) id uB33iO5U017692;
+	Fri, 2 Dec 2016 21:44:24 -0600
+Date: Fri, 2 Dec 2016 21:44:24 -0600
+From: Mail Delivery Subsystem <MAILER-DAEMON@maila-ein.westgroup.com>
+Message-Id: <201612030344.uB33iO5U017692@maila-ein.westgroup.com>
+To: <kyle@kylefisher.com>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="uB33iO5U017692.1480736664/maila-ein.westgroup.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--uB33iO5U017692.1480736664/maila-ein.westgroup.com
+
+The original message was received at Fri, 2 Dec 2016 21:44:23 -0600
+from localhost.localdomain [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<lfeldman@weltmanbernfield.com>
+    (reason: 554 rejected due to spam content)
+
+   ----- Transcript of session follows -----
+... while talking to eg-csispm-h03.portal.local.:
+>>> DATA
+<<< 554 rejected due to spam content
+554 5.0.0 Service unavailable
+
+--uB33iO5U017692.1480736664/maila-ein.westgroup.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; maila-ein.westgroup.com
+Received-From-MTA: DNS; localhost.localdomain
+Arrival-Date: Fri, 2 Dec 2016 21:44:23 -0600
+
+Final-Recipient: RFC822; lfeldman@weltmanbernfield.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: DNS; eg-csispm-h03.portal.local
+Diagnostic-Code: SMTP; 554 rejected due to spam content
+Last-Attempt-Date: Fri, 2 Dec 2016 21:44:24 -0600
+
+--uB33iO5U017692.1480736664/maila-ein.westgroup.com
+Content-Type: message/rfc822
+
+Return-Path: <kyle@kylefisher.com>
+Received: from maila-ein.westgroup.com (localhost.localdomain [127.0.0.1])
+	by maila-ein.westgroup.com (8.14.3/8.14.3) with ESMTP id uB33iN5U017686
+	for <lfeldman@weltmanbernfield.com>; Fri, 2 Dec 2016 21:44:23 -0600
+Received: from localhost (localhost [117.2.242.217] (may be forged))
+	by maila-ein.westgroup.com (8.14.3/8.14.3) with ESMTP id uB33iHi5017599
+	for <lfeldman@weltmanbernfield.com>; Fri, 2 Dec 2016 21:44:22 -0600
+Message-ID: <BFD893EA28F4A151367D04C61A4FBFD8@8M9GYMSJW5U>
+From: "miltie linh" <kyle@kylefisher.com>
+To: <lfeldman@weltmanbernfield.com>
+Subject: Pharmacy
+Date: 3 Dec 2016 23:33:04 +0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3508.1109
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3508.1109
+X-TM-AS-MML: disable
+
+http://igneadacamlikapartotel.com/wp-includes/js/tinymce/plugins/wptextpattern/index.html
+
+
+--uB33iO5U017692.1480736664/maila-ein.westgroup.com--
+

@@ -1,0 +1,895 @@
+Return-path: <bounces+1605419-960f-kyle=kylefisher.com@mail1.shared.hubspot.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 28 Nov 2016 17:33:50 -0500
+Received: from o3.mail1.shared.hubspot.com ([50.31.44.104]:35500)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+1605419-960f-kyle=kylefisher.com@mail1.shared.hubspot.com>)
+	id 1cBUUg-003YSB-Ev
+	for kyle@kylefisher.com; Mon, 28 Nov 2016 17:33:50 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=shared.hubspot.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe; 
+	s=m1; bh=eWJNL9zdp3uPoZp6/CzF1sTa2Tc=; b=MAO3VzFPbnkB2D5+Tu8+zPW
+	3KAK0l4JKJxb7BW2wc2XwsrPFXaKyeXrxfV/0m3NxjtrnzKXlQp51e1kZH4ks21b
+	kL3mr3pVHN6cPbOuoLd5INp62/vw5EYLay7jvss7R/YqieyUfwR3sNh/Ahf4UTse
+	0U1OsBD0j3KvszNBeb/M=
+From: City Fitness <no-reply@cityfitnessphilly.com>
+Reply-To: no-reply@cityfitnessphilly.com
+To: kyle@kylefisher.com
+Message-ID: <1480372374166.4f20da44-52e7-4a2f-8c80-7261c5424f7c@smtp.hubapi.com>
+Subject: Get Through the Holidays with This Personalized 20-Minute Workout
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_180132_313957447.1480372429245"
+List-Unsubscribe: <mailto:Vn0xKY1S1sNmW1X06RJ1SrrZrW1XlTFF1Gd2Y-W1N32mW1-Y389W1W_jwx21hh7fW95D7_86wcLHQW5J4y_z8h5d0FVKk60x3JN_GwW3ZVcj54cKh8KW1JxwY52mrFzm4l6CC1@m.hsms09.com>, <http://t.hsms09.com/e1t/c/*W3n1zvB5SsTzXW6vF9My4f9QMd0/*W5BJ4p78vpy2yW6fZTyR7gnXqV0/5/f18dQhb0S1W92d-5TMLyn7dsdFyrVYklWN5__qvgW1Btv0l6pBjS-W1CWkPX6ytrbwW7X52K-4k1ZZZW4x2Fnm2Vpxf2W7W_w_y4qpjJpW6ZBBbr3NbBWmW8hS3S92bPgcXW78K0qk2L8yYcW1pzNH931QHjbW7tHMkn8zD2dDW2JkfmT5h1yKLW7JYLQ-2LjWZHN4frRS-BWCRpN1cycgxPwCn_VlFdVZ4jsk3cW7PX6_172QRdPW186mfD67P9ZlMRzNyw8FN1-W6S4fqp8DTDf4N4DM5-2zx_VVN1kltypTvLTxW7NlXdP8R4MyFW3vW11V3VBdtHW8kZk678MrsfjW4D76Jj5chnV9W43jsvZ9jhZhzW4DFx--5D6K5DW4-GkSG4gqV1NN83lT5KDG5CrW4Z9kGm4Zk555W6ql6Dh8Rhp3DW4TtQ8l80zK30W8VJL0655jCZh102>
+X-HubSpot-MID: CiQ0ZjIwZGE0NC01MmU3LTRhMmYtOGM4MC03MjYxYzU0MjRmN
+        2MQm/kpGLqyASAAKPeboxIw4pkpOhNreWxlQGt5bGVmaXNoZXIuY29tQ
+        JaVx+iKK0jiAlogYzUzY2FlMTIyMjcxYWYwMzUyYWU0YWI2NTU4YmU4M
+        2VlAAAIQnD57ZABgAEAigEkMmMxOTMyZjAtMzFhYS0zMDRkLTg1Y2EtZ
+        mI3NGM0ODBiOWRjoAEAqAEBsAEAyAEB0gEebm8tcmVwbHlAY2l0eWZpd
+        G5lc3NwaGlsbHkuY29t
+Date: Mon, 28 Nov 2016 22:33:49 +0000 (UTC)
+X-SG-EID: eU/ka35llXGMH3nAOV67BrlAvnJbsZjQ68cwO3vk6pVHgsyCt7qdjYfZhGzMHQdlqtR7Jx3XVqJmaw
+ gbSagy9ZEO/96dVItZ4A94yUXLWcIqIPhifZvEZqwpl7OfI/hexnBhd2kHiiFhIWD6lmKEJFEzZOyx
+ jMvVgXyml5t+h4LsKIOQvOkVyiarz7qE2QcLzz0rcWRL0/MeoTqX8oBwltQsFo3LlpvkyinRM3VLw0
+ I=
+X-SG-ID: BaKDar+VrkG/S9kwb9JXAzI1/TM+oiAh/wlP91h4rUzZ1INkLYhOqT19dV0lRw7qXeLSNG2rIaIqfU
+ udeGm5/NnGZAkUJ4pYkdoz0q9acjvUbFpNw5M8qhbCxV8ACZ0P+sGllvpDuAxksCwFof3zyBMx3Nr3
+ oxKMQ3IBlFaa8RYzbg6hPPXt4fPb1IgqZ8LBAiVNp2MlH59YRznioqOx93oYzhmIvZvKQNgVi9kysu
+ jaPQJJXvh8wqMHmTM++Rxu3yAgZyNJuIiZ4sij8w+Gh4Be9JO1XFVRdwpdSDtUNX5uFnGAcmlgwQZT
+ Rqn1AB10c07XcvDBzNxPJtJZEg2n07uqJtRsXmQC0W5yc5uosZwkrgqWhiXQmv1/VqkNEmV0KJAVre
+ oCjsfsPo+AGG2NiWLES7JrLwW98zyd+nOdOkQ=
+
+------=_Part_180132_313957447.1480372429245
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Fitness =E2=80=A2 Food =E2=80=A2 Trends =E2=80=A2 Lifestyle =E2=80=A2 Phill=
+y =E2=80=A2 Community
+
+Not rendering correctly? View this email as a web page here (http://cityfit=
+nessphilly-1.hs-sites.com/get-through-the-holidays-with-this-personalized-2=
+0-minute-workout?ecid=3DACsprvvtWWWFRoRjl8N9Fjd2Uext54QgXLwtCsbqM8qMwG-26yO=
+328FjMVruGGzcWnP8_4AHKqqy&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medi=
+um=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqtz-_QcgBBubOly-2C9ItrtWXVQ9=
+5uRmDSCbX4vhtG7agrA9CXWtc2FWwcvrzlx2nOZ1u3Qno354qNW5RTPyjVsIPeT0m54Q&_hsmi=
+=3D38325751) .
+
+City Fitness Philly (http://cityfitnessphilly.com?utm_campaign=3DRSS&utm_so=
+urce=3Dhs_email&utm_medium=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqtz-=
+945GVWoWVpn-MpBLQaBo_0zLzvFR408ezE7rGjNZU2yD_NtuCo6MjkEulGvzFPS_tGD5MXxCKD9=
+QY9OW7Dvz-w1w2B9w&_hsmi=3D38325751)
+
+rss-head.jpg (http://blog.cityfitnessphilly.com?utm_campaign=3DRSS&utm_sour=
+ce=3Dhs_email&utm_medium=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqtz-8y=
+3P22jUhWdlgvo4wEi0R-0njtSDkYRuiQoDyfRUKdi6BcEWxE5fT9NZm55JokqKXs69R4RI0jxA5=
+m9_QQDxtrKIsLJw&_hsmi=3D38325751)
+
+Get Through the Holidays with This Personalized 20-Minute Workout (http://b=
+log.cityfitnessphilly.com/fitness/get-through-the-holidays-with-this-person=
+alized-20-minute-workout/?utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medi=
+um=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqtz-_PUsX2V8bIcvfguTtuP7I0A8=
+ChbvnTOHQkD1GwN-CRektiBQIKWF_dsjBz9k7EWMubTCQfARb2rtNMDtNd8OlM-9HmKg&_hsmi=
+=3D38325751)
+
+By Cristiano Del Giacco, Friday, November 25, 2016 3:02 PM
+
+20-minute workout
+
+Is it possible to burn fat and tone up with a 20-minute workout? For young =
+parents and entrepreneurs, a busy lifestyle doesn=E2=80=99t allow for regul=
+ar routines, especially around the holiday=E2=80=A6
+
+The post Get Through the Holidays with This Personalized 20-Minute Workout =
+(http://blog.cityfitnessphilly.com/fitness/get-through-the-holidays-with-th=
+is-personalized-20-minute-workout/?utm_campaign=3DRSS&utm_source=3Dhs_email=
+&utm_medium=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqtz-_f57Qlz2Deuynt6=
+dL1yeO2QXPy6JHztlkVXn5xtAFkA3RW9-HY_cguvkaqJDu73rzyPVtg9MqlWVef10kevV80-2NZ=
+Aw&_hsmi=3D38325751) appeared first on City Fitness Blog (http://blog.cityf=
+itnessphilly.com?utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demai=
+l&utm_content=3D38325751&_hsenc=3Dp2ANqtz-8nxF4BXcSMyCzt_tT3DrU78-2yn48EQ70=
+sm3XYFdRVuAyfQzhHPb2k3BXGUCLSauRjYXXu2sgAy9IAodmGYNlYFP-MjA&_hsmi=3D3832575=
+1) .
+
+Read more =C2=BB (http://blog.cityfitnessphilly.com/fitness/get-through-the=
+-holidays-with-this-personalized-20-minute-workout/?utm_campaign=3DRSS&utm_=
+source=3Dhs_email&utm_medium=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqt=
+z--HM-GNYIYuSnlbgjqsPXN2t4Bclk-1Vd0q5VPHcttULOMYJ6IMAnxaI8RyJMvBzOS3g1wJ-Xv=
+YPC5fU2AS3J4GMr1qRA&_hsmi=3D38325751)
+
+A Guide to Winter Squash + Recipe (http://blog.cityfitnessphilly.com/food/a=
+-guide-to-winter-squash-recipe/?utm_campaign=3DRSS&utm_source=3Dhs_email&ut=
+m_medium=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqtz-8GipOoPRrfLnH7Ujn-=
+o4n1773BlmP8sYzsuCFMqjFGI1qdB8pvwjPdou4SVtiXj6fEx193p8ebB-424zXBsFDpwvZDlw&=
+_hsmi=3D38325751)
+
+By Raquel Redmond, Tuesday, November 22, 2016 2:27 PM
+
+Winter Squash
+
+Ah, it=E2=80=99s the blissful season of winter squash! Winter squash includ=
+es butternut squash, acorn squash, kabocha squash, spaghetti squash and del=
+icata squash. They are great in soups, stews, casseroles, salads=E2=80=A6
+
+The post A Guide to Winter Squash + Recipe (http://blog.cityfitnessphilly.c=
+om/food/a-guide-to-winter-squash-recipe/?utm_campaign=3DRSS&utm_source=3Dhs=
+_email&utm_medium=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqtz-9l2_8KhfM=
+uciBs2SiCOBl-lv6UHfENu6pyfz5PagzXIRguUxYlWw0MahybscH0OXCBnAfQ5AEd3VDW-KIlxK=
+Dn03cl5A&_hsmi=3D38325751) appeared first on City Fitness Blog (http://blog=
+.cityfitnessphilly.com?utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=
+=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqtz-9woSWH6eHSQ_9rdZP3btaDaGT8=
+HEDeAEIiBJRjMxXKo_3EErft9x1x0uuosWTknr6RmRcak2vRW1BM3tdlpvlhQZUWFA&_hsmi=3D=
+38325751) .
+
+Read more =C2=BB (http://blog.cityfitnessphilly.com/food/a-guide-to-winter-=
+squash-recipe/?utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&=
+utm_content=3D38325751&_hsenc=3Dp2ANqtz-9LK1zKYjVkOuxaSTJZRY9t5MIR9hZZ4PBUp=
+xuWbdPSFbZB7q36vd6CxJNiZeT36PBTkoeHQrdUM5wcsVvo7lXY-KfyjQ&_hsmi=3D38325751)
+
+City Fitness Trial (http://cta-image-cms2.hubspot.com/ctas/v2/public/cs/ci/=
+?pg=3D21861336-ebb2-4f14-ab2f-846af3fe0948&pid=3D687259&ecid=3DACsprvvtWWWF=
+RoRjl8N9Fjd2Uext54QgXLwtCsbqM8qMwG-26yO328FjMVruGGzcWnP8_4AHKqqy&utm_rewrit=
+e=3DREWRITE_ALL&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail=
+&utm_content=3D38325751&_hsenc=3Dp2ANqtz-9rphTSX4yP05-8sh3Dxfqz32EY6cbrS9IM=
+3D2aWq9x4eA_hdjcbP5R-xD9zAcg5yGQRDiz6s0JoQd5ayEadis1L92BAg&_hsmi=3D38325751)
+
+Share on Facebook (http://www.facebook.com/share.php?u=3Dhttp%3A%2F%2Fblog.=
+cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Dfacebo=
+ok&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=
+=3D38325751&_hsenc=3Dp2ANqtz-_xM3_dU1c9_40uCj13dfst5d5OA2vdwWaWtq-X5WTztGhI=
+7p_5diB46uqhEEEr2WR_NGQRmofbxtQlls-xIRG-fTwQrA&_hsmi=3D38325751)  Share on =
+Twitter (https://twitter.com/intent/tweet?original_referer=3Dhttp%3A%2F%2Fb=
+log.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Dtw=
+itter&url=3Dhttp%3A%2F%2Fblog.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%=
+3Dsocial%26utm_source%3Dtwitter&source=3Dtweetbutton&text=3DGet+Through+the=
++Holidays+with+This+Personalized+20-Minute+Workout&utm_campaign=3DRSS&utm_s=
+ource=3Dhs_email&utm_medium=3Demail&utm_content=3D38325751&_hsenc=3Dp2ANqtz=
+-84d3kq7zH_SCM6mMrisalP1nEOLwzNjj3md8Tb2QJtWPBKvW_Ld-dSPJ1Z3K7reiv55dGYn9Dv=
+vvNWq9HpCv0TETJMzA&_hsmi=3D38325751)  Share on Email (mailto:?subject=3DChe=
+ck out http%3A%2F%2Fblog.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsoc=
+ial%26utm_source%3Demail &body=3DCheck out http%3A%2F%2Fblog.cityfitnessphi=
+lly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Demail)
+
+City Fitness
+2101 South Street
+
+Philadelphia,
+PA
+19146
+U.S.A.
+
+You received this email because you are subscribed to City Fitness Blog Sub=
+scription from City Fitness.
+
+Update your email preferences (http://cityfitnessphilly-1.hs-sites.com/hs/m=
+anage-preferences/unsubscribe?v=3D1&d=3DeyJlYSI6Imt5bGVAa3lsZWZpc2hlci5jb20=
+iLCJlYyI6MzgzMjU3NTEsInN1YnNjcmlwdGlvbklkIjo2NzUwNDIsImV0IjoxNDgwMzcyMzc0MT=
+Y2LCJldSI6IjRmMjBkYTQ0LTUyZTctNGEyZi04YzgwLTcyNjFjNTQyNGY3YyJ9&utm_campaign=
+=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D38325751&_hse=
+nc=3Dp2ANqtz-8x10KLIdg5JYp2kuWWtec0a8FtyodeH7iOecJ_4VF55mb8gyQpSbOky-xcMzhJ=
+EMBaM5fOoRn-bPdxqMMm4i-8Rbot1w&_hsmi=3D38325751) to choose the types of ema=
+ils you receive.
+
+Unsubscribe from all future emails (http://cityfitnessphilly-1.hs-sites.com=
+/hs/manage-preferences/unsubscribe-all?v=3D1&d=3DeyJlYSI6Imt5bGVAa3lsZWZpc2=
+hlci5jb20iLCJlYyI6MzgzMjU3NTEsInN1YnNjcmlwdGlvbklkIjo2NzUwNDIsImV0IjoxNDgwM=
+zcyMzc0MTY2LCJldSI6IjRmMjBkYTQ0LTUyZTctNGEyZi04YzgwLTcyNjFjNTQyNGY3YyJ9&utm=
+_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D3832=
+5751&_hsenc=3Dp2ANqtz-9P0vYXisMqKt9eVUrhl2eDTnDz01BzNCwYRa1YYNhhQhZ0z3f_TCv=
+8HeI94dI678flWJM_hLH6gnirZhpIHtC_tOkRoQ&_hsmi=3D38325751)=
+
+------=_Part_180132_313957447.1480372429245
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><!-- start coded_template: id:4304592182 path:generated_layo=
+uts/4304592172.html --><html bgcolor=3D"#f2f2f2" style=3D"margin: 0; paddin=
+g: 0; background-color: #f2f2f2"><head>
+        <title>Get Through the Holidays with This Personalized 20-Minute Wo=
+rkout</title>
+        <meta property=3D"og:title" content=3D"Get Through the Holidays wit=
+h This Personalized 20-Minute Workout">
+        <meta name=3D"twitter:title" content=3D"Get Through the Holidays wi=
+th This Personalized 20-Minute Workout">
+=20=20=20=20=20=20=20=20
+        <style type=3D"text/css">
+        /*<![CDATA[*/
+            /* iOS automatically adds a link to addresses */
+            /* Style the footer with the same color as the footer text */
+            #footer a {
+                color: #999999;
+                -webkit-text-size-adjust: none;
+                text-decoration: underline;
+                font-weight: normal
+            }
+
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #main_body {
+                box-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+        /*]]>*/
+        </style>
+        <!-- http://www.emailon@cid.com/blog/details/C13/ensure_that_your_e=
+ntire_email_is_rendered_by_default_in_the_iphone_ipad -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                               =
+                                                      -->
+        <!--                            _/    _/            _/          _/_=
+/_/                        _/                         -->
+        <!--                           _/    _/  _/    _/  _/_/_/    _/    =
+    _/_/_/      _/_/    _/_/_/_/                      -->
+        <!--                          _/_/_/_/  _/    _/  _/    _/    _/_/ =
+   _/    _/  _/    _/    _/                           -->
+        <!--                         _/    _/  _/    _/  _/    _/        _/=
+  _/    _/  _/    _/    _/                            -->
+        <!--                        _/    _/    _/_/_/  _/_/_/    _/_/_/   =
+ _/_/_/      _/_/        _/_/                         -->
+        <!--                                                               =
+_/                                                    -->
+        <!--                                                              _=
+/                                                     -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                 Extra White Sp=
+ace!                                                  -->
+        <!--                                                               =
+                                                      -->
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" =
+content=3D"http://cityfitnessphilly-1.hs-sites.com/get-through-the-holidays=
+-with-this-personalized-20-minute-workout"></head>
+    <body bgcolor=3D"#f2f2f2" style=3D"margin: 0; padding: 0;  background-c=
+olor: #f2f2f2" marginheight=3D"0" marginwidth=3D"0" topmargin=3D"0">
+
+        <!-- Preview text (text which appears right after subject) -->
+        <div id=3D"preview_text" style=3D"display:none;font-size:1px;color:=
+#f2f2f2;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hid=
+den;">
+            Fitness =E2=80=A2 Food =E2=80=A2 Trends =E2=80=A2 Lifestyle =E2=
+=80=A2 Philly =E2=80=A2 Community
+        </div>
+
+        <!-- start container -->
+        <table bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2; -web=
+kit-font-smoothing: antialiased; -webkit-text-size-adjust: none" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+             <tbody><tr>
+                <td bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2;=
+">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#f2f2f2" st=
+yle=3D"background-color: #f2f2f2">
+                                    <!-- start header section -->
+                                    <div class=3D"header-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-email_view_as_web_page " style=3D"" d=
+ata-widget-type=3D"email_view_as_web_page">
+<div style=3D"padding-top: 15px; font-family: Geneva, Verdana, Arial, Helve=
+tica, sans-serif; text-align: right; font-size: 9px; line-height: 1.34em; c=
+olor: #999999">
+    Not rendering correctly? View this email as a web page <a class=3D"hubs=
+pot-mergetag" style=3D"color: #999999; text-decoration: underline; white-sp=
+ace: nowrap" data-viewaswebpage=3D"true" href=3D"http://t.hsms09.com/e1t/c/=
+*W8Ysp5L4tj2tgW1NCYKP2l_4YV0/*W8bnxMV4cnr6TN7hWLxsnFdhK0/5/f18dQhb0S2Dl6XNQ=
+nnM1xzwSP3H66Mm_2HC6r6WpW18CzH82RJ4q0W8f-dmK8rrvNcW7QPyRj565s3DW4ngblm6vqqT=
+5MrNMDTMfJLxN7bcjL210k67N4LHz-QGy96GW1Bkcry9g8Zn9VBtDl73mTmJHW5Bm8Yv39ffdDW=
+380b-r8lqhWxVkcYjR276Bp9W1DkS2X2yQ_-hW2ZxyWs45kz8hW4knzH-5SJqM1VHtpWm2rcy-c=
+W3pZLYC733PPFW95q36j1dTzB2W4BSkHZ7k2gybN77rgCCB_h97W6L3RHR6d6yRLW4kKQF-7LZy=
+10W7ttl4m2NcsyxV7lfj15MNGPjW2Tr73N5YLFzXW5lmRdQ3TxgQ1W98Cg0g48lvj1W3MXNzx14=
+z7CZN2yYQW05wTWmW3VXbwl59YTCSW5Lk7wQ1zD2lCW3-XwN24HXjLXN4gWg_Jb0dZ6Vp6_8F7m=
+_Fw2W3B9RL27SHzQTW4KbLY059xFF9W8xZ7FY4N7SXlVWMXm47fdMHlW1637VJ8Rd0xnW2RZztM=
+5qS8SCW8yWkkJ5YXSwjW8w-22s7KmPqqW6D5RHq59VlSvW4CSW7F3MCd0LW1qxMc54KbNFhW8D6=
+mhL3VKKhkW4ZP0GR7t82V-W4dbFTF1Qdz3mW6CMc1t5xm2MgW9l5MRs9h2V07N1LlMlfBbKrPW9=
+99lDf6yXhzfW565LdG83vS-XW5thL9p6g1WF_f7Rflcg04" data-hs-link-id=3D"0" targe=
+t=3D"_blank">here</a>.
+</div>
+
+
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end header wrapper -->
+                                    <!-- end header section -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#f2f2f2" style=3D"padding: 10px 20px; backgr=
+ound-color: #f2f2f2">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td id=3D"main_body" width=3D"600" bgcolor=
+=3D"#ffffff" style=3D"padding: 30px; background-color: #ffffff; border: 1px=
+ solid #cccccc; border-bottom: 1px solid #acacac; border-radius: 4px">
+                                    <div align=3D"center">
+                                        <table cellpadding=3D"0" width=3D"6=
+00" cellspacing=3D"0" border=3D"0">
+                                            <!-- start content -->
+                                            <tbody><tr>
+                                                <td style=3D"padding: 0; ba=
+ckground-color: #ffffff">
+                                                    <div align=3D"center">
+                                                        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"font-family: =
+sans-serif; font-size: 15px; line-height: 1.5em; color: #444444">
+                                                            <tbody><tr>
+                                                                <td>
+                                                                    <div al=
+ign=3D"center">
+                                                                        <!-=
+- start body section -->
+                                                                        <di=
+v class=3D"body-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-logo " style=3D"" data-widget-type=3D=
+"logo"><div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_logo_image" class=3D"hs_cos_wrapper hs_cos_wrappe=
+r_widget hs_cos_wrapper_type_logo" style=3D"color: inherit; font-size: inhe=
+rit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos=
+-type=3D"logo"><a href=3D"http://t.hsms09.com/e1t/c/*W8Ysp5L4tj2tgW1NCYKP2l=
+_4YV0/*W57dfLS7rlRZsVC3D4j8zr3vw0/5/f18dQhb0S5fg8XJ8kFW8__q7V3qJmymW23zYFs5=
+8Q04fVw2tCM15zZmKW5q9kQw8B-PX8W3517_H8m7h1SVT8lWz8lwXc7W8tzK6w5wL96LW1sL3M0=
+3MybvyVcVn3D4Kzn27W2N33B53_t0gLW32Gf2Q4dy5FSW1kXfyt1SdKWJW1m2sXx8Xl1blW8W1L=
+YJ4cnVn6W7cvxVf8q5qBxVVQf4X5vDhTYW5zbFY13km0B3W98y3v58wJ5PVMfMWNBWxQfQVNDCz=
+b10KRvzW3P9Kfs1pXg2sW6R7DPY63k_q4W6RNm9h66sB8tW4vSPZl7fDy8fN4XHTjzb98S4N5CR=
+NLqP5kC9W64k-lm94vWxSW35w31N8GclM4VbQLVL6P1FbLD6Y9ktTrJwW5xQjzN2VcndmW6fZyb=
+z47w2qSN8kwYr8sjV00W5XTn3-4jbC2rW3MSHsK2B6l0cW8qqdnF3D2JHmW516J7D70GfLCW3y1=
+9vC3wqsq2f37s2H411" id=3D"hs-link-logo_image" style=3D"border-width:0px;bor=
+der:0px;" data-hs-link-id=3D"0" target=3D"_blank"><img src=3D"https://cdn2.=
+hubspot.net/hub/687259/hubfs/cfphiladelphia_logo-1.png?width=3D231&amp;name=
+=3Dcfphiladelphia_logo-1.png" class=3D"hs-image-widget " style=3D"max-heigh=
+t:51px; max-width:231px; border-width:0px;border:0px;" width=3D"231" alt=3D=
+"City Fitness Philly" title=3D"City Fitness Philly" srcset=3D"https://cdn2.=
+hubspot.net/hub/687259/hubfs/cfphiladelphia_logo-1.png?width=3D231&amp;name=
+=3Dcfphiladelphia_logo-1.png 231w, https://cdn2.hubspot.net/hub/687259/hubf=
+s/cfphiladelphia_logo-1.png?width=3D462&amp;name=3Dcfphiladelphia_logo-1.pn=
+g 462w" sizes=3D"(max-width: 231px) 100vw, 231px"></a></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-rich_text " style=3D"font-size: 12px;=
+ line-height: 1.5em; text-align: center" data-widget-type=3D"rich_text"><di=
+v class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_column1" class=3D"hs_cos_wrapper hs_cos_wrapper_w=
+idget hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: in=
+herit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-c=
+os-type=3D"rich_text"><p style=3D"margin-bottom: 1em; "><a href=3D"http://t=
+.hsms09.com/e1t/c/*W8Ysp5L4tj2tgW1NCYKP2l_4YV0/*W8-34tD7QCs_TVZRy_j1wSMM20/=
+5/f18dQhb0S5fs8XJ8HCW8__q7V3qJmymW23zYFs58Q04fVw2tCM5P7KMHW5q9kQw8B-__YW67k=
+5Wc5vD9_wN5wL6c-SzjjHW8rzJsK1nPLDsW5y5jh-1rfXlzW1kRpb77Yc3xQW6gp6Kq8W2c9WW3=
+2CQ2l8jxMNSW1VwV0k3HbcNkW1SdKWJ32j40pW5mZjbq31H380V9ZqgW6b-vF0N67h1zcQC5z2V=
+PC2cV3jDlLCW99rLW495kZVvMRYgcvcjppnW4ZpvLd5sH-K6W5rjBGP9bpqRhW60Dp_Q4TBKnSW=
+3N0_MW3KrccZW61w0_z5s26NtW96lbcw6T7cG2N8sYcvRXPfrtW5HT4dY23Gy23W5_VjsS3jmH-=
+rW4PkBg56BkmL8W6s16_28Ph58-W59BvGW7yQjd9W4hC2gk5mdlzjW5jPJ7-5l3_2RW12qclB5R=
+Gvk5W8r0Sjh5TLLNqW9gl6X_5fndZ-W73y7Yb7P2nGsN6Bk6KjVrjYxW74t_0w20xt8R0" data=
+-hs-link-id=3D"0" target=3D"_blank"><img src=3D"https://cdn2.hubspot.net/hu=
+b/687259/hubfs/nl/rss-head.jpg?width=3D600&amp;height=3D250&amp;name=3Drss-=
+head.jpg" alt=3D"rss-head.jpg" width=3D"600" height=3D"250" srcset=3D"https=
+://cdn2.hubspot.net/hub/687259/hubfs/nl/rss-head.jpg?width=3D600&amp;height=
+=3D250&amp;name=3Drss-head.jpg 600w, https://cdn2.hubspot.net/hub/687259/hu=
+bfs/nl/rss-head.jpg?width=3D1200&amp;height=3D500&amp;name=3Drss-head.jpg 1=
+200w" sizes=3D"(max-width: 600px) 100vw, 600px"></a></p>
+<p style=3D"margin-bottom: 1em; ">&nbsp;</p></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-email_body " style=3D"" data-widget-t=
+ype=3D"email_body"><div id=3D"hs_cos_wrapper_hs_email_body" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"colo=
+r: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-=
+type=3D"widget" data-hs-cos-type=3D"rich_text"><!--rss-email-entries-->=20
+<table align=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%">=20
+ <tbody>
+  <tr>=20
+   <td>=20
+    <div style=3D"font-family: sans-serif; color: #444444; background-color=
+: #ffffff;">=20
+     <h2 style=3D"padding-bottom: 0px; margin: 0px 0px 5px; text-align: lef=
+t;"><span style=3D"color: #ff0000;"><a href=3D"http://t.hsms09.com/e1t/c/*W=
+8Ysp5L4tj2tgW1NCYKP2l_4YV0/*W1pzVPm8c2W14VDGjDy5llW300/5/f18dQhb0SfHn9cKtMF=
+W2Wtrnk5H0XxdW56Bs9B2Qx-krW6Dk5Rl1Qt2G2VM7Yn31sK_ppW8BZZZW3517_HN8m7h1ST8lW=
+zW8lwXc78tzLz3VmWBr166H2J0W3Gtk_y64kzxXW35s5z45LnnqCW7pkwJj7sG3rZVzsdg16Q1-=
+V3W7dDt1r25FZR_W1xkY3H6RqTXwW61SRxv8pMTCkW96zP0290G7thN8S3yR5bY02SW4s7-3L73=
+DDkBW8hTJV48lwVXYW8hS2967bj1_4VFLkzn5rC5Q6W80MMfG5DFWr2W5mKjF63m27P7W53X_Zp=
+52YlfxW3_8mpl9fgwMTW4fd7qZ5XW_vGVrJRHd4fdj5_W11RLch7sBYyTN6gCtMV6_d8HW32WVY=
+w2RpKqtW1SDyvY4gsS37W7x31Lf1BLRj_W7x5qcC6zML7yW2btCgq3rrPQcW8WZLSk6XywC8W2Q=
+1w3K1CWc9DN8Vmt0r4slhZW3MYtL8294YPHW1NFfl48P4pWBVlyY7d601RmMW15N5BK7y0BRTW4=
+VvYsc5qdN3FW7hV5kw6h9p_VW4d7FKy3ym_t7W7Lr328201_8KW7_NKjV6RnzXPF1WPqsCg2r5f=
+7DmH6-03" style=3D"color: #ff0000; text-decoration: none;" data-hs-link-id=
+=3D"0" target=3D"_blank">Get Through the Holidays with This Personalized 20=
+-Minute Workout</a></span></h2>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"><span style=3D"color: #999999;">By Cristiano Del Giacco, Fr=
+iday, November 25, 2016 3:02 PM</span></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"> </p>
+     <div style=3D"color: #999999;">=20
+      <img alt=3D"20-minute workout" class=3D"attachment-large size-large w=
+p-post-image" height=3D"393" src=3D"http://i2.wp.com/blog.cityfitnessphilly=
+.com/wp-content/uploads/2016/11/20-minute-workout.jpg?fit=3D1100%2C721" wid=
+th=3D"600" style=3D"display:block ; margin:auto ; margin-bottom:5px ; heigh=
+t:393px ; width:600px ">=20
+      <div class=3D"post-excerpt">
+        Is it possible to burn fat and tone up with a 20-minute workout? Fo=
+r young parents and entrepreneurs, a busy lifestyle doesn=E2=80=99t allow f=
+or regular routines, especially around the holiday=E2=80=A6=20
+      </div>=20
+      <p style=3D"margin-bottom: 1em; ">The post <a href=3D"http://t.hsms09=
+.com/e1t/c/*W8Ysp5L4tj2tgW1NCYKP2l_4YV0/*W77rNVJ6xB791W2ByHyj1F44Hg0/5/f18d=
+Qhb0S1Wd2dYTs8TvH3G5h6XhkW2lQnt67bRcqsW3VM5qv1GsGKbW40ph5K2Mq_ckW49k0lN6P5d=
+4yVgVtzG189wxmN71mQh2BDH0SVgPWs35-YBXzW28VRf_4QpsGgVPWydD8Ky0tYW9brQGZ5z6cQ=
+-VJNb4l7D7DjJW3LqcN_63cfMKW5Z0KH45dC15HW48H2x85YTD2YW7dRx7D1bZXpRW5vHKLn1_s=
+k6XW386mp91dxCJzVGDJRb24nRFhW6dStld48H_KLVLG8vp6rQRdXW7ty6V11gVcz0W1DyXsm3Z=
+blT9W66fRq442XhP6W1b0Nm-4t9N_8W5WZSjY7Rtw_cW4LvNtf2jjcVfW2yln0h8xk38XW91VJZ=
+q1q3N5WVFmPz72YmXtYN7_Q8mDj0DWJW8Kr1-G7J037zW6xgHyg2JkGZdN58DjnzXrrHSN8S_hZ=
+V8VZD3W3wxzKC1H06z0W3mSb5w4V_G9LW8XdV--5G9bjdW5Zj4lD3RMw-5W1wHvPV3Kdt22W6Zz=
+bWN30FPgXW1nK5sf4BdWpRW8KHWYP9lSl-JW3qtRqm5LlQWhW6znFzw5fJh_PW7VLTHZ93cqXtW=
+1WVtRp18LjVyf10g1rl03" rel=3D"nofollow" data-hs-link-id=3D"1" target=3D"_bl=
+ank">Get Through the Holidays with This Personalized 20-Minute Workout</a> =
+appeared first on <a href=3D"http://t.hsms09.com/e1t/c/*W8Ysp5L4tj2tgW1NCYK=
+P2l_4YV0/*W1qgPmV84RsyqW8yHvvd6kk0CF0/5/f18dQhb0S5fs8XJ8HCW8__q7V3qJmymW23z=
+YFs58Q04fVw2tCM5P7KMHW5q9kQw8B-__YW67k5Wc5vD9_wN5wL6c-SzjjHW8rzJsK1nPLDsW5y=
+5jh-1rfXlzW1kRpb77Yc3xQW6gp6Kq8W2c9WW32CQ2l8jxMNSW1VwV0k3HbcNkW1SdKWJ32j40p=
+W5mZjbq31H380V9ZqgW6b-vF0N67h1zcQC5z2VPC2cV3jxbB-W4qJQVf9b18QxW9bwFRd991vy6=
+W6N-zJB5wf7mZVPmsJ238lm47W4YxWNp8p_Kq_W8n13kB8tzDwCVP6mPg5H-xKkW3782S03JLMt=
+9W9c8YxK6QYNzSVR9W0C4XXF56M-sccKbG0tbW4PkBg56BkmL8W6s16_28Ph58-W59BvGW7yQjd=
+9W4hC2gk5mdlzjW5jPJ7-5l3_2RW12qclB5RGvk5W8r0Sjh5TLLNqW9gl6X_5fndZ-W73y7Yb7P=
+2nGsN6Bk6KjVrLq8W3SWwzB20xt8R0" rel=3D"nofollow" data-hs-link-id=3D"1" targ=
+et=3D"_blank">City Fitness Blog</a>.</p>=20
+     </div>
+     <p style=3D"margin-bottom: 1em; "></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; text-align: left;"><span style=3D"back=
+ground-color: #ff0000; padding: 20px;"><a href=3D"http://t.hsms09.com/e1t/c=
+/*W8Ysp5L4tj2tgW1NCYKP2l_4YV0/*W7pNCyh38RWXMVW04Jy1zy2L40/5/f18dQhb0S1Wd2dY=
+Ts8TvNKS1b7KWBW2lQnt67bRcqsW1YNbb41By3tZN3T0V5blzQs1W5NkQB-83CrTzV7rZ175fFJ=
+8wN8bdL6WBDH0SVgPWs35-YBYMW5M0zTt73g9RjW2PHd7F4mgMHPW9fPwWK3GZ0S0W1px5-M6km=
+6zPW7wyCn95Xkh0yW4rppf24Vw71zW290Pks2Y68snW4r_yg98bhhT9W4Wnpjf5XMr1mW4_l0G4=
+6vFStFW3MLS-S5-ZTDbW1ygJzP11nlszW12fqHJ3Zj0MXW2j4Vqm4gDRbnW4b4F703zMkqjVtHm=
+fj4_8f1gN7XfdhYCnpjxW1vhps97hVpc9W1JrvpX6-p3XmW1Rtn5-5xxjXFW6V12b15QRq1KW3M=
+fChJ8WvvFWW7STxRL7mDVm0W8lVj0569-K8wN12wFqH3DsDGW3VS5NQ4K0WdRW53bLMT8hCDfhW=
+2kNFfL1lbszmW4rjLrX55GYtDW30FVDq8xpW85N4NGsBc7yLxfW1cpKg-6P9Q_7W8qKV0K3wL-d=
+VW1wGRq-2Z46G6W6QZ3FQ5HQjDXW8KYy_x5RkXbkW9bDV_N7W6vlVW6FZ3Bz8Jrvs4W2W3kyK4R=
+YyLzf9lXfNV02" style=3D"color: #ffffff; text-decoration: none; font-weight:=
+ bold;" data-hs-link-id=3D"2" target=3D"_blank">Read more =C2=BB</a></span>=
+</p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+    </div> </td>=20
+  </tr>=20
+  <tr>=20
+   <td>=20
+    <div style=3D"font-family: sans-serif; color: #444444; background-color=
+: #ffffff;">=20
+     <h2 style=3D"padding-bottom: 0px; margin: 0px 0px 5px; text-align: lef=
+t;"><span style=3D"color: #ff0000;"><a href=3D"http://t.hsms09.com/e1t/c/*W=
+8Ysp5L4tj2tgW1NCYKP2l_4YV0/*W8FDH-p2CBwfpMX0rLzW97wd0/5/f18dQhb0SbTX8XJbV6W=
+8__q7V3qJmymW23zYFs58Q04fVw2tCM4tWqslW2K4V9Y8-ydbTW7Mcvlr2MjQdzW2NSRTB54lCC=
+FW4cPlNL5mZ50NW7Mbpr_8XBqbLW2Mnlh04hrxPkW7qYxN430TSvcVqhfSX1VxmZ-W5nrzc08_d=
+DryW4bJ02h4b_rKwW7MbC4w4NwWkPVbKksh2N33B5W3_t0gL32Gf2QW4dy5FS1kXfytW1SdKWJ1=
+m2sXxW8WsP165tGkrsW9kMWgY5RlSdTW5xNCj88mGgznW313G215L0xTMW8KqC9n8vqnfJW3Wgj=
+wV3NqRcqVMBxNy5mWBG6W8LrN8z3yfG-nW37vqtg3L5yWvW3w9Lqb8sYVTlW5LFV4-8zYg42W42=
+SMp514p_hzW8qZKPl5M-V69W8m2cdS5vCl8JW8bJ2kL3mHCzTN1BgLhjVqKRFMxhsXWrX3l1W6V=
+zNX276syM_W69zp402DKgS_W1VgcRd3rG4KHW5mRgWy93L0sQN7QtnPBywh3-W6jCdvc98VCQ1W=
+1qW5s85HNV4tN5ylfDtdm8X5TVtv117WtPj103" style=3D"color: #ff0000; text-decor=
+ation: none;" data-hs-link-id=3D"0" target=3D"_blank">A Guide to Winter Squ=
+ash + Recipe</a></span></h2>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"><span style=3D"color: #999999;">By Raquel Redmond, Tuesday,=
+ November 22, 2016 2:27 PM</span></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"> </p>
+     <div style=3D"color: #999999;">=20
+      <img alt=3D"Winter Squash" class=3D"attachment-large size-large wp-po=
+st-image" height=3D"400" src=3D"http://i1.wp.com/blog.cityfitnessphilly.com=
+/wp-content/uploads/2016/11/Winter-Squash-H-compressor.jpg?fit=3D1100%2C733=
+" width=3D"600" style=3D"display:block ; margin:auto ; margin-bottom:5px ; =
+height:400px ; width:600px ">=20
+      <div class=3D"post-excerpt">
+        Ah, it=E2=80=99s the blissful season of winter squash! Winter squas=
+h includes butternut squash, acorn squash, kabocha squash, spaghetti squash=
+ and delicata squash. They are great in soups, stews, casseroles, salads=E2=
+=80=A6=20
+      </div>=20
+      <p style=3D"margin-bottom: 1em; ">The post <a href=3D"http://t.hsms09=
+.com/e1t/c/*W8Ysp5L4tj2tgW1NCYKP2l_4YV0/*W44s49t1hQyfqW8db3cW4491rX0/5/f18d=
+Qhb0SbTX8XJbV6W8__q7V3qJmymW23zYFs58Q04fVw2tCM4tWqslW2K4V9Y8-ydbTW7Mcvlr2Mj=
+QdzW2NSRTB54lCCFW4cPlNL5mZ50NW7Mbpr_8XBqbLW2Mnlh04hrxPkW7qYxN430TSvcVqhfSX1=
+VxmZ-W5nrzc08_dDryW4bJ02h4b_rKwW7MbC4w4NwWkPVbKksh2N33B5W3_t0gL32Gf2QW4dy5F=
+S1kXfytW1SdKWJ1m2sXxW8WsP165tGkrsW9kMVMv5RlSdTW5xNCj88mGgznW313x2w3-hv4zW5D=
+LdNT12n5JZN5sPLvbW9t71VLJ-mq5qKNSrW38rCc531BYhqW8B1gCN16-8N-N8zTGDqLHSytW11=
+6ty68BW9HyW3mg_vn8k5wQZW5FBFlz41JrgLW3klKRw34YmtPW5J-Fs-5G3XQHW1BgLjv6sZc3n=
+W73Qsnm1d5pgbW5Frs5J1RZWq_W5k_jF63M6V8TMG4W3jsjV00W5XTn3-4jbC2rW3MSHsK2B6l0=
+cW8qqdnF3D2JHmW516J7D70GfLCW3y19vH3wqsqkf5CrC3Y11" rel=3D"nofollow" data-hs=
+-link-id=3D"1" target=3D"_blank">A Guide to Winter Squash + Recipe</a> appe=
+ared first on <a href=3D"http://t.hsms09.com/e1t/c/*W8Ysp5L4tj2tgW1NCYKP2l_=
+4YV0/*W9lRDhY9brhdxW88j92_1zrzqC0/5/f18dQhb0S5fs8XJ8HCW8__q7V3qJmymW23zYFs5=
+8Q04fVw2tCM5P7KMHW5q9kQw8B-__YW67k5Wc5vD9_wN5wL6c-SzjjHW8rzJsK1nPLDsW5y5jh-=
+1rfXlzW1kRpb77Yc3xQW6gp6Kq8W2c9WW32CQ2l8jxMNSW1VwV0k3HbcNkW1SdKWJ32j40pW5mZ=
+jbq31H380V9ZqgW6b-vF0N67h1zcQC5z2VPC2cV7f6MfwW26CrH42xlNGXW9bqrpc4tTjVkW8l8=
+N6l8qfXwqN3hxcKwL_hBsN8wJ6VyXhZkSW28DFqD8pST8KW2C1-zw4wK9FqW8nvXyL22JKNJN4s=
+Nm2cdgZXmN634L7nP677zW8y0z6z5w0llWW4Rj6Nh6BkmL8W6s16_28Ph58-W59BvGW7yQjd9W4=
+hC2gk5mdlzjW5jPJ7-5l3_2RW12qclB5RGvk5W8r0Sjh5TLLNqW9gl6X_5fndZ-W73y7Yb7P2nG=
+sW6Bk6Kj5y_fndW97fvcN20xt8R0" rel=3D"nofollow" data-hs-link-id=3D"2" target=
+=3D"_blank">City Fitness Blog</a>.</p>=20
+     </div>
+     <p style=3D"margin-bottom: 1em; "></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; text-align: left;"><span style=3D"back=
+ground-color: #ff0000; padding: 20px;"><a href=3D"http://t.hsms09.com/e1t/c=
+/*W8Ysp5L4tj2tgW1NCYKP2l_4YV0/*N4s3tTpCc3YvW91hSMK91Pt0M0/5/f18dQhb0SbTX8XJ=
+bV6W8__q7V3qJmymW23zYFs58Q04fVw2tCM4tWqslW2K4V9Y8-ydbTW7Mcvlr2MjQdzW2NSRTB5=
+4lCCFW4cPlNL5mZ50NW7Mbpr_8XBqbLW2Mnlh04hrxPkW7qYxN430TSvcVqhfSX1VxmZ-W5nrzc=
+08_dDryW4bJ02h4b_rKwW7MbC4w4NwWkPVbKksh2N33B5W3_t0gL32Gf2QW4dy5FS1kXfytW1Sd=
+KWJ1m2sXxW8WsP165tGkrsW9kMWgY5RlSdTW5xNCj88mGgznW313F_G8LK5tTW8c7pK65BHL9kW=
+8rGjz43sDwnCN3mkRrHNGw3rW3N1Km15H1dHzW124DNX8zvs20W8Kj2rm35Z3rRW3hlSK48f7K0=
+wW3TlQh48BRMLMN5C4nRnM5j91W3VTmDH8sZjTBN61pBpjJDtpsN1BgLhjVqKRFMxhsXWrX3l1W=
+6VzNX276syM_W69zp402DKgS_W1VgcRd3rG4KHW5mRgWy93L0sQN7QtnPBywh3-W6jCdvc98VCQ=
+1W1qW5s85HNV4tN5ylfDtdtRw9T4Q_m56-1Gv103" style=3D"color: #ffffff; text-dec=
+oration: none; font-weight: bold;" data-hs-link-id=3D"2" target=3D"_blank">=
+Read more =C2=BB</a></span></p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+    </div> </td>=20
+  </tr>=20
+ </tbody>
+</table></div>
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-rich_text " style=3D"" data-widget-ty=
+pe=3D"rich_text"><div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1471636828266713" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inheri=
+t; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"w=
+idget" data-hs-cos-type=3D"rich_text"><!--HubSpot Call-to-Action Code -->=
+=20
+<span class=3D"hs-cta-wrapper" data-hs-img-pg=3D"21861336-ebb2-4f14-ab2f-84=
+6af3fe0948" id=3D"hs-cta-wrapper-21861336-ebb2-4f14-ab2f-846af3fe0948"> <sp=
+an class=3D"hs-cta-node hs-cta-21861336-ebb2-4f14-ab2f-846af3fe0948" id=3D"=
+hs-cta-21861336-ebb2-4f14-ab2f-846af3fe0948"> <a href=3D"http://t.hsms09.co=
+m/e1t/c/*W8Ysp5L4tj2tgW1NCYKP2l_4YV0/*W52m2Gz69mpK9W7hRPpd1DyvYj0/5/f18dQhb=
+0S2C97rCJfgV11WV-3yB0GCN33X_HWBFFF-W6035_W4f8KwvW1_7SJy7sYRZwW4Tcq842fzYG3W=
+49x_Z02hkYlKN4TCBc3gHx9vVpVTN61vmGwwW3nZTv58btZlcW5f_Mw256dtMYW6q6DPc8rq869=
+W5frVKZ5HRTC8W69Lm2z1RqpzgW5qGbDN8s2dTJW8Gkhy22pmdW_W3TYhxc2p9q1dN3kTgm_3R7=
+cWN54wJZQy-Q1JN5R1P4MStmd-W8l-V322T6jCnW7ym-Dv5pzzMpMRYvC7RbpTVW1jkTvQ4Jc3g=
+tW9dR0t7953kHpW2SzdzM4TQfnXW2TBX8X71m4k4W5mLX_23hZSM_W1rMXSh29gbQ6W5zQl1v3Y=
+wmsyVVNcxS1YnGfhMH9DFtBSWFWW2dJl6S4-Gw9lW6QQq2m8zTF9dW5MKjFB6Z-z1_N7dmWhSKg=
+1zyVBVYS41dKwf-W5Jf_3J5VQgCRMbQpgdPTjgVW1XW20N98T-QGW63zJx58fZ159W7DyjPZ6QD=
+f7mN2Jc1PczS7McW5GPyV06w2JGzMyzfC3c9KgTN3lTNy687dxSW2FPqxr6cyl1TW8Yt5CH5cvR=
+jyW7VWvtR2ZGDv_W40Ph717-gwxcW5GqKtC43Z85GN2fHt73N-NVxW8sRBVj1H-SKqW6dbS9m15=
+ZHwcW8fVbPW4dRSJnW637Pcy16G_nbW4Fz5xy1pYlSqW8HYLHw2gQdmnW6_Rmfw7hPgbLW7sDbh=
+y9h9pxKf2LP6Mt02" data-hs-link-id=3D"0" target=3D"_blank"> <img class=3D"hs=
+-cta-img" id=3D"hs-cta-img-21861336-ebb2-4f14-ab2f-846af3fe0948" style=3D"b=
+order-width:0px;width: auto !important; max-width: 100% !important;" mce_no=
+resize=3D"1" src=3D"http://cta-image-cms2.hubspot.com/ctas/v2/public/cs/il/=
+?pg=3D21861336-ebb2-4f14-ab2f-846af3fe0948&amp;pid=3D687259&amp;ecid=3DACsp=
+rvvtWWWFRoRjl8N9Fjd2Uext54QgXLwtCsbqM8qMwG-26yO328FjMVruGGzcWnP8_4AHKqqy" a=
+lt=3D"City Fitness Trial"></a> </span> </span>=20
+<!-- end HubSpot Call-to-Action Code -->
+<h2>&nbsp;</h2></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-text " style=3D"padding: 10px 0px 0px=
+ 0px; text-align: right" data-widget-type=3D"text"><div class=3D"layout-wid=
+get-wrapper">
+<div id=3D"hs_cos_wrapper_social_sharing_label" class=3D"hs_cos_wrapper hs_=
+cos_wrapper_widget hs_cos_wrapper_type_text" style=3D"color: inherit; font-=
+size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" d=
+ata-hs-cos-type=3D"text"></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-social_sharing " style=3D"padding: 10=
+px 0px 0px 0px; text-align: right" data-widget-type=3D"social_sharing"><div=
+ class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_Social_Sharing" class=3D"hs_cos_wrapper hs_cos_wr=
+apper_widget hs_cos_wrapper_type_social_sharing" style=3D"color: inherit; f=
+ont-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widge=
+t" data-hs-cos-type=3D"social_sharing"><a href=3D"http://t.hsms09.com/e1t/c=
+/*W8Ysp5L4tj2tgW1NCYKP2l_4YV0/*W5vQtjx1n5HflW1QZbsc91FGlS0/5/f18dQhb0S83d9c=
+LjJWW2Wtrnk5H0XxdW56Bs9B2Qx-krW6Dk5RP1SrC8dVM7Yn35y5C1fW61SD151qMs7fW8B-9dc=
+8yVBNPVRJ3YJ3GtjSXW7-xbs47khzHgW3487sr5YX19vW4glqb85mF7flW5mxmqF8gXQSbW5L0h=
+6C16r7T2W3V-2B65Dfq37W2HVTVH3VKVtLW6nF5SN47YmLCN3CsXK9XVXBlN70fl6pNM7vQW2V-=
+F8l5K-FKHN5B4_2r_r6yzVJfbTZ6sSysYW2XsCWx7tf-dJW7kpkQ66sqc6-W2JDZKm2JDgVLVPW=
+6-X2Fq95DW22WLyB6HBHnDW6qG7342108HCW7XLbfZ1TXbRJW85yRgd7XQKkbW1PptKB7Zpc3yW=
+1vwxkD25TxNSW6Fr8lV6hFbpqW70qwH46CCV0TW24S2Wk6qXkJDW19sd1l5ZTK7qW76pjVb6qNS=
+SVW7bjj7W7NQ3TmW7j0GhY1D9J93W1213dF64TT97W4PFxqB4PxC8jW448kRQ45WthjW6csb7t2=
+FMZYtW7Dc2c724t_LdW49FShz4HmjrdW5FM97j4KN4n1W8-2NZs2kfmj7V8Vgm732V9wbW7J0J2=
+03wLfM4V1qNYn2L6mJ6103" target=3D"_blank" style=3D"width:24px;border-width:=
+0px;border:0px;" data-hs-link-id=3D"0"><img src=3D"https://static.hubspot.c=
+om/final/img/common/icons/social/facebook-24x24.png" class=3D"hs-image-widg=
+et hs-image-social-sharing-24" style=3D"max-height:24px;max-width:24px;bord=
+er-width:0px;border:0px;" width=3D"24" hspace=3D"0" alt=3D"Share on Faceboo=
+k"></a>&nbsp;<a href=3D"http://t.hsms09.com/e1t/c/*W8Ysp5L4tj2tgW1NCYKP2l_4=
+YV0/*W7-CqQy31JK8PVZYjKp7Y93Yx0/5/f18dQhb0S2C67rmtHyVWVhlj4Lc6tgW4-ZKx-72Sj=
+mgW7LWgDk1BTdVZW3BHrXH3yM2SWW2QPP8w6NYm9xW8mB7Zd50F_HTVrbJ4q7MPmxNW8ctlxZ21=
+NvF3VjZhQS2_XSm6W23R6Zh5KJjfkVTtF_S2j--R6W4GGQzY8zv1XDW5q5r9k2w6n7SVBChNG7s=
+gzh-VjyqmC1MgJ_YW17rwD621YPsQW8r0zgH4HGlRRVG97FS2yvCwMW2f_3KS5-x4mzW3Vyy0J7=
+q2rpnW297dSz63Fg9VW3Fg-6C44M4BQW2qSh5_1lkwl4VPNNW85m690zW2vQYfJ5CwbcHN2jVnS=
+zCMLBYW4LWpXk26xKskW5Rd6tP7f10LZW6mBRNb49Brt6W3_Yqkc8qsWGhW4v_DvC34rRjdW5g6=
+79L3dZ70SW6YqRRM2nLgqzW5h95YX41HzRwW2Pnp9Z2Vkb99W7jNBVT1h6pGGW7t5zRx32pPYdW=
+6Y5DKx6_2n7tW4G-kRy4KQmy_W2Bl-Jy3Fy9QJW61Pxhd8LpHtPW4362hw1p39N6W6KN3Ff5Kc0=
+0GW88QyDQ5bTX2_W1qrMXh4x7pFYW5RD-kM7cD2SNW6n8YH84DvCl1W5GV-vL6Gp8gBW7-4Y7_4=
+VG8gkW3FTpqq5X6_8gW5Bh6xW6wM25zW2nZfmC8-z60BW31Y_sf2wT2LjW4McDjS5G38FmW49g9=
+gB85bkPZW19287p3D8yfSW5fTLkQ9j-8pjW7_Z2_X4D4mTBW5hJd0M7gLRl9f28nzW803" targ=
+et=3D"_blank" style=3D"width:24px;border-width:0px;border:0px;" data-hs-lin=
+k-id=3D"0"><img src=3D"https://static.hubspot.com/final/img/common/icons/so=
+cial/twitter-24x24.png" class=3D"hs-image-widget hs-image-social-sharing-24=
+" style=3D"max-height:24px;max-width:24px;border-width:0px;border:0px;" wid=
+th=3D"24" hspace=3D"0" alt=3D"Share on Twitter"></a>&nbsp;<a href=3D"mailto=
+:?subject=3DCheck out http%3A%2F%2Fblog.cityfitnessphilly.com%2Ffeed%2F%3Fu=
+tm_medium%3Dsocial%26utm_source%3Demail &amp;body=3DCheck out http%3A%2F%2F=
+blog.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3De=
+mail" target=3D"_blank" style=3D"width:24px;border-width:0px;border:0px;" d=
+ata-hs-link-id=3D"0"><img src=3D"https://static.hubspot.com/final/img/commo=
+n/icons/social/email-24x24.png" class=3D"hs-image-widget hs-image-social-sh=
+aring-24" style=3D"max-height:24px;max-width:24px;border-width:0px;border:0=
+px;" width=3D"24" hspace=3D"0" alt=3D"Share on Email"></a></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end body wrapper -->
+                                                                        <!-=
+- end body section -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20
+                                                        </tbody></table>
+                                                    </div>
+                                                </div></td>
+                                            </tr>
+                                            <!-- end content -->
+                                        </tbody></table>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2;=
+ padding: 13px 30px">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#f2f2f2" st=
+yle=3D"background-color: #f2f2f2">
+                                    <!-- start footer section -->
+                                    <div class=3D"footer-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-email_can_spam " style=3D"" data-widg=
+et-type=3D"email_can_spam"><p id=3D"footer" style=3D"margin-bottom: 1em; fo=
+nt-family: Geneva, Verdana, Arial, Helvetica, sans-serif; text-align: cente=
+r; font-size: 12px; line-height: 1.34em; color: #999999; display: block">
+City Fitness
+&nbsp;&nbsp;2101 South Street
+&nbsp;
+&nbsp;Philadelphia,
+&nbsp;PA
+&nbsp;&nbsp;19146
+&nbsp;&nbsp;U.S.A.
+<br><br>
+You received this email because you are subscribed to City Fitness Blog Sub=
+scription from City Fitness.
+<br><br>
+Update your <a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D=
+"http://t.hsms09.com/e1t/c/*W3cWpSb4cQlQlW7RT1cf8bCt7G0/*F7MMsynrpz-W44ZGty=
+376Ttr0/5/f18dQhb0S2z_2S0ghzTBN6X3fLrkPW3d8yrG2ZPFNfW4z31jb1nHjB9W58xgL2810=
+5L-W1xsrKc8V5Y0-W7w3jyW9h9Y8GVgj3Kz8hC12CW73R1Nr2xgm8HW5dnXLP161rPxW3zqXZj3=
+M-nvYW85k6JD9kS-m0W94yzBs1cwHQ4W6ZC39R33KCJJW428-HZ7PBZQGN2gVykglR4KjW99J9D=
+c6M3xbnW4Lj63v6MT8xlW6G6CrL2P68W9W56-TxC6bLq-XW3_4ysW77sLSsW3bSrsR8NwmTjW3S=
+v5Rf81-whDVHtCys7sB9DRVzcS_94qXyh5N1BsGrzdTNrzW6WjFP52fCMZMW3NgbgQ6svH5qN9l=
+Qndsrd12tW6kxHBj5_KgCLW6tzQCZ5pfqyYW4JwyNH5SX3wnN3YxCdcyvgmXW1HTkWn6fm19pW4=
+h-1qv1L8ChDW1TK4V94h-1KKW4LRmLf3nGthQW7lz11C5GBrwbN45MTMVBJ5t1N9k89b3VT4RfW=
+32R1mz3csvkfVWY-X-2ybFb1N2Mdk0gVF8cpW9jdh9k5ygjqRW1jxt6J5p2BfWW1jsbr14Zdrbf=
+W4ppR1238SYQpW5CHdwW3-mvMxW3knJ2s4WVfvjW8ms01Y36jBfjW8978lP1fhJ6cVYZG-b7t7q=
+-_W2GsQkD4w3kpNW3frkb28J-bHKN3pJ1k3hFzqTW2SFkjP5P8ztWW5PszNC3-K_DHW7sFKK_6V=
+XrplW3vWsCt3B7TFhW4Zd4DM5KN26MW5yF_Pf8_8jkkVzcs-R2flBGVW8t255t7MZgQWW9k861n=
+2Br1NC102" style=3D"text-decoration: underline; whitespace: nowrap; color: =
+#999999;" data-hs-link-id=3D"0" target=3D"_blank">email preferences</a> to =
+choose the types of emails you receive.
+<br><br>
+&nbsp;<a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D"http:=
+//t.hsms09.com/e1t/c/*W3cWpSb4cQlQlW7RT1cf8bCt7G0/*W8fHkm07Hc7QZW3Q-X1H8mw3=
+cC0/5/f18dQhb0S2z_6T3D4xV14gXb66FGvvV3BZ-J4g71gsW7jQ95n5cDqySW2bZqCc2RQJQCW=
+7WPrln20r_5kW5cYmbw6khCZqV9X2vq4QydzvW51k9744N9yLkW2Yv9t62-Yk9lW1QYZr61YtXP=
+xW8NfVqY8p3t9tW18VYzZ1_QTpQW1FxwsP6qBrD_N66KfqdztLK8N2qFFDmg7hw7W4RRVKZ28xr=
+t7Vm_z5m1VMR5vW5bTt8D2tX1vsV7Z16G5hWsJkW2znRLs1XCRrcW8RLdzW7BxmygW3kfsch6S2=
+lL9W5_7G1B5lrRYGN63G2GJ6zPBJW5YF7x15t1GMrW3VWNmn81gByGW2T3vdZ10vVNWW4PfJ5N1=
+LgZbnW37qfJK1nZGvwW1wyqtD75Swl_W5F4vjD3wMmvYW4254Dg8RZqQcN1gptSB-f6H0W8CFBH=
+61bNN2SW3Lx7Gl1kZ7wWV3CL1t6nClVLW7RCZKZ6G1zDwW2G5qKz6ZXlhpN2j7GV0qCkxtV1z56=
+52q-WJgW8pr1QJ231MZLW1dGSQC4LKbCvW1LVHhQ3tZ86dW7F2k-K1LWpPtW5BN7hn7PYT_zW3f=
+hhWy6lVG-5W6Sg6GZ36N-rTW3gGTyn1Npk-PW85V8tf7x0BxJW98F2-w56cZpsW3-fXTp51TCcp=
+W5cpq1X922_tXW5GCDtM4cHXB8W8lLs1s7slPR2W8mrJ9C2pzwrHW63_0cm3lMCKFVt9Mcy8rHQ=
+w3VfTK3y7K2Dw5W5H0lNW6ZTGjPW8mpKYw7hmqV3W7K_zKb4zFgCxW87HMJN88-nB0W6vsm0g8T=
+XqRqf3q6w7321" style=3D"text-decoration: underline; whitespace: nowrap; col=
+or: #999999;" data-hs-link-id=3D"0" target=3D"_blank">Unsubscribe from all =
+future emails</a>&nbsp;
+</p>
+
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end footer wrapper -->
+                                    <!-- end footer section -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                            <tr>
+                                <td></td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        <!-- end container -->
+=20=20=20=20
+<!-- end coded_template: id:4304592182 path:generated_layouts/4304592172.ht=
+ml -->
+</div></td></tr></tbody></table></div></td></tr></tbody></table></div></td>=
+</tr></tbody></table><img src=3D"http://t.hsms09.com/e1t/o/*W5P8mgR7KPdB4W9=
+dqCcv1PS6x10/*W1tCsKS33lmnzVBYqgN1zTJkt0/5/f18dQhb0Sdfk19wT_9W652yWt56Ql6YV=
+RYyfH8r4-n2W1FNMT24D7_LWVrPC_j56fcvkW7RZxwh5srpWYW19pKf_22NsKRW1L9wj37GMnPg=
+W5bN28m7BVHyVW4dvWC97DWTSbW4F9gJQ2CJSNNW8bl1qp8BzbdSW7-chyz1kcqF7f3wqskP04"=
+ alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"display:none!impor=
+tant;min-height:1px!important;width:1px!important;border-width:0!important;=
+margin-top:0!important;margin-bottom:0!important;margin-right:0!important;m=
+argin-left:0!important;padding-top:0!important;padding-bottom:0!important;p=
+adding-right:0!important;padding-left:0!important"><style>@media print{#_hs=
+ { background-image: url('http://t.hsms09.com/e1t/o/*W5P8mgR7KPdB4W9dqCcv1P=
+S6x10/*W8zr49S3FYZ9JW4sP6NQ2FT-cK0/5/f18dQhb0K6H8BYnGNW66PG6T2S0sKMW7dSGxv6=
+5jJm0W3jWN2X5PKRglVslmXx56s_NLW6VzNX276syM_W69zcys1H99y9W6DHYrL2jvg39W2L5Gh=
+q8kvv5sW36CFxx2641yKW6sdYcF8xg--nW5Jy_vt40Vl5tF3r9z964pFJf1GyPFH03');}} div=
+.OutlookMessageHeader {background-image:url('http://t.hsms09.com/e1t/o/*W5P=
+8mgR7KPdB4W9dqCcv1PS6x10/*W6GR6LT2YXgD4V8HmMS44dTKl0/5/f18dQhb0S6Hb5grpP3W6=
+6PG6T2S0sKMW7dSGxv65jJm0W3kpB3s2p_p05N1Jjht4rPC_jVrJh2D7RZxwhW5srpWY19pKf_W=
+22NsKR1L9wfJW60fYpC2N6Z03W6WxBXD7z1yCHW773tG07qgjBSW2WKmKC1L6fzFN8QJpv2mRsN=
+QdmXNH101')} table.moz-email-headers-table {background-image:url('http://t.=
+hsms09.com/e1t/o/*W5P8mgR7KPdB4W9dqCcv1PS6x10/*W6GR6LT2YXgD4V8HmMS44dTKl0/5=
+/f18dQhb0S6Hb5grpP3W66PG6T2S0sKMW7dSGxv65jJm0W3kpB3s2p_p05N1Jjht4rPC_jVrJh2=
+D7RZxwhW5srpWY19pKf_W22NsKR1L9wfJW60fYpC2N6Z03W6WxBXD7z1yCHW773tG07qgjBSW2W=
+KmKC1L6fzFN8QJpv2mRsNQdmXNH101')} blockquote #_hs {background-image:url('ht=
+tp://t.hsms09.com/e1t/o/*W5P8mgR7KPdB4W9dqCcv1PS6x10/*W6GR6LT2YXgD4V8HmMS44=
+dTKl0/5/f18dQhb0S6Hb5grpP3W66PG6T2S0sKMW7dSGxv65jJm0W3kpB3s2p_p05N1Jjht4rPC=
+_jVrJh2D7RZxwhW5srpWY19pKf_W22NsKR1L9wfJW60fYpC2N6Z03W6WxBXD7z1yCHW773tG07q=
+gjBSW2WKmKC1L6fzFN8QJpv2mRsNQdmXNH101')} #MailContainerBody #_hs {backgroun=
+d-image:url('http://t.hsms09.com/e1t/o/*W5P8mgR7KPdB4W9dqCcv1PS6x10/*W6GR6L=
+T2YXgD4V8HmMS44dTKl0/5/f18dQhb0S6Hb5grpP3W66PG6T2S0sKMW7dSGxv65jJm0W3kpB3s2=
+p_p05N1Jjht4rPC_jVrJh2D7RZxwhW5srpWY19pKf_W22NsKR1L9wfJW60fYpC2N6Z03W6WxBXD=
+7z1yCHW773tG07qgjBSW2WKmKC1L6fzFN8QJpv2mRsNQdmXNH101')}</style><div id=3D"_=
+hs"></div></body></html>=
+
+------=_Part_180132_313957447.1480372429245--
+

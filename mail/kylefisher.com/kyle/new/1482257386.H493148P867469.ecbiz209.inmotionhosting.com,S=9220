@@ -1,0 +1,200 @@
+Return-path: <amber@epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 20 Dec 2016 13:09:46 -0500
+Received: from mail-pg0-f43.google.com ([74.125.83.43]:36801)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <amber@epicodus.com>)
+	id 1cJOrC-003deO-BN
+	for kyle@kylefisher.com; Tue, 20 Dec 2016 13:09:46 -0500
+Received: by mail-pg0-f43.google.com with SMTP id f188so75381025pgc.3
+        for <kyle@kylefisher.com>; Tue, 20 Dec 2016 10:09:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=epicodus.com; s=google;
+        h=mime-version:subject:from:to:date:message-id;
+        bh=EZNwWj9MxgkV67CUFXyoQA/gHYt2wDm/ZZTltzjvqKY=;
+        b=eli9bJs5OlZFmnbArUvIk+zKgsMo8tWzFevkexTM1u9FlmPdvQ0aKkel0OJ+BPgjL2
+         JQuRhrb8AY8anLlIMhnBb8l01fhOYS+dyCe9hOaOYkD19/KmLXMswb/302af/tqXSUoa
+         joRtZhGFEBEqOgdHXw5NkG1POd5wk8+ZeI1l4=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:subject:from:to:date:message-id;
+        bh=EZNwWj9MxgkV67CUFXyoQA/gHYt2wDm/ZZTltzjvqKY=;
+        b=ZnUVxY/u+NZEfVX6Xc7WQWZ5+1qZxdb8gFlip2lk5coiSciMZWrlhXA4XZdnLHqoB4
+         6nHD4NgmK7CC7XuxalzUevNAUl7Vd8IndrU0jqO8a0wX75GaWUKz/knDXjlSnx1/3w/w
+         WHAZXkaZkdLpldX/yerQTJRPX7/Nz6ueFqZ8uFvXZz5AB6LjH8EobJ79/jTLK6f10IZ2
+         YnqQrvdvHk11gdMqnXuLKNDIuN1UksnAVPtU2jVyoI2fj76KeVV3om3l02FC/UO+KpOA
+         /JjGTjlAStb6EJKYEI66y63S6lFlF2uLOavcm6zqTiRL41jWnXCi3T8UobZwnehXBVu/
+         0C/w==
+X-Gm-Message-State: AIkVDXJrjujb2LFYaaKlxyhW7d0XFzmB6ITyf/5W5HBvXIL4b2M0yZ3I/9BKtK3L/p7Pbw==
+X-Received: by 10.98.97.7 with SMTP id v7mr503703pfb.39.1482257385378;
+        Tue, 20 Dec 2016 10:09:45 -0800 (PST)
+Received: from smtpgw.close.io (ec2-52-27-236-234.us-west-2.compute.amazonaws.com. [52.27.236.234])
+        by smtp.gmail.com with ESMTPSA id m63sm35228283pfj.91.2016.12.20.10.09.44
+        for <kyle@kylefisher.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 20 Dec 2016 10:09:45 -0800 (PST)
+Content-Type: multipart/mixed; boundary="===============7098387595724000825=="
+MIME-Version: 1.0
+Subject: Rankings and mock interviews
+From: amber arnold <amber@epicodus.com>
+To: kyle@kylefisher.com
+Date: Tue, 20 Dec 2016 18:09:44 +0000
+Message-ID: <148225738479.37353.17536595959446590199@worker1.close.io>
+X-CLOSEIO-EMAIL-ID: acti_Txw28a70Azc7s2tOnXgPABDxFULtw4CnZkcrABQrx6Z
+
+--===============7098387595724000825==
+Content-Type: multipart/alternative;
+ boundary="===============1544546118167856645=="
+MIME-Version: 1.0
+
+--===============1544546118167856645==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hi Kyle!  =
+
+  =
+
+Here's an update on internships and what to expect over the coming weeks:  =
+
+  =
+
+**Rankings and Matchmaking:**  =
+
+  =
+
+-We have four companies listed in Epicenter that are planning to host inter=
+ns in January. As soon as possible, log into Epicenter, and drag and drop t=
+he companies on the internship page from first to last choice.  =
+
+  =
+
+\- Remember to use the notes section if there are special circumstances or
+something else you feel I need to know (if it's remote and you don't own a
+computer, etc).  =
+
+  =
+
+\- Rankings are a two way street, and the companies get just as much say as
+you do in where everyone ends up. I'm sure you read very carefully how the
+matchmaking process works in your internship agreement and know you may not
+get your top pick. I don't have a great deal of discretion in matchmaking to
+begin with, but I walk through matches with other people to minimize the
+chance of human error and ensure as many people get as high on their
+preference list as possible.  =
+
+  =
+
+**Interview Schedule:**  =
+
+  =
+
+-I have reached out to the participating companies to get their interview a=
+vailability and hoped to get the interview schedule to you by the end of th=
+is week. However, since our timeline is a bit longer for the holidays, and =
+our class is small, it is possible companies may ask for more time and dela=
+y the release of that schedule. Regardless, unless a company has a conflict=
+, all **interviews will be held Tuesday January 3rd through Friday January =
+6th. I am working under the assumption that students are available any time=
+ during this period; if you have a time that does not work for you, please =
+let me know before I send out interview schedules.**  =
+
+  =
+
+- Remember that companies often drop out/come on board outside of the sched=
+ule. It's the nature of the tech industry. Companies have unexpected budget=
+ problems or surprise projects, and it doesn't always happen on exactly our=
+ time line. If this happens, I'll reach out to let you know and ask you to =
+adjust your rankings accordingly.  =
+
+  =
+
+**Mock Interviews/Additional documents:**  =
+
+-If you have not submitted or received a passing grade on your cover letter=
+/LinkedIn reviews, please submit/resubmit as soon as possible. I won't be a=
+ble to place you on the interview schedule with companies until all grades =
+are passing.   =
+
+  =
+
+-Many of you have expressed an interest in having a second mock interview. =
+If you're interested, you can schedule one here: <https://calendly.com/ambe=
+rarnold/mockinterview>  =
+
+  =
+
+tl;dr:  =
+
+-Submit rankings  =
+
+-Keep schedule open 1/3-1/6 for interviews  =
+
+-Keep working on and submit Cover Letter, LinkedIn, and GitHub asap.  =
+
+  =
+
+If you have any questions in regards to ranking companies or interview
+assignments, let me know.  =
+
+  =
+
+Thanks!  =
+
+**Amber Arnold**  =
+
+amber@epicodus.com
+--===============1544546118167856645==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hi Kyle!<br><br>Here's an update on internships and what to expect over the=
+ coming weeks:<br><br><strong>Rankings and Matchmaking:</strong><br><br>-We=
+ have four companies listed in Epicenter that are planning to host interns =
+in January. As soon as possible, log into Epicenter, and drag and drop the =
+companies on the internship page from first to last choice.<br><br>- Rememb=
+er to use the notes section if there are special circumstances or something=
+ else you feel I need to know (if it's remote and you don't own a computer,=
+ etc).<br><br>- Rankings are a two way street, and the companies get just a=
+s much say as you do in where everyone ends up. I'm sure you read very care=
+fully how the matchmaking process works in your internship agreement and kn=
+ow you may not get your top pick. I don't have a great deal of discretion i=
+n matchmaking to begin with, but I walk through matches with other people t=
+o minimize the chance of human error and ensure as many people get as high =
+on their preference list as possible.<br><br><strong>Interview Schedule:</s=
+trong><br><br>-I have reached out to the participating companies to get the=
+ir interview availability and hoped to get the interview schedule to you by=
+ the end of this week. However, since our timeline is a bit longer for the =
+holidays, and our class is small, it is possible companies may ask for more=
+ time and delay the release of that schedule. Regardless, unless a company =
+has a conflict, all <strong>interviews will be held Tuesday January 3rd thr=
+ough Friday January 6th. I am working under the assumption that students ar=
+e available any time during this period; if you have a time that does not w=
+ork for you, please let me know before I send out interview schedules.</str=
+ong><br><br>-<span>&nbsp;Remember that c</span>ompanies often drop out/come=
+ on board outside of the schedule.<span>&nbsp;</span>It's the nature of the=
+ tech industry. Companies have unexpected budget problems or surprise proje=
+cts, and it doesn't always happen on exactly our time line. If this happens=
+, I'll reach out to let you know and ask you to adjust your rankings accord=
+ingly.<br><br><strong>Mock Interviews/Additional documents:</strong><br>-If=
+ you have not submitted or received a passing grade on your cover letter/Li=
+nkedIn reviews, please submit/resubmit as soon as possible. I won't be able=
+ to place you on the interview schedule with companies until all grades are=
+ passing. <br><br>-Many of you have expressed an interest in having a secon=
+d mock interview. If you're interested, you can schedule one here: <a targe=
+t=3D"_blank" href=3D"https://calendly.com/amberarnold/mockinterview">https:=
+//calendly.com/amberarnold/mockinterview</a><br><br>tl;dr:<br>-Submit ranki=
+ngs<br>-Keep schedule open 1/3-1/6 for interviews<br>-Keep working on and s=
+ubmit Cover Letter, LinkedIn, and GitHub asap.<br><br>If you have any quest=
+ions in regards to ranking companies or interview assignments, let me know.=
+<br><br>Thanks!<br><strong>Amber Arnold</strong><br>amber@epicodus.com<img =
+src=3D"https://app.close.io/email_opened/eyJlbWFpbF9pZCI6ICJhY3RpX1R4dzI4YT=
+cwQXpjN3MydE9uWGdQQUJEeEZVTHR3NENuWmtjckFCUXJ4NloiLCAiZW1haWxfYWRkcmVzcyI6I=
+CJreWxlQGt5bGVmaXNoZXIuY29tIn0%3D/tracking.png" alt=3D"" width=3D"1" height=
+=3D"1" />
+--===============1544546118167856645==--
+
+--===============7098387595724000825==--

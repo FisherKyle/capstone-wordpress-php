@@ -1,0 +1,34 @@
+Return-path: <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 28 Nov 2016 14:53:42 -0500
+Received: from mail-s56.mailgun.us ([184.173.153.56]:57526)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>)
+	id 1cBRzi-000dHy-LN
+	for kyle@kylefisher.com; Mon, 28 Nov 2016 14:53:42 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=epicodus.com; q=dns/txt; s=mx;
+ t=1480362823; h=Content-Transfer-Encoding: Mime-Version: Content-Type:
+ Subject: From: To: Message-Id: Date: Sender;
+ bh=MgSS9SX3NDXuxvvuMn1Wl4Jw0YV7MY7QJr5am1nRtaw=; b=UMFz4S6CO62tW+iB/zTyZCvIqdqTenfkTGLCi3nvP0kf0rCb7bN27Oi8Q5GRGbADEYz2Gy9S
+ L4L/IZex2bZyw8sQjBC1oUwnnl5rWIjWHrFS31MppTdbRAEPrSUP1SMIpmnYesQKEDCeYgaU
+ yJliQIiGEiA/5ohtfDHp95HdFZU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=epicodus.com; s=mx; q=dns;
+ h=Sender: Date: Message-Id: To: From: Subject: Content-Type:
+ Mime-Version: Content-Transfer-Encoding;
+ b=LpGBPdSoktPPqFijKWd/ubkvZ2qd+PMjQoqI5SilinHigMLRth4HiWWu0R5Q+Ohp3GDkU5
+ ZyPJKc9dFT55RUs8WDdilsCySkv02/zhgDOuvAK73G5xzCaYxk4N6ekmZE8aSwtMd6Oa7DYX
+ CwCm8axrLLbvP/DSTe3CLB73X2eSg=
+Sender: no-reply@epicodus.com
+Date: Mon, 28 Nov 2016 19:53:43 +0000
+X-Mailgun-Sending-Ip: 184.173.153.56
+X-Mailgun-Sid: WyI4ZmIxZiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgImUxZTk1Il0=
+Received: by luna.mailgun.net with HTTP; Mon, 28 Nov 2016 19:53:43 +0000
+Message-Id: <20161128195343.852.40384.FFB96472@epicodus.com>
+To: kyle@kylefisher.com
+From: no-reply@epicodus.com
+Subject: Code review reviewed
+Content-Type: text/plain; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi Kyle Fisher. Your Team Week  code has been reviewed. You can view it at https://epicenter.epicodus.com/courses/78/code_reviews/469.

@@ -1,0 +1,92 @@
+.cp-weekly-article .cp-info-bar-body {
+    font-family: "Lato", sans-serif;
+}
+
+.cp-weekly-article.cp-info-bar-inline .cp-submit,
+.cp-weekly-article.cp-info-bar .cp-submit {
+    margin: 0;
+    font-size: 15px;
+    font-family: inherit;
+    line-height: normal;
+    font-family: "Lato", sans-serif;
+}
+
+.cp-weekly-article .cp-msg-container {
+    text-align: center;
+}
+
+.cp-weekly-article .ib-form-container,
+.cp-weekly-article .cp-info-bar-desc-container {
+    margin: 0 12px 0 0;
+}
+
+.cp-weekly-article .cp-image-container {
+    margin: 0 22px 0 0;
+}
+.cp-weekly-article .cp-info-bar-desc,
+.cp-weekly-article .cp-info-bar-msg {
+    font-size: 18px;
+    font-family: inherit;
+    line-height: 1em;
+}
+@media (max-width:1200px) {
+    .cp-weekly-article .cp-ib-container {
+        padding: 5px;
+    }
+}
+.cp-weekly-article .cp-form-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: auto;
+}
+@media (max-width:768px) {
+    .cp-weekly-article .cp-ib-form {
+        -webkit-flex-basis: 100%;
+        -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+    }
+
+    .cp-weekly-article.cp-info-bar-inline .cp-submit,
+    .cp-weekly-article.cp-info-bar .cp-submit {
+        font-size: 12px;
+        line-height: 1.25em;
+    }
+
+    .cp-weekly-article.cp-info-bar .ib-form-container .cp-button-field {
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+
+    .cp-weekly-article .cp-msg-container,
+    .cp-weekly-article .cp-msg-container * {
+        text-align: center !important;
+    }
+
+    .cp-weekly-article .cp-sub-container {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .cp-weekly-article .cp-ib-container {
+        padding: 10px;
+    }
+
+    .cp-weekly-article .cp-email-field,
+    .cp-weekly-article .cp-msg-container,
+    .cp-weekly-article .cp-name-field,
+    .cp-weekly-article .cp-info-bar-desc-container,
+    .cp-weekly-article .ib-form-container {
+        margin: 0;
+    }
+    .cp-weekly-article .cp-info-bar-desc,
+    .cp-weekly-article .cp-info-bar-msg {
+        font-size: 12px;
+    }
+}

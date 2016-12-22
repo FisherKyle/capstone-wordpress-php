@@ -1,0 +1,230 @@
+Return-path: <bounce+a8d70c.f956-kyle=kylefisher.com@mail.hellosign.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Sat, 03 Dec 2016 08:15:30 -0500
+Received: from do255-111.hellosign.com ([198.61.255.111]:34852)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+a8d70c.f956-kyle=kylefisher.com@mail.hellosign.com>)
+	id 1cDAA6-003TZQ-Bu
+	for kyle@kylefisher.com; Sat, 03 Dec 2016 08:15:30 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mail.hellosign.com; q=dns/txt;
+ s=mx; t=1480770929; h=Content-Type: Mime-Version: Subject: From: To:
+ Reply-To: Message-Id: Date: Sender;
+ bh=KrvnDd2Fo7xR16+hRIBknX6mXfJ20wRsghfqfEtKHCE=; b=nxytfyWNd7RpUNqiG172G7csnkxaS5odJl9h1XaDbhnmycKqCtvc0EfP0dqI1xBAWqxnq77Q
+ umFeGntiJCbpLHeUeBwMM0wmVEFo8HUV/qWfsNL1sVvqLRrMLcE7talq41qNenwRI08FaPK0
+ Qr2DcFBE0teEdqJf54OKjyFxMHc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=mail.hellosign.com; s=mx;
+ q=dns; h=Sender: Date: Message-Id: Reply-To: To: From: Subject:
+ Mime-Version: Content-Type;
+ b=gEgfD7F9WU4EF6RwYOdo4U88yLv7+E1K4XVwHUBNhZ5bLDeDWkeZ1qYEV3FvIoYLUavvms
+ iGHLEkG0IYwuggnXOTvIn6uD1OZzUAKm+YOPzDnhs7jXFNhexiuSUdNUbnBDE6zDTItInBWJ
+ ozr2VJTxSI0Zz8WvuUYKBBsMnKR5g=
+Sender: noreply@mail.hellosign.com
+Date: Sat, 03 Dec 2016 13:15:29 +0000
+X-Mailgun-Sending-Ip: 198.61.255.111
+X-Mailgun-Sid: WyI5ZDFlZCIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgImY5NTYiXQ==
+Received: by luna.mailgun.net with HTTP; Sat, 03 Dec 2016 13:15:29 +0000
+Message-Id: <20161203131529.129769.53927.FAF8D7E1@mail.hellosign.com>
+X-Mailgun-Variables: {"variation": "original", "campaign_code":
+ "reusable_link_ready"}
+Reply-To: HelloSign <noreply@HelloSign.com>
+X-Mailgun-Track: false
+X-Mailgun-Tag: ReusableLinkRequestReady
+To: kyle@kylefisher.com
+From: HelloSign <noreply@mail.hellosign.com>
+Subject: Click here to sign Internship agreement - students
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="5172883950cc478798e5b55de0fe198b"
+
+--5172883950cc478798e5b55de0fe198b
+Content-Type: text/plain; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Internship agreement - students is now ready to be signed. Your email address has been verified.
+
+https://www.hellosign.com/t/547037a8450fdb37bffb5ee3a66136a5bddd16a7?utm_campaign=reusable_link_ready&utm_source=default&utm_medium=email&utm_content=original
+
+Thanks for going paperless!
+
+The HelloSign Team
+--5172883950cc478798e5b55de0fe198b
+Content-Type: text/html; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>HelloSign</title>
+<style type="text/css">
+
+
+/* Client-specific Styles */
+#outlook a { padding: 0; }	/* Force Outlook to provide a "view in browser" button. */
+body { width: 100% !important; }
+.ReadMsgBody { width: 100%; }
+.ExternalClass { width: 100%; display:block !important; } /* Force Hotmail to display emails at full width */
+/* Reset Styles */
+body { background-color: #eeeeee; margin: 0; padding: 0; }
+img { outline: none; text-decoration: none; display: block;}
+br, strong br, b br, em br, i br { line-height:100%; }
+table td, table tr { border-collapse: collapse; }
+.yshortcuts, .yshortcuts a, .yshortcuts a:link,.yshortcuts a:visited, .yshortcuts a:hover, .yshortcuts a span {
+  color: black;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  background: none !important;
+}
+/* Fonts and Content */
+a, a:visited {
+  color: #077CB9;
+}
+body, td {
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.4em;
+}
+/* Email styles */
+.header {
+  margin: 0 0 20px 0;
+}
+.header p {
+  margin: 5px 0 0 0;
+  color: #666;
+}
+.page {
+  background: #fff;
+  padding: 40px 40px 30px 40px;
+  border: 1px solid #ccc;
+}
+.page-2 {
+  margin-top: 10px;
+}
+h1 {
+  margin: 0 0 10px 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+p {
+  margin: 10px 0;
+}
+.action {
+  margin: 20px 0 25px 0;
+}
+a.button {
+  margin: 0;
+  background: #2AA3D3;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 9px 16px 8px 16px;
+  text-decoration: none;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  white-space: nowrap;
+}
+div.hr {
+  border-top: 1px solid #cccccc;
+  margin: 20px 0;
+}
+.sig {
+  font-style: italic;
+  padding-left: 1em;
+}
+.promo {
+  margin: 20px 0;
+  color: #666;
+}
+#footer {
+  background: #cccccc;
+  border-top: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  padding: 0 0 30px 0;
+}
+.footer-block {
+  font-size: 12px;
+  float: left;
+  margin-top: 20px;
+  padding: 0px 5px 0px 0px;
+  color: #555;
+}
+#footer .footer-block-last {
+  padding-right: 0;
+}
+.footer-block a, .footer-block a:visited{
+  color: #368BC6;
+}
+
+#custom_logo { max-width: 300px;max-height: 75px;}
+
+ul{
+  padding-left: 0;
+}
+/* Mobile-specific Styles */
+@media only screen and (max-device-width: 480px) { 
+  table.email-body, td.email-body {
+    width: 100% !important;
+  }
+}
+</style>
+
+</head>
+<body style="background-color: #eeeeee;margin: 0;padding: 0;font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;font-size: 14px;line-height: 1.4em;width: 100%;min-width:680px">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" id="background-table">
+	<tbody>
+		<tr style="border-collapse: collapse;"><td align="center" bgcolor="#eeeeee" style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;font-size: 14px;line-height: 1.4em;border-collapse: collapse;">
+	  
+  	<table class="email-body" width="640" cellpadding="20" cellspacing="0" border="0">
+    <tbody><tr style="border-collapse: collapse;"><td class="email-body" width="640" align="left" style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;font-size: 14px;line-height: 1.4em;border-collapse: collapse;">
+    
+      <div class="header" style="margin: 0 0 20px 0;">
+      	<div style="text-align: left;">
+			<a href="http://www.hellosign.com/?rel=em_lg&utm_campaign=reusable_link_ready&utm_source=default&utm_medium=email&utm_content=original" style="color: #000000;text-decoration: none;"><img src="https://s3.amazonaws.com/cdn.hellosign.com/1.32.4/css/images/email/hs_logo.png"  alt="HelloSign" border="0" style="margin: 0;padding: 0;max-width: 180px;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" width="123" height="33" id="headerImage"/></a>			</div>
+	        <p style="margin: 5px 0 0 0;color: #666;">The easiest way to sign and send documents online</p>
+      </div>
+            <table width="640">
+      	<tr>
+      		<td class="page" style="background-color: #FFFFFF;padding: 40px 40px 30px 40px;border: 1px solid #ccc;color:black" bgcolor="FFFFFF">
+<h1 style="margin: 0 0 10px 0;font-size: 18px;font-weight: bold;color:#000;">Internship agreement - students is now ready to be signed</h1><p style="margin:10px 0px;font-size:14px;line-height:1.4em;color:#000;">Your email address has been verified.</p><div style="margin:20px 0px 20px 0px;">
+	<table><tbody><tr><td style="padding: 9px 16px 9px 16px; font-size: 16px;  color: #F7FBFD; background: #00B3E6;"><a target="_blank" style="text-decoration: none; font-size: 16px;  color: #F7FBFD;" href="https://www.hellosign.com/t/547037a8450fdb37bffb5ee3a66136a5bddd16a7?utm_campaign=reusable_link_ready&amp;utm_source=default&amp;utm_medium=email&amp;utm_content=original"><span style="color:#F7FBFD">Review document</span></a></td></tr></tbody></table></div>
+<hr style="color:#CCCCCC; background-color:#CCCCCC; height:1px; border:none;"><p style="margin:10px 0px;font-size:14px;line-height:1.4em;color:#000;">Thanks for going paperless!<br/><span style="margin-left:1em;">- <em>The HelloSign Team</em></span></p>
+		</td> <!--  /page -->
+	</tr>
+</table>
+
+
+
+    </td></tr></tbody></table>
+  </td></tr></tbody></table>
+
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" id="footer" style="min-width:680px;background: #cccccc;border-top: 1px solid #999999;border-bottom: 1px solid #999999;padding: 0 0 30px 0;">
+	<tbody><tr style="border-collapse: collapse;"><td align="center" bgcolor="#cccccc" style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;font-size: 14px;line-height: 1.4em;border-collapse: collapse;">
+
+  	<table class="email-body" width="640" cellpadding="20" cellspacing="0" border="0" style="margin-top: 20px;">
+    <tbody>
+    	<tr style="border-collapse: collapse;">
+      		<td class="footer-block" align="left" style="padding: 0px 12px 0px 0px;vertical-align: top;font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;font-size: 12px;line-height: 1.4em;border-collapse: collapse;color:#555">
+	      		<strong>We believe the office can be paperless</strong><br/>
+    	       	<a style="color: #368BC6;text-decoration:none;" href="http://www.hellofax.com/?utm_campaign=reusable_link_ready&utm_source=default&utm_medium=email&utm_content=original">HelloFax</a> <span>&mdash; Fax Documents Online</span><br/>
+    	       	<a style="color: #368BC6;text-decoration:none;" href="http://www.hellosign.com/?utm_campaign=reusable_link_ready&utm_source=default&utm_medium=email&utm_content=original">HelloSign</a> <span>&mdash; Sign Documents Online</span><br/>
+    	       	<a style="color: #368BC6;text-decoration:none;" href="http://www.hellosign.com/gmail?utm_campaign=reusable_link_ready&utm_source=default&utm_medium=email&utm_content=original">HelloSign for Gmail</a> <span>&mdash; Sign from Gmail</span>
+      		</td>
+
+      		<td class="footer-block" align="left" style="padding: 0px 12px 0px 0px;vertical-align: top;font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;font-size: 12px;line-height: 1.4em;border-collapse: collapse;color:#555">
+              944 Market Street<br/>
+              San Francisco, CA<br/>
+              94102
+            </td>
+
+      		<td class="footer-block" align="left" style="padding: 0px 0px 0px 0px;vertical-align: top;font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;font-size: 12px;line-height: 1.4em;border-collapse: collapse;color:#555">
+    	      <a style="color: #368BC6;text-decoration:none;" href="https://s3.amazonaws.com/cdn.hellosign.com/1.32.4/css/images/email/support-hs.vcf" class="hcard-download">Add us to your address book</a><br/>
+    	            		</td>
+      	</tr>
+     </tbody>
+     </table>
+  </td></tr></tbody></table>
+</body>
+</html>
+--5172883950cc478798e5b55de0fe198b--

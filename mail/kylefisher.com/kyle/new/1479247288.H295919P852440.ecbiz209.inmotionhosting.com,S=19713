@@ -1,0 +1,437 @@
+Return-path: <notifications@3.basecamp.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 15 Nov 2016 17:01:28 -0500
+Received: from mail-relay-05.3.basecamp.com ([204.62.114.106]:53552)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <notifications@3.basecamp.com>)
+	id 1c6lnE-003Zkf-4p
+	for kyle@kylefisher.com; Tue, 15 Nov 2016 17:01:28 -0500
+Received: from bc3-jobs-03.sc-chi-int.37signals.com (bigip-floating-public.sc-chi-int.37signals.com [10.10.0.26])
+	by virt-gw.sc-chi.basecamp.com (Postfix) with ESMTP id 0B4EE1A20E4
+	for <kyle@kylefisher.com>; Tue, 15 Nov 2016 22:01:15 +0000 (UTC)
+X-DKIM: OpenDKIM Filter v2.6.8 virt-gw.sc-chi.basecamp.com 0B4EE1A20E4
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=3.basecamp.com;
+	s=bc3mail; t=1479247276;
+	bh=Htwhi0IB1046ExirvMo/fnXXevOiUj8kVMYAGq7KgeM=;
+	h=Date:From:Reply-To:To:In-Reply-To:Subject;
+	b=J8sg7jBGm5Aoo9EIGS5pq4nt6Jts33E7vjmr5gmYmry/WSJxH5NsUGFDptOP8k8Io
+	 l2jZAp/HHF3YqnkXvqi2sRHGA4o9BpwOsNBiW2kQ4vmO8KKWDALTy3Q4PUHIGec3AV
+	 r25ZWPZZlF5iEXUybO8vn0TWa5JbiNBiicqQc1NY=
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by bc3-jobs-03.sc-chi-int.37signals.com (Postfix) with ESMTP id D918924076F
+	for <kyle@kylefisher.com>; Tue, 15 Nov 2016 22:01:15 +0000 (UTC)
+Date: Tue, 15 Nov 2016 22:01:15 +0000
+From: "Basecamp (Epicodus)" <notifications@3.basecamp.com>
+Reply-To: kyle-fisher-rWMhRm6duvSu@replies.3.basecamp.com
+To: kyle@kylefisher.com
+Message-ID: <questions/275753881@3.basecamp.com>
+In-Reply-To: <questions/275753881@3.basecamp.com>
+Subject: (Epicodus HQ) What did you work on today?
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_582b85ab9f22a_23d8c97d11462180";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Return-Receipt: RR/BC3/8ee95d5c439caaac44f4057ff2de693a
+X-Request-ID: c43cd44e-be16-48aa-980f-d5d8a8849433
+
+
+----==_mimepart_582b85ab9f22a_23d8c97d11462180
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey Kyle,
+
+Could you take a quick minute to answer this question?
+
+What did you work on today?
+
+Visit this link to answer:
+
+https://3.basecamp.com/3588564/questions/answers/entries/108117981/edit
+
+
+---------------------------------------------------------
+
+Get the Basecamp app for iPhone or Android!
+=E2=80=A2 Download on the App Store: https://itunes.apple.com/us/app/base=
+camp-3/id1015603248?ls=3D1&mt=3D8
+=E2=80=A2 Get it on Google Play: https://play.google.com/store/apps/detai=
+ls?id=3Dcom.basecamp.bc3
+
+
+----==_mimepart_582b85ab9f22a_23d8c97d11462180
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://ww=
+w.w3.org/TR/html4/loose.dtd">
+<html lang=3D"en">
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+  <meta name=3D"viewport" id=3D"viewport" content=3D"width=3Ddevice-width=
+,minimum-scale=3D1.0,maximum-scale=3D10.0,initial-scale=3D1.0">
+
+  =
+
+
+  =
+
+<style>=EF=BB=BF.formatted_content a{color:#1b6ac9;text-decoration:underl=
+ine}
+.formatted_content a:active{color:#134b8f}
+.formatted_content a.unstyled:hover{color:inherit}
+.formatted_content a.attachment__remover:hover{color:inherit}
+.formatted_content a[contenteditable=3Dfalse]:hover{color:inherit}
+.formatted_content a[data-trix-attachment]:hover{color:inherit}
+.formatted_content a.unstyled:visited:hover{color:inherit}
+.formatted_content a.attachment__remover:visited:hover{color:inherit}
+.formatted_content a[contenteditable=3Dfalse]:visited:hover{color:inherit=
+}
+.formatted_content a[data-trix-attachment]:visited:hover{color:inherit}
+.event-form__detail:before{content:' ';display:table}
+.event-form__detail:after{content:' ';display:table}
+.event-form__detail:after{clear:both}
+.attachment__progress::-webkit-progress-bar{background-color:rgba(255,255=
+,255,0.8);border-radius:0.3rem;box-shadow:0 0 0.5rem rgba(0,0,0,0.15) ins=
+et}
+.attachment__progress::-webkit-progress-value{position:relative;backgroun=
+d:#3cb371;border-radius:0.3rem}
+.attachment__progress::-moz-progress-bar{background:#3cb371;border-radius=
+:0.3rem}
+.attachment a:hover{color:inherit}
+.attachment a:visited:hover{color:inherit}
+.u-focusable-input:focus{outline:none;border-color:#a4d2ff;box-shadow:0 0=
+ 6px rgba(27,106,201,0.5)}
+.event-form__detail:before{content:' ';display:table}
+.event-form__detail:after{content:' ';display:table}
+.event-form__detail:after{clear:both}
+.attachment__progress::-webkit-progress-bar{background-color:rgba(255,255=
+,255,0.8);border-radius:0.3rem;box-shadow:0 0 0.5rem rgba(0,0,0,0.15) ins=
+et}
+.attachment__progress::-webkit-progress-value{position:relative;backgroun=
+d:#3cb371;border-radius:0.3rem}
+.attachment__progress::-moz-progress-bar{background:#3cb371;border-radius=
+:0.3rem}
+.attachment a:hover{color:inherit}
+.attachment a:visited:hover{color:inherit}
+.u-focusable-input:focus{outline:none;border-color:#a4d2ff;box-shadow:0 0=
+ 6px rgba(27,106,201,0.5)}
+.attachment__caption-editor:focus{box-shadow:none !important}
+.attachment__remover:after{content:' ';position:absolute;top:100%;left:50=
+%;height:0;width:0;border:6px solid rgba(255,255,255,0);border-top-color:=
+#3cb371;margin-left:-6px;pointer-events:none}
+.attachment--preview .attachment__size:before{content:' =C2=B7 '}
+.attachment--preview .attachment__attribute:before{content:' =C2=B7 '}
+.event-form__detail:before{content:' ';display:table}
+.event-form__detail:after{content:' ';display:table}
+.event-form__detail:after{clear:both}
+.attachment__progress::-webkit-progress-bar{background-color:rgba(255,255=
+,255,0.8);border-radius:0.3rem;box-shadow:0 0 0.5rem rgba(0,0,0,0.15) ins=
+et}
+.attachment__progress::-webkit-progress-value{position:relative;backgroun=
+d:#3cb371;border-radius:0.3rem}
+.attachment__progress::-moz-progress-bar{background:#3cb371;border-radius=
+:0.3rem}
+.attachment a:hover{color:inherit}
+.attachment a:visited:hover{color:inherit}
+.u-focusable-input:focus{outline:none;border-color:#a4d2ff;box-shadow:0 0=
+ 6px rgba(27,106,201,0.5)}
+.avatar:before{display:block;font-size:0.9rem;line-height:1;text-align:ce=
+nter}
+.event-form__detail:before{content:' ';display:table}
+.event-form__detail:after{content:' ';display:table}
+.event-form__detail:after{clear:both}
+.attachment__progress::-webkit-progress-bar{background-color:rgba(255,255=
+,255,0.8);border-radius:0.3rem;box-shadow:0 0 0.5rem rgba(0,0,0,0.15) ins=
+et}
+.attachment__progress::-webkit-progress-value{position:relative;backgroun=
+d:#3cb371;border-radius:0.3rem}
+.attachment__progress::-moz-progress-bar{background:#3cb371;border-radius=
+:0.3rem}
+.attachment a:hover{color:inherit}
+.attachment a:visited:hover{color:inherit}
+.u-focusable-input:focus{outline:none;border-color:#a4d2ff;box-shadow:0 0=
+ 6px rgba(27,106,201,0.5)}
+.event-form__detail:before{content:' ';display:table}
+.event-form__detail:after{content:' ';display:table}
+.event-form__detail:after{clear:both}
+.attachment__progress::-webkit-progress-bar{background-color:rgba(255,255=
+,255,0.8);border-radius:0.3rem;box-shadow:0 0 0.5rem rgba(0,0,0,0.15) ins=
+et}
+.attachment__progress::-webkit-progress-value{position:relative;backgroun=
+d:#3cb371;border-radius:0.3rem}
+.attachment__progress::-moz-progress-bar{background:#3cb371;border-radius=
+:0.3rem}
+.attachment a:hover{color:inherit}
+.attachment a:visited:hover{color:inherit}
+.u-focusable-input:focus{outline:none;border-color:#a4d2ff;box-shadow:0 0=
+ 6px rgba(27,106,201,0.5)}
+.event-form__detail:before{content:' ';display:table}
+.event-form__detail:after{content:' ';display:table}
+.event-form__detail:after{clear:both}
+.attachment__progress::-webkit-progress-bar{background-color:rgba(255,255=
+,255,0.8);border-radius:0.3rem;box-shadow:0 0 0.5rem rgba(0,0,0,0.15) ins=
+et}
+.attachment__progress::-webkit-progress-value{position:relative;backgroun=
+d:#3cb371;border-radius:0.3rem}
+.attachment__progress::-moz-progress-bar{background:#3cb371;border-radius=
+:0.3rem}
+.attachment a:hover{color:inherit}
+.attachment a:visited:hover{color:inherit}
+.u-focusable-input:focus{outline:none;border-color:#a4d2ff;box-shadow:0 0=
+ 6px rgba(27,106,201,0.5)}
+.event-form__detail:before{content:' ';display:table}
+.event-form__detail:after{content:' ';display:table}
+.event-form__detail:after{clear:both}
+.attachment__progress::-webkit-progress-bar{background-color:rgba(255,255=
+,255,0.8);border-radius:0.3rem;box-shadow:0 0 0.5rem rgba(0,0,0,0.15) ins=
+et}
+.attachment__progress::-webkit-progress-value{position:relative;backgroun=
+d:#3cb371;border-radius:0.3rem}
+.attachment__progress::-moz-progress-bar{background:#3cb371;border-radius=
+:0.3rem}
+.attachment a:hover{color:inherit}
+.attachment a:visited:hover{color:inherit}
+.u-focusable-input:focus{outline:none;border-color:#a4d2ff;box-shadow:0 0=
+ 6px rgba(27,106,201,0.5)}
+.date--continued:before{left:100%;top:-1px;border:solid transparent;conte=
+nt:'';height:0;width:0;position:absolute;pointer-events:none;border-top-c=
+olor:transparent !important;border-bottom-color:transparent !important;bo=
+rder-left-color:#f2f2f2;border-width:5px}
+.date--continuation:before{left:100%;top:-1px;border:solid transparent;co=
+ntent:'';height:0;width:0;position:absolute;pointer-events:none;border-to=
+p-color:transparent !important;border-bottom-color:transparent !important=
+;border-left-color:#f2f2f2;border-width:5px}
+.date--continued:before{border-right-color:transparent !important}
+.date--continuation:before{left:auto;right:100%;border-left-color:transpa=
+rent !important;border-right-color:#f2f2f2}
+.date--january:before{border-color:#03a9f4}
+.date--february:before{border-color:#00bcd4}
+.date--march:before{border-color:#009688}
+.date--april:before{border-color:#4caf50}
+.date--may:before{border-color:#8bc34a}
+.date--june:before{border-color:#afb42b}
+.date--july:before{border-color:#ffc107}
+.date--august:before{border-color:#ff9800}
+.date--september:before{border-color:#ff7043}
+.date--october:before{border-color:#d16f50}
+.date--november:before{border-color:#8d6e63}
+.date--december:before{border-color:#2196f3}
+.date--expired:before{border-color:#f2f2f2}
+.event-form__detail:before{content:' ';display:table}
+.event-form__detail:after{content:' ';display:table}
+.event-form__detail:after{clear:both}
+.attachment__progress::-webkit-progress-bar{background-color:rgba(255,255=
+,255,0.8);border-radius:0.3rem;box-shadow:0 0 0.5rem rgba(0,0,0,0.15) ins=
+et}
+.attachment__progress::-webkit-progress-value{position:relative;backgroun=
+d:#3cb371;border-radius:0.3rem}
+.attachment__progress::-moz-progress-bar{background:#3cb371;border-radius=
+:0.3rem}
+.attachment a:hover{color:inherit}
+.attachment a:visited:hover{color:inherit}
+.u-focusable-input:focus{outline:none;border-color:#a4d2ff;box-shadow:0 0=
+ 6px rgba(27,106,201,0.5)}
+.metadata a:active{color:#948467}</style>
+</head>
+
+<body marginheight=3D"0" topmargin=3D"0" marginwidth=3D"0" leftmargin=3D"=
+0" padding=3D"0" margin=3D"0" style=3D"margin:0;padding:0;background:#fff=
+;text-align:left;font-size:15px;line-height:1.4;font-family:'Helvetica Ne=
+ue', helvetica, 'Segoe UI', arial, sans-serif;font-weight:400;-webkit-tex=
+t-size-adjust:100%;-ms-text-size-adjust:100%">
+  <table class=3D"automated-notification" style=3D"background:#fff;margin=
+:0;padding:0;border:0;border-collapse:collapse;border-spacing:0;-premaile=
+r-cellspacing:0;-premailer-cellpadding:0;-premailer-width:100%;width:100%=
+;max-width:45em;margin:0 auto;text-align:center">
+    <tr>
+      <td height=3D"5" style=3D"font-family:'Helvetica Neue', helvetica, =
+arial, sans-serif"></td>
+    </tr>
+    <tr>
+      <td class=3D"automated-notification__logo" style=3D"font-family:'He=
+lvetica Neue', helvetica, arial, sans-serif">
+        <p class=3D"flush" style=3D"color:#000;margin:0 0 19px;margin:0 !=
+important"><img width=3D"80" height=3D"67" alt=3D"Hey there!" src=3D"http=
+s://3.basecamp-static.com/assets/campers/camper-smile-c424c3317a7b430d5d1=
+826782f0db95c147c290746a0a4ed68582e45cea38701.png"></p>
+      </td>
+    </tr>
+    <tr>
+      <td style=3D"font-family:'Helvetica Neue', helvetica, arial, sans-s=
+erif">
+        <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D=
+"background:#fff;margin:0;padding:0;border:0;border-collapse:collapse;bor=
+der-spacing:0;-premailer-cellspacing:0;-premailer-cellpadding:0;-premaile=
+r-width:100%">
+          <tr>
+            <td class=3D"centered" style=3D"font-family:'Helvetica Neue',=
+ helvetica, arial, sans-serif;text-align:center">
+              <center><img width=3D"30" height=3D"15" class=3D"arrow-up" =
+alt=3D"^" src=3D"https://3.basecamp-static.com/assets/icons/arrow_up@2x-2=
+9cf4c95da3079f6c0de06244fcc47d0d69e8bed65abc61e30ba53c76b377d2f.png" styl=
+e=3D"display:block;margin:0 auto"></center>
+            </td>
+          </tr>
+          <tr>
+            <td class=3D"automated-notification__content" style=3D"font-f=
+amily:'Helvetica Neue', helvetica, arial, sans-serif;width:100%;padding:2=
+em 1em;border-top:2px solid #d9d9d9;border-bottom:2px solid #d9d9d9;text-=
+align:left">
+              <table width=3D"100%" style=3D"background:#fff;margin:0;pad=
+ding:0;border:0;border-collapse:collapse;border-spacing:0;-premailer-cell=
+spacing:0;-premailer-cellpadding:0;-premailer-width:100%">
+  <tr>
+    <td class=3D"centered" style=3D"font-family:'Helvetica Neue', helveti=
+ca, arial, sans-serif;text-align:center">
+      <h2 style=3D"margin:0;line-height:1.2;font-size:1.4em">Could you ta=
+ke a quick minute to answer this question?</h2>
+    </td>
+  </tr>
+  <tr><td class=3D"push_half--height" style=3D"font-family:'Helvetica Neu=
+e', helvetica, arial, sans-serif;height:0.625em !important"></td></tr>
+  <tr>
+    <td class=3D"centered" style=3D"font-family:'Helvetica Neue', helveti=
+ca, arial, sans-serif;text-align:center">
+      <div class=3D"automated-notification__large-text" style=3D"font-siz=
+e:1.4rem">
+        What did you work on today?
+      </div>
+    </td>
+  </tr>
+  <tr><td class=3D"push_half--height" style=3D"font-family:'Helvetica Neu=
+e', helvetica, arial, sans-serif;height:0.625em !important"></td></tr>
+  <tr>
+    <td class=3D"centered" style=3D"font-family:'Helvetica Neue', helveti=
+ca, arial, sans-serif;text-align:center">
+      <center>
+        <table class=3D"centered-margin" style=3D"background:#fff;margin:=
+0;padding:0;border:0;border-collapse:collapse;border-spacing:0;-premailer=
+-cellspacing:0;-premailer-cellpadding:0;-premailer-width:100%;margin:0 au=
+to">
+          <tr>
+            <td class=3D"email-action-button" bgcolor=3D"#3cb371" style=3D=
+"font-family:'Helvetica Neue', helvetica, arial, sans-serif;display:block=
+;height:40px;padding:0 20px;text-align:center;background-color:#3cb371;bo=
+rder-bottom:2px solid #2f8d59;border-radius:4px;color:#fff"><a class=3D"e=
+mail-action-button__link" href=3D"https://3.basecamp.com/3588564/question=
+s/answers/entries/108117981/edit" style=3D"color:#1b6ac9;white-space:nowr=
+ap;text-overflow:ellipsis;overflow:hidden;display:inline-block;width:100%=
+;font-size:16px;font-family:Helvetica, Arial, sans-serif;text-decoration:=
+none;line-height:40px;color:#fff"><span class=3D"email-action-button__tex=
+t" style=3D"color:#fff">
+              Write up an answer
+</span></a></td>          </tr>
+        </table>
+      </center>
+    </td>
+  </tr>
+</table>
+
+
+<img src=3D"https://3.basecamp.com/3588564/my/unreads/BAh7CEkiCGdpZAY6BkV=
+USSIsZ2lkOi8vYmMzL1JlbWluZGVyLzEwODExNzk4MT9leHBpcmVzX2luBjsAVEkiDHB1cnBv=
+c2UGOwBUSSINcmVhZGFibGUGOwBUSSIPZXhwaXJlc19hdAY7AFQw--fb5259feee56bf83e57=
+d0790b19402626dfcc2ac/BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYmMzL1VzZXIvMTg4NjA=
+0NAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0y=
+MDE2LTEyLTE1VDIyOjAxOjE1LjY0NFoGOwBU--139b92b6983d91ac0bd97ba3640cbecee8a=
+4e9a4.gif" alt=3D"Bah7cekicgdpzay6bkvussibz2lkoi8vymmzl1vzzxivmtg4nja0nay=
+7afrjigxwdxjwb3nlbjsavekidgrlzmf1bhqgowbussipzxhwaxjlc19hday7afrjih0ymde2=
+lteylte1vdiyojaxoje1ljy0nfogowbu " width=3D"1" height=3D"1">
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td height=3D"5" style=3D"font-family:'Helvetica Neue', helvetica, =
+arial, sans-serif"></td>
+    </tr>
+    <tr>
+      <td style=3D"font-family:'Helvetica Neue', helvetica, arial, sans-s=
+erif">  <table class=3D"centered" width=3D"100%" style=3D"background:#fff=
+;margin:0;padding:0;border:0;border-collapse:collapse;border-spacing:0;-p=
+remailer-cellspacing:0;-premailer-cellpadding:0;-premailer-width:100%;tex=
+t-align:center">
+    <tr><td class=3D"push_half--height" style=3D"font-family:'Helvetica N=
+eue', helvetica, arial, sans-serif;height:0.625em !important"></td></tr>
+    <tr>
+      <td style=3D"font-family:'Helvetica Neue', helvetica, arial, sans-s=
+erif">
+        <p class=3D"small gray flush" style=3D"color:#000;margin:0 0 19px=
+;font-size:12px;line-height:15px;color:#7f7f7f;margin:0 !important">
+          <a class=3D"gray" href=3D"https://3.basecamp.com/3588564/bucket=
+s/1767710/recordings/275753881/stop_responding/BAh7CEkiCGdpZAY6BkVUSSIbZ2=
+lkOi8vYmMzL1VzZXIvMTg4NjA0NAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSI=
+PZXhwaXJlc19hdAY7AFRJIh0yMDE2LTEyLTE1VDIyOjAxOjE1LjY0MFoGOwBU--9558f95f98=
+d0ab49786b641e80eff7e59c92f071" style=3D"color:#1b6ac9;color:#7f7f7f">Uns=
+ubscribe</a> =E2=80=A2
+          <a class=3D"gray" href=3D"https://3.basecamp.com/3588564/my/not=
+ifications/settings" style=3D"color:#1b6ac9;color:#7f7f7f">Change your no=
+tification settings</a>
+        </p>
+      </td>
+    </tr>
+
+
+  <tr><td class=3D"push_half--height" style=3D"font-family:'Helvetica Neu=
+e', helvetica, arial, sans-serif;height:0.625em !important"></td></tr>
+
+  <tr>
+    <td style=3D"font-family:'Helvetica Neue', helvetica, arial, sans-ser=
+if">
+      =
+
+      <p class=3D"small gray flush" style=3D"color:#000;margin:0 0 19px;f=
+ont-size:12px;line-height:15px;color:#7f7f7f;margin:0 !important">
+        Get easier, faster access to Basecamp when it's on your phone. Gr=
+ab an app!
+      </p>
+      <center>
+        <table class=3D"centered-margin" style=3D"background:#fff;margin:=
+0;padding:0;border:0;border-collapse:collapse;border-spacing:0;-premailer=
+-cellspacing:0;-premailer-cellpadding:0;-premailer-width:100%;margin:0 au=
+to">
+          <tr><td class=3D"push_half--height" style=3D"font-family:'Helve=
+tica Neue', helvetica, arial, sans-serif;height:0.625em !important"></td>=
+</tr>
+          <tr>
+            <td class=3D"app-store-badge" style=3D"font-family:'Helvetica=
+ Neue', helvetica, arial, sans-serif;padding-bottom:4px;padding-right:4px=
+">
+              <a href=3D"https://itunes.apple.com/us/app/basecamp-3/id101=
+5603248?ls=3D1&amp;mt=3D8" style=3D"color:#1b6ac9"><img width=3D"90" clas=
+s=3D"app-store-icon" alt=3D"Download on the App Store" src=3D"https://3.b=
+asecamp-static.com/assets/icons/app_store_ios-c059cc6590fc6e5ee96d9f226b0=
+e3c4589e34df29ba19ffa6854ece02069d4f6.png"></a>
+            </td>
+            <td class=3D"app-store-badge" style=3D"font-family:'Helvetica=
+ Neue', helvetica, arial, sans-serif;padding-bottom:4px;padding-right:4px=
+">
+              <a href=3D"https://play.google.com/store/apps/details?id=3D=
+com.basecamp.bc3" style=3D"color:#1b6ac9"><img width=3D"90" class=3D"app-=
+store-icon" alt=3D"Download on the Play Store" src=3D"https://3.basecamp-=
+static.com/assets/icons/app_store_android-9ff3327d87b89cc11fd86f5d9e8609a=
+348041fd94d8e7b72ea9189d38ce5ec53.png"></a>
+            </td>
+          </tr>
+        </table>
+      </center>
+    </td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+  </table>
+</body>
+<img src=3D'https://dash.37signals.com/beanstalk/beacon.gif?return_receip=
+t=3DRR/BC3/8ee95d5c439caaac44f4057ff2de693a'></html>
+
+----==_mimepart_582b85ab9f22a_23d8c97d11462180--

@@ -1,0 +1,23 @@
+/*---blank style---*/
+.cp-blank-info-bar .cp-content-container {
+    padding: 10px 20px;
+    z-index: 2;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+.cp-blank-info-bar .cp-content-container {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+}
+.cp-blank-info-bar .cp-info-bar-body {
+    font-family: 'Varela Round', sans-serif;
+}
+@media (max-width: 768px) {
+	.cp-blank-info-bar .cp-content-container,
+	.cp-blank-info-bar .cp-content-container * {
+	    text-align: center !important;
+	}
+
+}

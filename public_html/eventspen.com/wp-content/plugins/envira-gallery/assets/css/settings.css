@@ -1,0 +1,300 @@
+/* ==========================================================================
+   settings.css loads on all the Envira Settings Administration Screen
+
+   Any styles that will be used by the Settings section (or are useful to be 
+   included for future use) should be added to this file:
+   - Settings
+   - Settings Tabs
+   - Addons
+   ========================================================================== */
+/* ==========================================================================
+   Imports
+   ========================================================================== */
+/* ==========================================================================
+   Variables SCSS
+   ========================================================================== */
+/* ==========================================================================
+   Mixins
+   ========================================================================== */
+/**
+* Media Query
+*/
+/**
+* Border-Radius
+*/
+/* Add this attribute to the element that needs a tooltip */
+[data-envira-tooltip] {
+  position: relative;
+  z-index: 2;
+  cursor: pointer; }
+
+/* Hide the tooltip content by default */
+[data-envira-tooltip]:before,
+[data-envira-tooltip]:after {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none; }
+
+/* Position tooltip above the element */
+[data-envira-tooltip]:before {
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  margin-bottom: 5px;
+  margin-left: -35px;
+  padding: 7px;
+  width: 60px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #000;
+  color: #fff;
+  content: attr(data-envira-tooltip);
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.2; }
+
+/* Triangle hack to make tooltip look like a speech bubble */
+[data-envira-tooltip]:after {
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  width: 0;
+  margin-left: -5px;
+  border-top: 5px solid #000;
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+  content: " ";
+  font-size: 0;
+  line-height: 0; }
+
+/* Show tooltip content on hover */
+[data-envira-tooltip]:hover:before,
+[data-envira-tooltip]:hover:after {
+  visibility: visible;
+  opacity: 1; }
+
+.envira-hidden {
+  display: none !important; }
+
+.envira-clearfix {
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0; }
+
+/* ==========================================================================
+   Settings Styles
+   ========================================================================== */
+.envira-tab label {
+  margin-top: 7px;
+  display: block; }
+
+.nav-tab {
+  float: left; }
+
+#envira-gallery-settings {
+  padding: 20px 0;
+  /**
+  * Clearing
+  */
+  /**
+  * Tab Panels
+  */
+  /**
+  * Refresh
+  */ }
+  #envira-gallery-settings #envira-gallery-refresh-submit {
+    margin-left: 10px; }
+  #envira-gallery-settings .envira-hideme {
+    display: none; }
+  #envira-gallery-settings .envira-clear {
+    clear: both; }
+    #envira-gallery-settings .envira-clear:after {
+      clear: both;
+      content: '.';
+      display: block;
+      height: 0;
+      line-height: 0;
+      overflow: auto;
+      visibility: hidden;
+      zoom: 1; }
+  #envira-gallery-settings .envira-gallery {
+    margin: 15px 0 20px; }
+  #envira-gallery-settings .envira-tab {
+    display: none;
+    /**
+    * Active Tab Panel
+    */
+    /**
+    * Copy to Clipboard Button
+    */
+    /**
+    * Submit Button
+    */ }
+    #envira-gallery-settings .envira-tab.envira-active {
+      display: block; }
+    #envira-gallery-settings .envira-tab th {
+      width: 170px;
+      padding-right: 40px; }
+      @media (min-width: 600px) and (max-width: 767px) {
+        #envira-gallery-settings .envira-tab th {
+          width: auto; } }
+    #envira-gallery-settings .envira-tab input[type="text"],
+    #envira-gallery-settings .envira-tab input[type="number"],
+    #envira-gallery-settings .envira-tab input[type="password"],
+    #envira-gallery-settings .envira-tab select,
+    #envira-gallery-settings .envira-tab textarea {
+      width: 350px;
+      padding-right: 0;
+      font-size: 13px; }
+      @media (min-width: 600px) and (max-width: 767px) {
+        #envira-gallery-settings .envira-tab input[type="text"],
+        #envira-gallery-settings .envira-tab input[type="number"],
+        #envira-gallery-settings .envira-tab input[type="password"],
+        #envira-gallery-settings .envira-tab select,
+        #envira-gallery-settings .envira-tab textarea {
+          width: 100%; } }
+    #envira-gallery-settings .envira-tab input[type="text"],
+    #envira-gallery-settings .envira-tab input[type="number"],
+    #envira-gallery-settings .envira-tab input[type="password"] {
+      height: 32px; }
+      @media (min-width: 600px) and (max-width: 767px) {
+        #envira-gallery-settings .envira-tab input[type="text"],
+        #envira-gallery-settings .envira-tab input[type="number"],
+        #envira-gallery-settings .envira-tab input[type="password"] {
+          height: auto; } }
+    #envira-gallery-settings .envira-tab a.envira-clipboard {
+      width: 33px;
+      padding: 0; }
+    #envira-gallery-settings .envira-tab #envira-gallery-settings-submit {
+      margin: 40px 0 0 0px; }
+  #envira-gallery-settings #envira-gallery-refresh-submit {
+    vertical-align: baseline; }
+  #envira-gallery-settings .envira-external-req {
+    border: 1px solid #7cc048;
+    border-radius: 3px;
+    padding: 30px; }
+    #envira-gallery-settings .envira-external-req h2 {
+      font-size: 20px;
+      margin: 0;
+      padding: 0; }
+  #envira-gallery-settings .envira-external-req-active {
+    border: 1px solid #7cc048;
+    background-color: #ffffff;
+    border-radius: 3px;
+    padding: 30px; }
+    #envira-gallery-settings .envira-external-req-active h2 {
+      font-size: 20px;
+      font-weight: 600;
+      margin: 0;
+      padding: 0; }
+
+/* ==========================================================================
+   Settings Tab Styles
+   ========================================================================== */
+#envira-tabs .form-table th, #envira-tabs .form-table td {
+  padding-top: 40px;
+  padding-bottom: 40px; }
+@media (min-width: 768px) and (max-width: 991px) {
+  #envira-tabs .form-table th {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-right: 0px !important; } }
+@media (min-width: 600px) and (max-width: 767px) {
+  #envira-tabs .form-table th {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-right: 0px !important; } }
+#envira-tabs .form-table tr#envira-settings-key-box th {
+  /* bit of a hack */ }
+  @media (min-width: 768px) and (max-width: 991px) {
+    #envira-tabs .form-table tr#envira-settings-key-box th {
+      padding-top: 20px; } }
+  @media (min-width: 600px) and (max-width: 767px) {
+    #envira-tabs .form-table tr#envira-settings-key-box th {
+      padding-top: 20px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  #envira-tabs .form-table td {
+    padding-top: 0;
+    padding-right: 0px; } }
+@media (min-width: 600px) and (max-width: 767px) {
+  #envira-tabs .form-table td {
+    padding-top: 0;
+    padding-right: 0px; } }
+#envira-tabs .form-table tr {
+  border-bottom: 1px solid #ddd; }
+#envira-tabs .form-table tr.no-bottom-border {
+  border-bottom: 0; }
+#envira-tabs .description {
+  color: #666666;
+  font-size: 13px;
+  margin-top: 10px; }
+
+#envira-tabs-nav {
+  border-bottom: 0 !important;
+  background-color: #ffffff;
+  height: 50px;
+  padding-left: 20px;
+  margin: 0 0 0 -20px;
+  display: table;
+  width: 100%; }
+  @media (min-width: 600px) and (max-width: 767px) {
+    #envira-tabs-nav {
+      height: auto;
+      background-color: transparent;
+      margin: 5px 0 0 0;
+      padding: 0 10px;
+      display: table; } }
+  #envira-tabs-nav a {
+    float: left;
+    /* Required for WordPress 4.3 and under */
+    border-left: 1px solid #f1f1f1;
+    border-right: 1px solid #f1f1f1;
+    border-top: 0;
+    color: #6b6e72;
+    background: none;
+    line-height: 50px;
+    font-size: 13px;
+    padding: 0 15px;
+    margin: 0; }
+    @media (min-width: 600px) and (max-width: 767px) {
+      #envira-tabs-nav a {
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -o-border-radius: 5px;
+        border-radius: 5px;
+        background-color: #f7f7f7;
+        padding: 0px 20px;
+        margin: 5px 5px 0px 0;
+        border: 1px solid #ddd;
+        line-height: 35px;
+        min-height: 30px; } }
+  #envira-tabs-nav a:first-child {
+    /*		margin-left: 20px;
+    		@include mq(xs) {
+    			margin-left: 0;
+    		}*/ }
+  #envira-tabs-nav .envira-active {
+    background-color: #f1f1f1;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    color: #000000; }
+    @media (min-width: 600px) and (max-width: 767px) {
+      #envira-tabs-nav .envira-active {
+        background-color: #6b6e72;
+        color: #ffffff; } }
+  @media (min-width: 600px) and (max-width: 767px) {
+    #envira-tabs-nav a:hover {
+      background-color: #6b6e72;
+      color: #ffffff; } }
+
+/* ==========================================================================
+   Responsive
+   ========================================================================== */
+@media only screen and (max-width: 770px) {
+  #envira-gallery-settings #envira-gallery-settings-submit {
+    margin: 40px 0 0 0; } }

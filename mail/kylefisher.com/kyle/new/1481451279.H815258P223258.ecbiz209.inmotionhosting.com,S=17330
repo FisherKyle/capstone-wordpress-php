@@ -1,0 +1,412 @@
+Return-path: <bounce-dddpthdpphfdgjjmfdmszrhrkbjgwrmshjnnlklrhprhscjsb@mail.idnotify.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Sun, 11 Dec 2016 05:14:39 -0500
+Received: from mail1.mail.idnotify.com ([96.46.129.81]:43432)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-dddpthdpphfdgjjmfdmszrhrkbjgwrmshjnnlklrhprhscjsb@mail.idnotify.com>)
+	id 1cG19T-000w3o-It
+	for kyle@kylefisher.com; Sun, 11 Dec 2016 05:14:39 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=class; d=mail.idnotify.com;
+ h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:list-unsubscribe:Date; i=noreply@mail.idnotify.com;
+ bh=63RHr2RZqMfYRHfhKACZ6dHQI5M=;
+ b=Qb/B/6yeG5LrlCf4idv9VbNEcxLggjYcaHlvlBrIfV9k5oqO/d0agBZLtn0nMgUguQYbqjyz9ekr
+   nNIrfY4rbaBpMgm7v1DxEZQTz4Xnuvpm00Mb+AqG7sf8JA79Rc6x9mHBbsxT27k3jrjS6t3qUnkR
+   e1hMjvI71lMyta6Qatg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=class; d=mail.idnotify.com;
+ b=naZfKtUjkAJIKueAuwnGntYYzK+W3C7TNkzzBEBOFItMNLk2aokftNqq63ZDkXnWiuQ7Jj2c3tlZ
+   nf4iC/KUStLHoBZ8o+yjP36F5yMDEaOWnfSJ180HWItDn3p65S6DaCAc0zeyWMPSWfayEfgNq3xT
+   GHEmohzciiE+etihvwE=;
+Received: by mail1.mail.idnotify.com id h9kjgu282ak7 for <kyle@kylefisher.com>; Sun, 11 Dec 2016 04:14:38 -0600 (envelope-from <bounce-dddpthdpphfdgjjmfdmszrhrkbjgwrmshjnnlklrhprhscjsb@mail.idnotify.com>)
+From: IDnotify <noreply@mail.idnotify.com>
+Reply-To: IDnotify <noreply@mail.idnotify.com>
+To: "kyle@kylefisher.com" <kyle@kylefisher.com>
+Message-ID: <1638813032.1648002.1481451278865.JavaMail.root@mail.idnotify.com>
+Subject: Your Monthly Update From IDnotify
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-CSIDA: hcmhmqbmhfcczvqvzfnfvmsfqn hwmjsbsrdfnpswmbfgglrlsbqsbmcfmdzqvbhqqbzhnffw vwfvchqmhc
+list-unsubscribe: <mailto:unsub-2137223-70996-768B434DE90C46839FFADA432438598E@mail.idnotify.com>
+Date: Sun, 11 Dec 2016 04:14:38 -0600
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html lang=3D"en">
+<head>
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3DUTF-8" =
+/>
+=09<meta name=3D"viewport" content=3D"width=3Ddevice-width"/>
+=09<title>IDnotify - Summary</title>
+=09
+=09<style type=3D"text/css">
+a:hover { text-decoration: underline !important; }
+#a_buttonText:hover { text-decoration: underline !important; }
+=09
+=09=09 /* Client-specific Styles */
+         #outlook a {padding:0;} /* Force Outlook to provide a "view in bro=
+wser" menu link. */
+         body{width:100% !important; -webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; margin:0; padding:0;}
+         /* Prevent Webkit and Windows Mobile platforms from changing defau=
+lt font sizes, while not breaking desktop design. */
+         .ExternalClass {width:100%;} /* Force Hotmail to display emails at=
+ full width */
+         .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalCl=
+ass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* For=
+ce Hotmail to display normal line spacing.  More on that: http://www.emailo=
+nacid.com/forum/viewthread/43/ */
+         #backgroundTable {margin:0; padding:0; width:100% !important; line=
+-height: 100% !important;}
+         img {outline:none; text-decoration:none;border:none; -ms-interpola=
+tion-mode: bicubic;}
+         a img {border:none;}
+         .image_fix {display:block;}
+         p {margin: 0px 0px !important;}
+        =20
+         table td {border-collapse: collapse;}
+         table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-=
+rspace:0pt; }
+    =20
+         /*STYLES*/
+         table[class=3Dfull] { width: 100%; clear: both; }
+=09=09
+=09=09@media only screen and (max-width: 640px){
+=09=09=09table[class=3Dcontainer] {width: 440px !important;text-align:cente=
+r!important;}
+=09=09=09img[class=3Dbigimage]{width: 410px !important;height:auto;}
+=09=09=09img[class=3Dfullimage]{width: 440px !important;height:auto;}
+=09=09=09
+=09=09}=20
+=09=09
+=09=09@media only screen and (max-width: 480px){
+=09=09=09table[class=3Dcontainer] {width: 375px !important;text-align:cente=
+r!important;}
+=09=09=09img[class=3Dbigimage]{width: 345px !important;height:auto!importan=
+t;}
+=09=09=09img[class=3Dfullimage]{width: 375px !important;height:auto;}
+=09=09}
+=09/* ID NOTIFY DEFAULT EMAIL STYLES*/
+
+@import url(http://fonts.googleapis.com/css?family=3DRoboto);
+@import url(http://fonts.googleapis.com/css?family=3DRoboto+Condensed);
+
+#BodyText {
+=09color: #666666;
+=09font-family: 'Roboto', Arial, sans-serif;
+=09font-size: 16px;
+=09line-height: 24px;
+=09padding: 0;
+=09margin-bottom: 8;
+}
+li {
+=09color: #666666;
+=09font-family: 'Roboto', Arial, sans-serif;
+=09font-size: 16px;
+=09line-height: 22px;
+=09margin-bottom: 10;
+}
+
+a, #linkColor  {
+=09color: #016b67;
+}
+a:hover, #linkColor:hover {
+=09color: #000000;
+}
+
+#a_passwordLink {
+=09word-break: break-all;
+}
+#bodyTable {
+=09background-color: #ededed;
+}
+#logoCell {
+=09display: block;
+=09margin-left: auto;
+=09margin-right: auto;
+}
+#BorderBGTable {
+=09background-color: #ffffff;
+=09border: 1px solid #cccccc;
+}
+#bannerPaddingTable {
+=09line-height: 0px;
+=09background-color: #51dcd7;
+}
+#bannerCell {
+=09color: #2d2d2b;
+=09font-family: 'Roboto Condensed', Arial Narrow, Arial, sans-serif;
+=09font-size: 30px;
+=09font-weight: reg;
+=09text-align: left;
+line-height:45px;=20
+mso-line-height-rule:exactly;=20
+margin:0;
+}
+#loginTable {
+=09color: #2d2d2b;
+=09font-family: Roboto, Arial, sans-serif;
+=09font-size: 16px;
+=09font-weight: 700;
+    text-align: left;
+}
+#buttonTable {
+=09background-color: #dbe94e;
+}
+#a_buttonText {
+=09color:#2d2d2b;
+=09font-family: 'Roboto', Arial, sans-serif;
+=09font-size: 14px;
+=09font-weight: reg;
+=09text-decoration: none;
+=09display: inline-block;
+=09text-align: center;
+=09padding: 10px 30px;
+=09text-transform:uppercase;
+=09border:solid 1px #dbe94e;
+}
+#buttonTextColor {
+=09color: #2d2d2b;
+}
+#a_buttonText:hover {
+=09text-decoration: underline;
+}
+#footerTable {
+}
+#td_footerContent {
+=09vertical-align: top;
+=09color: #666666;
+=09font-family: 'Roboto', Arial, sans-serif;
+=09font-size: 14px;
+=09text-align: center;
+=09height:40px;
+}
+#a_footerLink {
+=09color: #4f8db3;
+=09text-decoration: none;
+}
+#footerLinkColor {
+=09color: #4f8db3;
+}
+table.summary tr td {
+=09color: #000000;
+=09font-family: 'Roboto', Arial, sans-serif;
+=09font-size: 14px;
+=09border-collapse: collapse;
+=09border: solid #d9d9d9 1px;
+}
+table.summary th {
+=09color: #000000;
+=09font-family: 'Roboto', Arial, sans-serif;
+=09font-size: 14px;
+=09font-weight: normal;
+=09border: solid #ccc 1px;
+=09text-transform: uppercase;
+=09background-color: #d9d9d9;
+}
+table.summary tfoot {
+=09font-style: italic;
+}=09
+=09</style>
+=09
+</head>
+<body align=3D"center" marginwidth=3D"0" marginheight=3D"0" style=3D"margin=
+-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0;   width: 100%=
+ !important;-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -we=
+bkit-font-smoothing: antialiased;" offset=3D"0" topmargin=3D"0" leftmargin=
+=3D"0"><img src=3D"http://click1.mail.idnotify.com/tvvmcjsbhbfktpwrkbcjhkpg=
+gdkfdbhzbhjvpjtzbcpvh_lqzkmgwkkg.gif" width=3D"0" height=3D"0" alt=3D"">
+<div style=3D"display:none;font-size:1px;color:#FFFFFF;line-height:1px;font=
+-family:sans;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hid=
+e:all;">Dear&nbsp;Kyle,&nbsp;<img src=3D"http://click1.mail.idnotify.com/pc=
+ccldwyjytbgvfkbyldjbvssrbtryjqyjdmvdgbhyqmd~.gif" alt=3D"TurboTax MAX Benef=
+its" width=3D"120" align=3D"right" style=3D"width: 120px; height: auto; dis=
+play: inline; margin-left:15px; margin-bottom:15px;" border=3D"0">IDnotify =
+continuously monitors your personal information and notifies you if new act=
+ivity is detected. Below you will find a summary of your reports and notifi=
+cations for this month.<br><br>We will continue to monitor your identity in=
+formation and send you alerts when new activity is detected.<br><br><a href=
+=3D"https://sso.identitymanagementcenter.com:9031/sp/startSSO.ping?PartnerI=
+dpId=3Dsso:imc:90000108" target=3D"_blank" style=3D"color: #016b67;"><font =
+style=3D"color: #016b67;">Log in</font></a> to your account to review and v=
+erify that your information is accurate. If you feel the listed information=
+ is fraudulent, give us a call.</div>
+
+=09<table id=3D"bodyTable" width=3D"100%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" style=3D"background-color: #ededed;">
+=09=09<tr>
+=09=09=09<td valign=3D"top">
+=09=09=09=09<table class=3D"container" width=3D"600" align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td width=3D"100%">
+=09=09=09=09=09=09=09<!-- Header -->
+=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0">
+    <tr>
+      <td></td>
+      <td height=3D"15"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td width=3D"15"></td>
+      <td align=3D"left"><img src=3D"http://click1.mail.idnotify.com/qwwpfh=
+yvsvqtcdnrtvfhstdbbjtqjvswvshgdhctmvshd~.gif" alt=3D"IDnotify Logo" style=
+=3D"width: 355px; height: auto; display: block;" border=3D"0"></td>
+      <td width=3D"15"></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td height=3D"15"></td>
+      <td>&nbsp;</td>
+    </tr>
+</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+                        <!-- body content -->
+=09=09=09=09=09    <td width=3D"100%">
+=09=09=09=09=09        <table id=3D"BorderBGTable" style=3D"border: 1px sol=
+id #cccccc; background:#ffffff;" width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+=09=09=09=09=09            <tr>
+=09=09=09=09=09                <td width=3D"100%" height=3D"100">
+=09=09=09=09=09                    <table width=3D"100%"  align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09                         <tr> <td bgcolor=3D"#51dcd7" style=
+=3D"background:#51dcd7;"><table id=3D"bannerTable" height=3D"90" width=3D"1=
+00%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tr> <td height=3D"1=
+5"></td></tr><tr> <td width=3D"15"></td><td align=3D"left" valign=3D"middle=
+" style=3D"color: #2d2d2b;font-family: 'Roboto Condensed', Arial Narrow, Ar=
+ial, sans-serif;font-size: 30px;font-weight: reg;text-align: left;line-heig=
+ht:45px; mso-line-height-rule:exactly; margin:0;"><table width=3D"100%" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td><h1 style=
+=3D"color: #2d2d2b;font-family: 'Roboto Condensed', Arial Narrow, Arial, sa=
+ns-serif;font-size: 30px;font-weight: reg;text-align: left;line-height:45px=
+; mso-line-height-rule:exactly; margin:0;">Your Monthly Update From IDnotif=
+y</h1></td><td width=3D"15"></td><td align=3D"center"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0"><tr><td id=3D"buttonTable" style=3D"back=
+ground-color: #dbe94e;" bgcolor=3D"#3399ff" align=3D"center"><a href=3D"htt=
+ps://sso.identitymanagementcenter.com:9031/sp/startSSO.ping?PartnerIdpId=3D=
+sso:imc:90000108&ga=3D1" target=3D"_blank" id=3D"a_buttonText" style=3D"col=
+or:#2d2d2b;font-family: 'Roboto', Arial, sans-serif;font-size: 14px;font-we=
+ight: reg;text-decoration: none;display: inline-block;text-align: center;pa=
+dding: 10px 30px;text-transform:uppercase;border:solid 1px #dbe94e;">Log&nb=
+sp;In&nbsp;Now</a></td></tr></table></td></tr></tbody></table></td><td widt=
+h=3D"15"></td></tr><tr> <td height=3D"15"></td></tr></table></td></tr>
+=09=09=09=09=09                        =20
+=09=09=09=09=09                        <tr>
+=09=09=09=09=09                            <td style=3D"color: #666666;font=
+-family: 'Roboto', Arial, sans-serif;font-size: 16px;line-height: 24px;padd=
+ing: 0;margin-bottom: 8;">
+=09=09=09=09=09                                <table id=3D"textTable" widt=
+h=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09                                    <tr>
+=09=09=09=09=09                                        <td height=3D"15"></=
+td>
+=09=09=09=09=09                                    </tr>
+=09=09=09=09=09                                    <tr>
+                                                            <td width=3D"15=
+"></td>
+=09=09=09=09=09                                        <td align=3D"left" s=
+tyle=3D"color: #666666;font-family: 'Roboto', Arial, sans-serif;font-size: =
+16px;line-height: 24px;padding: 0;margin-bottom: 8;">
+=09=09=09=09=09                                           <p style=3D"margi=
+n:0;">Dear&nbsp;Kyle,</p><br />
+=09=09=09=09=09                                        </td>
+=09=09=09=09=09                                    </tr>
+=09=09=09=09=09                                    <tr>
+                                                            <td width=3D"15=
+"></td>
+=09=09=09=09=09                                        <td  align=3D"left" =
+style=3D"color: #666666;font-family: 'Roboto', Arial, sans-serif;font-size:=
+ 16px;line-height: 24px;padding: 0;margin-bottom: 8;">
+=09=09=09=09=09                                            <p style=3D"marg=
+in:0;"><img src=3D"http://click1.mail.idnotify.com/pcccldwyjytbgvfkbyldjbvs=
+srbtryjqyjdmvdgbhyqmd~.gif" alt=3D"TurboTax MAX Benefits" width=3D"120" ali=
+gn=3D"right" style=3D"width: 120px; height: auto; display: inline; margin-l=
+eft:15px; margin-bottom:15px;" border=3D"0">IDnotify continuously monitors =
+your personal information and notifies you if new activity is detected. Bel=
+ow you will find a summary of your reports and notifications for this month=
+.<br><br>We will continue to monitor your identity information and send you=
+ alerts when new activity is detected.<br><br><a href=3D"https://sso.identi=
+tymanagementcenter.com:9031/sp/startSSO.ping?PartnerIdpId=3Dsso:imc:9000010=
+8" target=3D"_blank" style=3D"color: #016b67;"><font style=3D"color: #016b6=
+7;">Log in</font></a> to your account to review and verify that your inform=
+ation is accurate. If you feel the listed information is fraudulent, give u=
+s a call.</p>
+<table border=3D"0" align=3D"center" width=3D"100%" cellspacing=3D"0" cellp=
+adding=3D"10">
+<tr><td align=3D"left" valign=3D"middle" style=3D"color: #666666;font-famil=
+y: 'Roboto', Arial, sans-serif;font-size: 16px;line-height: 24px;padding: 0=
+;margin-bottom: 8;"><br /><strong>Good news!</strong> You don't have any ne=
+w notifications this month.<br /></td></tr>
+<tr>
+<td border=3D"0" height=3D"15"></td>
+</tr>
+</table>
+<p style=3D"margin:0;">Contact our Support Team 24/7/365 at 888-696-5358 wi=
+th any questions.<br /><br />
+Sincerely,<br/><br/><strong>IDnotify</strong><br /><br /></p>
+=09=09=09=09=09                                        </td>
+=09=09=09=09=09                                        <td width=3D"15"></t=
+d>
+=09=09=09=09=09                                    </tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"15"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"http://click1.mail.id=
+notify.com/ighndzpbvbkwrcgqwbdzvwcfftwktbvhbvzmczrwvhbb~.gif" alt=3D"IDnoti=
+fy" width=3D"570" style=3D"height: auto !important; display:block; border:n=
+one; outline:none; text-decoration:none;" class=3D"bigimage"/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"15"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"15"></td>=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td></td>
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09                                </table>
+=09=09=09=09=09                            </td>
+=09=09=09=09=09                        </tr>
+=09=09=09=09=09                    </table>
+=09=09=09=09=09                </td>
+=09=09=09=09=09            </tr>
+=09=09=09=09=09        </table>
+=09=09=09=09=09    </td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09    <td height=3D"30" style=3D"text-align:left;">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09<table id=3D"footerTable" align=3D"center" width=3D"100%" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">=09=09=09=09=09
+=09=09=09=09=09<tr>
+                    <!-- Footer -->
+=09=09=09=09=09    <td align=3D"center" width=3D"600" >
+=09=09=09=09=09        <table align=3D"center" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"max-width:600px;">
+=09=09=09=09=09            <tr>
+=09=09=09=09=09                <td height=3D"15"></td>
+=09=09=09=09=09            </tr>
+=09=09=09=09=09            <tr>
+=09=09=09=09=09                <td align=3D"center" style=3D"vertical-align=
+: top;color: #666666;font-family: 'Roboto', Arial, sans-serif;font-size: 14=
+px;text-align: center;height:40px;"><p style=3D"margin:0;"><strong>IDnotify=
+</strong>&nbsp;All Rights Reserved.</p>
+=09=09=09=09=09                </td>
+=09=09=09=09=09            </tr>
+=09=09=09=09=09            <tr>
+=09=09=09=09=09                <td height=3D"15"></td>
+=09=09=09=09=09            </tr>
+=09=09=09=09=09        </table>
+=09=09=09=09=09    </td>
+=09=09=09=09=09</tr>=09=09=09=09=09
+=09=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</table>
+=09
+</body>
+</html>

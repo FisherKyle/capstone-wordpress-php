@@ -1,0 +1,109 @@
+/* ==========================================================================
+   Gallery / Album Selection Media Modal
+   ========================================================================== */
+.media-modal {
+    .media-modal-content {
+        .media-frame-content {
+            .attachments-browser.envira-gallery-editor {
+                /**
+                * Error
+                * - Position below the search bar
+                */
+                div.envira-gallery-error {
+                    position: absolute;
+                    top: 50px;
+                    left: 0;
+                    right: 300px;
+                }
+
+                /**
+                * Grid
+                */
+                ul.attachments {
+                    li.attachment {
+                        width: 20%;
+
+                        div.attachment-preview {
+                            div.thumbnail {
+                                /**
+                                * Thumbnail Image
+                                */
+                                img {
+                                    position: absolute;
+                                    z-index: 1;
+                                    top: 0;
+                                    left: 0;
+                                    width: 100%;
+                                    height: 100%;
+                                    opacity: 0.2;
+                                }
+
+                                /**
+                                * Title
+                                */
+                                strong {
+                                    position: absolute;
+                                    z-index: 2;
+                                    height: 50%;
+                                    top: 0;
+                                    left: 0;
+                                    right: 0;
+                                    padding: 10px;
+                                    text-align: center;
+                                    overflow: hidden;
+                                    -webkit-box-sizing: border-box;
+                                    -moz-box-sizing: border-box;
+                                    box-sizing: border-box;
+                                    vertical-align: bottom;
+                                    background: rgba(0,0,0,0.07);
+                                    text-shadow: 1px 1px #ddd;
+
+                                    span {
+                                        display: block;
+                                        position: absolute;
+                                        bottom: 10px;
+                                        left: 0;
+                                        right: 0;
+                                        padding: 0 10px;
+                                        text-align: center;
+                                    }
+                                }
+
+                                /**
+                                * Shortcode
+                                */
+                                code {
+                                    position: absolute;
+                                    z-index: 2;
+                                    height: 50%;
+                                    bottom: 0;
+                                    left: 0;
+                                    right: 0;
+                                    padding: 10px;
+                                    text-align: center;
+                                    -webkit-box-sizing: border-box;
+                                    -moz-box-sizing: border-box;
+                                    box-sizing: border-box;
+                                    vertical-align: middle;
+                                    text-shadow: 1px 1px #ddd;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                /**
+                * Sidebar
+                */
+                div.media-sidebar {
+                    div.settings {
+                        .name {
+                            text-align: left;
+                        }
+                    }
+                }
+                
+            }
+        }
+    }
+}

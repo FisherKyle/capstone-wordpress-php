@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^eventspen\.kylefisher\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.eventspen\.kylefisher\.com$
+RewriteRule ^/?$ "http\:\/\/www\.kylefisher\.com\/\?page_id\=329" [R=301,L]
+

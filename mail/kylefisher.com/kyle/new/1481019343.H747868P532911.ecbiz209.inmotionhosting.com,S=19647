@@ -1,0 +1,377 @@
+Return-path: <annusharma01@outlook.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 06 Dec 2016 05:15:43 -0500
+Received: from col004-omc1s8.hotmail.com ([65.55.34.18]:49225)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <annusharma01@outlook.com>)
+	id 1cECml-002Ebs-7b
+	for kyle@kylefisher.com; Tue, 06 Dec 2016 05:15:43 -0500
+Received: from IND01-MA1-obe.outbound.protection.outlook.com ([65.55.34.8]) by COL004-OMC1S8.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 6 Dec 2016 02:15:42 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=c8Kf/K3rU5UITrsUZuD5hWm8u9oMIGu5j3BtZ46m4+4=;
+ b=r+Z/PEhQl1JUoapjOFr7rH1s37kjydMvWQZo7wLQ7xmA2mhaRWzdCg1yaxkw4V3+cHVdOt5+ZedwRjhKIpk55ESI90+8sXQsCHhKh1fqTVYkcxNJfL0P93/BDI4tKGlG+rczYGh+ozeEqRHZe3QswOu0bqzRz9Ythrl4ILF+UVk5sgjuBAJWkJSaCbIdyrkqphl0SKyhyC6ZywhqcEh29VWtEx47EiGlZI3n5Q7d2UStT8IsVgSk/aFI2eRQGsq8JpzyVtC2DOUQmKCAvR8PmJbInddB/1ZjHrn2It/BDSfAIj4i3GYWg0H4M6moxFe4wqmAHP1LGDHCUW5/LudUjA==
+Received: from MA1IND01FT010.eop-IND01.prod.protection.outlook.com
+ (10.152.200.51) by MA1IND01HT013.eop-IND01.prod.protection.outlook.com
+ (10.152.200.65) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.761.6; Tue, 6 Dec
+ 2016 10:15:14 +0000
+Received: from BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM (10.152.200.60) by
+ MA1IND01FT010.mail.protection.outlook.com (10.152.200.146) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.4 via Frontend
+ Transport; Tue, 6 Dec 2016 10:15:14 +0000
+Received: from BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM ([10.164.128.141]) by
+ BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM ([10.164.128.141]) with mapi id
+ 15.01.0761.016; Tue, 6 Dec 2016 10:15:12 +0000
+From: Annu Sharma <annusharma01@outlook.com>
+Subject: Web designing and development
+Thread-Topic: Web designing and development
+Thread-Index: AQHST6mRr4CSIWC4tkGeQgkCI+nxxQ==
+Date: Tue, 6 Dec 2016 10:15:12 +0000
+Message-ID: <BM1PR01MB00330DE89DE582F0AB596EA8CD820@BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-IN, en-US
+Content-Language: en-IN
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: yahoo.com; dkim=none (message not signed)
+ header.d=none;yahoo.com; dmarc=none action=none header.from=outlook.com;
+x-incomingtopheadermarker: OriginalChecksum:;UpperCasedChecksum:;SizeAsReceived:12187;Count:35
+x-tmn: [/Y4X7ILSVF5q7hq6itlUgBIV+ilrCrlX]
+x-incomingheadercount: 35
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;MA1IND01HT013;5:aiQKkSVlmde98NifdF0BTaUtfbZbm3LJVfPFgSBIvoIKA4TY2wu8sT69Uy/79kK9MY40gcfQL6PGyY1xVWzyLwozDddISwW2W71Lr0x82lp178p7jNC8xPpE1NQaoz5BQWOQkCahGTTse44rgRNF3g==;24:2u6QZbFJzlAXQx3SGusTWuHdCtPsPDR6lgFfUVFlGeO+G4Ep7kxYMBlwVaHBRlBgC9eMXAwFVIyPaO66qoIe0VTV7+7USzgQ0AZrRQPP0qU=;7:If7Br8oUWA24/TswHVidbFJK6EO+C2VZfrbdC/gkTGHR2r0Iy/SAZCobCfkZ6hEGvlOleYnZlQ4r/pmN6V0SxO3GmbMvTWMFr7Ynqod15nBpTheHq99kT7EGH6EOC2uvnV5sdLj75KZ2Lsu85wyWZBSWyTOjlWj4efQHgp1gFzyGB9HQApG2MLGSxLpkzrvc4ll4NJuTTLemK2WFTtn7kekwBeA+7RgSuM2cdoiMeDiB9+qJzNMZTJHOaXLQEbxzFN5d7PJc+x/vTSaTHZgYiwMt2JtH7iFMMsSjqunCC5WCHPojSsEYJFhfTQ4tMvsE/9fPYshmEPFbXKGzT3hfbPr3GD/xf3K03VdlGCv6uKKg1YpkpsAZLOJ0nbweEDN7NjxvHWjaARH8lE65+BwcyXEAmnUaA5mdpntPb2MJe6nFES9m2+kmZGki5IRZ+znNzSuzFRzYpVYQW9LVxwRyDQ==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:MA1IND01HT013;H:BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 1f0287a1-c646-48b1-3771-08d41dc0c441
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506293)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:MA1IND01HT013;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:MA1IND01HT013;BCL:0;PCL:0;RULEID:;SRVR:MA1IND01HT013;
+x-forefront-prvs: 01480965DA
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BM1PR01MB00330DE89DE582F0AB596EA8CD820BM1PR01MB0033INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Dec 2016 10:15:12.7445
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MA1IND01HT013
+Bcc:
+X-OriginalArrivalTime: 06 Dec 2016 10:15:42.0493 (UTC) FILETIME=[B36454D0:01D24FA9]
+
+--_000_BM1PR01MB00330DE89DE582F0AB596EA8CD820BM1PR01MB0033INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I am Annu, Online Marketing Consultant
+
+Get your web designing and development done at a minimal price by our web e=
+xperts.
+
+We are 50+ employees working round the clock for our overseas clients and i=
+f you have any of the following requirement please revert back to us:
+
+We offer a variety of services that can satisfy your needs at affordable co=
+st.
+
+Digital Marketing Services:-
+
+(1)    Full SEO package (with plan and activities).
+(2)    PPC (pay per click).
+(3)    SMO (Facebook, Twitter, LinkedIn, YouTube, and Myspace etc.).
+(4)    Content Writing Services.
+(5)    ORM (online reputation management)
+
+Web Designing Services:-
+
+(1)   Upgrade existing Website (with Flash, Graphic, PHP and other Content =
+Management System).
+(2)   New website for Business (in Drupal, Joomla, e-commerce, Wordpress & =
+Asp.net).
+
+App Development Services:-
+
+(1)    IPhone & IPad App Development.
+(2)    Android & Blackberry App Development
+
+May I know in which Service are you interested? If you are interested, then=
+ I can send you our past work details, testimonials, affordable quotation, =
+samples, price list with the best offer.
+
+Feel free to contact us for more information and we will provide Free SEO A=
+nalysis Report.
+
+
+Thanks & Regards,
+Annu Sharma
+Online Marketing Consultant
+
+
+
+--_000_BM1PR01MB00330DE89DE582F0AB596EA8CD820BM1PR01MB0033INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin">Hi,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-lati=
+n">I am</span><span class=3D"apple-converted-space"><b><span style=3D"font-=
+family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:mino=
+r-latin;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-theme-font:mi=
+nor-latin;=0A=
+mso-bidi-theme-font:minor-latin">&nbsp;Annu,</span></b></span><span style=
+=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-=
+font:minor-latin;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">&nbsp;Onl=
+ine
+ Marketing Consultant<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-lati=
+n"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-lati=
+n">Get your
+<b>web designing and development</b> done at a minimal price by our web exp=
+erts.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin">We are 50&#43; employees worki=
+ng round the clock
+ for our overseas clients and if you have any of the following requirement =
+please revert back to us:<span class=3D"apple-converted-space">&nbsp;<o:p><=
+/o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin">We offer a variety of services=
+ that can satisfy
+ your needs at <b>affordable cost.</b><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">Digital M=
+arketing Services:-<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">(1)&nbsp;=
+&nbsp;&nbsp; Full SEO package
+<b>(with plan and activities)</b>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">(2)&nbsp;=
+&nbsp;&nbsp; PPC
+<b>(pay per click)</b>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">(3)&nbsp;=
+&nbsp;&nbsp; SMO
+<b>(Facebook, Twitter, LinkedIn, YouTube,<a name=3D"_GoBack"></a> and Myspa=
+ce etc.).<o:p></o:p></b></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in;tab-stops:400.5pt"><span s=
+tyle=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-th=
+eme-font:minor-latin;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-theme-font:mi=
+nor-latin;=0A=
+mso-bidi-theme-font:minor-latin">(4)&nbsp;&nbsp;&nbsp;
+ Content Writing Services.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in;tab-stops:400.5pt"><span s=
+tyle=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-th=
+eme-font:minor-latin;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-theme-font:mi=
+nor-latin;=0A=
+mso-bidi-theme-font:minor-latin">(5)&nbsp;&nbsp;&nbsp;
+ ORM <b>(online reputation management)<o:p></o:p></b></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">Web Desig=
+ning Services:-<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">(1)&nbsp;=
+&nbsp; Upgrade existing
+ Website <b>(with Flash, Graphic, PHP and other Content Management System).=
+</b><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">(2)&nbsp;=
+&nbsp; New website for
+ Business <b>(in Drupal, Joomla, e-commerce, Wordpress &amp;<span class=3D"=
+apple-converted-space">&nbsp;</span>Asp.net).</b><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">App Devel=
+opment Services:-<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-t=
+heme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">(1)&nbsp;=
+&nbsp;&nbsp; IPhone &amp; IPad
+ App Development.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">(2)&nbsp;=
+&nbsp;&nbsp; Android &amp; Blackberry
+ App Development<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Ro=
+man&quot;;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;=0A=
+mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin">May I kno=
+w in which Service are you interested?</span></b><span style=3D"font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-=
+theme-font:=0A=
+minor-latin">
+ If you are interested, then I can send you our past work details, testimon=
+ials, affordable quotation, samples, price list with the best offer.<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-lati=
+n"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-=
+theme-font:=0A=
+minor-latin;mso-ansi-language:EN-IN">Feel free to contact us for more infor=
+mation and we
+ will provide <b>Free SEO Analysis Report.</b><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-=
+theme-font:=0A=
+minor-latin;mso-ansi-language:EN-IN;mso-bidi-font-weight:bold"><o:p>&nbsp;<=
+/o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;=0A=
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-=
+theme-font:=0A=
+minor-latin;mso-ansi-language:EN-IN;mso-bidi-font-weight:bold"><o:p>&nbsp;<=
+/o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-lati=
+n">Thanks &amp; Regards,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-lati=
+n;=0A=
+background:#F3F3F3">Annu Sharma</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;mso-ascii-theme-font:=0A=
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-lati=
+n">Online Marketing Consultant</span><span class=3D"apple-converted-space">=
+<span style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-a=
+scii-theme-font:minor-latin;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-theme-font:mi=
+nor-latin;=0A=
+mso-bidi-theme-font:minor-latin">&nbsp;</span></span><span style=3D"font-fa=
+mily:=0A=
+&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin=
+;mso-hansi-theme-font:=0A=
+minor-latin;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+<br>
+<p></p>
+<p><br>
+</p>
+</div>
+</body>
+</html>
+
+--_000_BM1PR01MB00330DE89DE582F0AB596EA8CD820BM1PR01MB0033INDP_--

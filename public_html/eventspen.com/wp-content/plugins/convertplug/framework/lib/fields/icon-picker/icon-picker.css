@@ -1,0 +1,61 @@
+ul.cp-icons-list li:nth-child(3n+1) {
+    clear: none;
+}
+.cp_smile_icon li {
+    width: 46.5px;
+    height: 46px;
+    display: block;
+    box-shadow: 0 0 0 1px #DDD;
+    margin: 0;
+	float: left;
+    text-align: center;
+}
+#cp_icon_search {
+    width: 100% !important;
+    height: 140px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    border: 1px solid #DDD;
+}
+.cp_smile_icon li>i {
+    font-size: 18px;
+    vertical-align: text-bottom;
+    display: inline-block;
+    line-height: 46px;
+}
+.cp-search-container {
+    margin: 0 auto !important;
+    text-align: center;
+    padding: 15px !important;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    display: inline-block;
+    width: 100%;
+}
+.cp-search-icon {
+    width: 75% !important;
+    display: block;
+    margin: 0 auto !important;
+    text-align: center;
+    border-radius: 40px !important;
+}
+.cp-preview-icon {
+display: inline-block;
+    width: 18%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 40px;
+    margin-right: 2%;
+    float: left;
+}
+li.active-icon {
+    background-color: #ddd;
+}
+.scrollable-icons {
+    overflow-y: scroll;
+    width: 300px;
+    height: 140px;
+}
+.scrollable-icons .ps-scrollbar-y-rail {
+    display: none !important;
+}

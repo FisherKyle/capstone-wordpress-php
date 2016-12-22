@@ -1,0 +1,260 @@
+Return-path: <bounce+4e469c.8eddcb-kyle=kylefisher.com@forum.epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 28 Nov 2016 20:28:03 -0500
+Received: from mail-s48.mailgun.us ([184.173.153.48]:11587)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+4e469c.8eddcb-kyle=kylefisher.com@forum.epicodus.com>)
+	id 1cBXDH-002s8j-37
+	for kyle@kylefisher.com; Mon, 28 Nov 2016 20:28:03 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=forum.epicodus.com; q=dns/txt;
+ s=mailo; t=1480382882; h=List-Unsubscribe: Content-Transfer-Encoding:
+ Content-Type: Mime-Version: Subject: Message-ID: To: Reply-To: From:
+ Date: Sender; bh=ObSUA8gtC1JP+8Ks3LGbEElGHGGfaaP9G1CIwAcw9G0=; b=l3s3wOInhb7jQuKcF0PufZhoShMde+deCgIr/cut1Mvv8Xjkw5uj+U5FLRv6eVY/LqUIE++I
+ Y3RP2+Gs59KMD/Ai8GXmsQGtyj5JOSgtlOTrQlGr6T2Wfv+HAEV1vlvvWGKM8nFlzHbw62nK
+ VoKaofZbM78Sdmfzd0QMkDSZT/c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=forum.epicodus.com;
+ s=mailo; q=dns; h=Sender: Date: From: Reply-To: To: Message-ID:
+ Subject: Mime-Version: Content-Type: Content-Transfer-Encoding:
+ List-Unsubscribe;
+ b=S0kalY8vbl5VjRZydDRE64swGhw9fFfk6DnoCI+wqEYTVbGh7doiZmlZ+ShYVdeQJZjigB
+ yxLIuUcNCBaQpmm0uDGyp7ObF4d/NHfnH5X+7wnsTwAvt2cu45MuDl69Imhz7qBD4ZrLdicl
+ AvK4e2guIFcVsjlr+1ve1onR9mAEc=
+Sender: noreply@forum.epicodus.com
+X-Mailgun-Sending-Ip: 184.173.153.48
+X-Mailgun-Sid: WyI4Y2Q0NiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgIjhlZGRjYiJd
+Received: from localhost.localdomain (forum.epicodus.com [104.236.200.211])
+ by mxa.mailgun.org with ESMTP id 583cd9a2.7f11d816b7f0-smtp-out-n03;
+ Tue, 29 Nov 2016 01:28:02 -0000 (UTC)
+Date: Tue, 29 Nov 2016 01:28:02 +0000
+From: Epicodus Forum summary <noreply@forum.epicodus.com>
+Reply-To: Epicodus Forum summary <noreply@forum.epicodus.com>
+To: kyle@kylefisher.com
+Message-ID: <8ad77940-bdec-4815-82ed-f2b3ca41f7a2@forum.epicodus.com>
+Subject: [Epicodus Forum] Summary
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_583cd9a22150e_17823fd4f630764428403";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://forum.epicodus.com/email/unsubscribe/ddc8c580b499e923a88daf2f40ae0cc6a36e5da0d80ab0a85231afff3e9e4550>
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+
+
+----==_mimepart_583cd9a22150e_17823fd4f630764428403
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+A brief summary of [Epicodus Forum][1] since your last visit on August 5
+
+### Popular posts
+
+[Great article on the post-bootcamp job hunt][2]
+
+ 
+--------------------------------------------------------------------------------
+
+
+[Mentat career support][3]
+
+ I was contacted by Cassie from Mentat (feel free to reach out to her if you have any questions: cassie.crockett@thementat.com) about their job seeking support services. They're a fairly new company, but seem like they have an interesting model for helping folks find work. Here's a blurb about what they offer: 
+
+"Let Mentat take the stress out of your job search. We offer a career concierge service that helps job applicants with every step of the process - from identifying opportunities with the help of an expert in your industry, to crafting your documents and online presence, to applying to jobs on your behalf. Our platform can access millions of jobs, including roles at start-ups, large technology companies, and everything in between. 
+
+Mentat's advisors have decades of experience reviewing thousands of candidates and hiring, managing, and mentoring hundreds of people. Paired with our proprietary technology, you have an unbeatable team in your corner." 
+
+If you end up utilizing their...
+--------------------------------------------------------------------------------
+
+
+[Pre-Bootcamp (C# .NET) Study Guides/Practices][4]
+
+ Hey there! I will be attending Epicodus in the beginning of January and I would really like some input/advice for some content/material that I can start working on or going over before I start, so I can get an idea of what to expect or practice some of the material that the courses will be on so I won't be going in blind. 
+
+Looking for practice coding problems, material to study as an overview of what will be in the courses, etc., anything would help! Thank you! 
+
+You can email me also at any time, chaddurkin@gmail.com. I can possibly post anything I receive to the other future students in my class or make a post of everything for other future new coders to use or go through for practice! 
+
+Thanks again, 
+
+Chad Durkin
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+[1]: http://forum.epicodus.com/
+[2]: http://forum.epicodus.com/t/great-article-on-the-post-bootcamp-job-hunt/1181
+[3]: http://forum.epicodus.com/t/mentat-career-support/1182
+[4]: http://forum.epicodus.com/t/pre-bootcamp-c-net-study-guides-practices/1183
+
+
+
+This summary is sent from [Epicodus Forum][1] when we haven't seen you in a while. To unsubscribe [click here][5].
+
+[5]: http://forum.epicodus.com/email/unsubscribe/ddc8c580b499e923a88daf2f40ae0cc6a36e5da0d80ab0a85231afff3e9e4550
+
+
+
+----==_mimepart_583cd9a22150e_17823fd4f630764428403
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<table style=3D"border: 20px solid #eee;" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tr>
+  <td style=3D"padding: 10px 10px; background-color: #ffffff;">
+    <a href=3D"http://forum.epicodus.com" style=3D"text-decoration: none;=
+ font-weight: bold; color: #006699;; color: #0088cc">
+      <img src=3D"http://static1.squarespace.com/static/5524448ee4b0d6f6b=
+83ab9e2/t/5759a4c71bbee022293505cd/1466190401806/" style=3D"max-height: 3=
+5px; min-height: 35px; height: 35px;" alt=3D"Epicodus Forum">
+    </a>
+  </td>
+</tr>
+<tr>
+  <td style=3D"background-color: #fff; padding: 10px 10px; font-family: A=
+rial, Helvetica, sans-serif; font-size: 14px;">
+    A brief summary of <a href=3D"http://forum.epicodus.com" style=3D"tex=
+t-decoration: none; font-weight: bold; color: #006699;; color: #0088cc">E=
+picodus Forum</a> since your last visit on August 5
+
+      <hr style=3D"background-color: #ddd; height: 1px; border: 1px;">
+      <h3 style=3D"margin: 15px 0 20px 0;">Popular posts</h3>
+
+
+        <div>
+          <a href=3D"http://forum.epicodus.com/t/great-article-on-the-pos=
+t-bootcamp-job-hunt/1181" style=3D"text-decoration: none; font-weight: bo=
+ld; color: #006699; line-height:1.5em;; text-decoration: none; font-weigh=
+t: bold; color: #006699;; color: #0088cc">Great article on the post-bootc=
+amp job hunt</a>
+          <br>
+          <a href=3D"http://forum.epicodus.com/c/general-chatter" style=3D=
+"text-decoration: none; font-weight: bold; color: #006699; line-height:1.=
+5em;; text-decoration: none; font-weight: bold; color: #006699;; font-siz=
+e: 0.857em; white-space: nowrap; display: inline-block; position: relativ=
+e; line-height: 1; margin-right: 10px;"><span style=3D"background-color: =
+#3AB54A;display: inline-block; width: 10px; height: 10px;"></span><span s=
+tyle=3D"color: #FFFFFF;color: #222222 !important; vertical-align: text-to=
+p; line-height: 1; margin-left: 4px; padding-left: 2px; display: inline;m=
+ax-width: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-cl=
+ose=3D"true" title=3D"Everything else. Remember to always be kind.">Gener=
+al Chatter</span></a>
+        </div>
+
+          <div style=3D"margin-left: 15px; margin-top: -5px; max-width: 6=
+94px;">
+            <p>A less-talked about part of the bootcamper=E2=80=99s journ=
+ey is what happens after you graduate =E2=80=94 when you=E2=80=99re searc=
+hing for that six-figure=E2=80=A6</p>
+          </div>
+
+        =
+
+
+        =
+
+
+        <div>
+          <a href=3D"http://forum.epicodus.com/t/mentat-career-support/11=
+82" style=3D"text-decoration: none; font-weight: bold; color: #006699; li=
+ne-height:1.5em;; text-decoration: none; font-weight: bold; color: #00669=
+9;; color: #0088cc">Mentat career support</a>
+          <br>
+          <a href=3D"http://forum.epicodus.com/c/jobs" style=3D"text-deco=
+ration: none; font-weight: bold; color: #006699; line-height:1.5em;; text=
+-decoration: none; font-weight: bold; color: #006699;; font-size: 0.857em=
+; white-space: nowrap; display: inline-block; position: relative; line-he=
+ight: 1; margin-right: 10px;"><span style=3D"background-color: #ED207B;di=
+splay: inline-block; width: 10px; height: 10px;"></span><span style=3D"co=
+lor: #FFFFFF;color: #222222 !important; vertical-align: text-top; line-he=
+ight: 1; margin-left: 4px; padding-left: 2px; display: inline;max-width: =
+150px; overflow: hidden; text-overflow: ellipsis;" data-drop-close=3D"tru=
+e" title=3D"The place for sharing job leads and company contact info.">Jo=
+bs</span></a>
+        </div>
+
+          <div style=3D"margin-left: 15px; margin-top: -5px; max-width: 6=
+94px;">
+            <p>I was contacted by Cassie from Mentat (feel free to reach =
+out to her if you have any questions: cassie.crockett@thementat.com) abou=
+t their job seeking support services. They're a fairly new company, but s=
+eem like they have an interesting model for helping folks find work. Here=
+'s a blurb about what they offer:</p>
+          </div>
+
+        =
+
+
+        =
+
+
+        <div>
+          <a href=3D"http://forum.epicodus.com/t/pre-bootcamp-c-net-study=
+-guides-practices/1183" style=3D"text-decoration: none; font-weight: bold=
+; color: #006699; line-height:1.5em;; text-decoration: none; font-weight:=
+ bold; color: #006699;; color: #0088cc">Pre-Bootcamp (C# .NET) Study Guid=
+es/Practices</a>
+          <br>
+          <a href=3D"http://forum.epicodus.com/c/new-students-intros-hous=
+ing-etc" style=3D"text-decoration: none; font-weight: bold; color: #00669=
+9; line-height:1.5em;; text-decoration: none; font-weight: bold; color: #=
+006699;; font-size: 0.857em; white-space: nowrap; display: inline-block; =
+position: relative; line-height: 1; margin-right: 10px;"><span style=3D"b=
+ackground-color: #B3B5B4;display: inline-block; width: 10px; height: 10px=
+;"></span><span style=3D"color: #FFFFFF;color: #222222 !important; vertic=
+al-align: text-top; line-height: 1; margin-left: 4px; padding-left: 2px; =
+display: inline;max-width: 150px; overflow: hidden; text-overflow: ellips=
+is;" data-drop-close=3D"true" title=3D"New around here? Please introduce =
+yourself, share info about housing, find roommates, etc.">New Students (I=
+ntros, Housing, etc.)</span></a>
+        </div>
+
+          <div style=3D"margin-left: 15px; margin-top: -5px; max-width: 6=
+94px;">
+            <p>Hey there! I will be attending Epicodus in the beginning o=
+f January and I would really like some input/advice for some content/mate=
+rial that I can start working on or going over before I start, so I can g=
+et an idea of what to expect or practice some of the material that the co=
+urses will be on so I won't be going in blind.</p>
+          </div>
+
+        =
+
+
+        =
+
+
+
+    =
+
+
+
+    =
+
+
+  </td>
+</tr>
+</table>
+
+
+
+<div style=3D"color:#666; font-size:95%; text-align:center; padding-top:1=
+5px;">
+  This summary is sent from <a href=3D"http://forum.epicodus.com" style=3D=
+"text-decoration: none; font-weight: bold; color: #006699;; color: #0088c=
+c">Epicodus Forum</a> when we haven't seen you in a while. To unsubscribe=
+ <a style=3D"text-decoration: none; font-weight: bold; color: #006699;; c=
+olor: #0088cc" href=3D"http://forum.epicodus.com/email/unsubscribe/ddc8c5=
+80b499e923a88daf2f40ae0cc6a36e5da0d80ab0a85231afff3e9e4550">click here</a=
+>.
+</div>
+
+
+
+----==_mimepart_583cd9a22150e_17823fd4f630764428403--

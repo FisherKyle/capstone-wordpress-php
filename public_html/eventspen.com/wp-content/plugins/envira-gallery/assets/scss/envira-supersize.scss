@@ -1,0 +1,46 @@
+.envirabox-overlay.overlay-supersize {
+	/**
+	* Prevents top: 7px being set when reducing size of viewport.
+	* This happens because a horizontal scrollbar appears for a moment, forcing
+	* fancybox to calculate using a viewport size which assumes a horizontal scrollbar is present
+	* The scrollbar then gets removed, resulting in a small 7px gap above and below the overlay
+	*/
+	overflow-x: hidden !important;
+	background: #000;
+
+}
+
+.envira-supersize {
+	.envirabox-close {
+		right: 0;
+		top: 0;
+		z-index: 989050;
+	}
+	
+	.envirabox-outer {
+		background: #000;
+		text-align: center;
+		white-space: nowrap;
+		
+		&:before {
+			content: "";
+			display: inline-block;
+			height: 100%;
+			vertical-align: middle;
+		}
+		
+		& .envirabox-inner {
+			display: inline-block;
+			max-width: 100%;
+			max-height: 100%;
+
+			img {
+				display: inline-block;
+				width: auto;
+				height: auto;
+			}
+
+		}
+
+	}
+}

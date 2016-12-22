@@ -1,0 +1,832 @@
+Return-path: <bounces+1605419-960f-kyle=kylefisher.com@mail1.shared.hubspot.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 12 Dec 2016 17:34:26 -0500
+Received: from o1.mail1.shared.hubspot.com ([50.31.44.102]:42801)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+1605419-960f-kyle=kylefisher.com@mail1.shared.hubspot.com>)
+	id 1cGZAw-000UC1-6D
+	for kyle@kylefisher.com; Mon, 12 Dec 2016 17:34:26 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=shared.hubspot.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe; 
+	s=m1; bh=vTr9PYVMHoH//1Ah2QMLTNvBvdk=; b=Zh4amRR595+ly20A6v/8CHo
+	IXXmFQ0clBCe8Y3LozrwjX+bruNRAU5ORjvhwVYVseJJ5zycvx2nP8rVSDrXc9rf
+	H+X+h0JjMxL5Y24vlLfU+AqWN9bBvZPNnQW09uRm/ZA8hB6C1Uqb5jRmefB4lNv0
+	34oiWDOlCFrkVnRQKJlE=
+From: City Fitness <no-reply@cityfitnessphilly.com>
+Reply-To: no-reply@cityfitnessphilly.com
+To: kyle@kylefisher.com
+Message-ID: <1481581994957.eb58aac2-cbd6-4c67-b001-6dd86bba646b@smtp.hubapi.com>
+Subject: The Benefits of Incorporating Yoga Into Your Fitness Routine
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5094598_1009144609.1481582065412"
+List-Unsubscribe: <mailto:Vn0D181Z0qQLW3DK-y_3C7fyZW1XmJX_1GyspvW1Q1BQg3GM1JCW3C607b1_jk8rW95D7_86wcLFKW6PGll-8h5d0FVKk60x3JN_GwW3ZVcj54cKh8KW1JxwY52mTD2x4l7171@m.hsms09.com>, <http://t.hsms09.com/e1t/c/*W3n1zvB5SsTzXW6vF9My4f9QMd0/*W22ydNt8nZWBPW3g_Rbb3j7dFN0/5/f18dQhb0S2C573nzqHTv_D32bsr4vW16SfMH7DQjJlW72kzyZ3zZGlmW4Z4BLp3YwdZhW5HLZ-y6GVZyyW77ZfZY5ySQdFW6Vny424qdcprW96NtnL8M2_KVW3vHvhw42MfLYW6kTHqs2Bpz5QW34zvs31fC_hcW8tlzGD33Y56kW1g1yBy5CxQgpW3jTNBZ5Fc0MwW1H509m8r86mXW2QHRCc4_sSnFW6LhPFc6fNZvGW16HbQ76k6XG_W4XxJ5y2xhfxNVd_1-F1tjRjXW93gZz824nnw3W8BWLhx4Qw7kQW6xZNFy6MPQRkW5rTDKb5yj5wPN4fBKMj5-00lW8Db2kn8SGnMDN8BLBbphnLc1N3Z0Sy9XpVW9W1hHjmB3CqC2VW1Yvnvq20qWdXW8BL0Dc22Yyf9W2509L-79zsflW7JzPzy90g4LFW5MCt412KSmvBW2kfQdt1qZL5T0>
+X-Report-Abuse-To: abuse@hubspot.com (see https://www.hubspot.com/abuse-complaints)
+X-HubSpot-MID: CiRlYjU4YWFjMi1jYmQ2LTRjNjctYjAwMS02ZGQ4NmJiYTY0N
+        mIQm/kpGLqyASAAKIa51BIw4pkpOhNreWxlQGt5bGVmaXNoZXIuY29tQ
+        M3HrKmPK0jiAlogNWYyZDZjZWZmYWUxNDAwN2E4N2MxMjI4NDE1ZDZiM
+        jdlAAAEQnD57ZABgAEAigEkMGQ0ZTY3NjEtY2VkYi0zZTYwLWI4MTItY
+        zhjZGE2OTg0Yjk1oAEAqAEBsAEAyAEB0gEebm8tcmVwbHlAY2l0eWZpd
+        G5lc3NwaGlsbHkuY29t
+Date: Mon, 12 Dec 2016 22:34:25 +0000 (UTC)
+X-SG-EID: eU/ka35llXGMH3nAOV67BrlAvnJbsZjQ68cwO3vk6pX4L7Uq+955UU7Wvf4JBkH8l1sSi0LTyqRSAV
+ zREXwfSafAdqFG9QwjQvx4JJQmeqqvMlNWGQ23pkgXUpk43Jk8DuqnoyXyOYndg0PeivKYc0eFYRRz
+ 9KhFnHWax64Xr1Dg3oOsoJW3nGamCzeYQNDBBy9gX6XOciCD8YpAaRFgsxCEN6K2+WGQPP8WGkLeok
+ M=
+X-SG-ID: BaKDar+VrkG/S9kwb9JXAybyQIxtSdNv7N5GaANrvukd8coisWOeghJr3g1RkJm4K1FTuNV7RZgj3V
+ lP/7wEbUOfs8WRxYnQVr3oiyKTK24/bljkFVgk2eBydUQjIjyTxscCRrqRABzjahZUXXspIyFp5BW+
+ aWrJAThi5ZX7C9pyThPUSpuOiRG1HqYu6wEaIOOk44CMgmfRu2GjTGJPBdGFjztVrZU9fmib14XICH
+ kVZoP5TKLC2W3IgjKGeT/gJiJxEFOkdTR17I3bTYa5RoXvODP5aocUyK0HhCqRkMvm6WaGjc7LvphB
+ gaZQE9yzF3FAdlZINQKef8jpcyP+eMj8xNP0C4h/RtzkIEu894nCaJ9F7grkgtCGgoqIfbVDw2tdQi
+ f3rB/DcK3xqKqNJUwvI1K3LF5U3KLTixy3g14=
+
+------=_Part_5094598_1009144609.1481582065412
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Fitness =E2=80=A2 Food =E2=80=A2 Trends =E2=80=A2 Lifestyle =E2=80=A2 Phill=
+y =E2=80=A2 Community
+
+Not rendering correctly? View this email as a web page here (http://cityfit=
+nessphilly-1.hs-sites.com/the-benefits-of-incorporating-yoga-into-your-fitn=
+ess-routine?ecid=3DACsprvsTEkdGyqmhUf5HnW7mHlmPUpqbvy4qyiBlMHJbMLJLUGMbwQ5X=
+Ta0n56WDbAeFSCLd1PSJ&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3D=
+email&utm_content=3D39132294&_hsenc=3Dp2ANqtz-97H6JFVV2YGJUrgm1HN1cd4N47I9M=
+IBLJWOX0FH80ZA0D4XaPPORrw7nprzf0ros_BSzB5HrExaoESw_5jwOCQTh5K3g&_hsmi=3D391=
+32294) .
+
+City Fitness Philly (http://cityfitnessphilly.com?utm_campaign=3DRSS&utm_so=
+urce=3Dhs_email&utm_medium=3Demail&utm_content=3D39132294&_hsenc=3Dp2ANqtz-=
+_h1HtkykbooHXXbeAZJejUVJ4i7Q-0dWAKDCYXBKPNVbewfRxAAR9VcSj_cl5VF5G_nuIAcLqot=
+-0tNSfxQhoyKDL6Aw&_hsmi=3D39132294)
+
+rss-head.jpg (http://blog.cityfitnessphilly.com?utm_campaign=3DRSS&utm_sour=
+ce=3Dhs_email&utm_medium=3Demail&utm_content=3D39132294&_hsenc=3Dp2ANqtz--v=
+FH4xfSKuOv3k5zFBDH48281_lriZj9Cbwjf6hVVdgswLyIaHAvwDhQ0TDGhlTRq-IQAO-P_QAbx=
+bSbFjWRZa4fN-6w&_hsmi=3D39132294)
+
+The Benefits of Incorporating Yoga Into Your Fitness Routine (http://blog.c=
+ityfitnessphilly.com/fitness/the-benefits-of-incorporating-yoga-into-your-f=
+itness-routine/?utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail=
+&utm_content=3D39132294&_hsenc=3Dp2ANqtz-_50-HT1cyr6sqbx2NsEAVRGi2yBRJ7bFpp=
+uEBi73RhygNSoJtv7-LJfsNAHqB7SZBDjziZ0Hzpqw-wojf_UtAzYHcpPQ&_hsmi=3D39132294)
+
+By Natalie Roberts, Monday, December 12, 2016 4:29 PM
+
+benefits of incorporating yoga
+
+Yoga is well-known for being a fantastic form of exercise to improve flexib=
+ility and emotional and mental wellbeing, but if you think it=E2=80=99s not=
+ a tough workout then think again!=E2=80=A6
+
+Read more =C2=BB (http://blog.cityfitnessphilly.com/fitness/the-benefits-of=
+-incorporating-yoga-into-your-fitness-routine/?utm_campaign=3DRSS&utm_sourc=
+e=3Dhs_email&utm_medium=3Demail&utm_content=3D39132294&_hsenc=3Dp2ANqtz-8vK=
+ZkiqtnuJ6NBWu7tEuEHisCKrcGzMFfsKnBsXchluYDD4zf4986ZzfGlBlm-Lbd8JG2u9OzA_5UP=
+Tpxj3zewmikqnA&_hsmi=3D39132294)
+
+Cold Ain=E2=80=99t Got Nothin=E2=80=99 on You: Your Winter Workout Essentia=
+ls (http://blog.cityfitnessphilly.com/trends/cold-aint-got-nothin-winter-wo=
+rkout-essentials/?utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Dema=
+il&utm_content=3D39132294&_hsenc=3Dp2ANqtz-9H_FLiijxzvU4mnIC2IU8qP3GsvQvuJj=
+v8b1-33RK-3sEC_Xxt6O810IR3Uy6AYC8yIQoR1IKN1zYx3E77NBayZOi-sA&_hsmi=3D391322=
+94)
+
+By Ciarra Lambert, Wednesday, December 7, 2016 12:11 PM
+
+winter workout essentials
+
+As the cold weather settles in, with an occasional addition of snow, it is =
+easy to become discouraged about that morning run, the trip to the gym, or =
+anything that=E2=80=A6
+
+Read more =C2=BB (http://blog.cityfitnessphilly.com/trends/cold-aint-got-no=
+thin-winter-workout-essentials/?utm_campaign=3DRSS&utm_source=3Dhs_email&ut=
+m_medium=3Demail&utm_content=3D39132294&_hsenc=3Dp2ANqtz--BBFGcuTjuwX-EA_y0=
+pFTS_6oFi2-SnRW6QkBktAddIlvkLuAcD4YX2zAsyObWUTm-tW0XdLrVLnhsmTM5szinRtkTzg&=
+_hsmi=3D39132294)
+
+City Fitness Trial (http://cta-image-cms2.hubspot.com/ctas/v2/public/cs/ci/=
+?pg=3D21861336-ebb2-4f14-ab2f-846af3fe0948&pid=3D687259&ecid=3DACsprvsTEkdG=
+yqmhUf5HnW7mHlmPUpqbvy4qyiBlMHJbMLJLUGMbwQ5XTa0n56WDbAeFSCLd1PSJ&utm_rewrit=
+e=3DREWRITE_ALL&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail=
+&utm_content=3D39132294&_hsenc=3Dp2ANqtz-9GGPba41GQqtx4xm41KSoMlDjGomvE-N87=
+tLPeVnPZ6YdquZdBPMFNro0nw5mP7iX7jYRqwzXZT6pCmWKTjKj7DuoKpw&_hsmi=3D39132294)
+
+Share on Facebook (http://www.facebook.com/share.php?u=3Dhttp%3A%2F%2Fblog.=
+cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Dfacebo=
+ok&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=
+=3D39132294&_hsenc=3Dp2ANqtz--q6i3h1Rhj9VmqMQnXrAvDGExZtCycJ1fu-geJW5YnPiCs=
+kYH4h1R6lGFQ9R2WREf6nRmL7Wo9tIZLheSVnNfgO9d85w&_hsmi=3D39132294)  Share on =
+Twitter (https://twitter.com/intent/tweet?original_referer=3Dhttp%3A%2F%2Fb=
+log.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Dtw=
+itter&url=3Dhttp%3A%2F%2Fblog.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%=
+3Dsocial%26utm_source%3Dtwitter&source=3Dtweetbutton&text=3DThe+Benefits+of=
++Incorporating+Yoga+Into+Your+Fitness+Routine&utm_campaign=3DRSS&utm_source=
+=3Dhs_email&utm_medium=3Demail&utm_content=3D39132294&_hsenc=3Dp2ANqtz--Kz7=
+XAngNKqcKkUDPRcB4KWc2YRC-7qhncGXnTB_2c8NhDw2w6AQRSbio-t4SrwIt2LoabuYCwrTsSM=
+fFBB7kVmfGrcg&_hsmi=3D39132294)  Share on Email (mailto:?subject=3DCheck ou=
+t http%3A%2F%2Fblog.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%2=
+6utm_source%3Demail &body=3DCheck out http%3A%2F%2Fblog.cityfitnessphilly.c=
+om%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Demail)
+
+City Fitness
+2101 South Street
+
+Philadelphia,
+PA
+19146
+U.S.A.
+
+You received this email because you are subscribed to City Fitness Blog Sub=
+scription from City Fitness.
+
+Update your email preferences (http://cityfitnessphilly-1.hs-sites.com/hs/m=
+anage-preferences/unsubscribe?v=3D1&d=3DeyJlYSI6Imt5bGVAa3lsZWZpc2hlci5jb20=
+iLCJlYyI6MzkxMzIyOTQsInN1YnNjcmlwdGlvbklkIjo2NzUwNDIsImV0IjoxNDgxNTgxOTk0OT=
+U3LCJldSI6ImViNThhYWMyLWNiZDYtNGM2Ny1iMDAxLTZkZDg2YmJhNjQ2YiJ9&utm_campaign=
+=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D39132294&_hse=
+nc=3Dp2ANqtz--aQLNXaViaFI7_YCDA-AcfWZOUxAA7aMC0O5dJ1d_I_xDZC5o0esN2UpDi8taN=
+GHj1onRp2uRvVe-g2IoPyHqIz63VHA&_hsmi=3D39132294) to choose the types of ema=
+ils you receive.
+
+Unsubscribe from all future emails (http://cityfitnessphilly-1.hs-sites.com=
+/hs/manage-preferences/unsubscribe-all?v=3D1&d=3DeyJlYSI6Imt5bGVAa3lsZWZpc2=
+hlci5jb20iLCJlYyI6MzkxMzIyOTQsInN1YnNjcmlwdGlvbklkIjo2NzUwNDIsImV0IjoxNDgxN=
+TgxOTk0OTU3LCJldSI6ImViNThhYWMyLWNiZDYtNGM2Ny1iMDAxLTZkZDg2YmJhNjQ2YiJ9&utm=
+_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D3913=
+2294&_hsenc=3Dp2ANqtz--nRMkMeEFlecvJ6f3Gpvj1IrWQfQ9mLW2E3q-k7gwAjDl2ZgbDJC3=
+WsqQvc5CXo6JEUfA1tMZAWnMrfMpNuAEkvZ8aRw&_hsmi=3D39132294)=
+
+------=_Part_5094598_1009144609.1481582065412
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><!-- start coded_template: id:4304592182 path:generated_layo=
+uts/4304592172.html --><html bgcolor=3D"#f2f2f2" style=3D"margin: 0; paddin=
+g: 0; background-color: #f2f2f2"><head>
+        <title>The Benefits of Incorporating Yoga Into Your Fitness Routine=
+</title>
+        <meta property=3D"og:title" content=3D"The Benefits of Incorporatin=
+g Yoga Into Your Fitness Routine">
+        <meta name=3D"twitter:title" content=3D"The Benefits of Incorporati=
+ng Yoga Into Your Fitness Routine">
+=20=20=20=20=20=20=20=20
+        <style type=3D"text/css">
+        /*<![CDATA[*/
+            /* iOS automatically adds a link to addresses */
+            /* Style the footer with the same color as the footer text */
+            #footer a {
+                color: #999999;
+                -webkit-text-size-adjust: none;
+                text-decoration: underline;
+                font-weight: normal
+            }
+
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #main_body {
+                box-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+        /*]]>*/
+        </style>
+        <!-- http://www.emailon@cid.com/blog/details/C13/ensure_that_your_e=
+ntire_email_is_rendered_by_default_in_the_iphone_ipad -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                               =
+                                                      -->
+        <!--                            _/    _/            _/          _/_=
+/_/                        _/                         -->
+        <!--                           _/    _/  _/    _/  _/_/_/    _/    =
+    _/_/_/      _/_/    _/_/_/_/                      -->
+        <!--                          _/_/_/_/  _/    _/  _/    _/    _/_/ =
+   _/    _/  _/    _/    _/                           -->
+        <!--                         _/    _/  _/    _/  _/    _/        _/=
+  _/    _/  _/    _/    _/                            -->
+        <!--                        _/    _/    _/_/_/  _/_/_/    _/_/_/   =
+ _/_/_/      _/_/        _/_/                         -->
+        <!--                                                               =
+_/                                                    -->
+        <!--                                                              _=
+/                                                     -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                 Extra White Sp=
+ace!                                                  -->
+        <!--                                                               =
+                                                      -->
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" =
+content=3D"http://cityfitnessphilly-1.hs-sites.com/the-benefits-of-incorpor=
+ating-yoga-into-your-fitness-routine"></head>
+    <body bgcolor=3D"#f2f2f2" style=3D"margin: 0; padding: 0;  background-c=
+olor: #f2f2f2" marginheight=3D"0" marginwidth=3D"0" topmargin=3D"0">
+
+        <!-- Preview text (text which appears right after subject) -->
+        <div id=3D"preview_text" style=3D"display:none;font-size:1px;color:=
+#f2f2f2;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hid=
+den;">
+            Fitness =E2=80=A2 Food =E2=80=A2 Trends =E2=80=A2 Lifestyle =E2=
+=80=A2 Philly =E2=80=A2 Community
+        </div>
+
+        <!-- start container -->
+        <table bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2; -web=
+kit-font-smoothing: antialiased; -webkit-text-size-adjust: none" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+             <tbody><tr>
+                <td bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2;=
+">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#f2f2f2" st=
+yle=3D"background-color: #f2f2f2">
+                                    <!-- start header section -->
+                                    <div class=3D"header-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-email_view_as_web_page " style=3D"" d=
+ata-widget-type=3D"email_view_as_web_page">
+<div style=3D"padding-top: 15px; font-family: Geneva, Verdana, Arial, Helve=
+tica, sans-serif; text-align: right; font-size: 9px; line-height: 1.34em; c=
+olor: #999999">
+    Not rendering correctly? View this email as a web page <a class=3D"hubs=
+pot-mergetag" style=3D"color: #999999; text-decoration: underline; white-sp=
+ace: nowrap" data-viewaswebpage=3D"true" href=3D"http://t.hsms09.com/e1t/c/=
+*VWRTcf7bNm_TW7XdHsk7l11g30/*V8dNC35ch494W1pdzVp66rvBW0/5/f18dQhb0S3j47Bf-y=
+vV1xZNG1RKljSW5hTSWy1PGqMcW81vSCr1PnpQ_W5nRLrq5HLSttW4RLjy316NXd_W7my8q16XS=
+Cp-W2DBr7l8xdsvTW18Wf1-5tdz65W3qrDBK5BvL5fW7CkXqB94yq6PW4S-q3p8KM--pW1FwMPP=
+1ZWcxfW3-M6GT8hFqbSW8sHMJg4jZVH0N78P_NFd7Z47W2Yzrn-3xt8RqN8qm5dM5_0PHW3wWqn=
+08SvgT2W5rDvQh24LplCW1gQL2D5g14TbW72h0m53stYHYW8VCmmG1H-hlFN5Js2j0w3kTmW1ZF=
+_BY8SNrjsW2cVHds4vZQS9W7hkTSW7Dbs8JW4g937b7fdxHFW7LPyCH6Bvm1MW124lmC8FRny_W=
+3pm8kd3WKgT9W7_jL5g1sRlmPW1KM0yV1JWLJRW2p4Lnd4NfvqYW1x3fgm625lWFW11nTKc6pF8=
+RSW1BBHXv1RRjhmW5Bwq3393V2gCW5BLTC61lrZB9W6TrlLF6ppX_1W3MmBTy1bFzzsW8kPL_L3=
+Zw9vFW5cHwNm5z6gZjW7VwYYt3ZklMvW4ZNXqc7xn16fW8vs8nx9b_pYQW7pqt6Z6nbWGWW2GxR=
+PC6DnXBKW2SKP3k4v94JfW5m5q5L3d4C_FVqs8bF49zj1BW4xsVVR7ZKCFmW1Ld8BH93YTqFW4v=
+Cc2h9dXdY5W3gT1L77sv8g7N4Zhw3_46fgNW6XN_4C7FnCJl0" data-hs-link-id=3D"0" ta=
+rget=3D"_blank">here</a>.
+</div>
+
+
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end header wrapper -->
+                                    <!-- end header section -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#f2f2f2" style=3D"padding: 10px 20px; backgr=
+ound-color: #f2f2f2">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td id=3D"main_body" width=3D"600" bgcolor=
+=3D"#ffffff" style=3D"padding: 30px; background-color: #ffffff; border: 1px=
+ solid #cccccc; border-bottom: 1px solid #acacac; border-radius: 4px">
+                                    <div align=3D"center">
+                                        <table cellpadding=3D"0" width=3D"6=
+00" cellspacing=3D"0" border=3D"0">
+                                            <!-- start content -->
+                                            <tbody><tr>
+                                                <td style=3D"padding: 0; ba=
+ckground-color: #ffffff">
+                                                    <div align=3D"center">
+                                                        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"font-family: =
+sans-serif; font-size: 15px; line-height: 1.5em; color: #444444">
+                                                            <tbody><tr>
+                                                                <td>
+                                                                    <div al=
+ign=3D"center">
+                                                                        <!-=
+- start body section -->
+                                                                        <di=
+v class=3D"body-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-logo " style=3D"" data-widget-type=3D=
+"logo"><div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_logo_image" class=3D"hs_cos_wrapper hs_cos_wrappe=
+r_widget hs_cos_wrapper_type_logo" style=3D"color: inherit; font-size: inhe=
+rit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos=
+-type=3D"logo"><a href=3D"http://t.hsms09.com/e1t/c/*VWRTcf7bNm_TW7XdHsk7l1=
+1g30/*W1Zb8773gjlQ1W84TpnF8Jy5cF0/5/f18dQhb0S5fq8XJ8kFW8__q7V3qJmymW23zYC55=
+9hZcqW2Sk1l-15zZmKW5q9kQw8B-PX8W3517_H8m7h1SVT8lWz8lwXc7W8tzK6w5wL96LW1sL3M=
+03MybvyVcVn3D4Kzn27W2N33B53_t0gLW32Gf2Q4dy5FSW1kXfyt1SdKWJW1m2sXx8Xl1blW8W1=
+LYJ4cnH7hW7cvxVf8q5qBxVVQf4X5vDhXCW4vtRl42vs-YyW4VzPL36L5MbDW1m3nhn38F0J9W3=
+lLh8k4Y9CPpW8q5HFX62fKYNN4TZr0YY6q9PW2B7C-v5G79V0N5sbJ6yPDF1HVZZbKY5zsQXFMd=
+mHjDbpy9_W8tzvFW5H0FjWW2zNKKT8GclM4VPNfDT3Cdk0dW3wv7Sm6xYY2PW6nW4TX3xb5GGW7=
+qVzbd1GyB6lW2mglJ-5PkNwpW8-t6GJ8116V4W7XG_s-4zbvrNW3X-xc88WF_D8W8GwkTw9bFw6=
+sF1WPqsCJ9gxf82t0z-03" id=3D"hs-link-logo_image" style=3D"border-width:0px;=
+border:0px;" data-hs-link-id=3D"0" target=3D"_blank"><img src=3D"https://cd=
+n2.hubspot.net/hub/687259/hubfs/cfphiladelphia_logo-1.png?width=3D231&amp;n=
+ame=3Dcfphiladelphia_logo-1.png" class=3D"hs-image-widget " style=3D"max-he=
+ight:51px; max-width:231px; border-width:0px;border:0px;" width=3D"231" alt=
+=3D"City Fitness Philly" title=3D"City Fitness Philly" srcset=3D"https://cd=
+n2.hubspot.net/hub/687259/hubfs/cfphiladelphia_logo-1.png?width=3D231&amp;n=
+ame=3Dcfphiladelphia_logo-1.png 231w, https://cdn2.hubspot.net/hub/687259/h=
+ubfs/cfphiladelphia_logo-1.png?width=3D462&amp;name=3Dcfphiladelphia_logo-1=
+.png 462w" sizes=3D"(max-width: 231px) 100vw, 231px"></a></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-rich_text " style=3D"font-size: 12px;=
+ line-height: 1.5em; text-align: center" data-widget-type=3D"rich_text"><di=
+v class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_column1" class=3D"hs_cos_wrapper hs_cos_wrapper_w=
+idget hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: in=
+herit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-c=
+os-type=3D"rich_text"><p style=3D"margin-bottom: 1em; "><a href=3D"http://t=
+.hsms09.com/e1t/c/*VWRTcf7bNm_TW7XdHsk7l11g30/*W7-n0kK4dYXrtW2r2cMh7rx3tb0/=
+5/f18dQhb0S5fn8XJ8HCW8__q7V3qJmymW23zYC559hZcqW2Sk1l-5P7KMHW5q9kQw8B-__YW67=
+k5Wc5vD9_wN5wL6c-SzjjHW8rzJsK1nPLDsW5y5jh-1rfXlzW1kRpb77Yc3xQW6gp6Kq8W2c9WW=
+32CQ2l8jxMNSW1VwV0k3HbcNkW1SdKWJ32j40pW5mZjbq31H380V9ZqgW6b-vF0N67h1zcQC5z2=
+VPC2cV3jCkFbW23NjYL1r6hRFVYh5Gd4XS40SVQnf_p2vDGVrW5JBZnN9bb8WHVbR3XH4n-sdgW=
+6PrQnR4tmTLxW8sySh53LbH3FN4tH5gG92fXwW386ysm7bg1nTVLM5Pv61n_6yW5zTykx3Hw7nM=
+W4PkBg56BkmL8W6s16_28Ph58-W59Bvdb7yQjd9W4hC2gk5kfQ36W5jPJ7-5l3_2RW2cyH2G8BR=
+nxLW6HYnTN6sf_0-W96nzvG7SYDYJW8qc_kl7ZXcp-W90c0qH3QzRXbSpZD28Dzrr102" data-=
+hs-link-id=3D"0" target=3D"_blank"><img src=3D"https://cdn2.hubspot.net/hub=
+/687259/hubfs/nl/rss-head.jpg?width=3D600&amp;height=3D250&amp;name=3Drss-h=
+ead.jpg" alt=3D"rss-head.jpg" width=3D"600" height=3D"250" srcset=3D"https:=
+//cdn2.hubspot.net/hub/687259/hubfs/nl/rss-head.jpg?width=3D600&amp;height=
+=3D250&amp;name=3Drss-head.jpg 600w, https://cdn2.hubspot.net/hub/687259/hu=
+bfs/nl/rss-head.jpg?width=3D1200&amp;height=3D500&amp;name=3Drss-head.jpg 1=
+200w" sizes=3D"(max-width: 600px) 100vw, 600px"></a></p>
+<p style=3D"margin-bottom: 1em; ">&nbsp;</p></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-email_body " style=3D"" data-widget-t=
+ype=3D"email_body"><div id=3D"hs_cos_wrapper_hs_email_body" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"colo=
+r: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-=
+type=3D"widget" data-hs-cos-type=3D"rich_text"><!--rss-email-entries-->=20
+<table align=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%">=20
+ <tbody>
+  <tr>=20
+   <td>=20
+    <div style=3D"font-family: sans-serif; color: #444444; background-color=
+: #ffffff;">=20
+     <h2 style=3D"padding-bottom: 0px; margin: 0px 0px 5px; text-align: lef=
+t;"><span style=3D"color: #ff0000;"><a href=3D"http://t.hsms09.com/e1t/c/*V=
+WRTcf7bNm_TW7XdHsk7l11g30/*W7Rp0-N3d17tzVwVvX66402kj0/5/f18dQhb0SnGV4CTdXJW=
+66PG6T2S0sKMW7fRRK22zGDFTW3hHhb35Cgxh0Vp3s9r5nY8r9W8-xK7t1zvSK3N8T6z__q4WJJ=
+W49g8VM8Wm1t7W4TWxDJ5xKnZMN1qfQJm5c_zpW8X4NHL8WBY0wVpCq5x2Mn9WgN4hbcKGKv9Ck=
+W95PRk35jsKs4W85jBj65TB-C6W4Bs6cn4yym9nW2p0tdz5PBRldN6rt5kgWG6pQW7PJ6bd2gM1=
+cwW1V9FP5360lHpW1nnQd31_c0YdW1pqBNS1ks0KjW38z0xV1gvjSzW8hz0Ys806yj3W70ml3s3=
+q4cdBN60wNL2qkb64W3pNzf_7F0xv4W2jB3QJ7rTWDzW1LjZl71TP92bW54MYfb8shg6CW2cM0n=
+v4bSfg7W3rpRyF6czBHsW2lyJXp18yDRGN4-DF6KC8h7lW54zKZt8GxzWcVt89gw8FhXKrW2mp2=
+PS5DhyW9MxhsXWrX3l1W6VzwTx76syM_W69zp401szPM3W1VgcRd733X8-W1nCrbg8Ss2f_W6SQ=
+SkS21m8nHW4pfLSH6Xkq8KW6lhcxR48TxtnN5tZ3dzrVprBVrHPR91zzKmr102" style=3D"co=
+lor: #ff0000; text-decoration: none;" data-hs-link-id=3D"0" target=3D"_blan=
+k">The Benefits of Incorporating Yoga Into Your Fitness Routine</a></span><=
+/h2>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"><span style=3D"color: #999999;">By Natalie Roberts, Monday,=
+ December 12, 2016 4:29 PM</span></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"> </p>
+     <div style=3D"color: #999999;">=20
+      <img alt=3D"benefits of incorporating yoga" class=3D"attachment-large=
+ size-large wp-post-image" height=3D"400" src=3D"https://i2.wp.com/blog.cit=
+yfitnessphilly.com/wp-content/uploads/2016/12/benefits-of-incorporating-yog=
+a.jpg?fit=3D1100%2C734" width=3D"600" style=3D"display:block ; margin:auto =
+; margin-bottom:5px ; height:400px ; width:600px ">=20
+      <div class=3D"post-excerpt">
+        Yoga is well-known for being a fantastic form of exercise to improv=
+e flexibility and emotional and mental wellbeing, but if you think it=E2=80=
+=99s not a tough workout then think again!=E2=80=A6=20
+      </div>=20
+     </div>
+     <p style=3D"margin-bottom: 1em; "></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; text-align: left;"><span style=3D"back=
+ground-color: #ff0000; padding: 20px;"><a href=3D"http://t.hsms09.com/e1t/c=
+/*VWRTcf7bNm_TW7XdHsk7l11g30/*W91L0Bs2VkKnXW1ppw6W7vprSX0/5/f18dQhb0SnGV4CT=
+dXJW66PG6T2S0sKMW7fRRK22zGDFTW3hHhb35Cgxh0Vp3s9r5nY8r9W8-xK7t1zvSK3N8T6z__q=
+4WJJW49g8VM8Wm1t7W4TWxDJ5xKnZMN1qfQJm5c_zpW8X4NHL8WBY0wVpCq5x2Mn9WgN4hbcKGK=
+v9CkW95PRk35jsKs4W85jBj65TB-C6W4Bs6cn4yym9nW2p0tdz5PBRldN6rt5kgWG6pQW7PJ6bd=
+2gM1cwW1V9FP5360lHpW1nnQd31_c0YdW1pqBNS1ks0KjW38z0xV31by0sW8hz0Ys806yj3W70m=
+l3s3q483NW45tvSk6hGlKKW2FD8fY6JS-bqW7LWjPm7kbjPjW7Dmnxr7Lrpt1N7JL4sbqKNmdN1=
+jYxq85yv5bW2kP41X67MXV5W4zg13L8T_fPRW82qCyk8ghT_HW2cm-Lb1bTrdBW9dGZ7_77gWVN=
+W2DbVk75DhGh2W30c2wg3Cdk0dW3wv7Sm6xYY2PW6nW4TX3xb9bDW5vGfw33hCT53V215_B1J7M=
+ZyW1rHPNV813_1BM79PQXXMYLwW6PnXx13XGR9JW7jjvq07TVqyYN3wMXFC1VYx8f2PX-8803" =
+style=3D"color: #ffffff; text-decoration: none; font-weight: bold;" data-hs=
+-link-id=3D"1" target=3D"_blank">Read more =C2=BB</a></span></p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+    </div> </td>=20
+  </tr>=20
+  <tr>=20
+   <td>=20
+    <div style=3D"font-family: sans-serif; color: #444444; background-color=
+: #ffffff;">=20
+     <h2 style=3D"padding-bottom: 0px; margin: 0px 0px 5px; text-align: lef=
+t;"><span style=3D"color: #ff0000;"><a href=3D"http://t.hsms09.com/e1t/c/*V=
+WRTcf7bNm_TW7XdHsk7l11g30/*W2Ct5C41XHmNSVDhKK884RqYq0/5/f18dQhb0S3j46_rzZBM=
+1y8FRj2dMYW5hhmXL98N5PpN1s64d9dWqwbW4f8JYl7VXPJyW85_pnb92YRrDW5FyMh15T2qJvW=
+4_V6p53VZJnzW7RjhDJ4WFQXBN9bfcG1rr4pcW86QLc64w5VGtVTzK1s7JGLCnW60K-sF8gHBT1=
+N75v00-6s69SMQzDNCLvNVCW24C3vT4N21MgVVCx2c1DVGc3W4R-Mjp1yFHs5V6-K441Vn0gxW5=
+Ct0CN92r0zdW3QtfRM95k0ZFMKrFljFwGP0W63BR8w5Rq0Z5W4nQQcS5Y6ZgkVvDq3f4QlfRlW9=
+9Q_yP7WSDGVW3bTNBY7JQwrsW6SkH8b6R5JmhW2zTVH45v3k_yW5XfkMh3KpjfhW3qmH9p8K2cl=
+yW3H017-1K9z3BN5qc1kzfhYslW42fv_L2SSVS9W6RyHrl6WmC43W6SfM5X80mgHMN14xYk8BH1=
+MdN7N3801NMC9VW63jx-K3VXVtGW1dc-PX5S1TpfW4HGMZz2LMYKpW6v-LTG7W8g4mW81-7cP98=
+cl-lW7GjS-f4fpGrtW7jdTym9dv1h5W4smBM58fl59w111" style=3D"color: #ff0000; te=
+xt-decoration: none;" data-hs-link-id=3D"0" target=3D"_blank">Cold Ain=E2=
+=80=99t Got Nothin=E2=80=99 on You: Your Winter Workout Essentials</a></spa=
+n></h2>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"><span style=3D"color: #999999;">By Ciarra Lambert, Wednesda=
+y, December 7, 2016 12:11 PM</span></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"> </p>
+     <div style=3D"color: #999999;">=20
+      <img alt=3D"winter workout essentials" class=3D"attachment-large size=
+-large wp-post-image" height=3D"400" src=3D"https://i0.wp.com/blog.cityfitn=
+essphilly.com/wp-content/uploads/2016/12/winter-workout-essentials-compress=
+or.jpg?fit=3D1100%2C734" width=3D"600" style=3D"display:block ; margin:auto=
+ ; margin-bottom:5px ; height:400px ; width:600px ">=20
+      <div class=3D"post-excerpt">
+        As the cold weather settles in, with an occasional addition of snow=
+, it is easy to become discouraged about that morning run, the trip to the =
+gym, or anything that=E2=80=A6=20
+      </div>=20
+     </div>
+     <p style=3D"margin-bottom: 1em; "></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; text-align: left;"><span style=3D"back=
+ground-color: #ff0000; padding: 20px;"><a href=3D"http://t.hsms09.com/e1t/c=
+/*VWRTcf7bNm_TW7XdHsk7l11g30/*W5Z09Jv4JqgSVW5Z6G8Q3M8N0W0/5/f18dQhb0Sq5J8Y9=
+ZP0W8FVmQd6SnL4KN477VgYZwv6_W5FGwbM7wfxYHW1wcMDH7TRHxXW2XxNtn1F6w5DW1FmR851=
+J6CDlW7v3p0s2NB2NVW1L2TJ72Mjp1JW7z2Rrr2SwjwDW7F-zZp7GZSm1W7n7p591FSWfyW558y=
+YG55FqRcW2MVt7-33FCF6VKntlJ8HbRxPN8k1dMQpSBF3W8WhY7s4R6kGRW7dDxTN7mWsnXW7dz=
+csS51vDDKW6vYDb47v70tSW4-lBxJ2vGh_qN6V4mf7NHCtzW8gjXcW1qGZ0HW26pdfj35yblcW5=
+sxdN297K0FgVM8F7n24fXxrN23FXfmPDYTFW4XB8Df8rk-PmN64c3SHc7QPqW1msf8029SyTcW6=
+T8cWT3c4P8zN5shMR-8Y3BVW3g21qg4tq5v7W97txdv97sc4JW1kdGv28sdvNKW8t3wGK7q7-Qc=
+W6jhn4l45Ly2MVkwRPg8d4MZRW7t41Gb3GPg46N3gQPCP7-n49Vd8y6q1QPcZtW3t9Yk_4C4hbQ=
+W5_5mxy22mQnfW6v38sm2B9z2wW7VyrGX38rh8dW1Dy_KC8-rbtVf4gTlnj04" style=3D"col=
+or: #ffffff; text-decoration: none; font-weight: bold;" data-hs-link-id=3D"=
+1" target=3D"_blank">Read more =C2=BB</a></span></p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+    </div> </td>=20
+  </tr>=20
+ </tbody>
+</table></div>
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-rich_text " style=3D"" data-widget-ty=
+pe=3D"rich_text"><div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1471636828266713" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inheri=
+t; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"w=
+idget" data-hs-cos-type=3D"rich_text"><!--HubSpot Call-to-Action Code -->=
+=20
+<span class=3D"hs-cta-wrapper" data-hs-img-pg=3D"21861336-ebb2-4f14-ab2f-84=
+6af3fe0948" id=3D"hs-cta-wrapper-21861336-ebb2-4f14-ab2f-846af3fe0948"> <sp=
+an class=3D"hs-cta-node hs-cta-21861336-ebb2-4f14-ab2f-846af3fe0948" id=3D"=
+hs-cta-21861336-ebb2-4f14-ab2f-846af3fe0948"> <a href=3D"http://t.hsms09.co=
+m/e1t/c/*VWRTcf7bNm_TW7XdHsk7l11g30/*W4-Rbm34THf5qW9dN2fR7y18bK0/5/f18dQhb0=
+S2C96X_sHCV12cMl8dnghsMLWN9qBW0DPW2NT9st7LRCfSW4F73Rz20lNLtW1G49XX64t9S4N1X=
+RR2fSHYMVW7GSPzJ1bd_sGW4pSKQW6R3qxvW8bT4zF6H7__hW4F6p0s8CxQkRW6VnMxG9c5s2NW=
+3YkfS72bnTYyW15dDNp251yYnN6rCCb0c_n9GVVXdXF8MR-KMW1DZqZK1ldcwpW1Ckqmr8nBQZd=
+N5zYG1QVJBQPW2HjmrS1g598BW1NKGTN572bsGW5j7djx4qZBSNW4N80gR3mJJfWW6967Jz9jZ1=
+HhVxVcqH42vkw8W15lf_T6nDpJvN2KGDHMzD310W8nlR_p7dwKMfW6gMGKH77CJ1jW2BgxkQ3hw=
+4qqW6BYtdH7hs9V_W41SP9-3SJ07VW7nRNx-3gsZwrW2DSH7v5WtJXxW5F7bXc75Z1HhW6L9BpC=
+58sC2kW4pQy_V6X2ZK5W5fnQZW51pdQ7N4nPVZV9R2hPW860vxJ3LTqK0W1s_1BQ234m8RW3gp7=
+t-1WvghRW3MHFmz56qyVCW2Jnb8q2fy7LYW45Rlvz5x9tpZW7MpG_P7Rlv41W4tLf_z1-vTCvW1=
+kHqXv2K5VxYVR4Wh27NCYGBVDJVD34fF5YBW3KtNq28pBtlYV2Fbx-3W4ggdW74pcQ191-w8YW4=
+fJTKn2pTV8wV4TbRK7yTgt_W7M2bDW4zCctbW2f4rK58Bpl05W7V7nmN4vDPyNW8_5fDJ92F-hP=
+N2ndgDq60Wwx111" data-hs-link-id=3D"0" target=3D"_blank"> <img class=3D"hs-=
+cta-img" id=3D"hs-cta-img-21861336-ebb2-4f14-ab2f-846af3fe0948" style=3D"bo=
+rder-width:0px;width: auto !important; max-width: 100% !important;" mce_nor=
+esize=3D"1" src=3D"http://cta-image-cms2.hubspot.com/ctas/v2/public/cs/il/?=
+pg=3D21861336-ebb2-4f14-ab2f-846af3fe0948&amp;pid=3D687259&amp;ecid=3DACspr=
+vsTEkdGyqmhUf5HnW7mHlmPUpqbvy4qyiBlMHJbMLJLUGMbwQ5XTa0n56WDbAeFSCLd1PSJ" al=
+t=3D"City Fitness Trial"></a> </span> </span>=20
+<!-- end HubSpot Call-to-Action Code -->
+<h2>&nbsp;</h2></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-text " style=3D"padding: 10px 0px 0px=
+ 0px; text-align: right" data-widget-type=3D"text"><div class=3D"layout-wid=
+get-wrapper">
+<div id=3D"hs_cos_wrapper_social_sharing_label" class=3D"hs_cos_wrapper hs_=
+cos_wrapper_widget hs_cos_wrapper_type_text" style=3D"color: inherit; font-=
+size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" d=
+ata-hs-cos-type=3D"text"></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-social_sharing " style=3D"padding: 10=
+px 0px 0px 0px; text-align: right" data-widget-type=3D"social_sharing"><div=
+ class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_Social_Sharing" class=3D"hs_cos_wrapper hs_cos_wr=
+apper_widget hs_cos_wrapper_type_social_sharing" style=3D"color: inherit; f=
+ont-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widge=
+t" data-hs-cos-type=3D"social_sharing"><a href=3D"http://t.hsms09.com/e1t/c=
+/*VWRTcf7bNm_TW7XdHsk7l11g30/*W1X1ztr8ZQP4cW6JtQ1v4h9PTL0/5/f18dQhb0S82_9cL=
+jJWW2Wtrnk5H0XxdW56Bf1w59hnkhW6BlzkC1SrC8dVM7Yn35y5C1fW61SD151qMs7fW8B-9dc8=
+yVBNPVRJ3YJ3GtjSXW7-xbs47khzHgW3487sr5YX19vW4glqb85mF7flW5mxmqF8gXQSbW5L0h6=
+C16r7T2W3V-2B65Dfq37W2HVTVH3VKVtLW6nF5SN47YmLCN3CsXK9XVXBlN70fl6pNM7vQW2V-F=
+8l5K-FKHN5B4_2r_r6yzVJfbTZ6sSysYW2XsCWx7tf-dJW7kpkQ66sqc6-W2JDZKm2JDgVLVPW6=
+-X344L7SW22WLyB6HBHnDW6qG734210bmkW6kDQjx1kw75jW7dgrJM7NNP_bW752Scz7lWP2GW7=
+ZPVvX7PVlDHW6wDcx420ZqM_W80sH8-1YcVrvW1bs-bw1Pr5DDW2dH3l37h2KbmW7sRTx31msRH=
+GW2bSp261hxR9FW7Xzbc282xSqSW13_CLR63VwcYN35JdVPVzQv-VVn7DD3-wQlZN1BLvrGW2gs=
+vW1SLfG454qrlBVj8tbN4c-1WMW2jbzVx81Z3rVV_sMtM7BSVbVW7wzRDJ3rTK4dW2fRzVm70g5=
+MVMdm8X51-fNcf90x09v03" target=3D"_blank" style=3D"width:24px;border-width:=
+0px;border:0px;" data-hs-link-id=3D"0"><img src=3D"https://static.hubspot.c=
+om/final/img/common/icons/social/facebook-24x24.png" class=3D"hs-image-widg=
+et hs-image-social-sharing-24" style=3D"max-height:24px;max-width:24px;bord=
+er-width:0px;border:0px;" width=3D"24" hspace=3D"0" alt=3D"Share on Faceboo=
+k"></a>&nbsp;<a href=3D"http://t.hsms09.com/e1t/c/*VWRTcf7bNm_TW7XdHsk7l11g=
+30/*W8JzGKk64Mk0mN3rTFckYSdsC0/5/f18dQhb0S1Wd7BfGH_VM_XzX4L7P-RN1tzchvNTc-L=
+W5GgTVM32t-q3W20fJmK5FVfxqW3h12kX6SCVD5W7SqMfp77RyqnW8B5yrV6gxpXTW7MP8gc86b=
+8WRW69CKtW6XtqSGW13sBVt8jTqmkW1rlRX41MJyq9W4zzJgD5qqg51VspyCD3s0v4mW2Pc0kK1=
+-V0_3W75q6PQ47FXXLN33M-km536bfW7h6Qb66tHDN6W4LLcFT8MVs9pN7QZSRMDlMFRW3ddFCH=
+1vZMYkW5B15mx1m43j4W3zkYMH3DxST9VsyFbg7fZqX8W4kVlYG62cprFW6T4rS25nyT0qW7bHm=
+k06bxqNbW7pFJPJ18FsxbN1w4Vv1VYDpSW4Kc0mC50WGf2W7KNNpw2c7Y4tW5BSsmq95WKQbW2N=
+n-x340gW95N2XJfZvm0906W3mRL6R8FhN_DW8CsGxJ78DVVYW1d0nZr5PfFBjW2t-F947yd_5jW=
+4grz-230WJq4W3GmyWx3XGPS5W8sP8gl7rZ9glW8mQfMc56_7XQW66mtkx70DTwnW1LvRD07Mjt=
+r8W4v-3QB3_P7HGW7kyw956k0-xVVBpkzM7ySRnbW3_5RMG7x-BCkW921znH3TG8qVN4kLFNntd=
+xn2W12xfJg5JlPSVVvj9Gj7_KR5DW3d3BWw2rsYtKVpYxKf3Zs2l8W5T-t0D6zD8WrW70kZc79m=
+1HRwW63qrn-7ss3z7W7VC6XL8S7KpwW6h9XTJ4f3WpFV9Mm1F2l9-D2103" target=3D"_blan=
+k" style=3D"width:24px;border-width:0px;border:0px;" data-hs-link-id=3D"0">=
+<img src=3D"https://static.hubspot.com/final/img/common/icons/social/twitte=
+r-24x24.png" class=3D"hs-image-widget hs-image-social-sharing-24" style=3D"=
+max-height:24px;max-width:24px;border-width:0px;border:0px;" width=3D"24" h=
+space=3D"0" alt=3D"Share on Twitter"></a>&nbsp;<a href=3D"mailto:?subject=
+=3DCheck out http%3A%2F%2Fblog.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium=
+%3Dsocial%26utm_source%3Demail &amp;body=3DCheck out http%3A%2F%2Fblog.city=
+fitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Demail" tar=
+get=3D"_blank" style=3D"width:24px;border-width:0px;border:0px;" data-hs-li=
+nk-id=3D"0"><img src=3D"https://static.hubspot.com/final/img/common/icons/s=
+ocial/email-24x24.png" class=3D"hs-image-widget hs-image-social-sharing-24"=
+ style=3D"max-height:24px;max-width:24px;border-width:0px;border:0px;" widt=
+h=3D"24" hspace=3D"0" alt=3D"Share on Email"></a></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end body wrapper -->
+                                                                        <!-=
+- end body section -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20
+                                                        </tbody></table>
+                                                    </div>
+                                                </div></td>
+                                            </tr>
+                                            <!-- end content -->
+                                        </tbody></table>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2;=
+ padding: 13px 30px">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#f2f2f2" st=
+yle=3D"background-color: #f2f2f2">
+                                    <!-- start footer section -->
+                                    <div class=3D"footer-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-email_can_spam " style=3D"" data-widg=
+et-type=3D"email_can_spam"><p id=3D"footer" style=3D"margin-bottom: 1em; fo=
+nt-family: Geneva, Verdana, Arial, Helvetica, sans-serif; text-align: cente=
+r; font-size: 12px; line-height: 1.34em; color: #999999; display: block">
+City Fitness
+&nbsp;&nbsp;2101 South Street
+&nbsp;
+&nbsp;Philadelphia,
+&nbsp;PA
+&nbsp;&nbsp;19146
+&nbsp;&nbsp;U.S.A.
+<br><br>
+You received this email because you are subscribed to City Fitness Blog Sub=
+scription from City Fitness.
+<br><br>
+Update your <a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D=
+"http://t.hsms09.com/e1t/c/*N92fwqXglVsnW50kcg86M51LQ0/*W5JGyYr5BmbPlW12-tj=
+V4yjh000/5/f18dQhb0S2C92fbDwPV11xKJ62TYmsW1ySxlX5sv3s5W2jVnyJ2R9qQnVm8mQV79=
+W1W3W5ky_KT4C027-W3qBqtQ49KWm0N3JR3dz8HkDlW6sF8XB14LMSHW2Z0SfP1l6kF9W8xHS8r=
+6pGrmNW7l3XWV4xtGKZW9jYH2p1C_fQQW4yxBvc2h2-w0W22ZWGy3_d95hW52mq8H8Y2FgHW5Ld=
+bXG11P5b-W9c7yZt2fyMh4W6tZf6w1hvF-kN1ksqdNYzZKXN6DpylvyMfssW26RGPS72DLDwVP-=
+DlD6l4m46V2nDjF3QPbdWN5_mh6dm31ZqW7nYFqM63w-rNW37mSR7341pvdVjZ_8d5zmWq-VZfw=
+8c2V9LGFW2XF_Bm6bx9HKW2KnbVj1JMPRgW3k0GNY8YzQJjW8pL3Zb6WGFM0W91R4zR6w0rhbW3=
+27WHj7KCBbdW5_X0Mf32brW7W47f7Pr2dLH-sVf8h1k6ymQTpVqMdBs520Qg_W9hnbW2554ZPGW=
+4dY_P54NBP9_VVQqPv3Kck6cW7BG51q5lMrfDW8sq69v7H0TpRW1tBytD243YH_W2pMSFQ3T2HD=
+gW5f2CwR4J61k6W3wdyJ67K9zhNW5QvcMN3pl_9sW1G47Nc1GPDCRW4-Pwbs8N5snyW7vzlGC15=
+pSX2Vy7hfQ8z07LpW6F8jhH2Sd_hWW8L4WhH4DjpdsW1zzBYB6ZGxF4W6RR7mF39CrsrW1QYfdW=
+7RLjBKW85TJTh207PmSW9d9K5m9bDRQFW8rKPVy700YNkW1KmJdt1L-5qLW3t9dpw85PXpRW188=
+7YD475G4n103" style=3D"text-decoration: underline; whitespace: nowrap; colo=
+r: #999999;" data-hs-link-id=3D"0" target=3D"_blank">email preferences</a> =
+to choose the types of emails you receive.
+<br><br>
+&nbsp;<a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D"http:=
+//t.hsms09.com/e1t/c/*N92fwqXglVsnW50kcg86M51LQ0/*W5JRZXP218wkdW6K1m3z2tzbc=
+n0/5/f18dQhb0S2C92kmmR4V1xsnd22CFrnW2xfyWj12jYRsW6DJsjX15nlN1W1LWTRT6Gx4SVW=
+5w48k97mqKvrW3D43lL51nYWZW6h729v4f08jfW8ZBcfG4f2qHpW74kNMb7gx16wW9bLTKt6-Qr=
+4-W7s0pmD3Q0LGfW8LflBz8nmYQ6W87w21w2h2NbtVpRtP_10FBr0W5z1mfc3qwYqzW8cVl5R5T=
+M6TTW3NhsGg7HC-bXW7Lkb7K4MWhP9W891WHs99G448W13tCdK2Q1Ss0W1kwB773y29sKW2Z862=
+j5sll1gW212Wbt50yJp8W555s7x3l3b-fW5GH3PP359BtfW8FY88Y31RpztV3kPsC41bcj6W5tT=
+1wx6sy_NXV3f3Gy7D22pRW7fZ7Xn4NGMmbW6dQNk73sN-f8W79kv9z5KddQzW4hzQHT2Rnf0dW8=
+YC3sH82f2p-W5-t6lF8FZ8YmW6JhM7k3_fsJXW4Ny8fV4zdVcZW5H5MLB8jtttHW77FDfH47Ltj=
+fW61CK4K75KM3MN1JMZHCJzmJ2N8KDT2xtCLs6W9bdfXY8fzLsRN305PY_KFSJvW7J9Nft7nrwx=
+hW2p_gVP1c-D9pW37kyMX96d14dW8J0LpW6tzjLWW2hJds05B9b39W1tnyDB7DvSpVW21xgDn6L=
+Tmv2MZtg1fPfk__W1vwz187Lx4JdW7yvrqj5q-bQDW7lfBNf5DStxNW46XVHQ3x5s2bW5NmyfQ3=
+zP5WLW7rfY934Bv2ndW8ZllJX18FxRZW7hq-l19f6fQhW8_dVqx821HKSW8_9WTD85F1XlW7lzB=
+nH5pTjz6121" style=3D"text-decoration: underline; whitespace: nowrap; color=
+: #999999;" data-hs-link-id=3D"0" target=3D"_blank">Unsubscribe from all fu=
+ture emails</a>&nbsp;
+</p>
+
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end footer wrapper -->
+                                    <!-- end footer section -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                            <tr>
+                                <td></td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        <!-- end container -->
+=20=20=20=20
+<!-- end coded_template: id:4304592182 path:generated_layouts/4304592172.ht=
+ml -->
+</div></td></tr></tbody></table></div></td></tr></tbody></table></div></td>=
+</tr></tbody></table><img src=3D"http://t.hsms09.com/e1t/o/*W6nHjhX5hbG8BW4=
+Y5NFp2X0lJ40/*W7WC27y83MDfdW6VjQPX1cKkBX0/5/f18dQhb0S6DP19wT_9W652yWt56Ql6Y=
+W5w02x62BgLQdW1FNMT24D7_LWVrPC_j56fcvkW1_g5ZG5srpWYW19pKf_22NsKRW1L9wj37GMn=
+CPW5PkNwp8-t6GJW8116V47XG_s-W4zbvrN3X-xc8W8WF_D88GwkTwN9bFw6s12hh9dsqY4j03"=
+ alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"display:none!impor=
+tant;min-height:1px!important;width:1px!important;border-width:0!important;=
+margin-top:0!important;margin-bottom:0!important;margin-right:0!important;m=
+argin-left:0!important;padding-top:0!important;padding-bottom:0!important;p=
+adding-right:0!important;padding-left:0!important"><style>@media print{#_hs=
+ { background-image: url('http://t.hsms09.com/e1t/o/*W6nHjhX5hbG8BW4Y5NFp2X=
+0lJ40/*W4LFcB61YMBYPW1_GZVN6mPbyH0/5/f18dQhb0S6Hd5gn3_1W66PG6T2S0sKMW7fRRK2=
+2zGDFTW3jWN2X5PKRglVslmXx56s_NLW6VzwTx76syM_W69zcys1H99y9W6DHYrL2jvg39W2Ldj=
+Vl8kPcFBW4nvmht42KjNlW8Pw36_4wwXqRW3kszbf8hM4ZZN1CPfHtVmw9lf5B4VXz02');}} d=
+iv.OutlookMessageHeader {background-image:url('http://t.hsms09.com/e1t/o/*W=
+6nHjhX5hbG8BW4Y5NFp2X0lJ40/*VJ6tJy5DPb1XW9dBQ8C1XL5PB0/5/f18dQhb0S6Hg5gpLVy=
+W66PG6T2S0sKMW7fRRK22zGDFTW3kpB3s2p_p05N1Jjht4rPC_jVrJh2D1_g5ZGW5srpWY19pKf=
+_W22NsKR1L9wfJW60fYpW2N3DcLW51tW8G4lys-MW717YMR7gfJQSW42mR_S5FvcWjW8QXQlw6D=
+hHbxW3j76xq3LfLlW0')} table.moz-email-headers-table {background-image:url('=
+http://t.hsms09.com/e1t/o/*W6nHjhX5hbG8BW4Y5NFp2X0lJ40/*VJ6tJy5DPb1XW9dBQ8C=
+1XL5PB0/5/f18dQhb0S6Hg5gpLVyW66PG6T2S0sKMW7fRRK22zGDFTW3kpB3s2p_p05N1Jjht4r=
+PC_jVrJh2D1_g5ZGW5srpWY19pKf_W22NsKR1L9wfJW60fYpW2N3DcLW51tW8G4lys-MW717YMR=
+7gfJQSW42mR_S5FvcWjW8QXQlw6DhHbxW3j76xq3LfLlW0')} blockquote #_hs {backgrou=
+nd-image:url('http://t.hsms09.com/e1t/o/*W6nHjhX5hbG8BW4Y5NFp2X0lJ40/*VJ6tJ=
+y5DPb1XW9dBQ8C1XL5PB0/5/f18dQhb0S6Hg5gpLVyW66PG6T2S0sKMW7fRRK22zGDFTW3kpB3s=
+2p_p05N1Jjht4rPC_jVrJh2D1_g5ZGW5srpWY19pKf_W22NsKR1L9wfJW60fYpW2N3DcLW51tW8=
+G4lys-MW717YMR7gfJQSW42mR_S5FvcWjW8QXQlw6DhHbxW3j76xq3LfLlW0')} #MailContai=
+nerBody #_hs {background-image:url('http://t.hsms09.com/e1t/o/*W6nHjhX5hbG8=
+BW4Y5NFp2X0lJ40/*VJ6tJy5DPb1XW9dBQ8C1XL5PB0/5/f18dQhb0S6Hg5gpLVyW66PG6T2S0s=
+KMW7fRRK22zGDFTW3kpB3s2p_p05N1Jjht4rPC_jVrJh2D1_g5ZGW5srpWY19pKf_W22NsKR1L9=
+wfJW60fYpW2N3DcLW51tW8G4lys-MW717YMR7gfJQSW42mR_S5FvcWjW8QXQlw6DhHbxW3j76xq=
+3LfLlW0')}</style><div id=3D"_hs"></div></body></html>=
+
+------=_Part_5094598_1009144609.1481582065412--
+

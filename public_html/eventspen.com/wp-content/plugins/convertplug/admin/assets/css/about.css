@@ -1,0 +1,189 @@
+/*number font */
+@font-face {
+	font-family: 'bsf-numbers';
+	src:url( ../fonts/bsf-numbers.eot);
+	src:url( ../fonts/bsf-numbers.eot) format("embedded-opentype"),
+		url( ../fonts/bsf-numbers.ttf) format("truetype"),
+		url( ../fonts/bsf-numbers.woff) format("woff"),
+		url( ../fonts/bsf-numbers.svg) format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="bsf-numbers-"], [class*=" bsf-numbers-"] {
+	font-family: 'bsf-numbers';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.cp-wrap-content [class^="bsf-numbers-"], 
+.cp-wrap-content [class*=" bsf-numbers-"] {
+	font-weight: 600 !important;
+}
+.bsf-numbers-uni30:before {
+	content: "\30";
+}
+.bsf-numbers-uni31:before {
+	content: "\31";
+}
+.bsf-numbers-uni32:before {
+	content: "\32";
+}
+.bsf-numbers-uni33:before {
+	content: "\33";
+}
+.bsf-numbers-uni34:before {
+	content: "\34";
+}
+.bsf-numbers-uni35:before {
+	content: "\35";
+}
+.bsf-numbers-uni36:before {
+	content: "\36";
+}
+.bsf-numbers-uni37:before {
+	content: "\37";
+}
+.bsf-numbers-uni38:before {
+	content: "\38";
+}
+.bsf-numbers-uni39:before {
+	content: "\39";
+}
+
+/* cp Welcome Screen Customization */
+.cp-welcome-content {
+	padding: 50px 0;
+}
+.cp-welcome-bottom-content {
+	padding: 30px 0 30px;
+}
+.cp-wrap-left-digit {
+	width: 85px;
+	height: 85px;
+	line-height: 85px;
+	text-align: center;
+	border: 1px solid #ddd;
+	background-color: #F9F9F9;
+	border-radius: 50%;
+	float: left;
+	display: inline-block;
+	font-size: 18px;
+	position: relative;
+	top: 4px;
+}
+.cp-wrap-right-content {
+	width: calc(100% - 85px) !important;
+	padding-left: 14px !important;
+	display: inline-block !important;
+}
+.cp-wrap-right-content h3 {
+	margin: 0 0 12px;
+	font-size: 17px;
+}
+.cp-wrap-bottom-content {
+	width: calc(100% - 85px) !important;
+	padding-left: 14px !important;
+	display: inline-block !important;
+}
+p.cp-wrap-discription {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+.cp-about-header .bend-head-logo:before {
+	content: "\e600" !important;
+	font-family: 'cp' !important;
+}
+.bend .button-primary.cp-welcome-started {
+	max-width: 250px; 
+	display: block; 
+	margin: 0 auto !important;  
+	font-weight: 600 !important;
+	font-size: 20px !important;
+}
+
+/* cp Welcome Logo */
+.cp-about-header .bend-head-logo:before {
+  content: "\e600" !important;
+  font-family: 'ConvertPlug' !important;
+}
+
+/* Getting Started */
+ul.cp-started-content-list {
+	margin: 0 0 25px;
+	padding: 0;
+	display: inline-block;
+	width: 100%;
+	list-style: none;
+}
+ul.cp-started-content-list li {
+    margin: 0 0 25px;
+    padding: 0;
+    display: inline-block;
+    width: 33.33%;
+    float: left;
+    cursor: default;
+}
+ul.cp-started-content-list li:nth-child(3n+1) {
+	clear: left;
+}
+ul.cp-started-content-list li:nth-child(3n+0) {
+    clear: right;
+    margin-right: 0 !important;
+}
+.cp-started-content {
+    padding: 50px 0;
+}
+.cp-started-content-icon {
+    font-size: 28px;
+    text-align: left;
+}
+.cp-started-content-data {
+    margin: 10px 0;
+    padding: 0;
+    font-size: 13px;
+    line-height: 1.35em;
+}
+ul.cp-started-content-list li.cp-started-li-act,
+ul.cp-started-content-list li:hover > i,
+ul.cp-started-content-list li:hover > h5 {
+    color: #0094DD;
+}
+h3.cp-started-title {
+    margin: 0;
+    padding: 0;
+    font-size: 23px;
+    line-height: 1.64em;
+}
+p.cp-started-desc {
+    margin: 10px 0 45px;
+}
+.cp-started-screenshot {
+    width: 100%;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 0;
+}
+.cp-started-screenshot img {
+	max-width: 100%;
+	width: 100%;
+	display: block;
+}
+.cp-started-footer-button {
+	float: left;
+}
+.bend .button-primary.cp-started-footer-button {
+    max-width: 250px;
+    display: block;
+    margin: 0 !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+}

@@ -1,0 +1,34 @@
+Return-path: <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 17 Nov 2016 15:17:03 -0500
+Received: from mail-s56.mailgun.us ([184.173.153.56]:38646)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>)
+	id 1c7T7G-000JX5-Vc
+	for kyle@kylefisher.com; Thu, 17 Nov 2016 15:17:02 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=epicodus.com; q=dns/txt; s=mx;
+ t=1479413823; h=Content-Transfer-Encoding: Mime-Version: Content-Type:
+ Subject: From: To: Message-Id: Date: Sender;
+ bh=tr9LfRqK99b+XEceQ0RQ+4aFvKWkM7YsYYsdoiFIw8k=; b=ljVvS7dDSbIPbVNNjoPQQmMqd1j0BCwBBzQw0ss9Bakm2WEYJ/wLqLmFR2BfwOOSGU5Z3xvG
+ GYYAe61f25468NWj4DzZGna+RbGrsDG1QcomZi6us/FeR4PAEcvj3BJwRfNhUa8E2HwDiAS8
+ YIplVqKb8SWQ6sYFz0LH3rz7QeI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=epicodus.com; s=mx; q=dns;
+ h=Sender: Date: Message-Id: To: From: Subject: Content-Type:
+ Mime-Version: Content-Transfer-Encoding;
+ b=S3qX5ncnTjhZSvJEtpQLFdznmp29dnjGHVPNMv9A5F2OMZB78p2if41mow8WcJ4t8oyQwR
+ Rpl4gv5a5bnMFLwOZWTlWhGfs2EvaHnAI7hjlEydWJagbRWzMEBrkErmErqRJHV7QRVQWLBB
+ J/QeONwSNn9zxEB5JlUfUtfWPj5Y8=
+Sender: no-reply@epicodus.com
+Date: Thu, 17 Nov 2016 20:17:03 +0000
+X-Mailgun-Sending-Ip: 184.173.153.56
+X-Mailgun-Sid: WyI4ZmIxZiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgImUxZTk1Il0=
+Received: by luna.mailgun.net with HTTP; Thu, 17 Nov 2016 20:17:03 +0000
+Message-Id: <20161117201703.13588.65373.3605CB22@epicodus.com>
+To: kyle@kylefisher.com
+From: no-reply@epicodus.com
+Subject: Code review reviewed
+Content-Type: text/plain; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi Kyle Fisher. Your Ember JS code has been reviewed. You can view it at https://epicenter.epicodus.com/courses/85/code_reviews/489.

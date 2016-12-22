@@ -1,0 +1,3292 @@
+Return-path: <CostcoB2C_15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE@online.costco.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Fri, 18 Nov 2016 18:51:25 -0500
+Received: from mta02v26.online.costco.com ([173.226.200.73]:41967)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <CostcoB2C_15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE@online.costco.com>)
+	id 1c7swG-000sE0-Or
+	for kyle@kylefisher.com; Fri, 18 Nov 2016 18:51:25 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=online.costco.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; i=Costco@online.costco.com;
+ bh=JA44b+qgh4zYmUGyGZ4sVmBYPKc=;
+ b=KXVPAikZUdV0TFZ6Qr7xmiiDorP3HtYx8hBHjGZ57pWEIneGmY4Wb0QsKhLOACuWPQY8oUxqWo64
+   +k//nV7+7OftKgV9wJiF4VlelANWXVP3Ynv0fSQeK4GKT+abf/Ls6zDasIWX+LJlkMD1tNMeQSs7
+   dF3uBq0RGLlGVoA/iQY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=online.costco.com;
+ b=i22fGqHFKre+W+T/mL7cywyfBwcA6RhYU4wbTGbZVwvM+DxYb5FHg6edahUGzTVEONavWtbWlAsj
+   qZRPWjDDhAt9V+i29HLAFdPy8fiPCYK5aTxnaUBQtgYJS8uwcaCFYvFaML4s6IG0F2vr+tDI/kYL
+   dNmsto6/SfiiMEUWCJw=;
+Received: from ccrbt4.costco.whatcounts.com (172.20.0.201) by mta02v26.online.costco.com id h5u9vq1v0hkt for <kyle@kylefisher.com>; Fri, 18 Nov 2016 15:51:24 -0800 (envelope-from <CostcoB2C_15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE@online.costco.com>)
+Date: Fri, 18 Nov 2016 15:51:23 -0800
+From: Costco Wholesale <Costco@online.costco.com>
+Reply-To: CostcoB2C_15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE@online.costco.com
+To: kyle@kylefisher.com
+Message-ID: <15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE-72e4e87376834ea4aca4c2ecf348f760@online.costco.com>
+Subject: New DEALS Start Today! 'Tis the Season for Costco-Sized Savings!
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: WhatCounts
+ENVID: WC-1479513083442-15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE-72e4e87376834ea4aca4c2ecf348f760
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+<meta name=3D"format-detection" content=3D"telephone=3Dno" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ maximum-scale=3D1, user-scalable=3D0" />
+<title></title>
+<style>
+body {=09-webkit-text-size-adjust: 100%;=09-ms-text-size-adjust: 100%;=09ma=
+rgin: 0 !important;=09padding: 0 !important;}
+p {=09margin: .5em 0;}
+.ExternalClass {=09width: 100%;}
+.ExternalClass * {=09line-height: 110%;}
+table td {=09border-collapse: collapse;}
+img {=09outline: none;=09text-decoration: none;}
+a img {=09border: none;}
+ @-ms-viewport {width: device-width;}
+a:link, a:visited, a:active, a:hover {=09color: #0060a9;}
+
+=09
+ @media only screen and (max-width: 480px) {
+.img-responsive {width: 100% !important;}
+.wrapper {=09width: 100% !important;}
+.td-hero {=09padding: 0px !important;}
+.td-logo {=09border-bottom: 0px !important;}
+.row-mobile {=09width: 338px !important;}
+.hide-mobile {=09display: none !important;}
+.banner-mobile {=09width: 328px !important;}
+.rfp-container {width: 100% !important; border: 0px !important;}
+=09.rfp-big-image {width: 100% !important;}
+=09.ftr-item {width: 43% !important; margin: 5px !important; padding: 5px !=
+important; font-size: 12px !important; line-height: 14px !important;  paddi=
+ng-bottom:0px;;}
+=09.ftr-item-dw {width: 90% !important; margin: 5px !important; padding: 5p=
+x !important; font-size: 12px !important; line-height: 14px !important;  pa=
+dding-bottom:0px;;}
+=09.row {width: 100% !important;}
+=09.rfp-hide {display: none;}
+=09.item-price {font-size: 14px !important; line-height: 16px !important;}
+=09.item-shipping {font-size: 10px !important; line-height: 12px !important=
+;}
+=09.item-currency {vertical-align:baseline !important; font-size: 14px !imp=
+ortant;}
+=09.padding-mobile {  padding: 10px 10px 10px 10px !important;}
+=09}
+
+=09@media only screen and (max-width: 375px) {
+=09.ftr-item {width: 40% !important;  margin: 5px !important; padding: 8px;=
+ padding-bottom:0px; !important;}
+=09.padding-mobile {  padding: 10px 10px 10px 10px !important;
+}
+=09}
+
+</style>
+</head>
+
+<body style=3D"background: #efefef; color: #000000; font-family: 'Helvetica=
+ Neue', Arial, Helvetica, sans-serif; font-size: 14px; margin: 0px; padding=
+: 0px; -webkit-text-size-adjust: none;" alink=3D"#0060a9" link=3D"#0060a9" =
+bgcolor=3D"#efefef" text=3D"#333333">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgco=
+lor=3D"#eff7fb" style=3D"table-layout: fixed;">
+  <tr><td valign=3D"top">
+ =20
+  <div align=3D"center">
+ =20
+        <table border=3D"0" class=3D"wrapper" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"716" bgcolor=3D"#ffffff">
+          <tr><td bgcolor=3D"#ffffff" align=3D"center" valign=3D"top">
+         =20
+                  <table border=3D"0" class=3D"wrapper" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"676" bgcolor=3D"#ffffff">
+          <tr><td bgcolor=3D"#ffffff" align=3D"center" valign=3D"top">
+         =20
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+                <tr><td bgcolor=3D"#ffffff" align=3D"center" valign=3D"top"=
+ style=3D"font-family: Arial, sans-serif; font-size: 11px; color: #737474; =
+padding: 10px 10px 10px 10px;"><a href=3D"http://click.online.costco.com/t?=
+r=3D2&c=3D106240&l=3D16565&ctl=3D4AB797:15EFD509F925856E2E959BF6D64C0FE74BA=
+D797B5EF9BCDE&"   style=3D"color: #737474; text-decoration:underline">Black=
+ Friday Offers</a>  |=20
+          <a href=3D"http://click.online.costco.com/dm?id=3D15EFD509F925856=
+E2E959BF6D64C0FE74BAD797B5EF9BCDE"   style=3D"color: #737474; text-decorati=
+on:underline">View this email with images.</a> </td></tr>
+              </table></td></tr>
+             =20
+          <tr><td bgcolor=3D"#ffffff" align=3D"center" valign=3D"top">
+         =20
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+                <tr><td class=3D"td-logo" bgcolor=3D"#ffffff" align=3D"cent=
+er" valign=3D"top" style=3D"padding: 8px 10px 8px 10px; border-top: 1px sol=
+id #d6d6d6; border-bottom: 1px solid #d6d6d6; ">
+                <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D10624=
+0&l=3D16565&ctl=3D4AB798:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&"=
+><img src=3D"http://www.costco.com/wcsstore/CostcoUSBCCatalogAssetStore/ema=
+il/costco-em-toplogo.gif" alt=3D"Costco.com" style=3D"width: 134px; border:=
+ 0px; display: block; margin:auto;" /></a></td></tr>
+              </table></td></tr>
+             =20
+
+            =20
+          <!-- HERO-->
+          <tr><td class=3D"padding-mobile row-mobile" align=3D"center" vali=
+gn=3D"top" bgcolor=3D"#ffffff" style=3D"padding-top: 20px;" width=3D"676">
+          <div style=3D"padding: 0px; margin:0px;">=20
+          <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.c=
+om/staging/resource/img/email-w2-2016/17w0256-black-friday-email-header.jpg=
+" alt=3D"Black Friday Offers" width=3D"676" style=3D"display:block;" border=
+=3D"0" /> </div>
+         =20
+         =20
+          <div style=3D"padding-top:10px;">
+          <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D=
+16565&ctl=3D4AB799:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&">
+              <div style=3D"padding: 0px; margin:0px;">
+                <div style=3D"padding: 0px; margin:0px; float: left;"><img =
+class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/staging/reso=
+urce/img/11-14-16/em-b2c-161114-banner4a-express.jpg" alt=3D"Use Express Ch=
+eckout" width=3D"338" style=3D"display:block;" border=3D"0" /></div>
+                <div style=3D"padding: 0px; margin:0px; float: left;"><img =
+class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/staging/reso=
+urce/img/11-14-16/em-b2c-161114-banner4b-express.jpg" alt=3D"" width=3D"338=
+" style=3D"display:block;" border=3D"0" /></div>
+              </div>
+              </a>
+          </div>
+          </td></tr>
+          <!-- end-->
+         =20
+ =20
+                   =20
+              <tr><td align=3D"center"  valign=3D"top" bgcolor=3D"#ffffff" =
+style=3D"padding-top: 20px;">
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+                <tr><td valign=3D"top" class=3D"row-mobile" width=3D"676" a=
+lign=3D"center">
+               =20
+
+               =20
+               =20
+           =20
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB79A:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9750641-847__1&recipeName=3D350" alt=3D"Samsung 75-inch Class 4K Ult=
+ra HD Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display: block=
+; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 75" Class 4K Ultra HD Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $1,999.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB79B:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9700630-847__1&recipeName=3D350" alt=3D"Samsung 70-inch Class 4K Ult=
+ra HD Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display: block=
+; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 70" Class 4K Ultra HD Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $1,249.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB79C:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9650650-847__1&recipeName=3D350" alt=3D"Samsung 65-inch Class Curved=
+ 4K Ultra HD Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display=
+: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 65" Class Curved 4K Ultra HD Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $949.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB79D:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9550650-847__1&recipeName=3D350" alt=3D"Samsung 55-inch Class Curved=
+ 4K Ultra HD Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display=
+: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 55" Class Curved 4K Ultra HD Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $649.99 <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB79E:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9500017-847__1&recipeName=3D350" alt=3D"VIZIO 50-inch Class 4K Ultra=
+ HD LED LCD Home Theater Display" width=3D"149" style=3D"width: 149px; disp=
+lay: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    VIZIO 50" Class 4K Ultra HD LED LCD Home Theater Display<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $389.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB79F:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D7444370-847__1&recipeName=3D350" alt=3D"VIZIO 70-inch Class 4K Ultra=
+ HD LED LCD Home Theater Display with Dolby Vision High Dynamic Range" widt=
+h=3D"149" style=3D"width: 149px; display: block; border:1px solid #cccccc; =
+margin-bottom: 10px;" /></a>
+    VIZIO 70" Class 4K Ultra HD LED LCD Home Theater Display with Dolby Vis=
+ion High Dynamic Range<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $1,649.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A0:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9650001-847__1&recipeName=3D350" alt=3D"VIZIO 65-inch Class 4K Ultra=
+ HD LED LCD Home Theater Display with Dolby Vision High Dynamic Range" widt=
+h=3D"149" style=3D"width: 149px; display: block; border:1px solid #cccccc; =
+margin-bottom: 10px;" /></a>
+    VIZIO 65" Class 4K Ultra HD LED LCD Home Theater Display with Dolby Vis=
+ion High Dynamic Range<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $999.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A1:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1114051-847__1&recipeName=3D350" alt=3D"Vizio SB4051-D5 40-inch 5.1 =
+Channel SmartCast Soundbar System" width=3D"149" style=3D"width: 149px; dis=
+play: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Vizio SB4051-D5 40" 5.1 Channel SmartCast Soundbar System<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $279.99 After $100 OFF <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A2:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9700017-847__1&recipeName=3D350" alt=3D"VIZIO 70-inch Class 4K Ultra=
+ HD LED LCD Home Theater Display" width=3D"149" style=3D"width: 149px; disp=
+lay: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    VIZIO 70" Class 4K Ultra HD LED LCD Home Theater Display<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $927.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A3:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9650017-847__1&recipeName=3D350" alt=3D"VIZIO 65-inch Class 4K Ultra=
+ HD LED LCD Home Theater Display" width=3D"149" style=3D"width: 149px; disp=
+lay: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    VIZIO 65" Class 4K Ultra HD LED LCD Home Theater Display<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $689.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A4:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9600001-847__1&recipeName=3D350" alt=3D"VIZIO 60-inch Class 4K Ultra=
+ HD LED LCD Home Theater Display with Dolby Vision High Dynamic Range" widt=
+h=3D"149" style=3D"width: 149px; display: block; border:1px solid #cccccc; =
+margin-bottom: 10px;" /></a>
+    VIZIO 60" Class 4K Ultra HD LED LCD Home Theater Display with Dolby Vis=
+ion High Dynamic Range<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $749.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A5:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9550017-847__1&recipeName=3D350" alt=3D"VIZIO 55-inch Class 4K Ultra=
+ HD LED LCD Home Theater Display" width=3D"149" style=3D"width: 149px; disp=
+lay: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    VIZIO 55" Class 4K Ultra HD LED LCD Home Theater Display<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $459.99 <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A6:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9650615-847__1&recipeName=3D350" alt=3D"LG 65-inch Class 4K Ultra HD=
+ LED LCD TV" width=3D"149" style=3D"width: 149px; display: block; border:1p=
+x solid #cccccc; margin-bottom: 10px;" /></a>
+    LG 65" Class 4K Ultra HD LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $779.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A7:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-sanus=
+.jpg" alt=3D"SANUS Simplicity Flat-Panel TV Wall Mounts" width=3D"149" styl=
+e=3D"width: 149px; display: block; border:1px solid #cccccc; margin-bottom:=
+ 10px;" /></a>
+    SANUS Simplicity Flat-Panel TV Wall Mounts<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $20 - $35 OFF <br>Free Shipping
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A8:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9490610-847__1&recipeName=3D350" alt=3D"LG 49-inch Class 4K Ultra HD=
+ LED LCD TV" width=3D"149" style=3D"width: 149px; display: block; border:1p=
+x solid #cccccc; margin-bottom: 10px;" /></a>
+    LG 49" Class 4K Ultra HD LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $389.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7A9:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9400629-847__1&recipeName=3D350" alt=3D"Samsung 40-inch Class 4K Ult=
+ra HD Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display: block=
+; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 40" Class 4K Ultra HD Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $289.99 <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7AA:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9600630-847__1&recipeName=3D350" alt=3D"Samsung 60-inch Class 4K Ult=
+ra HD Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display: block=
+; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 60" Class 4K Ultra HD Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $679.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7AB:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9550630-847__1&recipeName=3D350" alt=3D"Samsung 55-inch Class 4K Ult=
+ra HD Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display: block=
+; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 55" Class 4K Ultra HD Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $549.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7AC:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D999057-847__1&recipeName=3D350" alt=3D"Samsung Wi-Fi Blu-ray Player"=
+ width=3D"149" style=3D"width: 149px; display: block; border:1px solid #ccc=
+ccc; margin-bottom: 10px;" /></a>
+    Samsung Wi-Fi Blu-ray Player<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $44.99 After $35 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7AD:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9400520-847__1&recipeName=3D350" alt=3D"Samsung 40-inch Class 1080p =
+Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display: block; bord=
+er:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 40" Class 1080p Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $239.99 <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7AE:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1070045-847__1&recipeName=3D350" alt=3D"Samsung Sound Bar with Wirel=
+ess Subwoofer" width=3D"149" style=3D"width: 149px; display: block; border:=
+1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung Sound Bar with Wireless Subwoofer<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $139.99 After $110 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7AF:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1118585-847__1&recipeName=3D350" alt=3D"Samsung 4K Ultra HD Blu-ray =
+Player" width=3D"149" style=3D"width: 149px; display: block; border:1px sol=
+id #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 4K Ultra HD Blu-ray Player<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $189.99 After $110 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B0:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1080061-847__1&recipeName=3D350" alt=3D"Samsung 10.1-inch Tab A with=
+ Bonus 32GB MicroSD Card" width=3D"149" style=3D"width: 149px; display: blo=
+ck; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 10.1" Tab A with Bonus 32GB MicroSD Card<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $189.99 Delivered <br>
+        After $100 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B1:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D481408-847__1&recipeName=3D350" alt=3D"Samsung 8-inch Tab A with Bon=
+us Protective Sleeve" width=3D"149" style=3D"width: 149px; display: block; =
+border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 8" Tab A with Bonus Protective Sleeve<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $119.99 After $70 OFF <br>
+        Plus S & H    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B2:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9650850-847__1&recipeName=3D350" alt=3D"Samsung 65-inch Class Curved=
+ 4K SUHD Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display: bl=
+ock; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 65" Class Curved 4K SUHD Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $1,579.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B3:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D9490650-847__1&recipeName=3D350" alt=3D"Samsung 49-inch Class Curved=
+ 4K Ultra HD Smart LED LCD TV" width=3D"149" style=3D"width: 149px; display=
+: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Samsung 49" Class Curved 4K Ultra HD Smart LED LCD TV<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $529.99 <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B4:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1084551-847__1&recipeName=3D350" alt=3D"Vizio SB4551-D5 45-inch 5.1 =
+Channel SmartCast Soundbar System" width=3D"149" style=3D"width: 149px; dis=
+play: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Vizio SB4551-D5 45" 5.1 Channel SmartCast Soundbar System<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $299.99 After $100 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B5:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1053847-847__1&recipeName=3D350" alt=3D"Q-See 8-Channel HD Analog DV=
+R Security System" width=3D"149" style=3D"width: 149px; display: block; bor=
+der:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Q-See 8-Channel HD Analog DVR Security System<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $299.99 Delivered <br>
+        After $100 OFF    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"340" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B6:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1104222-847__1&recipeName=3D350" alt=3D"LG Bluetooth Portable 50 Wat=
+t Speaker with Handle and Wheels" width=3D"149" style=3D"width: 149px; disp=
+lay: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    LG Bluetooth Portable 50 Watt Speaker with Handle and Wheels<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $99.99 After $30 OFF <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+   =20
+           =20
+    <td height=3D"340" valign=3D"top" class=3D"ftr-item" align=3D"left" sty=
+le=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: le=
+ft; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size:=
+ 14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B7:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1100934-847__1&recipeName=3D350" alt=3D"HP Pavilion 15t 15.6-inch 10=
+80p Touchscreen Laptop" width=3D"149" style=3D"width: 149px; display: block=
+; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    HP Pavilion 15t 15.6" 1080p Touchscreen Laptop<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">7th generation In=
+tel Core i7 processor.</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $599.99 After $400 OFF <br>
+        Plus S & H    </span>
+    </div>
+    </td>
+   =20
+           =20
+    <td height=3D"340" valign=3D"top" class=3D"ftr-item" align=3D"left" sty=
+le=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: le=
+ft; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size:=
+ 14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B8:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1100936-847__1&recipeName=3D350" alt=3D"HP ENVY 17t 17.3-inch 1080p =
+Laptop" width=3D"149" style=3D"width: 149px; display: block; border:1px sol=
+id #cccccc; margin-bottom: 10px;" /></a>
+    HP ENVY 17t 17.3" 1080p Laptop<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">7th generation In=
+tel Core i7 processor and 4GB NVIDIA graphics.</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $699.99 After $400 OFF <br>
+        Plus S & H    </span>
+    </div>
+    </td>
+   =20
+           =20
+  <td height=3D"340" valign=3D"top" class=3D"ftr-item" align=3D"left" style=
+=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: left=
+; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 1=
+4px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7B9:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1100937-847__1&recipeName=3D350" alt=3D"HP ENVY x360 13t 13.3-inch Q=
+HD+ Touchscreen Windows 10 Professional 2-in-1 Laptop" width=3D"149" style=
+=3D"width: 149px; display: block; border:1px solid #cccccc; margin-bottom: =
+10px;" /></a>
+    HP ENVY x360 13t 13.3" QHD+ Touchscreen Windows 10 Professional 2-in-1 =
+Laptop<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">7th generation In=
+tel Core i7 processor and Office 365 Personal (1-yr).</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $1,199.99 After $300 OFF <br>
+        Plus S & H    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7BA:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1100944-847__1&recipeName=3D350" alt=3D"HP ENVY 750-467c Windows 10 =
+Professional Desktop" width=3D"149" style=3D"width: 149px; display: block; =
+border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    HP ENVY 750-467c Windows 10 Professional Desktop<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">Intel Core i7 pro=
+cessor and 4GB NVIDIA graphics.</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $749.99 After $250 OFF <br>
+        Plus S & H    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7BB:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1082543-847__1&recipeName=3D350" alt=3D"Microsoft Surface Pro 4 Bund=
+le" width=3D"149" style=3D"width: 149px; display: block; border:1px solid #=
+cccccc; margin-bottom: 10px;" /></a>
+    Microsoft Surface Pro 4 Bundle<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">Intel Core i7 Pro=
+cessor, Surface Pro 4 Type Cover, Surface Pen and Office 365 Personal (1-ye=
+ar).</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $200 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7BC:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1098391-847__1&recipeName=3D350" alt=3D"Lenovo Flex 4 15.6-inch 1080=
+p Touchscreen 2-in-1 Laptop" width=3D"149" style=3D"width: 149px; display: =
+block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Lenovo Flex 4 15.6" 1080p Touchscreen 2-in-1 Laptop<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">7th generation In=
+tel Core i7 processor.</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $699.99 After $250 OFF <br>
+        Plus S & H    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7BD:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1094104-847__1&recipeName=3D350" alt=3D"HP ENVY 15t 15.6-inch 1080p =
+Touchscreen Laptop" width=3D"149" style=3D"width: 149px; display: block; bo=
+rder:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    HP ENVY 15t 15.6" 1080p Touchscreen Laptop<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">7th generation In=
+tel Core i7 processor.</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $699.99 After $200 OFF <br>
+        Plus S & H    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7BE:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1070940-847__1&recipeName=3D350" alt=3D"Dell XPS 8900 Windows 10 Pro=
+fessional Desktop" width=3D"149" style=3D"width: 149px; display: block; bor=
+der:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Dell XPS 8900 Windows 10 Professional Desktop<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">Intel Core i7 pro=
+cessor and 4GB NVIDIA graphics.</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $799.99 After $200 OFF <br>
+        Plus S & H    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7BF:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1094100-847__1&recipeName=3D350" alt=3D"Acer Spin 3 15.6-inch 1080p =
+Touchscreen 2-in-1 Laptop" width=3D"149" style=3D"width: 149px; display: bl=
+ock; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Acer Spin 3 15.6" 1080p Touchscreen 2-in-1 Laptop<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">Intel Core i7 pro=
+cessor.</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $599.99 Delivered <br>
+        After $100 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C0:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1094093-847__1&recipeName=3D350" alt=3D"HP ENVY x360 13-y013cl 13.3-=
+inch QHD+ Touchscreen 2-in-1 Laptop" width=3D"149" style=3D"width: 149px; d=
+isplay: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    HP ENVY x360 13-y013cl 13.3" QHD+ Touchscreen 2-in-1 Laptop<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;">7th generation In=
+tel Core i7 processor.</span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $999.99 Delivered <br>
+        After $200 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C1:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1020891-847__1&recipeName=3D350" alt=3D"Night Owl 8-Channel, 4-Camer=
+a Video Security System" width=3D"149" style=3D"width: 149px; display: bloc=
+k; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Night Owl 8-Channel, 4-Camera Video Security System<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $249.99 After $50 OFF<br />Free Shipping</span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C2:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-phone=
+.jpg" alt=3D"Buy a Samsung GS7 as New or Upgrade Activation on Device Payme=
+nt Plan and Receive a" width=3D"149" style=3D"width: 149px; display: block;=
+ border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Buy a Samsung GS7 as New or Upgrade Activation on Device Payment Plan a=
+nd Receive a<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $200 Costco Cash Card and Scosche Magic Mount 2-Pack <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C3:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1750766-847__1&recipeName=3D350" alt=3D"Lithium Jump Starter and Por=
+table Power Supply" width=3D"149" style=3D"width: 149px; display: block; bo=
+rder:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Lithium Jump Starter and Portable Power Supply<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $49.99 After $10 OFF<br>Plus S & H
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C4:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1040444-847__1&recipeName=3D350" alt=3D"Plantronics BackBeat Fit Blu=
+etooth Sport Headphones" width=3D"149" style=3D"width: 149px; display: bloc=
+k; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Plantronics BackBeat Fit Bluetooth Sport Headphones<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $20 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C5:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D998770-847__1&recipeName=3D350" alt=3D"Sony Bluetooth Noise-Cancelin=
+g Headphones" width=3D"149" style=3D"width: 149px; display: block; border:1=
+px solid #cccccc; margin-bottom: 10px;" /></a>
+    Sony Bluetooth Noise-Canceling Headphones<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $99.99 After $50 OFF <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C6:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D8900123-847__1&recipeName=3D350" alt=3D"Acu-Rite Weather Station" wi=
+dth=3D"149" style=3D"width: 149px; display: block; border:1px solid #cccccc=
+; margin-bottom: 10px;" /></a>
+    Acu-Rite Weather Station<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $59.99 After $20 OFF <br>
+        Plus S & H    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C7:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1070457-847__1&recipeName=3D350" alt=3D"Seagate 2TB Portable Hard Dr=
+ive" width=3D"149" style=3D"width: 149px; display: block; border:1px solid =
+#cccccc; margin-bottom: 10px;" /></a>
+    Seagate 2TB Portable Hard Drive<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $74.99 Delivered <br>
+        After $10 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C8:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D121-847__1&recipeName=3D350" alt=3D"Google Play $50 Gift Card" width=
+=3D"149" style=3D"width: 149px; display: block; border:1px solid #cccccc; m=
+argin-bottom: 10px;" /></a>
+    Google Play $50 Gift Card<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $41.99 After $5 OFF<br>Free Shipping
+          </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7C9:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1095467-847__1&recipeName=3D350" alt=3D"Iridium 10,000 mAh Power Ban=
+k with High Speed Charging Station" width=3D"149" style=3D"width: 149px; di=
+splay: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Iridium 10,000 mAh Power Bank with High Speed Charging Station<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $39.99 After $8 OFF <br>Plus S & H
+       </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7CA:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D725197-847__1&recipeName=3D350" alt=3D"Garmin nuviCam LMTHD 6-inch T=
+ouchscreen GPS with Built-in Dash Cam" width=3D"149" style=3D"width: 149px;=
+ display: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Garmin nuviCam LMTHD 6" Touchscreen GPS with Built-in Dash Cam<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $249.99 Delivered <br>
+        After $50 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7CB:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1118888-847__1&recipeName=3D350" alt=3D"ION Flash Tailgater Bluetoot=
+h Portable Speaker" width=3D"149" style=3D"width: 149px; display: block; bo=
+rder:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    ION Flash Tailgater Bluetooth Portable Speaker<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $89.99 After $30 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7CC:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D998621-847__1&recipeName=3D350" alt=3D"Battery Tender 3.0 AMP Batter=
+y Charger and Maintainer" width=3D"149" style=3D"width: 149px; display: blo=
+ck; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Battery Tender 3.0 AMP Battery Charger and Maintainer<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $29.99 Delivered <br>
+        After $10 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7CD:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D457140-847__1&recipeName=3D350" alt=3D"NeatConnect Plus Wireless Clo=
+ud Scanner and Smart Organization System with Bonus 1 Year NeatCloud" width=
+=3D"149" style=3D"width: 149px; display: block; border:1px solid #cccccc; m=
+argin-bottom: 10px;" /></a>
+    NeatConnect Plus Wireless Cloud Scanner and Smart Organization System w=
+ith Bonus 1 Year NeatCloud<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+  =20
+         $150 OFF    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7CE:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D880034-847__1&recipeName=3D350" alt=3D"Escort Passport 9500IX Radar =
+Detector with Second Car Kit" width=3D"149" style=3D"width: 149px; display:=
+ block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Escort Passport 9500IX Radar Detector with Second Car Kit<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $299.99 Delivered <br>
+        After $100 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7CF:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100281782-847__1&recipeName=3D350" alt=3D"32 Degrees Ladies' Sherpa =
+Lined Fleece Jacket" width=3D"149" style=3D"width: 149px; display: block; b=
+order:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    32 Degrees Ladies' Sherpa Lined Fleece Jacket<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $11.99 After $3 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D0:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100177897-847__1&recipeName=3D350" alt=3D"32 Degrees Men's Fleece Ja=
+cket" width=3D"149" style=3D"width: 149px; display: block; border:1px solid=
+ #cccccc; margin-bottom: 10px;" /></a>
+    32 Degrees Men's Fleece Jacket<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $12.99 After $4 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D1:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100280663-847__1&recipeName=3D350" alt=3D"Nautica Ladies' 2-Piece Pa=
+jama Set" width=3D"149" style=3D"width: 149px; display: block; border:1px s=
+olid #cccccc; margin-bottom: 10px;" /></a>
+    Nautica Ladies' 2-Piece Pajama Set<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $4 OFF <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D2:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100282045-847__1&recipeName=3D350" alt=3D"Tommy Bahama Men's 2-Piece=
+ Lounge Set" width=3D"149" style=3D"width: 149px; display: block; border:1p=
+x solid #cccccc; margin-bottom: 10px;" /></a>
+    Tommy Bahama Men's 2-Piece Lounge Set<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $15.99 After $4 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D3:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-pant.=
+jpg" alt=3D"Marc New York Ladies=E2=80=99 Tight" width=3D"149" style=3D"wid=
+th: 149px; display: block; border:1px solid #cccccc; margin-bottom: 10px;" =
+/></a>
+    Marc New York Ladies=E2=80=99 Tight<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $4 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D4:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100128383-847__1&recipeName=3D350" alt=3D"Puma Men=E2=80=99s Fleece =
+Pant" width=3D"149" style=3D"width: 149px; display: block; border:1px solid=
+ #cccccc; margin-bottom: 10px;" /></a>
+    Puma Men=E2=80=99s Fleece Pant<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $4 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D5:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100281525-847__1&recipeName=3D350" alt=3D"Hilary Radley Ladies' Pont=
+e Pant" width=3D"149" style=3D"width: 149px; display: block; border:1px sol=
+id #cccccc; margin-bottom: 10px;" /></a>
+    Hilary Radley Ladies' Ponte Pant<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $13.99 After $3 OFF <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D6:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100241004-847__1&recipeName=3D350" alt=3D"Buffalo Men's Jean" width=
+=3D"149" style=3D"width: 149px; display: block; border:1px solid #cccccc; m=
+argin-bottom: 10px;" /></a>
+    Buffalo Men's Jean<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $5 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D7:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100110763-847__1&recipeName=3D350" alt=3D"Weatherproof Vintage Men's=
+ Berber Hoodie" width=3D"149" style=3D"width: 149px; display: block; border=
+:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Weatherproof Vintage Men's Berber Hoodie<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $15.99 After $4 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D8:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100280668-847__1&recipeName=3D350" alt=3D"Freedom Foundry Men's Supe=
+r Plush Shirt" width=3D"149" style=3D"width: 149px; display: block; border:=
+1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Freedom Foundry Men's Super Plush Shirt<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $11.99 After $3 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7D9:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100281685-847__1&recipeName=3D350" alt=3D"Felina Ladies=E2=80=99 Dra=
+wstring Lounge Pant" width=3D"149" style=3D"width: 149px; display: block; b=
+order:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Felina Ladies=E2=80=99 Drawstring Lounge Pant<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $9.99 After $3 OFF <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7DA:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-calvi=
+n.jpg" alt=3D"Calvin Klein Ladies' Bikini or Men's Stretch Boxer Brief 3-Pa=
+ck" width=3D"149" style=3D"width: 149px; display: block; border:1px solid #=
+cccccc; margin-bottom: 10px;" /></a>
+    Calvin Klein Ladies' Bikini or Men's Stretch Boxer Brief 3-Pack<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $3 OFF <br>Free Shipping
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7DB:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100278219-847__1&recipeName=3D350" alt=3D"DKNY Ladies' 3 Pair Boot S=
+ock" width=3D"149" style=3D"width: 149px; display: block; border:1px solid =
+#cccccc; margin-bottom: 10px;" /></a>
+    DKNY Ladies' 3 Pair Boot Sock<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $7.99 After $2 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7DC:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-degre=
+e.jpg" alt=3D"32 Degrees Men's or Ladies' Base Layer Pant" width=3D"149" st=
+yle=3D"width: 149px; display: block; border:1px solid #cccccc; margin-botto=
+m: 10px;" /></a>
+    32 Degrees Men's or Ladies' Base Layer Pant<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $6.99 After $2 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7DD:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-slipp=
+er.jpg" alt=3D"Dearfoams Ladies' Bootie Slipper" width=3D"149" style=3D"wid=
+th: 149px; display: block; border:1px solid #cccccc; margin-bottom: 10px;" =
+/></a>
+    Dearfoams Ladies' Bootie Slipper<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $9.99 After $3 OFF <br>
+        Free Shipping    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7DE:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100282607-847__1&recipeName=3D350" alt=3D"Dearfoams Men's Slipper" w=
+idth=3D"149" style=3D"width: 149px; display: block; border:1px solid #ccccc=
+c; margin-bottom: 10px;" /></a>
+    Dearfoams Men's Slipper<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $7.99 After $2 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7DF:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-ponch=
+o.jpg" alt=3D"32 Degrees Ladies=E2=80=99 Cozy Fleece Turtleneck Poncho" wid=
+th=3D"149" style=3D"width: 149px; display: block; border:1px solid #cccccc;=
+ margin-bottom: 10px;" /></a>
+    32 Degrees Ladies=E2=80=99 Cozy Fleece Turtleneck Poncho<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $14.99 After $5 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E0:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100289979-847__1&recipeName=3D350" alt=3D"32 Degrees Men's Packable =
+Down Jacket" width=3D"149" style=3D"width: 149px; display: block; border:1p=
+x solid #cccccc; margin-bottom: 10px;" /></a>
+    32 Degrees Men's Packable Down Jacket<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $19.99 After $5 OFF <br>
+        Free Shipping    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E1:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-pjs.j=
+pg" alt=3D"Kids=E2=80=99 Assorted Character 2-Piece Pajama Set" width=3D"14=
+9" style=3D"width: 149px; display: block; border:1px solid #cccccc; margin-=
+bottom: 10px;" /></a>
+    Kids=E2=80=99 Assorted Character 2-Piece Pajama Set<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $7.99 After $2 OFF  <br>Free Shipping
+          </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E2:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1085609-847__1&recipeName=3D350" alt=3D"Round Brilliant 1.50 ctw Dia=
+mond Inside Outside Hoop Earrings, 14kt White Gold, VS2 Clarity, I Color" w=
+idth=3D"149" style=3D"width: 149px; display: block; border:1px solid #ccccc=
+c; margin-bottom: 10px;" /></a>
+    Round Brilliant 1.50 ctw Diamond Inside Outside Hoop Earrings, 14kt Whi=
+te Gold, VS2 Clarity, I Color<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $1,299.99 Delivered <br>
+        After $250 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E3:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1080790-847__1&recipeName=3D350" alt=3D"Round Brilliant 1.20 ctw Dia=
+mond Drop Earrings, 14kt White Gold, VS2 Clarity, I Color" width=3D"149" st=
+yle=3D"width: 149px; display: block; border:1px solid #cccccc; margin-botto=
+m: 10px;" /></a>
+    Round Brilliant 1.20 ctw Diamond Drop Earrings, 14kt White Gold, VS2 Cl=
+arity, I Color<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $2,999.99 Delivered <br>
+        After $400 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E4:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D919182-847__1&recipeName=3D350" alt=3D"Round Brilliant 8.00 ctw Diam=
+ond Bracelet, 14kt White Gold, VS2 Clarity, I Color" width=3D"149" style=3D=
+"width: 149px; display: block; border:1px solid #cccccc; margin-bottom: 10p=
+x;" /></a>
+    Round Brilliant 8.00 ctw Diamond Bracelet, 14kt White Gold, VS2 Clarity=
+, I Color<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $8,999.99 Delivered <br>
+        After $1,000 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E5:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1069361-847__1&recipeName=3D350" alt=3D"Jura J80 Espresso Machine" w=
+idth=3D"149" style=3D"width: 149px; display: block; border:1px solid #ccccc=
+c; margin-bottom: 10px;" /></a>
+    Jura J80 Espresso Machine<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $1,999.99 Delivered <br>
+        After $400 OFF    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E6:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1069708-847__4&recipeName=3D350" alt=3D"Osaki Zero Gravity OS-4000CS=
+ Massage Chair" width=3D"149" style=3D"width: 149px; display: block; border=
+:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Osaki Zero Gravity OS-4000CS Massage Chair<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $2,399.99 Delivered <br>
+        After $600 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E7:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100236544-847__1&recipeName=3D350" alt=3D"ProForm Sport 6.0 Treadmil=
+l" width=3D"149" style=3D"width: 149px; display: block; border:1px solid #c=
+ccccc; margin-bottom: 10px;" /></a>
+    ProForm Sport 6.0 Treadmill<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $599.99 Delivered <br>
+        After $300 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E8:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D920795-847__1&recipeName=3D350" alt=3D"Vitamix 7500 Blender Super Pa=
+ckage with 2/20-Ounce To-Go Cups" width=3D"149" style=3D"width: 149px; disp=
+lay: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Vitamix 7500 Blender Super Package with 2/20-Ounce To-Go Cups<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $60 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7E9:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1881975-847__1&recipeName=3D350" alt=3D"Keurig K525C Single Serve Br=
+ewer" width=3D"149" style=3D"width: 149px; display: block; border:1px solid=
+ #cccccc; margin-bottom: 10px;" /></a>
+    Keurig K525C Single Serve Brewer<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $25 OFF <br>
+            </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7EA:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1103900-847__1&recipeName=3D350" alt=3D"Generac GP6500E Generator wi=
+th Electric Start" width=3D"149" style=3D"width: 149px; display: block; bor=
+der:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Generac GP6500E Generator with Electric Start<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $699.99 Delivered <br>
+        After $170 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7EB:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D100133736-847__1&recipeName=3D350" alt=3D"SafeRacks Overhead Garage =
+Storage Combo Kit" width=3D"149" style=3D"width: 149px; display: block; bor=
+der:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    SafeRacks Overhead Garage Storage Combo Kit<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $249.99 Delivered <br>
+        After $150 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7EC:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D985993-847__1&recipeName=3D350" alt=3D"Husky Storm Central Vacuum Sy=
+stem with Electric Powerhead Kit" width=3D"149" style=3D"width: 149px; disp=
+lay: block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Husky Storm Central Vacuum System with Electric Powerhead Kit<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $639.99 Delivered <br>
+        After $160 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7ED:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1007421-847__1&recipeName=3D350" alt=3D"Sports Afield SA5940 Executi=
+ve Safe" width=3D"149" style=3D"width: 149px; display: block; border:1px so=
+lid #cccccc; margin-bottom: 10px;" /></a>
+    Sports Afield SA5940 Executive Safe<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $599.99 Delivered <br>
+        After $300 OFF    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7EE:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1023393-847__1&recipeName=3D350" alt=3D"Trinity 72-inch Rolling Stai=
+nless Steel Workbench" width=3D"149" style=3D"width: 149px; display: block;=
+ border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Trinity 72" Rolling Stainless Steel Workbench<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $599.99 Delivered <br>
+        After $200 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7EF:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D947865-847__1&recipeName=3D350" alt=3D"Hansgrohe Cento Kitchen Fauce=
+t" width=3D"149" style=3D"width: 149px; display: block; border:1px solid #c=
+ccccc; margin-bottom: 10px;" /></a>
+    Hansgrohe Cento Kitchen Faucet<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $50 - $80 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F0:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&"><img class=
+=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/staging/resource/=
+img/email-w2-2016/17w0256-blkfri-tires.jpg" alt=3D"Any Set of 4 Bridgestone=
+ Tires" width=3D"149" style=3D"width: 149px; display: block; border:1px sol=
+id #cccccc; margin-bottom: 10px;" /></a>
+    Any Set of 4 Bridgestone Tires<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $70 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F0:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&"><img class=
+=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/staging/resource/=
+img/email-w2-2016/17w0256-blkfri-tires2.jpg" alt=3D"Any Set of 4 Michelin T=
+ires" width=3D"149" style=3D"width: 149px; display: block; border:1px solid=
+ #cccccc; margin-bottom: 10px;" /></a>
+    Any Set of 4 Michelin Tires<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $70 OFF <br>
+            </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F1:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D907391-847__1&recipeName=3D350" alt=3D"Oral-B Professional Care Rech=
+argeable Toothbrushes 2-Pack" width=3D"149" style=3D"width: 149px; display:=
+ block; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Oral-B Professional Care Rechargeable Toothbrushes 2-Pack<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $30 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F2:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D819351-847__1&recipeName=3D350" alt=3D"Oral-B Replacement Brush Head=
+s" width=3D"149" style=3D"width: 149px; display: block; border:1px solid #c=
+ccccc; margin-bottom: 10px;" /></a>
+    Oral-B Replacement Brush Heads<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $10 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F3:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D941114-847__1&recipeName=3D350" alt=3D"Mikasa 36-Piece Antique White=
+ Bone China" width=3D"149" style=3D"width: 149px; display: block; border:1p=
+x solid #cccccc; margin-bottom: 10px;" /></a>
+    Mikasa 36-Piece Antique White Bone China<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $74.99 Delivered <br>
+        After $25 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F4:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1105728-847__1&recipeName=3D350" alt=3D"Mikasa 65-Piece Flatware Set=
+" width=3D"149" style=3D"width: 149px; display: block; border:1px solid #cc=
+cccc; margin-bottom: 10px;" /></a>
+    Mikasa 65-Piece Flatware Set<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $59.99 Delivered <br>
+        After $20 OFF    </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F5:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1060691-847__1&recipeName=3D350" alt=3D"J.A.Henckels 14-Piece Coutea=
+u Block Set" width=3D"149" style=3D"width: 149px; display: block; border:1p=
+x solid #cccccc; margin-bottom: 10px;" /></a>
+    J.A. Henckels 14-Piece Couteau Block Set<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $119.99 Delivered <br>
+        After $30 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F6:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-pillo=
+w.jpg" alt=3D"Kirkland Signature 6-Piece Sheet Set" width=3D"149" style=3D"=
+width: 149px; display: block; border:1px solid #cccccc; margin-bottom: 10px=
+;" /></a>
+    Kirkland Signature 6-Piece Sheet Set<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $15 OFF <br>Free Shipping
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F7:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1099822-847__1&recipeName=3D350" alt=3D"Naomi Fabric Storage Ottoman=
+ with Tray" width=3D"149" style=3D"width: 149px; display: block; border:1px=
+ solid #cccccc; margin-bottom: 10px;" /></a>
+    Naomi Fabric Storage Ottoman with Tray<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $99.99 Delivered <br>
+        After $50 OFF    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F8:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://mobil=
+econtent.costco.com/staging/resource/img/email-w2-2016/17w0256-blkfri-stack=
+ingchair.jpg" alt=3D"Ave Six Lucia Stacking Chairs" width=3D"149" style=3D"=
+width: 149px; display: block; border:1px solid #cccccc; margin-bottom: 10px=
+;" /></a>
+    Ave Six Lucia Stacking Chairs<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $15 - $40 OFF <br>
+            </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&=
+ctl=3D4AB7F9:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&&wc_mid=3D2:1=
+06240&wc_rid=3D2:80314266"><img class=3D"rfp-big-image" src=3D"http://richm=
+edia.channeladvisor.com/ImageDelivery/imageService?profileId=3D12026540&ima=
+geId=3D1069214-847__1&recipeName=3D350" alt=3D"Boogie Board JOT eWriter and=
+ Bonus Protective Sleeve" width=3D"149" style=3D"width: 149px; display: blo=
+ck; border:1px solid #cccccc; margin-bottom: 10px;" /></a>
+    Boogie Board JOT eWriter with Bonus Protective Sleeve<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $15.99 After $4 OFF <br>
+        Plus S & H    </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-brulee.jpg" alt=3D"Rian's Cr=
+=C3=A8me Br=C3=BBl=C3=A9e" width=3D"149" style=3D"width: 149px; display: bl=
+ock; border:1px solid #cccccc; margin-bottom: 10px;" />
+    Rian's Cr=C3=A8me Br=C3=BBl=C3=A9e<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $3.50 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+   <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/stag=
+ing/resource/img/email-w2-2016/17w0256-blkfri-puffs.jpg" alt=3D"Delizza Bel=
+gian Mini Cream Puffs" width=3D"149" style=3D"width: 149px; display: block;=
+ border:1px solid #cccccc; margin-bottom: 10px;" />
+    Delizza Belgian Mini Cream Puffs<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $2.50 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-potatoes.jpg" alt=3D"Reser=
+=E2=80=99s Main St. Bistro All Natural Baked Scalloped Potatoes" width=3D"1=
+49" style=3D"width: 149px; display: block; border:1px solid #cccccc; margin=
+-bottom: 10px;" />
+    Reser=E2=80=99s Main St. Bistro All Natural Baked Scalloped Potatoes<br=
+>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $2.10 OFF <br>
+            </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-greenmountain.jpg" alt=3D"Gr=
+een Mountain K-Cup Pod Variety Pack 72-Count" width=3D"149" style=3D"width:=
+ 149px; display: block; border:1px solid #cccccc; margin-bottom: 10px;" />
+    Green Mountain K-Cup Pod Variety Pack, 72-Count<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $27.99 After $6 OFF<br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-juice.jpg" alt=3D"Martinelli=
+=E2=80=99s Sparkling Apple-Pomegranate Juice" width=3D"149" style=3D"width:=
+ 149px; display: block; border:1px solid #cccccc; margin-bottom: 10px;" />
+    Martinelli=E2=80=99s Sparkling Apple-Pomegranate Juice<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $2.50 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-chef.jpg" alt=3D"The Chef=E2=
+=80=99s Pantry Kitchen Towels" width=3D"149" style=3D"width: 149px; display=
+: block; border:1px solid #cccccc; margin-bottom: 10px;" />
+    The Chef=E2=80=99s Pantry Kitchen Towels<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $3 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-lights.jpg" alt=3D"Sylvania =
+LED White Mini Lights" width=3D"149" style=3D"width: 149px; display: block;=
+ border:1px solid #cccccc; margin-bottom: 10px;" />
+    Sylvania LED White Mini Lights<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $7.99 After $2 OFF<br>
+            </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-cook.jpg" alt=3D"Barefoot Co=
+ntessa Cookbooks" width=3D"149" style=3D"width: 149px; display: block; bord=
+er:1px solid #cccccc; margin-bottom: 10px;" />
+    Barefoot Contessa Cookbooks<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $4 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-chocolate.jpg" alt=3D"Sander=
+s Dark Chocolate Sea Salt Caramels" width=3D"149" style=3D"width: 149px; di=
+splay: block; border:1px solid #cccccc; margin-bottom: 10px;" />
+    Sanders Dark Chocolate Sea Salt Caramels<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $2.50 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-card.jpg" alt=3D"US Playing =
+Cards" width=3D"149" style=3D"width: 149px; display: block; border:1px soli=
+d #cccccc; margin-bottom: 10px;" />
+    US Playing Cards<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $4.50 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-chex.jpg" alt=3D"Chex Mix Tr=
+aditional" width=3D"149" style=3D"width: 149px; display: block; border:1px =
+solid #cccccc; margin-bottom: 10px;" />
+    Chex Mix Traditional<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $2 OFF <br>
+            </span>
+    </div>
+    </td>
+<!-- end item -->
+</tr></table>
+<!-- end item row -->
+
+<!-- start item row -->
+<table class=3D"rfp-container" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr>
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+
+   <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/stag=
+ing/resource/img/email-w2-2016/17w0256-blkfri-plate.jpg" alt=3D"Reflections=
+ Cutlery 160-Count or Masterpiece Plates 50-Count" width=3D"149" style=3D"w=
+idth: 149px; display: block; border:1px solid #cccccc; margin-bottom: 10px;=
+" />
+    Reflections Cutlery, 160-Count or Masterpiece Plates, 50-Count<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $3.50 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+   <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/stag=
+ing/resource/img/email-w2-2016/17w0256-blkfri-sticks.jpg" alt=3D"Petite Cui=
+sine Mozzarella Sticks" width=3D"149" style=3D"width: 149px; display: block=
+; border:1px solid #cccccc; margin-bottom: 10px;" />
+    Petite Cuisine Mozzarella Sticks<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $4 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-salame.jpg" alt=3D"Daniele E=
+uro Chub Variety Pack" width=3D"149" style=3D"width: 149px; display: block;=
+ border:1px solid #cccccc; margin-bottom: 10px;" />
+    Daniele Euro Chub Variety Pack<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $3 OFF <br>
+            </span>
+   =20
+=09=09</div>
+=09</td>
+<!-- end item -->
+
+<!-- start item -->
+=09<td height=3D"300" valign=3D"top" class=3D"ftr-item" align=3D"left" styl=
+e=3D"width: 154px; padding: 5px;  background-color:#ffffff; text-align: lef=
+t; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: =
+14px; line-height: 16px; color: #444444; float: left;">
+    <img class=3D"rfp-big-image" src=3D"http://mobilecontent.costco.com/sta=
+ging/resource/img/email-w2-2016/17w0256-blkfri-cheese.jpg" alt=3D"Celebrity=
+ Cranberry Cinnamon Goat's Milk Cheese Log" width=3D"149" style=3D"width: 1=
+49px; display: block; border:1px solid #cccccc; margin-bottom: 10px;" />
+    Celebrity Cranberry Cinnamon Goat's Milk Cheese Log<br>
+    <span style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif; font-size: 12px; line-height: 12px; color: #666666;"></span>
+    <div style=3D"margin-top: 4px;">
+    <span class=3D"item-price" style=3D"font-family: 'Helvetica Neue', Aria=
+l, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #0060a=
+9; font-weight: bold; padding-top: 4px;">
+        $2 OFF <br>
+            </span>
+    </div>
+    </td>
+   =20
+      </tr>
+  </table>
+<!-- end item row -->
+
+       </td></tr>
+       <tr>
+    <td align=3D"center" class=3D"padding-mobile" valign=3D"top" bgcolor=3D=
+"#ffffff" style=3D"padding: 20px; border-top: 1px solid #cccccc; font-famil=
+y: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 11px; text-al=
+ign:left">
+            =20
+          =20
+     <!--start legal-->
+<div>
+<p>Prices, specifications and availability subject to change without notice=
+, and may not include shipping charges. Reflects the customer average ratin=
+g as of 11/18/2016. See Costco.com for the most current information.</p>
+
+
+<p>Most online instant coupons at costco.com are manufacturer's coupons, wh=
+ich will automatically be applied at checkout. State sales tax may be due o=
+n the pre-discounted price of the item when purchased using an online coupo=
+n. These taxes, if any, are in addition to the amount that you are paying f=
+or the product.</p>
+
+<p>In the past you provided Costco with your email address [kyle@kylefisher=
+.com]. Occasionally, you will receive brief advertising announcements regar=
+ding special items and services. If you no longer want to receive these adv=
+ertisements, please click=20
+<a href=3D"https://click.online.costco.com/bin/sie?id=3D15EFD509F925856E2E9=
+59BF6D64C0FE74BAD797B5EF9BCDE&l=3Dsubcenter&skip_confirm=3D1" style=3D"text=
+-decoration: underline;color:#069">unsubscribe</a>. Please DO NOT CLICK REP=
+LY, as the email will not be read.</p>
+
+<p>To contact us please <a href=3D"http://click.online.costco.com/t?r=3D2&c=
+=3D106240&l=3D16565&ctl=3D4AB7FA:15EFD509F925856E2E959BF6D64C0FE74BAD797B5E=
+F9BCDE&" style=3D"text-decoration: underline;color:#069">click here</a>.<br=
+ />=20
+Costco Wholesale, Customer Service | P.O. Box 34535 -- Seattle, WA 98124-15=
+35<br />
+&copy; 1998-2016 Costco Wholesale Corporation. All rights reserved.=20
+<a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&ctl=
+=3D4AB7FB:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&" style=3D"text-=
+decoration: underline;color:#069">Privacy Statement</a> &nbsp;=20
+<a href=3D"http://click.online.costco.com/t?r=3D2&c=3D106240&l=3D16565&ctl=
+=3D4AB7FC:15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE&" style=3D"text-=
+decoration: underline;color:#069">Terms and Conditions</a> &nbsp;=20
+<a href=3D"https://click.online.costco.com/bin/sie?id=3D15EFD509F925856E2E9=
+59BF6D64C0FE74BAD797B5EF9BCDE&l=3Dpreferencecenter&skip_confirm=3D1" style=
+=3D"text-decoration: underline;color:#069">Update Email Preferences</a></p>=
+</div>
+<!--end legal-->
+   =20
+    </td>
+    </tr>
+</table></td></tr></table></td></tr></table></div></td></tr></table></body>
+<img src=3D"http://click.online.costco.com/t?c=3D106240&r=3D2&l=3D16565&t=
+=3D10&e=3D15EFD509F925856E2E959BF6D64C0FE74BAD797B5EF9BCDE" width=3D1 heigh=
+t=3D1 border=3D0>
+</html>  

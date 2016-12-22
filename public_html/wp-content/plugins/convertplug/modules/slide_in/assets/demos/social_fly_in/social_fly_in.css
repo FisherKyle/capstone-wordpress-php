@@ -1,0 +1,49 @@
+/* Style - social media*/
+.cp-social-flyin-body.cp-social-flyin,
+.cp-social-flyin .cp-social-flyin-body {
+    background-color: transparent;
+}
+.cp-social-flyin .cp-title-container {
+    margin-bottom: 0; 
+}
+
+.cp-social-flyin .cp-desc-container{
+    margin: 0px 0 10px 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+.cp-social-flyin .cp-title {   
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    line-height: 1em;
+}
+.cp-social-flyin  .cp_social_media_wrapper{
+    padding: 0 5px 0;
+}
+.cp-social-flyin .cp-social-flyin-window-size .cp-social-flyin-body,
+.cp-social-flyin-window-size .cp-social-flyin-body.cp-social-flyin {
+    max-width: 90%;
+    margin: 0 auto;
+}
+.cp-social-flyin-container .cp-top-img .cp-row{
+    margin-top: 15px;
+}
+.cp-social-flyin .cp-sec-title{
+    font-size: 15px;
+}
+
+@media (max-width:768px) {
+    .cp-social-flyin-body.cp-social-flyin {
+        text-align: center;
+    }
+
+    .cp-social-flyin .cp-social-flyin-window-size .cp-social-flyin-body,
+    .cp-social-flyin-window-size .cp-social-flyin-body.cp-social-flyin {
+        max-width: 100%;
+    }
+    .cp-social-flyin-body.cp-social-flyin, .cp-social-flyin-body.cp-social-flyin * {
+        text-align: center!important;
+    }
+}

@@ -1,0 +1,241 @@
+Return-path: <monika+bncBDA2Z5OVZUKRBD4XSXBAKGQE2H276MY@nokiamark.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 05 Dec 2016 06:12:25 -0500
+Received: from mail-io0-f200.google.com ([209.85.223.200]:33777)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <monika+bncBDA2Z5OVZUKRBD4XSXBAKGQE2H276MY@nokiamark.com>)
+	id 1cDrC5-003DmF-Fn
+	for kyle@kylefisher.com; Mon, 05 Dec 2016 06:12:25 -0500
+Received: by mail-io0-f200.google.com with SMTP id g8sf189231002ioi.0
+        for <kyle@kylefisher.com>; Mon, 05 Dec 2016 03:12:24 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nokiamark.com; s=google;
+        h=mime-version:from:date:message-id:subject:to:x-original-sender
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-subscribe:list-unsubscribe;
+        bh=bHcTD7lYtUUEaSyJusa5EaoR8cqd5xU3eXWMVJtiFrY=;
+        b=DawBSqSgqKoJz4yCUrSgJJ19xcQkKwt1YR/eiSZGG2raS1HVQgRTD31ua9cSlackiN
+         jmRgMoqfp8Swq0gxjtUE/CzxleKYDJEV6sQKmEC8uJrduaA+EMTi/rHtw8ooHUjZyHh0
+         wIN2w3R35hH/ol2f8mKcmAj7NC9exsTb6aBPPdUHFAIwVM13BtCCkUHmb2z3bb9JZTJ8
+         kM9vRljgVaBOwj06PtT+9R7u82Lok9Yz7a2mxRbKDrk0h4IbGmPtYKiRFTTgg5upsx2E
+         R1JrsVblkPG02flNy/YsQZd9jZky8f+jIukFDGAk2aiypaTsakkM7nwwuW6IxBO2uM8R
+         PiAw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-subscribe:list-unsubscribe;
+        bh=bHcTD7lYtUUEaSyJusa5EaoR8cqd5xU3eXWMVJtiFrY=;
+        b=STHnJ+SD/9XjFre2RgvOeCP1QwDivbpcOhpXww8fgcm6qHkf1EV3JAeYie4RD/wCtV
+         FCSRO+iUKZBY2TJcelOprp/nXblsIgPKYuOXPdOuqAy6ubKN65DtZLy1m+rdZr5dswJc
+         Fav1jz4UjjXkwVKSKJDkfaZRDPBqPrmuzCNmYBBlutBES9FbsUX+QRkTIkru0RXBrJnB
+         jyZnKKWU1y5KvbiS4BsBv4WVZ7SJGzpZwEBG7LbV2hbTczXoVfk0km6qiVpcm/z+Zahg
+         h61NdankKPO3QSxV9Z1mNkYY2JKKSspoYWQJ5LzbA/jZPSNn0zwpuP4i9i8WYSOLVsjV
+         dvLg==
+X-Gm-Message-State: AKaTC01wXnOcgeeCSTXlfvJcb7qArI0DFaoQHXAopJDgFpO7MvWogrn7++AqxGVGhGoFHA==
+X-Received: by 10.36.208.74 with SMTP id m71mr1834812itg.17.1480936344060;
+        Mon, 05 Dec 2016 03:12:24 -0800 (PST)
+X-BeenThere: monika@nokiamark.com
+Received: by 10.107.164.40 with SMTP id n40ls7521929ioe.49.gmail; Mon, 05 Dec
+ 2016 03:12:15 -0800 (PST)
+X-Received: by 10.107.130.197 with SMTP id m66mr48390124ioi.38.1480936335222;
+        Mon, 05 Dec 2016 03:12:15 -0800 (PST)
+Received: from mail-io0-x235.google.com (mail-io0-x235.google.com. [2607:f8b0:4001:c06::235])
+        by mx.google.com with ESMTPS id r92si10452856ioe.184.2016.12.05.03.12.15
+        for <monika@nokiamark.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 05 Dec 2016 03:12:15 -0800 (PST)
+Received-SPF: pass (google.com: domain of sanjit@nokiamark.com designates 2607:f8b0:4001:c06::235 as permitted sender) client-ip=2607:f8b0:4001:c06::235;
+Received: by mail-io0-x235.google.com with SMTP id m5so452208859ioe.3
+        for <monika@nokiamark.com>; Mon, 05 Dec 2016 03:12:15 -0800 (PST)
+X-Received: by 10.107.20.84 with SMTP id 81mr49503575iou.44.1480936334583;
+ Mon, 05 Dec 2016 03:12:14 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.62.6 with HTTP; Mon, 5 Dec 2016 03:12:14 -0800 (PST)
+X-Originating-IP: [45.115.188.189]
+From: Sanjit Yadav <sanjit@nokiamark.com>
+Date: Mon, 5 Dec 2016 16:42:14 +0530
+Message-ID: <CAMiM-ko59tjztTcq2MTwnJgx2fRjBgYAbpcUGjzR0m0qX10E0Q@mail.gmail.com>
+Subject: Website Design & Redesign Service!!!!!
+To: monika@nokiamark.com
+Content-Type: multipart/alternative; boundary=001a114fcf38287e4a0542e75c67
+X-Original-Sender: sanjit@nokiamark.com
+X-Original-Authentication-Results: mx.google.com;       dkim=pass
+ header.i=@nokiamark.com;       spf=pass (google.com: domain of
+ sanjit@nokiamark.com designates 2607:f8b0:4001:c06::235 as permitted sender) smtp.mailfrom=sanjit@nokiamark.com
+Precedence: list
+Mailing-list: list monika@nokiamark.com; contact monika+owners@nokiamark.com
+List-ID: <monika.nokiamark.com>
+X-Spam-Checked-In-Group: monika@nokiamark.com
+X-Google-Group-Id: 788719313402
+List-Post: <https://groups.google.com/a/nokiamark.com/group/monika/post>, <mailto:monika@nokiamark.com>
+List-Help: <https://support.google.com/a/nokiamark.com/bin/topic.py?topic=25838>,
+ <mailto:monika+help@nokiamark.com>
+List-Archive: <https://groups.google.com/a/nokiamark.com/group/monika/>
+List-Subscribe: <https://groups.google.com/a/nokiamark.com/group/monika/subscribe>,
+ <mailto:monika+subscribe@nokiamark.com>
+List-Unsubscribe: <mailto:googlegroups-manage+788719313402+unsubscribe@googlegroups.com>,
+ <https://groups.google.com/a/nokiamark.com/group/monika/subscribe>
+
+--001a114fcf38287e4a0542e75c67
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Greetings,
+
+
+
+My Name is Sanjit, *I'd love to hear more from you, if you interested in
+our services.*
+
+
+
+=C2=B7         Web Design & Developments
+=C2=B7         E commerce Portal Development
+=C2=B7         E commerce Website Design
+=C2=B7         Social Media Optimization
+=C2=B7         YouTube Video Creation/Promotion
+
+
+
+*Note: *Also get amazing offer on *SEO Package* for see your website on
+first page in google search.
+
+
+
+We strive to offer the best solution for your business at an honest price.
+We are constantly exploring new technologies and recommend them when they
+make sense.
+
+
+
+*Just reply us with your requirements and contact details.*
+
+
+
+Waiting for your reply.
+
+
+
+Cheers
+
+Sanjit Yadav
+
+Sanjit@nokiamark.com
+
+ *Disclaimer: -* Under the Spam Act 2003, every commercial electronic
+message must contain a functional and legitimate facility. Make sure that
+you never received any more email form *us *until you reply this email.
+Reply this email with *Un-Subscribe* for not receive any more emails.
+
+--001a114fcf38287e4a0542e75c67
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(31,78,121)">Greetings,</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(31,78,121)">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(31,78,121)">My Name is</span>
+Sanjit<span style=3D"color:rgb(31,78,121)">, <b>I&#39;d love to hear more f=
+rom you, if you
+interested in our services.</b></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(31,78,121)">=C2=A0</span></p>
+
+<p class=3D"gmail-MsoListParagraph" style=3D"margin-bottom:0.0001pt"><span =
+style=3D"font-family:symbol;color:rgb(31,78,121)"><span>=C2=B7<span style=
+=3D"font:7pt &quot;times new roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0
+</span></span></span><span style=3D"color:rgb(31,78,121)">Web Design &amp; =
+Developments</span></p><span style=3D"font-size:9.5pt;font-family:symbol;co=
+lor:rgb(80,0,80)"><span>=C2=B7<span style=3D"font:7pt &quot;times new roman=
+&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span></span></span><span style=3D"font-size:9.5pt;font-family:&quot;arial=
+&quot;,&quot;sans-serif&quot;;color:rgb(31,78,121)">E commerce=C2=A0Portal =
+Development</span><span style=3D"font-size:9.5pt;font-family:&quot;arial&qu=
+ot;,&quot;sans-serif&quot;;color:rgb(80,0,80)"></span><span style=3D"font-s=
+ize:9.5pt;font-family:symbol;color:rgb(80,0,80)"><span><br>=C2=B7<span styl=
+e=3D"font:7pt &quot;times new roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0
+</span></span></span><span style=3D"font-size:9.5pt;font-family:&quot;arial=
+&quot;,&quot;sans-serif&quot;;color:rgb(31,78,121)">E commerce=C2=A0Website=
+ Design</span><span style=3D"font-family:symbol;color:rgb(31,78,121)"><span=
+><br>=C2=B7<span style=3D"font:7pt &quot;times new roman&quot;">=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span></span></span><span style=3D"color:rgb(31,78,121)">Social Media Opti=
+mization</span><span style=3D"font-family:symbol;color:rgb(31,78,121)"><spa=
+n><br>=C2=B7<span style=3D"font:7pt &quot;times new roman&quot;">=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span></span></span><span style=3D"color:rgb(31,78,121)">YouTube Video Cre=
+ation/Promotion</span>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 0.25in"><span style=
+=3D"color:rgb(31,78,121)">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 0.25in"><b><span st=
+yle=3D"color:rgb(31,78,121)">Note: </span></b><span style=3D"color:rgb(31,7=
+8,121)">Also get
+amazing offer on <b>SEO Package</b> for see
+your website on first page in google search.</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(31,78,121)">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(31,78,121)">We strive to
+offer the best solution for your business at an honest price. We are consta=
+ntly
+exploring new technologies and recommend them when they make sense.</span><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(31,78,121)">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><b><span style=3D"c=
+olor:rgb(31,78,121)">Just reply us with your requirements and contact
+details.</span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><b><span style=3D"c=
+olor:rgb(31,78,121)">=C2=A0</span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><a name=3D"_GoBack"=
+></a><span style=3D"color:rgb(31,78,121)">Waiting for your reply.</span></p=
+>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(31,78,121)">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(31,78,121)">Cheers</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+Sanjit Yadav</p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<a href=3D"mailto:Sanjit@nokiamark.com">Sanjit@nokiamark.com</a></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<b><span style=3D"font-size:9pt;font-family:&quot;arial&quot;,&quot;sans-se=
+rif&quot;"><span>=C2=A0</span></span></b><b><u><span style=3D"font-size:8pt=
+;color:rgb(244,176,131)">Disclaimer: -</span></u></b><span style=3D"font-si=
+ze:8pt;color:rgb(244,176,131)"> Under the Spam Act
+2003, every commercial electronic message must contain a functional and
+legitimate facility. Make sure that you never received any more email form =
+<b>us </b>until you reply this email. Reply
+this email with <b>Un-Subscribe</b> for not
+receive any more emails.</span><b><span style=3D"font-size:9pt;font-family:=
+&quot;arial&quot;,&quot;sans-serif&quot;"></span></b></p>
+
+</div>
+
+--001a114fcf38287e4a0542e75c67--

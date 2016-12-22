@@ -1,0 +1,124 @@
+/* Style - social_media */
+.cp-modal-body.cp-social-widget,
+.cp-social-widget .cp-modal-body {
+    background-color: transparent;
+}
+
+.cp-social-widget .cp-desc-container,
+.cp-social-widget .cp-sec-title-container,
+.cp-social-widget .cp-title-container {
+    font-family: 'Montserrat';
+    display: block;
+    width: 100%;
+    float: left;
+    margin: 0 0 10px;
+    padding: 0px 0;
+}
+.cp-social-widget-container .cp-overlay-close span{
+        font-family: "Montserrat",serif;
+}
+.cp-form-container.cp-no-padding {
+    padding: 0 7%;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+}
+
+.cp-social-widget .cp-modal-window-size .cp-modal-body,
+.cp-modal-window-size .cp-modal-body.cp-social-widget {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.cp-social-widget .cp-text-container {
+    padding: 20px 25px;
+}
+
+.cp-social-widget .cp-title,
+.cp-social-widget  h2.cp-title {
+    margin: 0;
+    font-size: 14px;
+    font-family: 'Montserrat';
+    color: #37474f;
+    font-weight: 600;
+    line-height: 1.15em;
+    text-align: center;
+}
+
+.cp-social-widget .cp_social_media_wrapper {
+    margin: 15px 0 10px;
+}
+
+.cp-social-widget .cp-row-center {
+    position: absolute;
+    margin: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+}
+
+.cp-social-widget.no-padding .cp-row-center {
+    margin: 0 -15px;
+}
+
+.cp-social-widget .cp-row-equalized-center {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.cp-social-widget .cp-row-center.cp-big-content {
+    position: relative;
+}
+
+.cp-social-widget .cp-big-content .cp-row-equalized-center {
+    position: relative;
+    top: auto;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+}
+
+/* .cp-social-widget .cp_social_media_wrapper{
+    margin: 20px 0 0;
+} */
+@media (max-width:768px) {
+    .cp-social-widget .cp-row-center {
+        position: relative;
+        top: auto;
+    }
+
+    .cp-social-widget .cp-row-equalized-center {
+        position: relative;
+        top: auto;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        -o-transform: none;
+        transform: none;
+    }
+
+    .cp-modal-body.cp-social-widget {
+        text-align: center;
+    }
+
+    .cp-social-widget .cp-modal-window-size .cp-modal-body,
+    .cp-modal-window-size .cp-modal-body.cp-social-widget {
+        max-width: 100%;
+    }
+
+    .cp-social-widget .cp-text-container {
+        padding: 20px 15px;
+    }
+
+}
+
+/*------social -----------*/

@@ -1,0 +1,404 @@
+Return-path: <bounce+cc8593.12ae7-kyle=kylefisher.com@wifa.st>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 13 Dec 2016 20:31:25 -0500
+Received: from m70-159.mailgun.net ([166.78.70.159]:12879)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+cc8593.12ae7-kyle=kylefisher.com@wifa.st>)
+	id 1cGyPk-001xms-LY
+	for kyle@kylefisher.com; Tue, 13 Dec 2016 20:31:24 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=wifa.st; q=dns/txt; s=pic;
+ t=1481679083; h=Content-Transfer-Encoding: Mime-Version: Content-Type:
+ Subject: From: To: Sender: Reply-To: Message-Id: List-Unsubscribe:
+ Date; bh=s1xHQ6Z6oxLF+tfQ/t8xhSUyjgUM3K8ZnqhFeFFQ03M=; b=TXZ6IGcN1Xjo6roplufkJOV0+2Rm69wVMfMR5oyHOxbfNPw72BaUYfXCxvrbpTpT7vnYm0Nh
+ Nrv07QahZLy6uGMrcIfXwBp4wNy/ZWnzsDnrz1dmR1H4c06M8wrBf8gYjuGs+3q/b9V9oAKN
+ SQw291s75n3IXqJNR5AUQOfYPkY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=wifa.st; s=pic; q=dns;
+ h=Date: List-Unsubscribe: Message-Id: Reply-To: Sender: To: From:
+ Subject: Content-Type: Mime-Version: Content-Transfer-Encoding;
+ b=mbKMj4xh5f2lulYx4f3Llov6y3I4IC5uQVH8bKeaqjuERl5QVl5mRbOsF8v/dD97QshfcG
+ 1/vgsQWSsdbXxkMv/tQCGO8ub71tRYDwSCOfulvrbJ2xUKHJZQPXAKkfyuUN7G9HHVdh+JUK
+ opsRPf6I9mvACEznjoScDWAS8yJ2c=
+Date: Wed, 14 Dec 2016 01:31:23 +0000
+X-Mailgun-Sending-Ip: 166.78.70.159
+X-Mailgun-Sid: WyJkMDdlYiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgIjEyYWU3Il0=
+List-Unsubscribe: <mailto:u+mq6tcmtbmu3smytvonuw4zltom6tkntdmi3tcyzugq2donjvmeydamjsgftdgyjxgatgspjsgaytmmjsge2damjtgezdelrsgmyteobohaydamzzfzbdkqkcivdekmbfgqyho2lgmexhg5bgna6tgzrwha2toy3fmu2tenzvmu4dqojwmi4dcyjumfsgmobthbrdinzgnfzs25dfon2d2rtbnrzwkjtshvvxs3dfeu2da23znrswm2ltnbsxeltdn5wsm5b5euzecjtnmvzxgylhmu6tkobvga2demztmftgeyzvgaztondggjqtczlcmytge3dbon2d2njyguydimrtgnqwmytdguydgnzumyzgcmlfmmycm3lfojtwkzdcnrqxg5b5gu4dkmbugiztgylgmjrtkmbtg42gmmtbgfswgmi@wifa.st>
+X-Mailgun-Batch-Id: bd716454-a902-4a9d-8860-07e34ff2c541
+Received: by luna.mailgun.net with HTTP; Wed, 14 Dec 2016 01:31:22 +0000
+Message-Id: <20161214013122.23128.80039.B5ABEFE0@wifa.st>
+X-Mailgun-Variables: {"is-test": false, "message":
+ "58504233afbc50374f2a1ebf", "blast": "58504233afbc50374f2a1ec0",
+ "mergedblast": "58504233afbc50374f2a1ec1", "business":
+ "56cb71c444755a00121f3a70"}
+Reply-To: bowlphil0@wifa.st
+Sender: Bowl Philadelphia <bowlphil0@wifa.st>
+X-Mailgun-Track: true
+X-Mailgun-Drop-Message: false
+To: kyle@kylefisher.com
+From: North Bowl & South Bowl <bowlphil0@wifa.st>
+Subject: We want YOU!
+Content-Type: text/html; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+<meta name="viewport" content="width=device-width" />
+<style type="text/css">
+
+    * { 
+        margin:0;
+        padding:0;
+    }
+
+    body {
+        -webkit-font-smoothing:antialiased; 
+        -webkit-text-size-adjust:none; 
+        width: 100% !important; 
+        height: 100%;
+    }
+
+    li {
+        margin-left: 20px;
+    }
+
+    ol {
+        margin-left: 20px;
+    }
+
+    ul {
+        margin-left: 20px;
+    }
+
+    img { 
+        max-width: 100%; 
+    }
+
+    a { 
+        text-decoration: none; 
+    }
+
+    body[fix] table[class=contenttable] { 
+        margin: 20px auto 0 auto;
+    }
+    body[fix] table[class=full] {
+        width: 600px;
+    }
+    body[fix] table[class=quarter] { 
+        width: 150px;
+    }
+    body[fix] table[class=threequarters] {
+        width: 450px;
+    }
+    body[fix] table[class=half]{ 
+        width: 300px;
+    }
+    body[fix] table[class=third] { 
+        width: 200px;
+    }
+    body[fix] table[class=twothirds] {
+        width: 400px;
+    }
+    .smalldevice {
+        width: 600;
+    }
+    @media only screen and (max-width: 640px) {
+        body[fix] td[class=quarter] { 
+            width: 50% !important;
+        }
+        body[fix] td[class=quarterawk] {
+            width: 100% !important;
+        }
+        body[fix] td[class=threequarters] {
+            width: 50% !important;
+        }
+        body[fix] td[class=half] { 
+            width: 50% !important;
+        }
+        body[fix] td[class=halfawk] {
+            width: 100% !important;
+        }
+        body[fix] td[class=third] {
+            width: 100% !important;
+            display: block !important;
+        }
+        body[fix] td[class=twothirds] {
+            width: 100% !important;
+            display: block !important;
+        }
+    }
+    @media only screen and (max-width: 420px) {
+        body[fix] table[class=contenttable] {
+            width: 100% !important;
+            max-width:400px !important;
+            margin: 0 auto !important;
+      clear: both !important;
+        }
+        body[fix] table[class=spacingtable] {
+            max-width:400px !important;
+            margin: 0 auto !important;
+      clear: both !important;
+        }
+        body[fix] table {
+            table { width: 100%; }
+        }
+        body[fix] td[class=full], body[fix] td[class=quarter], body[fix] td[class=quarterawk], body[fix] td[class=threequarters], body[fix] td[class=half], body[fix] td[class=halfawk], body[fix] td[class=third], body[fix] td[class=twothirds] { 
+            width: 100% !important;
+            display: block !important;
+        }
+        body[fix] table[class=headertable] {
+            display: none !important;
+        }
+        .smalldevice {
+            width: 400px !important;
+        }
+        img[class="uploaded-image"] {
+            width: 100% !important;
+        }
+    }
+    @media only screen and (max-width: 380px) {
+        body[fix] table[class=contenttable] {
+            width: 100% !important;
+            max-width:360px !important;
+            margin: 0 auto !important;
+      clear: both !important;
+        }
+        body[fix] table[class=spacingtable] {
+            width: 100% !important;
+            max-width:360px !important;
+            margin: 0 auto !important;
+      clear: both !important;
+        }
+        body[fix] table {
+            table { width: 100%; }
+        }
+        body[fix] td[class=full], body[fix] td[class=quarter], body[fix] td[class=quarterawk], body[fix] td[class=threequarters], body[fix] td[class=half], body[fix] td[class=halfawk], body[fix] td[class=third], body[fix] td[class=twothirds] { 
+            width: 100% !important;
+            display: block !important;
+        }
+        body[fix] table[class=headertable] {
+            display: none !important;
+        }
+        .smalldevice {
+            width: 360px !important;
+        }
+        img[class="uploaded-image"] {
+            width: 100% !important;
+        }
+    }
+    @media only screen and (max-width: 340px) {
+        body[fix] table[class=contenttable] {
+            width: 100% !important;
+            max-width:320px !important;
+            margin: 0 auto !important;
+      clear: both !important;
+        }
+        body[fix] table[class=spacingtable] {
+            max-width:320px !important;
+            margin: 0 auto !important;
+      clear: both !important;
+        }
+        body[fix] table {
+            table { width: 100%; }
+        }
+        body[fix] td[class=full], body[fix] td[class=quarter], body[fix] td[class=quarterawk], body[fix] td[class=threequarters], body[fix] td[class=half], body[fix] td[class=halfawk], body[fix] td[class=third], body[fix] td[class=twothirds] { 
+            width: 100% !important;
+            display: block !important;
+        }
+        body[fix] table[class=headertable] {
+            display: none !important;
+        }
+        .smalldevice {
+            width: 320px !important;
+        }
+        img[class="uploaded-image"] {
+            width: 100% !important;
+        }
+    }
+</style>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    </head>
+    <body id="emailbody" fix="yes" style="line-height: 1; background-color: #feffff">
+        
+          <div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">We can picture you doing this... </div>
+        
+        <!-- spacing table -->
+        <table width="600" style="border-spacing: 0px; margin: 20px auto 0 auto;" cellpadding="0" cellspacing="0" class="headertable">
+            <tr style="border-spacing: 0px;">
+                <td cellpadding="0" cellspacing="0" width="600" height="10px" align="center" style="padding: 0px; height: 10px"></td>
+            </tr>
+        </table>
+
+        <!-- content table -->
+        <table width="600" style="table-layout: fixed; border-spacing: 0px; background-color: #ffffff; margin: 20px auto 0 auto;" cellpadding="0" cellspacing="0" class="contenttable">
+            <tbody>
+                <tr>
+                    <td style="">
+                        <table width="100%">
+                            
+                            <tr style="border-spacing: 0px;">
+                                <td cellpadding="0" cellspacing="0" width="100%" align="center" style="padding: 0px;">
+                                    <table style="table-layout: fixed;" width="100%" border="0" cellspacing="0" cellpadding="0" class="full-width-widget">
+    <tr>
+        <td width="100%" align="left" class="full" valign="top">
+            <table width="100%" style="border-spacing: 0px; " align="left" border="0" cellspacing="0" cellpadding="0">
+                <tr cellpadding="0" cellspacing="0">
+                    <td width="100%" border="0" cellspacing="10" style="padding: 0px; vertical-align: top;"><table cellpadding="0" cellspacing="0" style="table-layout: fixed;width: 100%; text-align: center; border-spacing: 0px;" class="image-widget">
+  <tbody>
+    <tr>
+      <td style="width: 100%; vertical-align: top;  padding:0px;" align="center">
+        
+          <a href="http://email.wifa.st/c/eJx9T8uqwyAQ_Zq4uzK-ol24aKH5DzVjlGtvSjRI__7afSkMZxjOi1kt4w418WfNf1irVXPwmgUppVbKATDOonAaSLYc2DxOCUwwzikfaKgBEBd6U9fbfbnDJKHn6GhtJNnZ-wiIQpnAhQCtwozrKlF6JcwFIyk2tfacxHXiy5jeO6372ZLfe3mmXMqLhv0xmIJuO7GSXH8a1mYXVyqSw_6-Co7K94q5JjzeevIYf7gNrTIK5Gh20QcFQsvIHUMfiS9uhHymAwz_seH6VcT-AdG1XgM" target="_blank">
+        
+          <img src="https://s3.amazonaws.com/wifast-hashed/production/e5446923ca35e29596f8c91e68dbc0cb" class="uploaded-image" alt="" width="550" style="max-width: 100%; -ms-interpolation-mode: bicubic; border: 0; display: block;"/>
+        
+          </a>
+        
+      </td>
+    </tr>
+  </tbody>
+</table><table cellpadding="0" cellspacing="0" style="table-layout: fixed;width: 100%; text-align: center; border-spacing: 0px;" class="image-widget">
+  <tbody>
+    <tr>
+      <td style="width: 100%; vertical-align: top;  padding:10px 0px 10px 0px;" align="center">
+        
+          <a href="http://email.wifa.st/c/eJx9T8uqwyAQ_Zq4uzK-ol24aKH5DzVjlGtvSjRI__7afSkMZxjOi1kt4w418WfNf1irVXPwmgUppVbKATDOonAaSLYc2DxOCUwwzikfaKgBEBd6U9fbfbnDJKHn6GhtJNnZ-wiIQpnAhQCtwozrKlF6JcwFIyk2tfacxHXiy5jeO6372ZLfe3mmXMqLhv0xmIJuO7GSXH8a1mYXVyqSw_6-Co7K94q5JjzeevIYf7gNrTIK5Gh20QcFQsvIHUMfiS9uhHymAwz_seH6VcT-AdG1XgM" target="_blank">
+        
+          <img src="https://s3.amazonaws.com/wifast-hashed/production/8a71fa8262700d4c7b822a4ba8e4ccb3" class="uploaded-image" alt="" width="550" style="max-width: 100%; -ms-interpolation-mode: bicubic; border: 0; display: block;"/>
+        
+          </a>
+        
+      </td>
+    </tr>
+  </tbody>
+</table><table cellpadding="0" cellspacing="0" style="table-layout: fixed;width: 100%; text-align: center; border-spacing: 0px;" class="image-widget">
+  <tbody>
+    <tr>
+      <td style="width: 100%; vertical-align: top;  padding:10px 0px 10px 0px;" align="center">
+        
+          <a href="http://email.wifa.st/c/eJx9T0uOwyAMPU3YDTK_QBcsWqm5hyEmREObKFBFvX3pfjSS9Szr_eTZC4lkWXjV9Um1ejPGYEXUWltjEEBIkRRaYKuXIMZ-ahBKSMllR8cdgLrwm7ne7tMdBg3nmpDXxrInGiGGUYqujA4dKAw0C-1UQqkvlhWfW9sHdR3k1Oc8T_7cjpbDdpY9r6W8edwenSmEy4sq3_PO1vrTqDY_YanEDv_7LtRrvyutNdPx9bBH_wUX8sYZ0FIpTCEaUFYniYJCYqFgD_mbjtD9x0LzvyLxAQdCXvs" target="_blank">
+        
+          <img src="https://s3.amazonaws.com/wifast-hashed/production/40f56fd73c00098236bf0cc92409ab40" class="uploaded-image" alt="" width="550" style="max-width: 100%; -ms-interpolation-mode: bicubic; border: 0; display: block;"/>
+        
+          </a>
+        
+      </td>
+    </tr>
+  </tbody>
+</table><table cellpadding="0" cellspacing="0" style="table-layout: fixed;width: 100%; text-align: center; border-spacing: 0px;" class="image-widget">
+  <tbody>
+    <tr>
+      <td style="width: 100%; vertical-align: top;  padding:10px 0px 10px 0px;" align="center">
+        
+          <a href="http://email.wifa.st/c/eJx9j01uhDAMhU9Ddo2cPwKLLAYJllVvgJyQDGgygEimaG7f0HVVyXqW9dlPz5NhHL0m9pWW1adkVO2sZk5KqZVCAMZZEKiBLIYDq8sogQnGOeVFG9oAiJZ26tb1Qw-VhHMJSFMms0GtIUDwTstGcx1-_Ry2LW9qZBOQaOac90rcKj6UOs-TrtuRZ7udcZ-XGN_Ubc9C9ikU_bzY2BU49t9-zWn8QvfwebyC0bJDlvSRfcpmwJg8OczjHX2JdLWwpNkflx95lj_x7o1qFEguBAbrFAgtA0fmbSA2YjH5Gzso98fdT_8usR9CHWhu" target="_blank">
+        
+          <img src="https://s3.amazonaws.com/wifast-hashed/production/5d240c60573fa9b45a1ba73c8e66aa9e" class="uploaded-image" alt="" width="550" style="max-width: 100%; -ms-interpolation-mode: bicubic; border: 0; display: block;"/>
+        
+          </a>
+        
+      </td>
+    </tr>
+  </tbody>
+</table><table cellpadding="0" cellspacing="0" style="table-layout: fixed;width: 100%; text-align: center; border-spacing: 0px;" class="image-widget">
+  <tbody>
+    <tr>
+      <td style="width: 100%; vertical-align: top;  padding:10px 0px 10px 0px;" align="center">
+        
+          <a href="http://email.wifa.st/c/eJx9j02OwyAMhU8TdoPMX8gsWLRScw9DTEGlSRSoot5-6H5UyXqW9fw9y4sTEsky_6p5pVqdGYO3ImitrTEIIKSICi2w7CSIsY8ahBJSctl14hOA-uVXc7ne5hsMGs4ckdfGkjMGwE6mY95YUJMavYgkAhAAggRWXGptH9RlkHOv8zz5uh0t-e0se8qlvHnYnt0JWGhd8OB72lmuP41qczOWSuxwj3ehfvfTYq6Jjg_Env0ZvJMzkwEtlcLogwFldZQoyEfmC_aQ_-0AnT_utHxdEn-H_V5I" target="_blank">
+        
+          <img src="https://s3.amazonaws.com/wifast-hashed/production/a52c3b3a1a0c901072652247d72e2434" class="uploaded-image" alt="" width="550" style="max-width: 100%; -ms-interpolation-mode: bicubic; border: 0; display: block;"/>
+        
+          </a>
+        
+      </td>
+    </tr>
+  </tbody>
+</table><table cellpadding="0" cellspacing="0" style="table-layout:fixed; width: 100%; text-align: center; background-color:#ffffff;">
+  <tbody>
+    <tr>
+      <td align="center" style="text-align: center;  padding:20px 0px 15px 0px;">
+        <a href="http://email.wifa.st/c/eJx9T0GOwyAMfE24LTLGhPTAoZWafwAxDSptqkAV9fdL76uVRrZsz4w1i1Po2YrwrvnJtTozxmBVJCJrjAdQqJL2FkR2CGrsI4HSClFir5OcAPRJXsz5cp2vMBAcOXlZm1gdWw2nCLRoHSegoGEMaClOTKj8Mori1tZeddDnAeeO4zhk8pHDtt1l3B59Vbd3W8N2lNeaS_mIXH8a1-ZmXyqL3d0_hfvTb0u5rrx_deLRk_gbOzMZINTapxANaEsJveKQRCi-m_x9jtD1-42Xf0nqF-0qXfQ" target="_blank"><img src="https://my.zenreach.com/static/images/social/icon_social_facebook.png" height="36px" width="36px" border="0" alt="Facebook" margin="4px"></a>
+
+        <a href="http://email.wifa.st/c/eJx9T8uOwyAM_JpwW2TzCMmBQys1_2EIFLR0UwUq1L9fVntdrTSyZXtmrNktCgqGuVfNX6FWq2fvDHqllNGaAFBglGSAZSsA5zEqQIlCcDHqwhcAufKrvlxv2w0mBT1H4rWxZFeNRi6wkxMreYkBZPTrTrgbI-YYWLGptWed5GUS20DvnbeeWwsn98djbOrxaskdvTxTLuXNcv1ooTa7UamBnfbzXcL4-dNirulXxx4jCN2D1YsGJaSk6LwGaVQUhMFF5goNk7_PHob-vIf9XxJ-AyTPXmk" target="_blank"><img src="https://my.zenreach.com/static/images/social/icon_social_twitter.png" height="36px" width="36px" border="0" alt="Twitter" margin="4px"></a>
+
+        
+
+        
+
+        <a href="http://email.wifa.st/c/eJx9T0GOwyAMfE24LTIGkvTAoZWafxhiErSkqQJV1N-X3lcrjWzZnhlrZqeQeBD-VdKDS3G2D35QwRgzWEsAClXUNIBIDkH1bTSgtEKU2OooRwB9kTd7vd2nO3QGzhRJlipWx1rPoHzvvWcbA42g5mDiiMh9pHgR2a21Pkunrx1ODed5yvQolZaDNhn2re3K_qqr38_8XFPOb5HKT-VS3US5sDjc7ztz-_ptMZWVj69ObC0KLezsaMGg1hR9sKAHE5EU-yh8pmby9zlA0x8Lz_-S1AeGCF_V" target="_blank"><img src="https://my.zenreach.com/static/images/social/icon_social_instagram.png" height="36px" width="36px" border="0" alt="Instagram" margin="4px"></a>
+
+        
+
+        
+
+        
+
+        
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+                                </td>
+                            </tr>
+                            
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- spacing table -->
+        <table width="600" style="border-spacing: 0px; margin: 20px auto 0 auto;" cellpadding="0" cellspacing="0" class="spacingtable">
+            <tr style="border-spacing: 0px;">
+                <td cellpadding="0" cellspacing="0" width="600" height="10px" align="center" style="padding: 0px; height: 10px"></td>
+            </tr>
+        </table>
+
+        <!-- footer table -->
+
+        <table style="table-layout: fixed; border-spacing: 0px; margin: 0 auto 0 auto; line-height: 1.5; " width="100%">
+            <tbody>
+                <tr>
+                    <td style="">
+                        <table style="border-spacing: 0px; margin: 0 auto 0 auto;" cellpadding="0" cellspacing="0" class="contenttable" width="600">
+                            <tr style="border-spacing: 0px;">
+                                <td class="smalldevice" style="font-family: Arial; font-size: 13px; color: #000000; font-weight: normal; margin: 0; word-wrap: break-word;">
+                                  You're receiving this email because you've subscribed to service from Bowl Philadelphia.  
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="smalldevice" style="font-family: Arial; font-size: 13px; color: #000000; font-weight: normal; margin: 0; word-wrap: break-word;">
+                                  909 N 2ND ST, PHILADELPHIA, PA 19123-2301
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="smalldevice" style="font-family: Arial; font-size: 13px; color: #000000; font-weight: normal; margin: 0; word-wrap: break-word;">
+                                  If you do not wish to receive any more emails you may: <a href="http://email.wifa.st/u/eJx9TsuOAiEQ_Bq5SbobesADB030PxqmUeLoJsNsjH-_7N14qUqlHqk5IYkGk397e2rviaeSAxbvfWAWACSsTgKYlghwGtIDOiSyNDDaCOAO9sTH0_lyhp2HV6ti-2ZuydUpciiqTIE1xsOUI4qXuUYXsw-m9f2mfUsXWbqaNd3fi46Ff6qt33S15edhtrSjo3mMc3LVxJHBk3NSc2FwwVcS1FxNXmRMfbYLjP561flrCP8A1s1NnA" style="text-decoration: underline; color: #000000;">unsubscribe</a>.
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+
+
+        <!-- spacing table -->
+        <table width="600" style="border-spacing: 0px; margin: 20px auto 0 auto;" cellpadding="0" cellspacing="0" class="spacingtable">
+            <tr style="border-spacing: 0px;">
+                <td cellpadding="0" cellspacing="0" width="600" height="10px" align="center" style="padding: 0px; height: 10px"></td>
+            </tr>
+        </table>
+
+    <img width="1px" height="1px" alt="" src="http://email.wifa.st/o/eJx9TstqAzEM_Jr6ViPZ8mMPPjSQ_IfslRLTTQrrLSV_H_deeplhmAezFnQsydTv0R8yRgmx1YSNiFIIDIAO1XMC04sDjFMSoEfnrJuYbQbwiz2Fj9P5coY3gp-ubMdhbkVjqKFSBI1tSVVWJdTEy7JmpBSz6eP9kHGUC29DzF4-n5vMhV_SPm6y2_Z1N_d5i69SQg5AznvW2gL4ROoYpaqpG8-Rv-0Gs79fZf03hC9LUUxa"></body>
+</html>

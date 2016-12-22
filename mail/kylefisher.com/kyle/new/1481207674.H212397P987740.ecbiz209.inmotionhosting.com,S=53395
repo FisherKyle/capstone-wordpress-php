@@ -1,0 +1,880 @@
+Return-path: <bounces+kyle=kylefisher.com@dynect-mailer.net>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 08 Dec 2016 09:34:34 -0500
+Received: from mtaout-099-ewr.sendlabs.com ([216.146.33.99]:45103)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounces+kyle=kylefisher.com@dynect-mailer.net>)
+	id 1cEzmM-0048x5-2J
+	for kyle@kylefisher.com; Thu, 08 Dec 2016 09:34:34 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=wdd; d=webdesignerdepot.com;
+ h=sender:To:Subject:Content-ID:Date:From:Reply-To:Content-Type:MIME-Version:Message-Id:List-Unsubscribe; i=no-reply@webdesignerdepot.com;
+ bh=tDsBkHXOQCgEccYKNse3rD/h1LQ=;
+ b=EK3VrTedqZECtFu0FNoAntQ8Sjv3CIRJaCYbVJsr9bBbbO9EuUXgcZRI/HvMTQYNwR9LcAemDS1A
+   KrkVxDwJoKCIPNkJBgUQjq5vuNvIz+d08FSpb2r934AN621PRwt58V0mTvT5OsmOag6B7nf/9LkS
+   Qu5CfDQOX7IOU+YEydU=
+sender: Webdesigner Depot <no-reply@webdesignerdepot.com>
+To: kyle@kylefisher.com
+Subject: =?UTF-8?Q?=E2=9C=8F=20Issue=20#254:=20Mistakes=20When=20Using=20?=
+ =?UTF-8?Q?Cards,=20Microinteractions,=20State=20of=20UX,=20Gomix=20?=
+ =?UTF-8?Q?and=20more...?=
+Content-ID: oJScoTyhMl4mYwVmAl56BTqgpF4kqQM2Ll5iqTuypaZhZJA4MJVho3bkYzuvMF44
+X-CONTENT-ID: oJScoTyhMl4mYwVmAl56BTqgpF4kqQM2Ll5iqTuypaZhZJA4MJVho3bkYzuvMF44
+Date: Thu, 08 Dec 2016 14:34:10 +0000
+From: Webdesigner Depot <no-reply@webdesignerdepot.com>
+Reply-To: Webdesigner Depot <no-reply@webdesignerdepot.com>
+Content-Type: multipart/alternative;
+ boundary="=_1ce1cdbb4a6dcf97985e37e330f59865"
+MIME-Version: 1.0
+Message-Id: <20161208143411.06350421CB@mail6-58-usnbn1.prod.dc.dyndns.com>
+X-DynectEmail-Msg-Hash: d7QrxTRFtn4lczhQRTDXwgc4URJi9f+H7sNlzkXR0cYAeuJ6/2PC/2FITZZLIuzgcE1iy8L1XUPcUo8IesW4XPXJ1i6F/rbt1ojcnet2U5JY/oQRkKTpIQ==
+X-DynEmail-Meta: uuUKILvMa+g2IADMd21g8i+9H22bZMUIbwVTpWcr5kWr88wvMzUcphEl7y1
+ UUy9HFIGGo2qcYSQuAfonbwW8al3JaXTQBVO6/sx3ecLUm8cabf8pCmxwu5f8QxYE+clj2NT1Eh
+ 6CKnJ3wg/2L+ybfbrZSmNL5liiGb/v7SDhE+6sV2f0hQvIs3F56/cvIQJzoic33jxA2aGTGxd7q
+ ypp/q3VA29c5VD8cTSBmTAoBhKy1L6oWxI6jOinHv83IqNpLe7GBpYWQORBsB8PEPqnndC/WMOb
+ LBzxLFWtcEouXpQyWoFW+RlBcw==
+X-DynectEmail-Msg-Key: 20161208143434.0000006d0708@mail6-58-usnbn1
+X-DynectEmail-X-Headers: MHwxMDc5OTc0Om9KU2NvVHloTWw0bVl3Vm1BbDU2QlRxZ3BGNGtxUU0yTGw1aXFUdXlwYVpoWkpBNE1KVmhvM2JrWXp1dk1GNDQ7
+X-Feedback-ID: TWRlYWxzVk1UQXM=:490899:425834:dyn06
+List-Unsubscribe: <http://unsub.email.dynect.net/unsub?h=d7QrxTRFtn4lczhQRTDXwgc4URJi9f%2BH7sNlzkXR0cYAeuJ6%2F2PC%2F2FITZZLIuzgcE1iy8L1XUPcUo8IesW4XPXJ1i6F%2Frbt1ojcnet2U5JY%2FoQRkKTpIQ%3D%3D&i=20161208143434.0000006d0708%40mail6-58-usnbn1>, <mailto:unsubscribe@dynect-email.com?subject=d7QrxTRFtn4lczhQRTDXwgc4URJi9f%2BH7sNlzkXR0cYAeuJ6%2F2PC%2F2FITZZLIuzgcE1iy8L1XUPcUo8IesW4XPXJ1i6F%2Frbt1ojcnet2U5JY%2FoQRkKTpIQ%3D%3D&message_id=20161208143434.0000006d0708%40mail6-58-usnbn1>
+
+--=_1ce1cdbb4a6dcf97985e37e330f59865
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+NEWSLETTER ISSUE 254 - DECEMBER 8, 2016=0A=0AView this newsletter online=
+:=0Ahttp://news.webdesignerdepot.com/?xtl=3D85vevz8wzo93nckmjal1n1cs5fpr=
+l19dswxixkwtl8px9huothlvbksdbijx3m3kzgd4ce04ph851pvv2n0r1dxtb6qjsv2kxmae=
+xe6ak59olqkutxdl248dy011gy5xyrdr6ipr2jfu35il880h2m02j21m3ja&xi=3Dkyle@ky=
+lefisher.com=0A=0A=0ACreate Product Screenshots with Smartmockups:=0ANow=
+ you can whip up a product screenshot in less than 10 seconds, all witho=
+ut even using Photoshop. Yep, it's a snap with the Smartmockup app. Avai=
+lable for MacOS, Windows and Linux, this simple-to-use app lets you work=
+ with more than 300 stunning mockups that you can easily upload your pro=
+duct image into, saving you loads of time and money. On sale now for onl=
+y $14. Learn more http://news.webdesignerdepot.com/?xtl=3D1cygoixw6uuck0=
+eoafvnd4w0xs37uqt7qu48d0pnfdcbv0j694t3i9xupuz5pha1cok1vqv258zyrghp2upwce=
+e4tzgq5oj9fjbuqim0jthcf6tswb90ghoaervlwcrdmasgnxohb6mfusbgfj6kzieq5oy3vy=
+w4cspq7wxa3q09zsrhjf&xi=3Dkyle@kylefisher.com=0A=0ABuild the app or bot=
+ of your dreams:=0AGomix is an easy way to build the bot or app you've a=
+lways wanted. Remix working apps, then use the code editor to modify the=
+m further. Create games, make Slack bots, build instant websites, create=
+ tools for work, use Gomix to learn to code, and much more. There are to=
+ns of building blocks to choose from to get started. Best part: apps are=
+ free to build. http://news.webdesignerdepot.com/?xtl=3D4l3i24jf3ucrq8t9=
+rrsdg7o6ywegfcy4p35dep5kqv8w0givuyy8dzysyp1mla7diw6cgnut52rsb5tnrza2jssp=
+szofm2v1j4kgvr71oex0ddkaqlfb4uczt0&xi=3Dkyle@kylefisher.com=0A=0ACan you=
+r startup get a billion dollar valuation in just 12 months?:=0AToggl's U=
+nicorn Startup Simulator is a fun and challenging game that puts you in=
+ the founder's seat of a new tech startup, with the goal of creating a c=
+ompany with a billion dollar valuation by the end of your first year. Yo=
+u'll have to make decisions to grow the value of the company while also=
+ keeping your employees happy (harder than it sounds). http://news.webde=
+signerdepot.com/?xtl=3Dvp9k0qoeso98gcs9y5d83grl2k849ab1sgds2ukizet3pz7ix=
+zrpm51t76ssc2w0d4s8ihr5l7xzl6hde22vs4x0berfggvirpsp1y1ldoqw4o2f1mldfkbb2=
+bj4nbgqxa2spo&xi=3Dkyle@kylefisher.com=0A=0AGet better with microinterac=
+tions:=0AMicrointeractions are a great way to take your UX from "okay" t=
+o "amazing" and these Best Practices for Microinteractions will give you=
+ some great insight into how to actually use microinteractions on your s=
+ites and apps effectively. Ideas like creating habit loops and using ani=
+mated feedback are detailed, among others (including things to avoid). h=
+ttp://news.webdesignerdepot.com/?xtl=3D4fxnl8xcj45pvh48h9j9rdsn9sdyzwhvl=
+d1r4439vf7s9hxkzg1bzxh73lzvu1zzr8gjjd5y6pdaredzybml67ag20luwz8c3t85mq2b4=
+dnqaopql6vhmwkmyed8ii0kuz3nn0hu6xohzhrtg4mehpx4s5mwmoo3nepyuuf2h5knmv299=
+c17twk3cxy&xi=3Dkyle@kylefisher.com=0A=0AWhat are optimistic UIs?:=0AYou=
+'ve likely seen Optimistic UIs (if you use Facebook Messenger, you defin=
+itely have) in practice. They're UIs that show the final state before th=
+e app has finished (or sometimes even started) the operation. (In Messen=
+ger, this happens when you see your message posted before the little che=
+ckmark showing it's actually reached Facebook's servers shows up, for ex=
+ample). This one technique can have a big impact on user happiness. http=
+://news.webdesignerdepot.com/?xtl=3Dfpl0rx9zw0530jp4501v2f5vz36yvsed6z0z=
+ofuvnvnzsyy7m06z17qcrc9hw87e3j9ii32nsawtpcuz634vl770ho0a62q8boytdj97ghaq=
+fsrcmk6dr3c538wflyolpi50u1zr8vk49nou3uhcx8y7t9&xi=3Dkyle@kylefisher.com=
+=0A=0AWhere is UX headed in 2017?:=0AThe State of UX in 2017, from uxdes=
+ign.css, showcases the trends that are currently happening and will like=
+ly continue into next year. Trends predicted include the commoditization=
+ of UX, words that will no longer be used, conversational design, and vi=
+rtual reality, among a ton of other existing and potential trends. http:=
+//news.webdesignerdepot.com/?xtl=3Dwj6asx0rfv84mclv0seeug8iwisid0oaep4gs=
+4dqcb1wqx9u0opo0yvt7im4s8y7kn45alced4mpv3wtvuq9hqmqaw94quq0ntpdjyxg3fjes=
+ornlbnnkyv4k0nv3wc1c6nfpyoiyiwtfi4kss2f0fp&xi=3Dkyle@kylefisher.com=0A=
+=0AA gorgeous real news site:=0AThe Outline is a new kind of news site t=
+hat juxtaposes real news with a design that's both modern and reminiscen=
+t of '90s 'zines and counterculture. The colors are bold and vibrant, th=
+e typography is huge, and they use animations to improve the overall UI=
+ and UX. The site was created because they "believe that the right story=
+ told in the right way can change someone's life." http://news.webdesign=
+erdepot.com/?xtl=3Dodvinqyqpcyr7bxynhhjthvegnk7w40ktm7jrkklsranr456oeh2g=
+mejk1jt9ghpg3vklp4t13og1dk5csmrxwlgb0y49fsinuitsaqx5qp8rlic5z&xi=3Dkyle@=
+kylefisher.com=0A=0ACommon mistakes when using cards:=0A5 Common Mistake=
+s Designers Make When Using Cards in Design, from Zurb, details some of=
+ the most common issues found in card-based designs. It includes everyth=
+ing from leaving big gaps between different sized content to showing too=
+ many cards at once, to trying to jam too much content into a single car=
+d, and of course it includes solutions for each. http://news.webdesigner=
+depot.com/?xtl=3D4fxnl8xcj45pvh48h9j9rdsn9sdblwr10inegzet2890xffk2lxn99w=
+xcsbpzfu0wc9in43phmfl2auirjvt1zs3p985q4jcsu6hnirbhpwp0d8shc3cqry6kgr3lpn=
+viqex2kuhsmodnays73i4bcln2qgruzvdlpsg0rg31gg5kstv8h4jhn99uxg&xi=3Dkyle@k=
+ylefisher.com=0A=0ABehind an AI-powered logo maker:=0ALogojoy creator Da=
+wson Whitfield shares how he came up with Logojoy and launched the site=
+ with $7,000 in revenue the first week. Logojoy takes input from users a=
+nd generates logos based on the user's taste using an algorithm. The res=
+ulting logos can then be customized with different fonts, colors, and mo=
+re, with a very robust editor. http://news.webdesignerdepot.com/?xtl=3Dw=
+j6asx0rfv84mclv0seeug8iwit3ln6gynujq1o6yt9k61zbivbj2v2d17vdl02fiv3p955xf=
+5a94ou59w16qnxu60dkknjbovxdlficiirwhmr0e3fbrejxs7aauxzfg7ah8996d51d2esk5=
+tbh8fx&xi=3Dkyle@kylefisher.com=0A=0AA new photo site from Wired:=0AWire=
+d has launched a beautiful new photo site for browsing their most image-=
+heavy content. Photos are displayed horizontally on the home page, with=
+ headlines taking up very little screen real estate. Click on an image t=
+o be taken to the story, complete with huge slideshows showcasing the im=
+ages for the story. Subtle animations as you scroll add to the UX and ov=
+erall design. http://news.webdesignerdepot.com/?xtl=3D3fcqbgg2ko75ckw3ap=
+wjxzotxslu50kgrhgbf019qoxdl42d7oa290rpgtpqnfraikudg6vz45u5njz53oa6p81zym=
+b5c6ss9boirl9wip6x3apdnz838kddjfmgolmlu12v6gx0&xi=3Dkyle@kylefisher.com=
+=0A=0A=0A=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D  =0AGo to WebdesignerDepot.com: http://news.webdesignerd=
+epot.com/?xtl=3D1pb26uc3co4aps1l78726luioo4v40ot6c4oeadp5ybjqr714p5e16qi=
+r7fbib38p286qzq4sxo3hntijx5ydg0d3k318aja9chnhnh5oywzorlo6xg6uye81r40apz&=
+xi=3Dkyle@kylefisher.com=0AAbout: http://news.webdesignerdepot.com/?xtl=
+=3Dd7rezh9j06cihbck5owgjk0f4aez9qcepasdkvbjpgfoawjjba4u30j3rfnvj0tc2bslv=
+rye7wz9pz35b68tbcswxi6uj3sf8bqc3oyuxwaexygevnw53xbrgfe2gec49n22ox0fz&xi=
+=3Dkyle@kylefisher.com=0ADisclaimer: http://news.webdesignerdepot.com/?x=
+tl=3D18x960gvna30qc839zw4q7bu02igjc6u3r659gziac8hqxcrtrgcno2rphm55xzml9m=
+60qafkwij5993f41xd78bw4q5x37xk9pxu071npfe51skw62gnelzxg2mdjk5ulhbmjm4x64=
+twb8lps0w7x2fa5zff3pgfkuqhnv3s4y3vt3&xi=3Dkyle@kylefisher.com=0AAdvertis=
+ing: advertising@webdesignerdepot.com=0ADeals: http://news.webdesignerde=
+pot.com/?xtl=3Dfpl0rx9zw0530jp4501v2f5vz37wq923rt0wa3t9y4qqfd5spfdey21gw=
+vckjvo98307a9eh24x2pbhhwesomowutwi6dbfn9ctjgvy98izy0htgpezpzus2mvo80espi=
+8db5i7z2ehevz5kxih1si0api&xi=3Dkyle@kylefisher.com=0AContact: info@webde=
+signerdepot.com=0A=0ASent to kyle@kylefisher.com=0A=0Aunsubscribe from t=
+his list=0Ahttp://news.webdesignerdepot.com/?xul=3D191v66d8p0p4uqaph5o4c=
+g179fmhvl8nltx7ak3lvycrslwo349&xi=3Dkyle@kylefisher.com=0A=0AFreestyle N=
+etworks Inc. =D0=92=C2=B7 3381 Cambie Street =D0=92=C2=B7 Suite 314 =D0=
+=92=C2=B7 Vancouver, BC V5Z 4R3 =D0=92=C2=B7 Canada=D0=92=C2=A0
+
+--=_1ce1cdbb4a6dcf97985e37e330f59865
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head><title></title><meta content=3D"text/html; chars=
+et=3Dutf-8" http-equiv=3D"Content-Type"><meta content=3D"width=3Ddevice-wid=
+th,initial-scale=3D1" name=3D"viewport"><link href=3D"https://fonts.googlea=
+pis.com/css?family=3DRoboto:400,500,700" rel=3D"stylesheet" type=3D"text/cs=
+s"></head><body style=3D"padding: 0px; margin: 0px; zoom: 1;">
+<style type=3D"text/css">.reverse-row .text-wrap{ float:right; width:512px;=
+ }
+  .reverse-row .img-wrap{ float:left !important; margin-left:0 !important; =
+margin-right:30px; }
+  .reverse-row .pcont-text { margin-right:0 !important;}
+ =20
+  @import url(https://fonts.googleapis.com/css?family=3DRoboto:400,500,700)=
+;
+   =20
+  h1 { font-family: 'Roboto', sans-serif !important; font-weight:500 !impor=
+tant;  }
+  .issue-cell, .hhh-cell { font-family: 'Roboto', sans-serif !important; }
+ =20
+  @media screen and (max-width: 480px), only screen and (device-aspect-rati=
+o: 40/71), only screen and (device-aspect-ratio: 2/3)
+   =20
+   {
+      .nl-top-cell-with-bg { background-position:-300px center; }
+      .prev-logo-cell { display:none;}=20
+      #wdhd-table { margin-bottom:20px; margin-top:0;} =20
+     =20
+      .img-wrap { float:none !important; margin:0 0 10px !important; text-a=
+lign:center; display:block;}
+      .img-wrap a { display:inline-block; width:100%;}
+     =20
+    .gap-cell { width:14px !important;}
+    .post-cell { background:#fff; padding:19px 19px 10px; border:1px solid =
+#ccc;
+    border-radius:6px;
+    -webkit-border-radius:6px;
+    display:block; clear:both;
+    }
+    .post-cell h1 { font-size:20px !important; line-height:25px !important;=
+}
+    .post-cell p { font-size:14px; line-height:21px; }
+    .post-cell img{ width:100%; max-width:100%; height:auto;}
+   =20
+    .pcont-text { margin-right:0px !important;}
+   =20
+    .top-unsub-txt,
+    .hhh-cell, .shd-row , .shd-cell, .sep-row{ display:none;}
+    .hhs-block { width:100% !important;}
+  =20
+      .nl-issue-row table, .nl-issue-row td{ width:100% !important; backgro=
+und:inherit;}
+      .issue-cell span { font-weight:bold; font-size:14px !important; paddi=
+ng-right:10px; }
+   =20
+    .hh-table, .content-table { width:100% !important; max-width:100%;}
+    .content-table { background:#dfdfdf;}
+
+    .art-img-row { display:none;}
+    .art-img-row td{ height:auto;}
+    .art-img-row img { width:100% !important; height:auto !important;}
+    .mid-row { height:14px !important;}
+
+    .fb-img-lnk img, .rss-img-lnk img, .tw-img-lnk img{display:none;}
+  =20
+   =20
+    .footer-row br { display:none;}
+    .footer-row * { font-weight:normal !important;}
+    .footer-row *, .footer-row td{ font-size:4px !important; }
+    .text-chunk-hide { display:none;}
+    .view-online-row { display:none;}
+    .hc-table { margin-top:20px;}
+    .footer-support-row { display:none; }
+   =20
+    table  {max-width:100%; width:100%;}
+  }
+ =20
+ =20
+  @media=20
+(-webkit-min-device-pixel-ratio: 2),=20
+(min-resolution: 192dpi) {=20
+    .nl-top-cell-with-bg {=20
+        background-image:url(http://netdna.webdesignerdepot.com/images/nl/t=
+opnlbgx2.jpg) !important;
+        background-size:cover;
+        -webkit-background-size:cover;
+        -moz-background-size:cover;
+    }
+}
+</style><table bgcolor=3D"#dfdfdf" style=3D"float:left;background-color:#df=
+dfdf;font-family:Arial, sans serif;" width=3D"100%"><tbody><tr><td align=3D=
+"center">
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr=
+ class=3D"view-online-row"><td>
+=09=09=09=09=09=09<table width=3D"100%"><tbody><tr><td align=3D"center" hei=
+ght=3D"60" valign=3D"middle">
+<a data-id=3D"768218235" href=3D"http://news.webdesignerdepot.com/?xtl=3D85=
+vevz8wzo93nckmjal1n1cs3uyonwcu05fp1lzou0eru741vkvzgqv3962n6o29dpk2z9sxt5jr7=
+h0wvg95gwuv572oq3372xtow2z0ydymy235pdpwty298v4bwdzoapnojshugew2v289ystr33v4=
+oyge192&amp;xi=3Dkyle@kylefisher.com" style=3D"text-decoration:underline; c=
+olor:#7F7F7F; font-size:12px;" target=3D"_blank">View this newsletter onlin=
+e</a> &nbsp;&nbsp; <span class=3D"top-unsub-txt"><a data-id=3D"768218236" h=
+ref=3D"http://news.webdesignerdepot.com/?xul=3D191v66d8p0p4uqaph5o4cg179fmh=
+vl8nltx7ak3lvycrslwo349&amp;xi=3Dkyle@kylefisher.com" style=3D"text-decorat=
+ion:underline; color:#7F7F7F; font-size:12px;">Unsubscribe</a></span>
+</td>
+=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09</tr><tr><td class=3D"hh-table" width=3D"730">
+<!-- header-content table -->
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"hh-table hc-table" id=3D"wdhd-table" width=3D"730"><tbody><tr class=
+=3D"nl-img-row"><td background=3D"http://netdna.webdesignerdepot.com/images=
+/nl/topnlbg.png" bgcolor=3D"#1c2227" class=3D"nl-top-cell-with-bg" height=
+=3D"104" style=3D"background-image:url(http://netdna.webdesignerdepot.com/i=
+mages/nl/topnlbg.png); background-repeat:no-repeat;" valign=3D"middle">
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" valig=
+n=3D"middle" width=3D"100%"><tbody><tr><td class=3D"hhh-cell" width=3D"29">=
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"hhh-cell" s=
+tyle=3D"white-space:nowrap;font-size:13px; font-weight:bold;font-family:Ari=
+al, sans serif;color:#f9b248; " width=3D"290"><b><span>NEWSLETTER ISSUE #25=
+4</span></b></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"10"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"prev-logo-c=
+ell" height=3D"60" valign=3D"top" width=3D"210"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"right" class=3D"issue-cell=
+" style=3D"color:#f9b248; white-space:nowrap; font-size:13px; font-weight:b=
+old;font-family:Arial, sans serif;"><strong>DECEMBER 8, 2016</strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr></tbody></table><!-- content -table --><table =
+bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" class=3D"content-ta=
+ble" width=3D"730"><!-- top gap --><tbody><tr class=3D"sep-row"><td height=
+=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218238" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3D1cygoixw6uuck0eoafvnd4w0wkrwvcfpsa2su7ph4iz2b7wjiah=
+9tnlfjz8lethw9j0vv7vbp7m1h6dyvi7ktwhlam7zu0pwjb8pghfhnlz6op1zivnlxtdthcwzgv=
+kqjczbpx6jujs8yzq5t3z0g7me8obbilq4tdov9n6m5hqcl5fsfn&amp;xi=3Dkyle@kylefish=
+er.com" target=3D"_blank"><img align=3D"right" alt=3D"" border=3D"0" height=
+=3D"125" src=3D"http://netdna.webdesignerdepot.com/uploads/2016/12/142.jpg"=
+ style=3D"margin-top:4px;" width=3D"125"></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">Create Product Screenshots=
+ with Smartmockups</h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p>Now you can whip up a product screen=
+shot in less than 10 seconds, all without even using Photoshop. Yep, it's a=
+ snap with the <a data-id=3D"768218239" href=3D"http://news.webdesignerdepo=
+t.com/?xtl=3D1cygoixw6uuck0eoafvnd4w0wkrwckwzjqjqadpk8sbr594k5nvvq2qn710dgv=
+h0jt9zp7q1jzm2erktkyskz9sj20p8kbwcjt9hrjhfczlw4rxd9x66vyvv8wmocn8yiwopwiw61=
+7qia0qm0b36sqm25su7xlds40niw073aw0i7qeyx8&amp;xi=3Dkyle@kylefisher.com" sty=
+le=3D"color:#0c7fd7; text-decoration:none; font-weight:bold;" target=3D"_bl=
+ank">Smartmockup app</a>. Available for MacOS, Windows and Linux, this simp=
+le-to-use app lets you work with more than 300 stunning mockups that you ca=
+n easily upload your product image into, saving you loads of time and money=
+. On sale now for only $14. <a data-id=3D"768218240" href=3D"http://news.we=
+bdesignerdepot.com/?xtl=3D1cygoixw6uuck0eoafvnd4w0wkrwk6nkq5eohnq1o0ddxmakp=
+k7fmeeesqevixgtx1ud778qu3m3bb5ppobkek1grcugrqdij9np0lje5onjiu5gyz0ptdnwxq01=
+y2ughq11e7jqvtpwbpqqwmvo2x9o2wmbn04dc9n9gb7j78z1rzdep1&amp;xi=3Dkyle@kylefi=
+sher.com" style=3D"color:#0c7fd7; text-decoration:none; font-weight:bold;" =
+target=3D"_blank">Learn more</a></p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- separator --><tr class=3D"sep-row"><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td bgcolor=3D"#eeeeee" height=3D"1" style=3D"max-heig=
+ht:1px; font-size:0;"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- top gap --><tr class=3D"sep-row"><td heig=
+ht=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218241" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3D4l3i24jf3ucrq8t9rrsdg7o6x6n8sojv2s4cueybl5hgjq2ykdo=
+4xwnqhwnrgue4gr40099sr8oa7xs9xwko8ntjh4tibfr38a96c4bpfxn9xd4x6v44m517jd&amp=
+;xi=3Dkyle@kylefisher.com" target=3D"_blank"><img align=3D"right" alt=3D"" =
+border=3D"0" height=3D"125" src=3D"http://netdna.webdesignerdepot.com/uploa=
+ds/2016/12/gomix.jpg" style=3D"margin-top:4px;" width=3D"125"></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">Build the app or bot of yo=
+ur dreams</h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p><a data-id=3D"768218242" href=3D"htt=
+p://news.webdesignerdepot.com/?xtl=3D4l3i24jf3ucrq8t9rrsdg7o6x6n90lc8rh5v5s=
+udgitomypr7rmso2ggd2kwfedv83mtazmdczngto2t73cgyr5bmrs9jb061tx85z33f8uj45sxr=
+ll6yr71b2&amp;xi=3Dkyle@kylefisher.com" style=3D"color:#0c7fd7; text-decora=
+tion:none; font-weight:bold;" target=3D"_blank">Gomix</a> is an easy way to=
+ build the bot or app you've always wanted. Remix working apps, then use th=
+e code editor to modify them further. Create games, make Slack bots, build =
+instant websites, create tools for work, use Gomix to learn to code, and mu=
+ch more. There are tons of building blocks to choose from to get started. B=
+est part: apps are free to build.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- separator --><tr class=3D"sep-row"><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td bgcolor=3D"#eeeeee" height=3D"1" style=3D"max-heig=
+ht:1px; font-size:0;"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- top gap --><tr class=3D"sep-row"><td heig=
+ht=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218243" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3Dvp9k0qoeso98gcs9y5d83grkjta3pwalsqgdqd2caer9hugcsho=
+nh0zed3yks30ckyyl8pmajub6v0vj00vv2rirxg06yci0qkh25yqqsomg6cab015a6k5oohzxh3=
+c71pklje&amp;xi=3Dkyle@kylefisher.com" target=3D"_blank"><img align=3D"righ=
+t" alt=3D"" border=3D"0" height=3D"125" src=3D"http://netdna.webdesignerdep=
+ot.com/uploads/2016/12/unicorn.jpg" style=3D"margin-top:4px;" width=3D"125"=
+></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">Can your startup get a bil=
+lion dollar valuation in just 12 months?</h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p>Toggl's <a data-id=3D"768218244" hre=
+f=3D"http://news.webdesignerdepot.com/?xtl=3Dvp9k0qoeso98gcs9y5d83grkjta5xi=
+rfwuarj07lxef383kjpgc8igqwr385wblvhkm49lad0f6si7n0msujzu12el4kihp7vx61h7dir=
+m4y21t26chh4tv4e5ktehhf9s60pa&amp;xi=3Dkyle@kylefisher.com" style=3D"color:=
+#0c7fd7; text-decoration:none; font-weight:bold;" target=3D"_blank">Unicorn=
+ Startup Simulator</a> is a fun and challenging game that puts you in the f=
+ounder's seat of a new tech startup, with the goal of creating a company wi=
+th a billion dollar valuation by the end of your first year. You'll have to=
+ make decisions to grow the value of the company while also keeping your em=
+ployees happy (harder than it sounds).</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- separator --><tr class=3D"sep-row"><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td bgcolor=3D"#eeeeee" height=3D"1" style=3D"max-heig=
+ht:1px; font-size:0;"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- top gap --><tr class=3D"sep-row"><td heig=
+ht=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218245" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3D4fxnl8xcj45pvh48h9j9rdsn83flg83dsjvi0m0w7s7mo8q6vfj=
+xnghn615a2qaqevyqu8btst234rye479asvw2cmmvwngtph6xwwnbbwdsgfl2792a9691ghvgh9=
+wkstm8012l7thrpv5jiswm6bvkl7man67kenmr623v2bbagpq47w9t1qafif9&amp;xi=3Dkyle=
+@kylefisher.com" target=3D"_blank"><img align=3D"right" alt=3D"" border=3D"=
+0" height=3D"125" src=3D"http://netdna.webdesignerdepot.com/uploads/2016/12=
+/micro.jpg" style=3D"margin-top:4px;" width=3D"125"></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">Get better with microinter=
+actions</h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p>Microinteractions are a great way to=
+ take your UX from "okay" to "amazing" and these <a data-id=3D"768218246" h=
+ref=3D"http://news.webdesignerdepot.com/?xtl=3D4fxnl8xcj45pvh48h9j9rdsn83g0=
+q810n4rymbmdsbwe6fukufkl6dhbbv8k5wct5bks48qwjcoe974zbalt9e395v66csoh3b5ea42=
+cl1slgptxzsay7odsy0fxnonaioj4j1wxh85cq897dol9jk9iw2fj502ny0af61013xfnreox1m=
+gwc76tkxu&amp;xi=3Dkyle@kylefisher.com" style=3D"color:#0c7fd7; text-decora=
+tion:none; font-weight:bold;" target=3D"_blank">Best Practices for Microint=
+eractions</a> will give you some great insight into how to actually use mic=
+rointeractions on your sites and apps effectively. Ideas like creating habi=
+t loops and using animated feedback are detailed, among others (including t=
+hings to avoid).</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- separator --><tr class=3D"sep-row"><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td bgcolor=3D"#eeeeee" height=3D"1" style=3D"max-heig=
+ht:1px; font-size:0;"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- top gap --><tr class=3D"sep-row"><td heig=
+ht=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218247" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3Dfpl0rx9zw0530jp4501v2f5vqek7kf6qbsaakhyijqkpvoey3re=
+ptq3v8b810245nvr8nvi68nawnf0p6ln85xhqj2awy2mqkgd73cewzfxaazjpdlk5y7drla7x5o=
+m75rl8x1k8b417h670uo836ertb6&amp;xi=3Dkyle@kylefisher.com" target=3D"_blank=
+"><img align=3D"right" alt=3D"" border=3D"0" height=3D"125" src=3D"http://n=
+etdna.webdesignerdepot.com/uploads/2016/12/optimistic.jpg" style=3D"margin-=
+top:4px;" width=3D"125"></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">What are optimistic UIs?</=
+h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p>You've likely seen <a data-id=3D"768=
+218248" href=3D"http://news.webdesignerdepot.com/?xtl=3Dfpl0rx9zw0530jp4501=
+v2f5vqeknoaejjvaab7rx6ppul6g9nezpzry8k1heyym4v3kgg6ooots7fiz5g7zrroa03sa61h=
+a7t8006xhvkcbv6s28m93ow9nluck04ryq8d8egpke69tbawn4vgnyda4rtr&amp;xi=3Dkyle@=
+kylefisher.com" style=3D"color:#0c7fd7; text-decoration:none; font-weight:b=
+old;" target=3D"_blank">Optimistic UIs</a> (if you use Facebook Messenger, =
+you definitely have) in practice. They're UIs that show the final state bef=
+ore the app has finished (or sometimes even started) the operation. (In Mes=
+senger, this happens when you see your message posted before the little che=
+ckmark showing it's actually reached Facebook's servers shows up, for examp=
+le). This one technique can have a big impact on user happiness.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- separator --><tr class=3D"sep-row"><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td bgcolor=3D"#eeeeee" height=3D"1" style=3D"max-heig=
+ht:1px; font-size:0;"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- top gap --><tr class=3D"sep-row"><td heig=
+ht=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218249" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3Dwj6asx0rfv84mclv0seeug8ir05urclyx24r55tjgygu85jfy2w=
+6l5315hbu8w5j8kh2d90zfld62p09a0v0gi9r4og06yfm9svx2bnsabfa4rnl2pf1u3bag11vpz=
+cf3589xk7v334gouqjbzartbs&amp;xi=3Dkyle@kylefisher.com" target=3D"_blank"><=
+img align=3D"right" alt=3D"" border=3D"0" height=3D"125" src=3D"http://netd=
+na.webdesignerdepot.com/uploads/2016/12/trends.jpg" style=3D"margin-top:4px=
+;" width=3D"125"></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">Where is UX headed in 2017=
+?</h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p><a data-id=3D"768218250" href=3D"htt=
+p://news.webdesignerdepot.com/?xtl=3Dwj6asx0rfv84mclv0seeug8ir05wguxav1x44s=
+oh589mfnqv6d1yv1hwecg1ho3mqnyvcuxzkgbjcnx3ajlc568ndj9aqg20u1mw9r16n7l98rbve=
+f3elpyowjxkxl86mv4oapvc78hf3jgn4ju5if1&amp;xi=3Dkyle@kylefisher.com" style=
+=3D"color:#0c7fd7; text-decoration:none; font-weight:bold;" target=3D"_blan=
+k">The State of UX in 2017</a>, from uxdesign.css, showcases the trends tha=
+t are currently happening and will likely continue into next year. Trends p=
+redicted include the commoditization of UX, words that will no longer be us=
+ed, conversational design, and virtual reality, among a ton of other existi=
+ng and potential trends.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- separator --><tr class=3D"sep-row"><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td bgcolor=3D"#eeeeee" height=3D"1" style=3D"max-heig=
+ht:1px; font-size:0;"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- top gap --><tr class=3D"sep-row"><td heig=
+ht=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218251" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3Dodvinqyqpcyr7bxynhhjthveccqa02kklxu70gep9ijn80oma3s=
+gmyp6aihxq6508pkih1aikc59i7b3rinf1x5avvxqoh2swf8i32ph1wilgbty5f&amp;xi=3Dky=
+le@kylefisher.com" target=3D"_blank"><img align=3D"right" alt=3D"" border=
+=3D"0" height=3D"125" src=3D"http://netdna.webdesignerdepot.com/uploads/201=
+6/12/outline.jpg" style=3D"margin-top:4px;" width=3D"125"></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">A gorgeous real news site<=
+/h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p><a data-id=3D"768218252" href=3D"htt=
+p://news.webdesignerdepot.com/?xtl=3Dodvinqyqpcyr7bxynhhjthveccqbt0fgi6inlj=
+hegpbqtxdgtzb9frcreo3r4xen7wq5exclt0vrh21o0vc75d6ihclu80gk81ht82clbgkmlmpf9=
+0&amp;xi=3Dkyle@kylefisher.com" style=3D"color:#0c7fd7; text-decoration:non=
+e; font-weight:bold;" target=3D"_blank">The Outline</a> is a new kind of ne=
+ws site that juxtaposes real news with a design that's both modern and remi=
+niscent of '90s 'zines and counterculture. The colors are bold and vibrant,=
+ the typography is huge, and they use animations to improve the overall UI =
+and UX. The site was created because they "believe that the right story tol=
+d in the right way can change someone's life."</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- separator --><tr class=3D"sep-row"><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td bgcolor=3D"#eeeeee" height=3D"1" style=3D"max-heig=
+ht:1px; font-size:0;"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- top gap --><tr class=3D"sep-row"><td heig=
+ht=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218253" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3D4fxnl8xcj45pvh48h9j9rdsn83g4m7tc6sxcnam68plgpohbilv=
+kzoxuhuq2quyiapbs3x1s3ibe0gpe4qjdkspai0msc2w96w3bf66el4rt6nh707gr9pjdb7d6fi=
+p0c09nxlbxezrj2cvrl8lxvwq0d7j1754p3n6qzijvn6eeb4cng6vqeblneph&amp;xi=3Dkyle=
+@kylefisher.com" target=3D"_blank"><img align=3D"right" alt=3D"" border=3D"=
+0" height=3D"125" src=3D"http://netdna.webdesignerdepot.com/uploads/2016/12=
+/cards.jpg" style=3D"margin-top:4px;" width=3D"125"></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">Common mistakes when using=
+ cards</h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p><a data-id=3D"768218254" href=3D"htt=
+p://news.webdesignerdepot.com/?xtl=3D4fxnl8xcj45pvh48h9j9rdsn83g4g7ql0ztsy3=
+wptzpo7k0thlxou9xjr0totaal1w1tbwcvx60t5xhzbizwdaihn963i72yiq2iibjg8x505hpcs=
+rsp7ws6sp0j9l3d5hi8v078spc83rybg5qxmf3ko3sm0kkbj0wezhg1o2irmvaezj4utuslg5i&=
+amp;xi=3Dkyle@kylefisher.com" style=3D"color:#0c7fd7; text-decoration:none;=
+ font-weight:bold;" target=3D"_blank">5 Common Mistakes Designers Make When=
+ Using Cards in Design</a>, from Zurb, details some of the most common issu=
+es found in card-based designs. It includes everything from leaving big gap=
+s between different sized content to showing too many cards at once, to try=
+ing to jam too much content into a single card, and of course it includes s=
+olutions for each.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- separator --><tr class=3D"sep-row"><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td bgcolor=3D"#eeeeee" height=3D"1" style=3D"max-heig=
+ht:1px; font-size:0;"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- top gap --><tr class=3D"sep-row"><td heig=
+ht=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218255" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3Dwj6asx0rfv84mclv0seeug8ir05iiozk8kix0kzty7n9d2c68np=
+2adljheoezzqyz94b976tmy1oztarsgw18zt8wuzhr236090ub1dupme7hqsq227br3g4wk3ktz=
+4afo9wzh4qveglhb11aueal11&amp;xi=3Dkyle@kylefisher.com" target=3D"_blank"><=
+img align=3D"right" alt=3D"" border=3D"0" height=3D"125" src=3D"http://netd=
+na.webdesignerdepot.com/uploads/2016/12/logojoy.jpg" style=3D"margin-top:4p=
+x;" width=3D"125"></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">Behind an AI-powered logo =
+maker</h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p><a data-id=3D"768218256" href=3D"htt=
+p://news.webdesignerdepot.com/?xtl=3Dwj6asx0rfv84mclv0seeug8itqamos3ka07ayy=
+b9ebd5pboyq0s8ibree3bsbcglxn372xujrwbhykcexgf2d38tiqe8bv7o3inoa3brafpa2ag7u=
+i89ghvzho51kfjkx5b5w6uhwuj63lpqh9jr1ba&amp;xi=3Dkyle@kylefisher.com" style=
+=3D"color:#0c7fd7; text-decoration:none; font-weight:bold;" target=3D"_blan=
+k">Logojoy</a> creator Dawson Whitfield shares how he came up with Logojoy =
+and launched the site with $7,000 in revenue the first week. Logojoy takes =
+input from users and generates logos based on the user's taste using an alg=
+orithm. The resulting logos can then be customized with different fonts, co=
+lors, and more, with a very robust editor.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- separator --><tr class=3D"sep-row"><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td bgcolor=3D"#eeeeee" height=3D"1" style=3D"max-heig=
+ht:1px; font-size:0;"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- top gap --><tr class=3D"sep-row"><td heig=
+ht=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><!-- entry content cell --><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td class=3D"gap-cell" width=3D"30"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"post-cell" style=3D"color:=
+#333333; font-size:14px; line-height:20px;font-family:Arial, sans serif;" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"img-wrap" style=3D"float:=
+right; margin-left:30px;"><a data-id=3D"768218257" href=3D"http://news.webd=
+esignerdepot.com/?xtl=3D3fcqbgg2ko75ckw3apwjxzotwflndtvk74lii6tbxg6uvtmsd62=
+6ewslhab1bzzhn9mwq23m23bfifjkbccjpkj2zcea5o4yj1y0a1wush2s6nwkm5q66eoct5jv8e=
+p8v5tud8fe&amp;xi=3Dkyle@kylefisher.com" target=3D"_blank"><img align=3D"ri=
+ght" alt=3D"" border=3D"0" height=3D"125" src=3D"http://netdna.webdesignerd=
+epot.com/uploads/2016/12/wired.jpg" style=3D"margin-top:4px;" width=3D"125"=
+></a></div>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-family:&quot;Helvetic=
+aNeueBold&quot;, &quot;HelveticaNeue-Bold&quot;, &quot;Helvetica Neue Bold&=
+quot;, helvetica, arial, sans serif;color:#201f1f; font-size:22px; font-wei=
+ght:bold; line-height:25px; margin:0 0 -10px 0;">A new photo site from Wire=
+d</h1>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"pcont-text" style=3D"marg=
+in-right:140px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<p><a data-id=3D"768218258" href=3D"htt=
+p://news.webdesignerdepot.com/?xtl=3D3fcqbgg2ko75ckw3apwjxzotwflo7odt1m73ks=
+mcj8j8e6eywoxfdxsu8rm4soz6ek9ojjyu0l4ogvblp50x5aa7abx66s4t7csyflwuszuliu5zl=
+j54s2gwvmyezixst6f4yqxr&amp;xi=3Dkyle@kylefisher.com" style=3D"color:#0c7fd=
+7; text-decoration:none; font-weight:bold;" target=3D"_blank">Wired</a> has=
+ launched a beautiful new photo site for browsing their most image-heavy co=
+ntent. Photos are displayed horizontally on the home page, with headlines t=
+aking up very little screen real estate. Click on an image to be taken to t=
+he story, complete with huge slideshows showcasing the images for the story=
+. Subtle animations as you scroll add to the UX and overall design.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"gap-cell" width=3D"30"></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><!-- bottom gap --><tr class=3D"mid-row"><td h=
+eight=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><tr class=3D"sep-row"><td height=3D"30"></td>
+=09=09=09=09=09=09=09=09</tr><tr><td>
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"10" cellspacing=3D"0" widt=
+h=3D"100%"><tbody><tr><td width=3D"10"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" bgcolor=3D"#efefef=
+" style=3D"font-size:15px; border:1px solid #ddd; color:#000; font-weight:b=
+old; font-style:italic;">Want more cool news? <a data-id=3D"768218259" href=
+=3D"http://news.webdesignerdepot.com/?xtl=3Dcp9ljvmn1288xsa9k0nul358lptfyo2=
+4hweym10uwnjj71xtg433nzsk1vzewh0l0il2olbr2yxk93kfw0b93zxir3pv0xqate8ri6qdon=
+2hfdom1cjnpmzhu6uyrlzg13yf9bysf8ys0f1sh2g14ywxadyuy88eu4z7w2n3qazgcifgvp7j5=
+kcf18bc6hruokj4rwim5m&amp;xi=3Dkyle@kylefisher.com&amp;email=3Dkyle@kylefis=
+her.com" style=3D"color:#0c7fd7; text-decoration:none; font-weight:bold;">C=
+lick here</a> to automatically subscribe to WebdesignerNews...</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"10"></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr><tr class=3D"sep-row"><td height=3D"60"></td>
+=09=09=09=09=09=09=09=09</tr><tr bgcolor=3D"#dfdfdf" class=3D"shd-row"><td =
+height=3D"18"></td>
+=09=09=09=09=09=09=09=09</tr><tr bgcolor=3D"#dfdfdf" class=3D"footer-row"><=
+td align=3D"center" style=3D"color:#666; font-size:12px; font-weight:bold;f=
+ont-family:Arial, sans serif;">
+<a data-id=3D"768218260" href=3D"http://news.webdesignerdepot.com/?xtl=3D1p=
+b26uc3co4aps1l78726luio3fc023u0beb12trzcnhmduo3pq5pytierhryiimkkjzcmop605c3=
+wkqww7y0q0whs2li2knrcqovkzr65kijyxpp66yih4j3y9mu5g&amp;xi=3Dkyle@kylefisher=
+.com" style=3D"color:#666;text-decoration:none;" target=3D"_blank">Go to We=
+bdesignerDepot.com</a>&nbsp; | &nbsp;<a data-id=3D"768218261" href=3D"http:=
+//news.webdesignerdepot.com/?xtl=3Dd7rezh9j06cihbck5owgjk0f057w6evh07s2ft3h=
+ppskf9z21y8949tx5vu572c7015szsreakwttdqxx59rj7fl1jsgoayvqbklp8w98oyc4fovd7q=
+b89o4kcsbdlv1tp9c8enja&amp;xi=3Dkyle@kylefisher.com" style=3D"color:#666;te=
+xt-decoration:none;" target=3D"_blank">About</a> &nbsp;| &nbsp;<a data-id=
+=3D"768218262" href=3D"http://news.webdesignerdepot.com/?xtl=3D18x960gvna30=
+qc839zw4q7btlhscllw74qu6vjxkvzb6ryh3c48aoacla53mg2yf6bei4ekseilh4ezhu61bu19=
+o950fx9q88hlmhgwzrbl7h2ytgjhjj967u6rhtzfzjm6nizoqqje9v100zkzqaf30qjm1w2o522=
+1vji4c6sfp2x8&amp;xi=3Dkyle@kylefisher.com" style=3D"color:#666;text-decora=
+tion:none;" target=3D"_blank">Disclaimer</a> &nbsp;|&nbsp; <a data-id=3D"76=
+8218263" href=3D"mailto:advertising@webdesignerdepot.com" style=3D"color:#6=
+66;text-decoration:none;" target=3D"_blank">Advertising</a>&nbsp; | &nbsp;<=
+a data-id=3D"768218264" href=3D"http://news.webdesignerdepot.com/?xtl=3Dfpl=
+0rx9zw0530jp4501v2f5vu6upsgi9n11qr5r5v8n8tvzvw9crypt26c3lyyi2mhfqlvu284qxd4=
+0iypz5naf8bsgh0tu6ld73zb59gk97vrse49qhwq8tzj7qbokh2chzwnau55haterd1k3ms0q3j=
+v&amp;xi=3Dkyle@kylefisher.com" style=3D"color:#666;text-decoration:none;" =
+target=3D"_blank">Deals</a> &nbsp;| &nbsp;<a data-id=3D"768218265" href=3D"=
+mailto:info@webdesignerdepot.com" style=3D"color:#666;text-decoration:none;=
+" target=3D"_blank">Contact</a>
+</td>
+=09=09=09=09=09=09=09=09</tr><tr bgcolor=3D"#dfdfdf"><td height=3D"8"></td>
+=09=09=09=09=09=09=09=09</tr><tr bgcolor=3D"#dfdfdf" class=3D"footer-row"><=
+td align=3D"center" style=3D"color:#666; font-size:12px;font-family:Arial, =
+sans serif;">Has this newsletter been forwarded to you? <a data-id=3D"76821=
+8266" href=3D"http://news.webdesignerdepot.com/?xtl=3Dmxcn0bc1n51eu2xt3s26h=
+ea2rfqpnkdcwslatkhynkcuttfxepitz427dwk1ubey9rm2uvtl4ss2409emyuw724d7afysnyx=
+w8hsxl8hwwvxe4jtgax5r4t157qlqih38a80mev0hyoufj7jz&amp;xi=3Dkyle@kylefisher.=
+com" style=3D"color:#666; text-decoration:underline; font-weight:bold; text=
+-decoration:none;" target=3D"_blank">Subscribe to the WDD newsletter</a>
+</td>
+=09=09=09=09=09=09=09=09</tr><tr bgcolor=3D"#dfdfdf"><td height=3D"8"></td>
+=09=09=09=09=09=09=09=09</tr><tr bgcolor=3D"#dfdfdf" class=3D"footer-row"><=
+td align=3D"center" style=3D"font-family:Arial, sans serif; font-size:12px;=
+ font-weight:bold; color:#666;">
+<a class=3D"fb-img-lnk" data-id=3D"768218267" href=3D"http://news.webdesign=
+erdepot.com/?xtl=3D127e5i3rd9057y9lfgpyo5xh3gaoka2v10bqu6cpbqpk3oyeerm2qvuw=
+60u0xn7f0yq1v8da7xp87s05bohtixpdj40kupmqqetxkbs0nmnwjlgshzi1cbab4t5j0m06fkd=
+bvtetb9ifl&amp;xi=3Dkyle@kylefisher.com" style=3D"color:#666;text-decoratio=
+n:none;" target=3D"_blank">Find us on Facebook</a> &nbsp; | &nbsp; <a class=
+=3D"tw-img-lnk" data-id=3D"768218268" href=3D"http://news.webdesignerdepot.=
+com/?xtl=3D1jf11qxw094jgmxz4t1wy27376r2fb1gj61crcm4uf97zoese287ilym58y1fkrw=
+0hhp5thrgc1cc083ie91enfk652ui5rc177yemw469ykxswbbuyn6mwc9jeeoowyx6&amp;xi=
+=3Dkyle@kylefisher.com" style=3D"color:#666;text-decoration:none;" target=
+=3D"_blank">Follow us on Twitter</a> &nbsp; | &nbsp; <a class=3D"rss-img-ln=
+k" data-id=3D"768218269" href=3D"http://news.webdesignerdepot.com/?xtl=3D36=
+qcvfw6ngtclpxasy3tdauyzyvzpas5tkt3p6rvh2dkl49x72rszyqlqsqll3lbbfouzmicpk3z5=
+vf9scj8y33ah2ltmcdjat5q2eloap7pv8u19j9p3kf5mjikmbfdjht8c1bu68w1h564nbhm0z04=
+od0d69dblj9dmxt&amp;xi=3Dkyle@kylefisher.com" style=3D"color:#666;text-deco=
+ration:none;" target=3D"_blank">RSS Feed</a>
+</td>
+=09=09=09=09=09=09=09=09</tr></tbody></table><!-- end of content table --><=
+/td>
+=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09<!-- main inner cell -->
+=09=09</tr><tr class=3D"shd-row"><td height=3D"30"></td>
+=09=09</tr></tbody></table><center>
+<br><br><br><br><br>
+&nbsp;
+<table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" id=3D"canspamBarWr=
+apper" style=3D"background:#EEEEEE  !important; border-top:1px solid #DDDDD=
+D; clear:both;" width=3D"100%"><tbody><tr><td align=3D"center" style=3D"pad=
+ding-bottom:0;" valign=3D"top">
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"cans=
+pamBar" style=3D"max-width:600px;"><tbody><tr><td align=3D"left" style=3D"c=
+olor:#505050 !important;font-family:Verdana,Arial,Sans !important;font-size=
+:11px !important;font-weight:normal !important;font-style:normal !important=
+;text-decoration:none !important;vertical-align:top !important;text-align:l=
+eft !important;" valign=3D"top">
+<br>
+=09=09=09=09=09=09Sent to kyle@kylefisher.com<br><a data-id=3D"768218270" h=
+ref=3D"http://news.webdesignerdepot.com/?xul=3D191v66d8p0p4uqaph5o4cg179fmh=
+vl8nltx7ak3lvycrslwo349&amp;xi=3Dkyle@kylefisher.com" style=3D"font-family:=
+Verdana,Arial,Sans !important;font-size:11px !important;font-weight:normal =
+!important;font-style:normal !important;text-decoration:none !important;col=
+or:#336699 !important;">unsubscribe from this list</a><br>
+=09=09=09=09=09=09Freestyle Networks Inc. =C2=B7 3381 Cambie Street =C2=B7 =
+Suite 314 =C2=B7 Vancouver, BC V5Z 4R3 =C2=B7 Canada</td>
+=09=09=09=09=09=09<td align=3D"left" valign=3D"top"></td>
+=09=09=09=09=09</tr></tbody></table></td>
+=09=09</tr></tbody></table></center>
+
+
+
+<img src=3D"http://news.webdesignerdepot.com/?xol=3Drgfrksq38hh1jjil44&amp;=
+xi=3Dkyle@kylefisher.com" alt=3D"" width=3D"1" height=3D"1">
+
+<img src=3D"http://trk.email.dynect.net/trk.php?a=3D/o2/0/d7QrxTRFtn4lczhQR=
+TDXwgc4URJi9f%2BH7sNlzkXR0cYAeuJ6%2F2PC%2F2FITZZLIuzgcE1iy8L1XUPcUo8IesW4XP=
+XJ1i6F%2Frbt1ojcnet2U5JY%2FoQRkKTpIQ%3D%3D/i.gif&amp;i=3D20161208143434.000=
+0006d0708%40mail6-58-usnbn1&amp;x=3DMHwxMDc5OTc0Om9KU2NvVHloTWw0bVl3Vm1BbDU=
+2QlRxZ3BGNGtxUU0yTGw1aXFUdXlwYVpoWkpBNE1KVmhvM2JrWXp1dk1GNDQ7" alt=3D"" wid=
+th=3D"2" height=3D"2"></body></html>
+--=_1ce1cdbb4a6dcf97985e37e330f59865--

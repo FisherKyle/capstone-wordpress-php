@@ -1,0 +1,252 @@
+/* Every Design - PC
+ *-------------------------------------------------- */
+.cp-modal-body.cp-modal-every-design,
+.cp-modal-every-design .cp-modal-body {
+    background-color: transparent;   /*  border-radius: inherit; */
+}
+
+.cp-modal-every-design .cp-text-container {
+    padding: 20px 20px;
+    text-align: center;
+}
+
+.cp-modal-every-design .cp-short-desc-container {
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.cp-modal-every-design .cp-short-description {
+    color: #43A78D;
+    font-size: 20px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    line-height: 1em;
+    font-weight: 600;
+}
+
+.cp-modal-every-design .default-form {
+    padding: 0 7%;
+}
+
+.cp-modal-every-design .cp-desc-container {
+    padding: 0px 20px;
+}
+
+.cp-modal-every-design .cp-title-container {
+    margin-bottom: 10px;
+}
+
+.cp-modal-every-design .cp-title,
+.cp-modal-every-design h1.cp-title {
+    margin: 0;
+    font-size: 52px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    line-height: 1.15em;
+    font-weight: 600;
+    color: rgb(104, 104, 104);
+}
+
+.cp-modal-every-design .cp-form-container,
+.ccp-modal-every-design .cp-desc-container,
+.cp-modal-every-design .cp-description {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 24px;
+    line-height: 1.25em;
+    color: rgb(103, 103, 103);
+}
+
+.cp-modal-every-design .cp-info-container {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: rgb(68, 68, 68);
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0;
+    font-size: 14px;
+}
+
+.cp-modal-every-design .form-main {
+    max-width: 85%;
+    margin: 0 auto;
+    float: none;
+}
+
+.cp-modal-every-design .cp-submit {
+    background-color: rgb(3, 177, 133);
+    color: #FFF;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.38em;
+   /*  border-radius: 3px; */
+    outline: none;
+}
+
+.cp-modal-every-design .cp-email-form,
+.cp-modal-every-design .cp-name-form,
+.cp-modal-every-design .cp_form_content {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.cp-modal-every-design .cp-email-form.col-md-8.cp_big_email {
+    padding-right: 15px;
+}
+
+.cp-modal-every-design .cp-form-container.cp-no-padding,
+.cp-modal-every-design .cp-form-container {
+    padding-bottom: 10px;
+}
+
+.cp-modal-every-design .cp-form-container.cp-center-align-text {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.cp-modal-every-design .form-button {
+    padding-right: 0;
+}
+
+.cp-modal-every-design .cp-modal-window-size .cp-modal-body,
+.cp-modal-window-size .cp-modal-body.cp-optin-to-win {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.cp-modal-every-design .cp-form-container.cp-resp-form {
+    padding: 0 20px;
+}
+
+.cp-modal-every-design .cp-formwith-name>div,
+.cp-modal-every-design .cp-form-simple .form-button {
+    padding-left: 0;
+}
+
+.cp-modal-every-design .cp-name-btn {
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.cp-modal-every-design .cp-formwith-name .cp-form {
+    margin-bottom: 10px;
+}
+
+.cp-modal-every-design form#smile-optin-form {
+    margin-bottom: 0;
+}
+
+.cp-modal-every-design .cp_simple_submit,
+.cp-modal-every-design .cp_name_submit {
+    display: block;
+    margin-right: 15px;
+}
+
+.cp-modal-every-design .cp-info-container .error,
+.cp-modal-every-design .cp-info-container .success {
+    width: 100%;
+    max-width: 90%;
+    padding: 20px 15px;
+    margin-left: 0;
+    margin: 0 auto;
+}
+
+.cp-modal-every-design .col-lg-8.cp_form_content {
+    padding-right: 15px;
+}
+
+.cp-modal-every-design .cp_form_content.cp_form_btn_onsame_line {
+    padding-right: 15px;
+}
+
+@media (max-width:1200px) {
+    .cp-modal-every-design .col-lg-8.cp_form_content {
+        padding-right: 0px;
+    }
+
+    .cp-modal-every-design .cp_form_content.cp_form_btn_onsame_line {
+        padding-right: 15px;
+    }
+
+}
+
+@media (max-width:768px) {
+    .cp-modal-body.cp-modal-every-design {
+        text-align: center;
+    }
+
+    .cp-modal-every-design .col-lg-8.cp_form_content {
+        padding-right: 0px;
+    }
+
+    .cp-modal-every-design .cp-modal-window-size .cp-modal-body,
+    .cp-modal-window-size .cp-modal-body.cp-modal-every-design {
+        max-width: 100%;
+    }
+
+    .cp-modal-every-design.cp-formwith-name .form-button {
+        width: 100%;
+    }
+
+    .cp-modal-every-design .cp-formwith-name>div {
+        padding-left: 0;
+        padding-right: 0;
+        width: 100%;
+    }
+
+    /* .cp-modal .cp-modal-every-design .cp-submit {
+        width: 100%;
+    }
+     */
+    .cp-modal-every-design .cp_form_content.cp_form_btn_onsame_line {
+        padding-right: 0px;
+    }
+
+    .cp-modal-every-design .cp-form-container {
+        padding: 0 10px;
+    }
+
+    .cp-modal-every-design .cp-email-form,
+    .cp-modal-every-design .cp-name-form,
+    .cp-modal-every-design .cp_form_content {
+        padding: 0;
+    }
+
+    .cp-modal-every-design .cp-info-container .error,
+    .cp-modal-every-design .cp-info-container .success {
+        max-width: 100%;
+    }
+
+    .cp-modal-every-design .cp-right-contain {
+        float: left;
+    }
+
+    .cp-modal-every-design .form-button {
+        padding-right: 0;
+        display: block;
+        width: 100%;
+        float: left;
+        margin-top: 0;
+    }
+
+     .cp-modal-every-design .form-main {
+        max-width: 100%;
+    }
+
+}
+.cp-modal-every-design-container .cp-overlay-close span{
+        font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+@media (max-width:610px) {
+    .cp-modal-every-design .form-button {
+        padding-right: 0;
+        display: block;
+        width: 100%;
+        float: left;
+    }
+
+    .cp-modal-every-design .cp-info-container {
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+}

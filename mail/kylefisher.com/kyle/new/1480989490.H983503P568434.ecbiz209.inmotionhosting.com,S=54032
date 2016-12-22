@@ -1,0 +1,1413 @@
+Return-path: <bounce+4e469c.8eddcb-kyle=kylefisher.com@forum.epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 05 Dec 2016 20:58:10 -0500
+Received: from mail-s48.mailgun.us ([184.173.153.48]:13844)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+4e469c.8eddcb-kyle=kylefisher.com@forum.epicodus.com>)
+	id 1cE51G-002Nrb-TL
+	for kyle@kylefisher.com; Mon, 05 Dec 2016 20:58:10 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=forum.epicodus.com; q=dns/txt;
+ s=mailo; t=1480989489; h=List-Unsubscribe: Content-Transfer-Encoding:
+ Content-Type: Mime-Version: Subject: Message-ID: To: Reply-To: From:
+ Date: Sender; bh=esctriJbYmhl3kbgTDk9TtAZozQvZT9ADiJ+/lvSML4=; b=KwYfgLmJf74XwoRLV5K85Tl0mjgqixtN3yJGFcLDSxhxghu8+NGUyPKFnF2+oTNf/nf2XFZi
+ 61Ul/mUfpdB+qk99VTyxs48xyiUnDxBDBoJqwTYC+JWVsr9MvQVI1bpzXVSpDBJkhAcl84Zi
+ KLRubhxrl41tqE+Fm5EALfYqPvc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=forum.epicodus.com;
+ s=mailo; q=dns; h=Sender: Date: From: Reply-To: To: Message-ID:
+ Subject: Mime-Version: Content-Type: Content-Transfer-Encoding:
+ List-Unsubscribe;
+ b=SfAN4hKbh+0ymgSe2OEcuD1R7nwtMvALjBjlux4CXetrl48GDWMfBGm0FyBtU/0Y9AhfUP
+ EfYE0Rbm/3rd07UDeaeLoN06JuW0mvOQorqQnqu7c5vXYsm3EI7F1eJHTOmhY/G9AVeD93ZA
+ qyGbNqRD8xjf1Rit7DHVoqQoAC1Gw=
+Sender: noreply@forum.epicodus.com
+X-Mailgun-Sending-Ip: 184.173.153.48
+X-Mailgun-Sid: WyI4Y2Q0NiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgIjhlZGRjYiJd
+Received: from localhost.localdomain (forum.epicodus.com [104.236.200.211])
+ by mxa.mailgun.org with ESMTP id 58461b31.7f04328572f0-in06;
+ Tue, 06 Dec 2016 01:58:09 -0000 (UTC)
+Date: Tue, 06 Dec 2016 01:58:09 +0000
+From: Epicodus Forum summary <noreply@forum.epicodus.com>
+Reply-To: Epicodus Forum summary <noreply@forum.epicodus.com>
+To: kyle@kylefisher.com
+Message-ID: <a069cf26-4f5b-4170-ac7e-6eaa41421b13@forum.epicodus.com>
+Subject: [Epicodus Forum] Summary
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_58461b31423dc_3ac23fb3b9b17a54119283";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://forum.epicodus.com/email/unsubscribe/248bac95eaff358331fb55bfeb5b1272bb9a08cf23bc0cea0e2c34e71ddffc84>
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+
+
+----==_mimepart_58461b31423dc_3ac23fb3b9b17a54119283
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+A brief summary of [Epicodus Forum][1] since your last visit on August 5
+
+6 New Topics
+6 New Posts
+11 New Users
+
+-------------------------------------------------------------------------=
+-------
+
+### Popular Topics
+
+[Trying to grok Context, references, and/or Garbage Collections? Worried =
+about memory leaks? (Java/Android)][2]
+
+ Haven't checked up here in a while - I am an alumna from the Java/Androi=
+d cohort that finished in May 2016. I've been trying to understand variou=
+s references and when to use them and was sent this article by my mentor.=
+ It's helpful, though a little hard to follow at parts. =
+
+
+Medium - Enrique L=C3=B3pez Ma=C3=B1as - Finally understanding how refere=
+nces work in Android and Java =
+
+
+-Midori
+-------------------------------------------------------------------------=
+-------
+
+
+[Room Available ASAP (December 2016) - ($650 month to month)][3]
+
+ If anyone is looking for a room or knows of anyone looking, Let me know =
+as there's a spot available in my house next to Mount Tabor/Division. Les=
+s than 30 mins bus to Epicodus ($650 per month).
+-------------------------------------------------------------------------=
+-------
+
+
+[CSS shortcuts. Write less do more!][4]
+
+ Check out these cool css shortcuts. I haven't gone through them all but =
+they look like huge time savers. (Install emmet as an Atom package.) =
+
+
+https://designshack.net/articles/css/7-awesome-emmet-html-time-saving-tip=
+s/ :v: =
+
+
+Cheat Sheet =
+
+
+To auto create a div enter the class name (with a period) then press tab.=
+ =
+
+
+Ex: .test[tab] =3D <div class=3D"test"></div>
+-------------------------------------------------------------------------=
+-------
+
+
+[Experience Virtual Reality][5]
+
+ Interested in experiencing VR? Portland Immersive Media Group is having =
+a showing of VR experiences on Monday, December 5th from 6-10pm.   Locati=
+on is at: Portland Community Media- 2766 NE Martin Luther King Jr. Blvd.,=
+ Portland, Oregon 97212. =
+
+
+Facebook page for the event: https://www.facebook.com/events/116235346718=
+4429/ =
+
+
+Come check out what Wolfgang and I worked on for the past 6 weeks.(sorry =
+for the short notice).
+-------------------------------------------------------------------------=
+-------
+
+
+[Tips for CSS Class - Uploading SASS projects live through GitHub][6]
+
+ So, in class today I wanted to try and publish my SASS project as a test=
+er since this weeks code review is gonna be involving SASS. I did the nor=
+mal creating a gh-pages branch in GitHub and low and behold the live link=
+ doesn't work.  =
+
+
+I went to Stack Overflow and found the solution -- change your publish so=
+urce to master-branch! =
+
+
+
+Go to your repository's settings
+Scroll Down to Github Pages
+Click the "Source" drop down.
+Select "master-branch" from the drop down if its not selected by default.=
+ =
+
+Hit "Save"
+
+
+Voila! Visit your link after a min or so (takes a few mins for GitHub to =
+publish). Happy Coding!
+-------------------------------------------------------------------------=
+-------
+
+
+
+
+### Popular Posts
+
+nicholas.mead.93 From [Pre-Bootcamp (C# .NET) Study Guides/Practices][7]
+
+ For interview style algorithm questions, I recommend having the C# docum=
+entation and google up on separate tabs and just power through LeetCode/H=
+ackerrank problems. For .NET, fire up Visual Studio and play around with =
+it a bit. When you get comfortable enough, find a few tutorials that will=
+ walk you through building a basic CRUD app like a To Do list or somethin=
+g. Afterwards, try deploying it on Heroku or another platform. =
+
+
+-Good Luck!
+-------------------------------------------------------------------------=
+-------
+
+Jstone11six From [Intros for 2017 January - Portland classes][8]
+
+ Hey y'all,  =
+
+
+Justin here. I am 26 year old Portland suburb native that just moved back=
+ from Fort Riley, Kansas back in July as my wife got off Active Duty Army=
+. I currently serve as Military Police in the Army National Guard. I am e=
+mployed at the Clackamas County District Attorney's Office and Simply Mac=
+ at the Clackamas Town Center. I am a basketball fanatic, avid gamer, mus=
+ic listening, Mac loving, scooter riding, and husband and father to my 17=
+ month old son named Kyler. I also have a funny looking Pug/rat terrier d=
+og named Thor. I have always been interested in coding but lack the self =
+motivation to "make the time" at home or in a traditional school environm=
+ent. I am really excited to finally have some direction in my life and a =
+huge goal to work towards and learn in an environment that I feel is bett=
+er suited for my skills and abilities and attention span. I am easy going=
+ and love to work in groups, pairs or individually. I look forward to mee=
+ting new people and making new friend...
+-------------------------------------------------------------------------=
+-------
+
+
+**New in topics and categories you follow**
+
+* [Housing for February Cohort][9] - 1 - [New Students (Intros, Housing, =
+etc.)]
+
+
+
+[1]: http://forum.epicodus.com/
+[2]: http://forum.epicodus.com/t/trying-to-grok-context-references-and-or=
+-garbage-collections-worried-about-memory-leaks-java-android/1194
+[3]: http://forum.epicodus.com/t/room-available-asap-december-2016-650-mo=
+nth-to-month/1195
+[4]: http://forum.epicodus.com/t/css-shortcuts-write-less-do-more/1196
+[5]: http://forum.epicodus.com/t/experience-virtual-reality/1206
+[6]: http://forum.epicodus.com/t/tips-for-css-class-uploading-sass-projec=
+ts-live-through-github/1208
+[7]: http://forum.epicodus.com/t/pre-bootcamp-c-net-study-guides-practice=
+s/1183
+[8]: http://forum.epicodus.com/t/intros-for-2017-january-portland-classes=
+/1065
+[9]: http://forum.epicodus.com/t/housing-for-february-cohort/1207
+
+
+
+This summary is sent from [Epicodus Forum][1] when we haven't seen you in=
+ a while. To unsubscribe [click here][10].
+
+[10]: http://forum.epicodus.com/email/unsubscribe/248bac95eaff358331fb55b=
+feb5b1272bb9a08cf23bc0cea0e2c34e71ddffc84
+
+
+
+
+----==_mimepart_58461b31423dc_3ac23fb3b9b17a54119283
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<body>
+
+
+
+  <meta http-equiv=3D"Content-type" name=3D"viewport" content=3D"initial-=
+scale=3D1.0, maximum-scale=3D1.0, user-scalable=3Dno, width=3Ddevice-widt=
+h">
+  <title></title>
+
+
+
+
+<!--[if mso]>
+<style type=3D"text/css">
+body, table, td, th, h1, h2, h3 {font-family: Helvetica, Arial, sans-seri=
+f !important;}
+</style>
+<![endif]-->
+
+<span style=3D"display:none!important;color:#f3f3f3;font-size:1px;line-he=
+ight:1px;max-height:0;max-width:0;mso-hide:all!important;opacity:0;overfl=
+ow:hidden;visibility:hidden">
+  A brief summary since your last visit on August 5
+</span>
+
+<table style=3D"background-color:#ffffff;width:100%;">
+  <tr>
+    <td align=3D"center" style=3D"text-align: center;padding: 20px 0;">
+
+  <a href=3D"http://forum.epicodus.com" style=3D"text-decoration: none; f=
+ont-weight: bold; color: #006699;; color:#333333;font-size:28px;text-deco=
+ration:none;">
+    <img src=3D"http://static1.squarespace.com/static/5524448ee4b0d6f6b83=
+ab9e2/t/5759a4c71bbee022293505cd/1466190401806/" height=3D"40" style=3D"c=
+lear:both;display:block;height:40px;margin:auto;max-width:100%;outline:0;=
+text-decoration:none;" alt=3D"Epicodus Forum">
+  </a>
+
+    </td>
+  </tr>
+</table>
+
+<table style=3D"width:100%;background:#f3f3f3;padding:0;border-spacing:0;=
+font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:200;lin=
+e-height:1.3;vertical-align:top;">
+  <tr>
+    <td style=3D"width:5%;vertical-align:top;padding:0;">
+      <div style=3D"background-color:#2F70AC;">
+        <table style=3D"border-spacing:0;padding:0;width:100%">
+          <tbody>
+            <tr>
+              <td height=3D"400px" style=3D"height:400px;border-collapse:=
+collapse!important;margin:0;mso-line-height-rule:exactly;padding:0;">=C2=A0=
+</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </td>
+    <td style=3D"vertical-align:top;padding:0;font-family:Helvetica,Arial=
+,sans-serif;">
+      <table align=3D"center" style=3D"border-spacing:0;background:#fefef=
+e;background-color:#2F70AC;margin:0;padding:0;text-align:inherit;vertical=
+-align:top;width:100%">
+        <tbody>
+          <tr>
+            <td style=3D"border-collapse:collapse!important;color:#0a0a0a=
+;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;wo=
+rd-wrap:normal">
+
+<br>
+<center style=3D"color:#fff;font-size:28px;font-weight:400;">Since your l=
+ast visit</center>
+
+
+
+<table style=3D"table-layout:fixed;margin-bottom:20px;padding:0;vertical-=
+align:top;width:100%">
+<tbody>
+  <tr>
+      <td style=3D"text-align:center;color:#fff;font-size:3em;font-weight=
+:400;">
+        <strong>6</strong>
+      </td>
+      <td style=3D"text-align:center;color:#fff;font-size:3em;font-weight=
+:400;">
+        <strong>6</strong>
+      </td>
+      <td style=3D"text-align:center;color:#fff;font-size:3em;font-weight=
+:400;">
+        <strong>11</strong>
+      </td>
+  </tr>
+  <tr>
+      <td style=3D"color:#fff;font-size:16px;font-weight:400;text-align:c=
+enter;">
+        <strong>New Topics</strong>
+      </td>
+      <td style=3D"color:#fff;font-size:16px;font-weight:400;text-align:c=
+enter;">
+        <strong>New Posts</strong>
+      </td>
+      <td style=3D"color:#fff;font-size:16px;font-weight:400;text-align:c=
+enter;">
+        <strong>New Users</strong>
+      </td>
+  </tr>
+</tbody>
+</table>
+
+<center style=3D"color:#fff;font-size:28px;font-weight:400;margin-bottom:=
+ 8px;">Popular Topics</center>
+
+
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table align=3D"center" style=3D"border-spacing:0;background:#fefef=
+e;margin:0;padding:0;text-align:center;vertical-align:top;width:100%">
+        <tbody>
+          <tr>
+            <td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;border-co=
+llapse:collapse!important;color:#0a0a0a;hyphens:auto;line-height:1.3;marg=
+in:0;padding:0;text-align:left;vertical-align:top;word-wrap:normal">
+
+<!--   Beginning of Popular Topic   -->
+<table style=3D"width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"margin:0;padding:0 0 0 16px;text-align:left;vertical-a=
+lign:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin: 20px 0 0 0;">
+          <a href=3D"http://forum.epicodus.com/c/general-chatter" style=3D=
+"text-decoration: none; font-weight: bold; color: #006699;; font-size: 0.=
+857em; white-space: nowrap; display: inline-block; position: relative; li=
+ne-height: 1; margin-right: 10px;"><span style=3D"background-color: #3AB5=
+4A;display: inline-block; width: 10px; height: 10px;"></span><span style=3D=
+"color: #FFFFFF;color: #222222 !important; vertical-align: text-top; line=
+-height: 1; margin-left: 4px; padding-left: 2px; display: inline;max-widt=
+h: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-close=3D"=
+true" title=3D"Everything else. Remember to always be kind.">General Chat=
+ter</span></a>
+        </p>
+      </td>
+      <td style=3D"margin:0;padding: 0 16px 0 0;text-align:right;vertical=
+-align:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin:20px 0 0 0;font-=
+weight:400;">
+          December 1
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"padding: 0 8px 8px 16px; text-align:left; width:100%;"=
+>
+        <h2 style=3D"font-size:24px;font-weight:400;line-height:1.3;margi=
+n:0 0 10px 0;padding:0;word-wrap:normal">
+          <a href=3D"http://forum.epicodus.com/t/trying-to-grok-context-r=
+eferences-and-or-garbage-collections-worried-about-memory-leaks-java-andr=
+oid/1194" style=3D"text-decoration: none; font-weight: bold; color: #0066=
+99;; color:#2F70AC;font-weight:400;line-height:1.3;margin:0;padding:0;tex=
+t-decoration:none">
+            <strong>Trying to grok Context, references, and/or Garbage Co=
+llections? Worried about memory leaks? (Java/Android)</strong>
+          </a>
+        </h2>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;position:relative;text-align:left;vertical-alig=
+n:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;margin:0 auto;padding:0 =
+8px 0 16px;width:60px;">
+        <img src=3D"http://forum.epicodus.com/user_avatar/forum.epicodus.=
+com/midori_p_bowen/45/371_1.png" style=3D"border-radius:50%;clear:both;di=
+splay:block;float:none;height:50px;width:50px;margin:0;max-width:100%;out=
+line:0;text-align:center;text-decoration:none;" align=3D"center">
+      </td>
+      <td style=3D"color:#0a0a0a;padding:0 16px 0 8px;text-align:left;">
+        <h6 style=3D"color:inherit;font-size:18px;font-weight:400;line-he=
+ight:1.3;margin:0;padding:0;word-wrap:normal;">midori_p_bowen</h6>
+          <p style=3D"color:#8f8f8f;line-height:1.3;margin:0 0 16px 0;pad=
+ding:0;">Midori</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"border-bottom:1px solid #f3f3f3;padding:0;text-align:left=
+;vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;padding:0 16px 16px 16px=
+;text-align:left;width:100%;font-weight:normal;">
+        <p>Haven't checked up here in a while - I am an alumna from the J=
+ava/Android cohort that finished in May 2016. I've been trying to underst=
+and various references and when to use them and was sent this article by =
+my mentor. It's helpful, though a little hard to follow at parts.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;text-align:left;vertical-align:top;width:100%; =
+margin-top:20px;">
+  <tbody>
+    <tr style=3D"vertical-align:top;">
+      <td style=3D"padding:0 8px 16px 16px;text-align:left;white-space: n=
+owrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/heart.png" st=
+yle=3D"clear:both;display:inline-block;float:left;height:20px;margin:0;ma=
+x-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">1</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/comment.png" =
+style=3D"clear:none;display:inline-block;float:left;height:20px;margin:0;=
+max-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+            <img src=3D"http://forum.epicodus.com/user_avatar/forum.epico=
+dus.com/midori_p_bowen/45/371_1.png" style=3D"border-radius:50%;clear:bot=
+h;display:inline-block;height:20px;width:20px;outline:0;text-decoration:n=
+one;">
+      </td>
+      <td style=3D"line-height:1.3;padding:0 16px 0 8px;text-align:right;=
+white-space: nowrap;vertical-align: top;">
+        <a href=3D"http://forum.epicodus.com/t/trying-to-grok-context-ref=
+erences-and-or-garbage-collections-worried-about-memory-leaks-java-androi=
+d/1194" style=3D"text-decoration: none; font-weight: bold; color: #006699=
+;; width:100%;background-color:#2199e8;color:#fff;text-decoration:none;pa=
+dding:8px 16px;white-space: nowrap;">
+          Read More
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<div style=3D"background-color:#f3f3f3;">
+  <table style=3D"padding:0;width:100%">
+    <tbody><tr><td height=3D"20px" style=3D"border-collapse:collapse!impo=
+rtant;line-height:20px;margin:0;mso-line-height-rule:exactly;padding:0;">=
+=C2=A0</td></tr></tbody>
+  </table>
+</div>
+<!--   End of Popular Topic   -->
+
+
+
+<!--   Beginning of Popular Topic   -->
+<table style=3D"width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"margin:0;padding:0 0 0 16px;text-align:left;vertical-a=
+lign:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin: 20px 0 0 0;">
+          <a href=3D"http://forum.epicodus.com/c/general-chatter" style=3D=
+"text-decoration: none; font-weight: bold; color: #006699;; font-size: 0.=
+857em; white-space: nowrap; display: inline-block; position: relative; li=
+ne-height: 1; margin-right: 10px;"><span style=3D"background-color: #3AB5=
+4A;display: inline-block; width: 10px; height: 10px;"></span><span style=3D=
+"color: #FFFFFF;color: #222222 !important; vertical-align: text-top; line=
+-height: 1; margin-left: 4px; padding-left: 2px; display: inline;max-widt=
+h: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-close=3D"=
+true" title=3D"Everything else. Remember to always be kind.">General Chat=
+ter</span></a>
+        </p>
+      </td>
+      <td style=3D"margin:0;padding: 0 16px 0 0;text-align:right;vertical=
+-align:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin:20px 0 0 0;font-=
+weight:400;">
+          December 1
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"padding: 0 8px 8px 16px; text-align:left; width:100%;"=
+>
+        <h2 style=3D"font-size:24px;font-weight:400;line-height:1.3;margi=
+n:0 0 10px 0;padding:0;word-wrap:normal">
+          <a href=3D"http://forum.epicodus.com/t/room-available-asap-dece=
+mber-2016-650-month-to-month/1195" style=3D"text-decoration: none; font-w=
+eight: bold; color: #006699;; color:#2F70AC;font-weight:400;line-height:1=
+.3;margin:0;padding:0;text-decoration:none">
+            <strong>Room Available ASAP (December 2016) - ($650 month to =
+month)</strong>
+          </a>
+        </h2>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;position:relative;text-align:left;vertical-alig=
+n:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;margin:0 auto;padding:0 =
+8px 0 16px;width:60px;">
+        <img src=3D"http://forum.epicodus.com/letter_avatar_proxy/v2/lett=
+er/s/7cd45c/45.png" style=3D"border-radius:50%;clear:both;display:block;f=
+loat:none;height:50px;width:50px;margin:0;max-width:100%;outline:0;text-a=
+lign:center;text-decoration:none;" align=3D"center">
+      </td>
+      <td style=3D"color:#0a0a0a;padding:0 16px 0 8px;text-align:left;">
+        <h6 style=3D"color:inherit;font-size:18px;font-weight:400;line-he=
+ight:1.3;margin:0;padding:0;word-wrap:normal;">spburden</h6>
+          <p style=3D"color:#8f8f8f;line-height:1.3;margin:0 0 16px 0;pad=
+ding:0;">spburden</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"border-bottom:1px solid #f3f3f3;padding:0;text-align:left=
+;vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;padding:0 16px 16px 16px=
+;text-align:left;width:100%;font-weight:normal;">
+        <p>If anyone is looking for a room or knows of anyone looking, Le=
+t me know as there's a spot available in my house next to Mount Tabor/Div=
+ision. Less than 30 mins bus to Epicodus ($650 per month).</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;text-align:left;vertical-align:top;width:100%; =
+margin-top:20px;">
+  <tbody>
+    <tr style=3D"vertical-align:top;">
+      <td style=3D"padding:0 8px 16px 16px;text-align:left;white-space: n=
+owrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/heart.png" st=
+yle=3D"clear:both;display:inline-block;float:left;height:20px;margin:0;ma=
+x-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/comment.png" =
+style=3D"clear:none;display:inline-block;float:left;height:20px;margin:0;=
+max-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+            <img src=3D"http://forum.epicodus.com/letter_avatar_proxy/v2/=
+letter/s/7cd45c/45.png" style=3D"border-radius:50%;clear:both;display:inl=
+ine-block;height:20px;width:20px;outline:0;text-decoration:none;">
+      </td>
+      <td style=3D"line-height:1.3;padding:0 16px 0 8px;text-align:right;=
+white-space: nowrap;vertical-align: top;">
+        <a href=3D"http://forum.epicodus.com/t/room-available-asap-decemb=
+er-2016-650-month-to-month/1195" style=3D"text-decoration: none; font-wei=
+ght: bold; color: #006699;; width:100%;background-color:#2199e8;color:#ff=
+f;text-decoration:none;padding:8px 16px;white-space: nowrap;">
+          Read More
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<div style=3D"background-color:#f3f3f3;">
+  <table style=3D"padding:0;width:100%">
+    <tbody><tr><td height=3D"20px" style=3D"border-collapse:collapse!impo=
+rtant;line-height:20px;margin:0;mso-line-height-rule:exactly;padding:0;">=
+=C2=A0</td></tr></tbody>
+  </table>
+</div>
+<!--   End of Popular Topic   -->
+
+
+
+<!--   Beginning of Popular Topic   -->
+<table style=3D"width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"margin:0;padding:0 0 0 16px;text-align:left;vertical-a=
+lign:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin: 20px 0 0 0;">
+          <a href=3D"http://forum.epicodus.com/c/general-chatter" style=3D=
+"text-decoration: none; font-weight: bold; color: #006699;; font-size: 0.=
+857em; white-space: nowrap; display: inline-block; position: relative; li=
+ne-height: 1; margin-right: 10px;"><span style=3D"background-color: #3AB5=
+4A;display: inline-block; width: 10px; height: 10px;"></span><span style=3D=
+"color: #FFFFFF;color: #222222 !important; vertical-align: text-top; line=
+-height: 1; margin-left: 4px; padding-left: 2px; display: inline;max-widt=
+h: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-close=3D"=
+true" title=3D"Everything else. Remember to always be kind.">General Chat=
+ter</span></a>
+        </p>
+      </td>
+      <td style=3D"margin:0;padding: 0 16px 0 0;text-align:right;vertical=
+-align:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin:20px 0 0 0;font-=
+weight:400;">
+          December 1
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"padding: 0 8px 8px 16px; text-align:left; width:100%;"=
+>
+        <h2 style=3D"font-size:24px;font-weight:400;line-height:1.3;margi=
+n:0 0 10px 0;padding:0;word-wrap:normal">
+          <a href=3D"http://forum.epicodus.com/t/css-shortcuts-write-less=
+-do-more/1196" style=3D"text-decoration: none; font-weight: bold; color: =
+#006699;; color:#2F70AC;font-weight:400;line-height:1.3;margin:0;padding:=
+0;text-decoration:none">
+            <strong>CSS shortcuts. Write less do more!</strong>
+          </a>
+        </h2>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;position:relative;text-align:left;vertical-alig=
+n:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;margin:0 auto;padding:0 =
+8px 0 16px;width:60px;">
+        <img src=3D"http://forum.epicodus.com/user_avatar/forum.epicodus.=
+com/larrydeantun/45/1050_1.png" style=3D"border-radius:50%;clear:both;dis=
+play:block;float:none;height:50px;width:50px;margin:0;max-width:100%;outl=
+ine:0;text-align:center;text-decoration:none;" align=3D"center">
+      </td>
+      <td style=3D"color:#0a0a0a;padding:0 16px 0 8px;text-align:left;">
+        <h6 style=3D"color:inherit;font-size:18px;font-weight:400;line-he=
+ight:1.3;margin:0;padding:0;word-wrap:normal;">larrydeantun</h6>
+          <p style=3D"color:#8f8f8f;line-height:1.3;margin:0 0 16px 0;pad=
+ding:0;">larrydeantun</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"border-bottom:1px solid #f3f3f3;padding:0;text-align:left=
+;vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;padding:0 16px 16px 16px=
+;text-align:left;width:100%;font-weight:normal;">
+        <p>Check out these cool css shortcuts. I haven't gone through the=
+m all but they look like huge time savers.<br>(Install emmet as an Atom p=
+ackage.)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;text-align:left;vertical-align:top;width:100%; =
+margin-top:20px;">
+  <tbody>
+    <tr style=3D"vertical-align:top;">
+      <td style=3D"padding:0 8px 16px 16px;text-align:left;white-space: n=
+owrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/heart.png" st=
+yle=3D"clear:both;display:inline-block;float:left;height:20px;margin:0;ma=
+x-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/comment.png" =
+style=3D"clear:none;display:inline-block;float:left;height:20px;margin:0;=
+max-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+            <img src=3D"http://forum.epicodus.com/user_avatar/forum.epico=
+dus.com/larrydeantun/45/1050_1.png" style=3D"border-radius:50%;clear:both=
+;display:inline-block;height:20px;width:20px;outline:0;text-decoration:no=
+ne;">
+      </td>
+      <td style=3D"line-height:1.3;padding:0 16px 0 8px;text-align:right;=
+white-space: nowrap;vertical-align: top;">
+        <a href=3D"http://forum.epicodus.com/t/css-shortcuts-write-less-d=
+o-more/1196" style=3D"text-decoration: none; font-weight: bold; color: #0=
+06699;; width:100%;background-color:#2199e8;color:#fff;text-decoration:no=
+ne;padding:8px 16px;white-space: nowrap;">
+          Read More
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<div style=3D"background-color:#f3f3f3;">
+  <table style=3D"padding:0;width:100%">
+    <tbody><tr><td height=3D"20px" style=3D"border-collapse:collapse!impo=
+rtant;line-height:20px;margin:0;mso-line-height-rule:exactly;padding:0;">=
+=C2=A0</td></tr></tbody>
+  </table>
+</div>
+<!--   End of Popular Topic   -->
+
+
+
+<!--   Beginning of Popular Topic   -->
+<table style=3D"width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"margin:0;padding:0 0 0 16px;text-align:left;vertical-a=
+lign:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin: 20px 0 0 0;">
+          <a href=3D"http://forum.epicodus.com/c/social-activities" style=
+=3D"text-decoration: none; font-weight: bold; color: #006699;; font-size:=
+ 0.857em; white-space: nowrap; display: inline-block; position: relative;=
+ line-height: 1; margin-right: 10px;"><span style=3D"background-color: #F=
+7941D;display: inline-block; width: 10px; height: 10px;"></span><span sty=
+le=3D"color: #FFFFFF;color: #222222 !important; vertical-align: text-top;=
+ line-height: 1; margin-left: 4px; padding-left: 2px; display: inline;max=
+-width: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-clos=
+e=3D"true" title=3D"Going to a great new Meet-up? Forming a study group? =
+Getting together for dinner and drinks with classmates and friends? Let e=
+veryone know all the details here!">Social Activities</span></a>
+        </p>
+      </td>
+      <td style=3D"margin:0;padding: 0 16px 0 0;text-align:right;vertical=
+-align:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin:20px 0 0 0;font-=
+weight:400;">
+          December 5
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"padding: 0 8px 8px 16px; text-align:left; width:100%;"=
+>
+        <h2 style=3D"font-size:24px;font-weight:400;line-height:1.3;margi=
+n:0 0 10px 0;padding:0;word-wrap:normal">
+          <a href=3D"http://forum.epicodus.com/t/experience-virtual-reali=
+ty/1206" style=3D"text-decoration: none; font-weight: bold; color: #00669=
+9;; color:#2F70AC;font-weight:400;line-height:1.3;margin:0;padding:0;text=
+-decoration:none">
+            <strong>Experience Virtual Reality</strong>
+          </a>
+        </h2>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;position:relative;text-align:left;vertical-alig=
+n:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;margin:0 auto;padding:0 =
+8px 0 16px;width:60px;">
+        <img src=3D"http://forum.epicodus.com/letter_avatar_proxy/v2/lett=
+er/t/5f8ce5/45.png" style=3D"border-radius:50%;clear:both;display:block;f=
+loat:none;height:50px;width:50px;margin:0;max-width:100%;outline:0;text-a=
+lign:center;text-decoration:none;" align=3D"center">
+      </td>
+      <td style=3D"color:#0a0a0a;padding:0 16px 0 8px;text-align:left;">
+        <h6 style=3D"color:inherit;font-size:18px;font-weight:400;line-he=
+ight:1.3;margin:0;padding:0;word-wrap:normal;">thefencingflutist</h6>
+          <p style=3D"color:#8f8f8f;line-height:1.3;margin:0 0 16px 0;pad=
+ding:0;">Joel Delight</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"border-bottom:1px solid #f3f3f3;padding:0;text-align:left=
+;vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;padding:0 16px 16px 16px=
+;text-align:left;width:100%;font-weight:normal;">
+        <p>Interested in experiencing VR?<br>Portland Immersive Media Gro=
+up is having a showing of VR experiences on Monday, December 5th from 6-1=
+0pm. <br> Location is at: Portland Community Media- 2766 NE Martin Luther=
+ King Jr. Blvd., Portland, Oregon 97212.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;text-align:left;vertical-align:top;width:100%; =
+margin-top:20px;">
+  <tbody>
+    <tr style=3D"vertical-align:top;">
+      <td style=3D"padding:0 8px 16px 16px;text-align:left;white-space: n=
+owrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/heart.png" st=
+yle=3D"clear:both;display:inline-block;float:left;height:20px;margin:0;ma=
+x-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/comment.png" =
+style=3D"clear:none;display:inline-block;float:left;height:20px;margin:0;=
+max-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+            <img src=3D"http://forum.epicodus.com/letter_avatar_proxy/v2/=
+letter/t/5f8ce5/45.png" style=3D"border-radius:50%;clear:both;display:inl=
+ine-block;height:20px;width:20px;outline:0;text-decoration:none;">
+      </td>
+      <td style=3D"line-height:1.3;padding:0 16px 0 8px;text-align:right;=
+white-space: nowrap;vertical-align: top;">
+        <a href=3D"http://forum.epicodus.com/t/experience-virtual-reality=
+/1206" style=3D"text-decoration: none; font-weight: bold; color: #006699;=
+; width:100%;background-color:#2199e8;color:#fff;text-decoration:none;pad=
+ding:8px 16px;white-space: nowrap;">
+          Read More
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<div style=3D"background-color:#f3f3f3;">
+  <table style=3D"padding:0;width:100%">
+    <tbody><tr><td height=3D"20px" style=3D"border-collapse:collapse!impo=
+rtant;line-height:20px;margin:0;mso-line-height-rule:exactly;padding:0;">=
+=C2=A0</td></tr></tbody>
+  </table>
+</div>
+<!--   End of Popular Topic   -->
+
+
+
+<!--   Beginning of Popular Topic   -->
+<table style=3D"width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"margin:0;padding:0 0 0 16px;text-align:left;vertical-a=
+lign:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin: 20px 0 0 0;">
+          <a href=3D"http://forum.epicodus.com/c/general-chatter" style=3D=
+"text-decoration: none; font-weight: bold; color: #006699;; font-size: 0.=
+857em; white-space: nowrap; display: inline-block; position: relative; li=
+ne-height: 1; margin-right: 10px;"><span style=3D"background-color: #3AB5=
+4A;display: inline-block; width: 10px; height: 10px;"></span><span style=3D=
+"color: #FFFFFF;color: #222222 !important; vertical-align: text-top; line=
+-height: 1; margin-left: 4px; padding-left: 2px; display: inline;max-widt=
+h: 150px; overflow: hidden; text-overflow: ellipsis;" data-drop-close=3D"=
+true" title=3D"Everything else. Remember to always be kind.">General Chat=
+ter</span></a>
+        </p>
+      </td>
+      <td style=3D"margin:0;padding: 0 16px 0 0;text-align:right;vertical=
+-align:top;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin:20px 0 0 0;font-=
+weight:400;">
+          December 5
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"padding: 0 8px 8px 16px; text-align:left; width:100%;"=
+>
+        <h2 style=3D"font-size:24px;font-weight:400;line-height:1.3;margi=
+n:0 0 10px 0;padding:0;word-wrap:normal">
+          <a href=3D"http://forum.epicodus.com/t/tips-for-css-class-uploa=
+ding-sass-projects-live-through-github/1208" style=3D"text-decoration: no=
+ne; font-weight: bold; color: #006699;; color:#2F70AC;font-weight:400;lin=
+e-height:1.3;margin:0;padding:0;text-decoration:none">
+            <strong>Tips for CSS Class - Uploading SASS projects live thr=
+ough GitHub</strong>
+          </a>
+        </h2>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;position:relative;text-align:left;vertical-alig=
+n:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;margin:0 auto;padding:0 =
+8px 0 16px;width:60px;">
+        <img src=3D"http://forum.epicodus.com/user_avatar/forum.epicodus.=
+com/amberf0712/45/791_1.png" style=3D"border-radius:50%;clear:both;displa=
+y:block;float:none;height:50px;width:50px;margin:0;max-width:100%;outline=
+:0;text-align:center;text-decoration:none;" align=3D"center">
+      </td>
+      <td style=3D"color:#0a0a0a;padding:0 16px 0 8px;text-align:left;">
+        <h6 style=3D"color:inherit;font-size:18px;font-weight:400;line-he=
+ight:1.3;margin:0;padding:0;word-wrap:normal;">amberf0712</h6>
+          <p style=3D"color:#8f8f8f;line-height:1.3;margin:0 0 16px 0;pad=
+ding:0;">Amber Farrington</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"border-bottom:1px solid #f3f3f3;padding:0;text-align:left=
+;vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;padding:0 16px 16px 16px=
+;text-align:left;width:100%;font-weight:normal;">
+        <p>So, in class today I wanted to try and publish my SASS project=
+ as a tester since this weeks code review is gonna be involving SASS. I d=
+id the normal creating a gh-pages branch in GitHub and low and behold the=
+ live link doesn't work. </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"padding:0;text-align:left;vertical-align:top;width:100%; =
+margin-top:20px;">
+  <tbody>
+    <tr style=3D"vertical-align:top;">
+      <td style=3D"padding:0 8px 16px 16px;text-align:left;white-space: n=
+owrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/heart.png" st=
+yle=3D"clear:both;display:inline-block;float:left;height:20px;margin:0;ma=
+x-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+        <img src=3D"http://forum.epicodus.com/images/emails/comment.png" =
+style=3D"clear:none;display:inline-block;float:left;height:20px;margin:0;=
+max-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:0 8px 16px 8px;text-align:left;white-space: no=
+wrap;vertical-align: top;">
+            <img src=3D"http://forum.epicodus.com/user_avatar/forum.epico=
+dus.com/amberf0712/45/791_1.png" style=3D"border-radius:50%;clear:both;di=
+splay:inline-block;height:20px;width:20px;outline:0;text-decoration:none;=
+">
+      </td>
+      <td style=3D"line-height:1.3;padding:0 16px 0 8px;text-align:right;=
+white-space: nowrap;vertical-align: top;">
+        <a href=3D"http://forum.epicodus.com/t/tips-for-css-class-uploadi=
+ng-sass-projects-live-through-github/1208" style=3D"text-decoration: none=
+; font-weight: bold; color: #006699;; width:100%;background-color:#2199e8=
+;color:#fff;text-decoration:none;padding:8px 16px;white-space: nowrap;">
+          Read More
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<div style=3D"background-color:#f3f3f3;">
+  <table style=3D"padding:0;width:100%">
+    <tbody><tr><td height=3D"20px" style=3D"border-collapse:collapse!impo=
+rtant;line-height:20px;margin:0;mso-line-height-rule:exactly;padding:0;">=
+=C2=A0</td></tr></tbody>
+  </table>
+</div>
+<!--   End of Popular Topic   -->
+
+
+
+
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td style=3D"width:5%;vertical-align:top;padding:0;">
+      <!-- Blue background that goes down part-way behind content -->
+      <div style=3D"background-color:#2F70AC;">
+        <table style=3D"border-spacing:0;padding:0;width:100%">
+          <tbody>
+            <tr>
+              <td height=3D"400px" style=3D"height:400px;border-collapse:=
+collapse!important;margin:0;mso-line-height-rule:exactly;padding:0;">=C2=A0=
+</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+<table style=3D"background-color: #f3f3f3; width: 100%;">
+  <tr>
+    <td>
+      <h1 style=3D"color:#0a0a0a;font-size:28px;line-height:1.3;text-alig=
+n:center;">
+        Popular Posts
+      </h1>
+    </td>
+  </tr>
+</table>
+
+<table style=3D"width:100%;background:#f3f3f3;border-spacing:0;border-col=
+lapse:collapse!important;font-family:Helvetica,Arial,sans-serif;font-size=
+:16px;font-weight:200;line-height:1.3;padding:0;text-align:left;vertical-=
+align:top;">
+  <tr>
+    <td style=3D"width:5%;padding:0;">=C2=A0</td>
+    <td align=3D"center" valign=3D"top" style=3D"width:90%;border-collaps=
+e:collapse!important;line-height:1.3;margin:0;padding:0;text-align:left;v=
+ertical-align:top;">
+
+
+<!--   Beginning of Popular Post   -->
+<table style=3D"width:100%;background:#fefefe;border-spacing:0;padding:0;=
+text-align:left;vertical-align:top;">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;font-weight:200;padding:=
+16px;text-align:left;width:100%;">
+        <p>For interview style algorithm questions, I recommend having th=
+e C# documentation and google up on separate tabs and just power through =
+LeetCode/Hackerrank problems. For .NET, fire up Visual Studio and play ar=
+ound with it a bit. When you get comfortable enough, find a few tutorials=
+ that will walk you through building a basic CRUD app like a To Do list o=
+r something. Afterwards, try deploying it on Heroku or another platform.<=
+/p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"border-spacing:0;background-color:#f3f3f3;padding:0;text-=
+align:left;vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"border-spacing:0;padding:0;color:#0a0a0a;line-height:1=
+.3;padding:0 0 0 65px;text-align:left;">
+        <img src=3D"http://forum.epicodus.com/images/emails/right_triangl=
+e.png" style=3D"clear:both;display:block;height:20px;width:20px;outline:0=
+;text-decoration:none;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"background-color:#f3f3f3;padding:0;position:relative;text=
+-align:left;vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"padding:0 8px 8px 8px;text-align:left;width:60px;verti=
+cal-align:top;">
+        <img src=3D"http://forum.epicodus.com/user_avatar/forum.epicodus.=
+com/nicholas.mead.93/45/1279_1.png" style=3D"border-radius:50%;clear:both=
+;display:block;height:50px;width:50px;outline:0;">
+      </td>
+      <td style=3D"color:#0a0a0a;line-height:1.3;padding:0 8px 8px 8px;ve=
+rtical-align:top;">
+        <h6 style=3D"color:inherit;font-size:16px;font-weight:400;margin:=
+0;padding:0;text-align:left;word-wrap:normal;">nicholas.mead.93</h6>
+        <p style=3D"color:#8f8f8f;font-size:16px;line-height:1.3;margin:0=
+;padding:0;text-align:left;">nicholas.mead.93</p>
+      </td>
+      <td style=3D"color:#0a0a0a;line-height:1.3;padding:0 8px 8px 8px;te=
+xt-align:right;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin:0 0 10px 0;paddi=
+ng:0;text-align:right;">
+          From
+          <a href=3D"http://forum.epicodus.com/t/pre-bootcamp-c-net-study=
+-guides-practices/1183/3" style=3D"text-decoration: none; font-weight: bo=
+ld; color: #006699;; color:#2199e8;font-weight:400;line-height:1.3;margin=
+:0;padding:0;text-align:left;text-decoration:none">Pre-Bootcamp (C# .NET)=
+ Study Guides/Practices</a>
+        </p>
+        <a href=3D"http://forum.epicodus.com/t/pre-bootcamp-c-net-study-g=
+uides-practices/1183/3" style=3D"text-decoration: none; font-weight: bold=
+; color: #006699;; width:100%;background-color:#2199e8;color:#fff;text-de=
+coration:none;padding:8px 16px;white-space: nowrap;">
+          Read More
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div style=3D"background-color:#f3f3f3">
+  <table style=3D"padding:0;text-align:left;vertical-align:top;width:100%=
+">
+    <tbody><tr><td height=3D"40px" style=3D"-moz-hyphens:auto;-webkit-hyp=
+hens:auto;border-collapse:collapse!important;color:#0a0a0a;font-size:40px=
+;font-weight:400;hyphens:auto;line-height:40px;margin:0;mso-line-height-r=
+ule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:normal=
+">=C2=A0</td></tr></tbody>
+  </table>
+</div>
+<!--   End of Popular Post   -->
+
+
+<!--   Beginning of Popular Post   -->
+<table style=3D"width:100%;background:#fefefe;border-spacing:0;padding:0;=
+text-align:left;vertical-align:top;">
+  <tbody>
+    <tr>
+      <td style=3D"color:#0a0a0a;line-height:1.3;font-weight:200;padding:=
+16px;text-align:left;width:100%;">
+        <p>Hey y'all, </p>
+<p>Justin here. I am 26 year old Portland suburb native that just moved b=
+ack from Fort Riley, Kansas back in July as my wife got off Active Duty A=
+rmy. I currently serve as Military Police in the Army National Guard. I a=
+m employed at the Clackamas County District Attorney's Office and Simply =
+Mac at the Clackamas Town Center. I am a basketball fanatic, avid gamer, =
+music listening, Mac loving, scooter riding, and husband and father to my=
+ 17 month old son named Kyler. I also have a funny looking Pug/rat terrie=
+r dog named Thor. I have always been interested in coding but lack the se=
+lf motivation to "make the time" at home or in a traditional school envir=
+onment. I am really excited to finally have some direction in my life and=
+ a huge goal to work towards and learn in an environment that I feel is b=
+etter suited for my skills and abilities and attention span. I am easy go=
+ing and love to work in groups, pairs or individually. I look forward to =
+meeting new people and making new friends as we get through this new jour=
+ney together! </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"border-spacing:0;background-color:#f3f3f3;padding:0;text-=
+align:left;vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"border-spacing:0;padding:0;color:#0a0a0a;line-height:1=
+.3;padding:0 0 0 65px;text-align:left;">
+        <img src=3D"http://forum.epicodus.com/images/emails/right_triangl=
+e.png" style=3D"clear:both;display:block;height:20px;width:20px;outline:0=
+;text-decoration:none;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D"background-color:#f3f3f3;padding:0;position:relative;text=
+-align:left;vertical-align:top;width:100%">
+  <tbody>
+    <tr>
+      <td style=3D"padding:0 8px 8px 8px;text-align:left;width:60px;verti=
+cal-align:top;">
+        <img src=3D"http://forum.epicodus.com/letter_avatar_proxy/v2/lett=
+er/j/d26b3c/45.png" style=3D"border-radius:50%;clear:both;display:block;h=
+eight:50px;width:50px;outline:0;">
+      </td>
+      <td style=3D"color:#0a0a0a;line-height:1.3;padding:0 8px 8px 8px;ve=
+rtical-align:top;">
+        <h6 style=3D"color:inherit;font-size:16px;font-weight:400;margin:=
+0;padding:0;text-align:left;word-wrap:normal;">Jstone11six</h6>
+        <p style=3D"color:#8f8f8f;font-size:16px;line-height:1.3;margin:0=
+;padding:0;text-align:left;">Justin Stofiel</p>
+      </td>
+      <td style=3D"color:#0a0a0a;line-height:1.3;padding:0 8px 8px 8px;te=
+xt-align:right;">
+        <p style=3D"color:#8f8f8f;line-height:1.3;margin:0 0 10px 0;paddi=
+ng:0;text-align:right;">
+          From
+          <a href=3D"http://forum.epicodus.com/t/intros-for-2017-january-=
+portland-classes/1065/7" style=3D"text-decoration: none; font-weight: bol=
+d; color: #006699;; color:#2199e8;font-weight:400;line-height:1.3;margin:=
+0;padding:0;text-align:left;text-decoration:none">Intros for 2017 January=
+ - Portland classes</a>
+        </p>
+        <a href=3D"http://forum.epicodus.com/t/intros-for-2017-january-po=
+rtland-classes/1065/7" style=3D"text-decoration: none; font-weight: bold;=
+ color: #006699;; width:100%;background-color:#2199e8;color:#fff;text-dec=
+oration:none;padding:8px 16px;white-space: nowrap;">
+          Read More
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div style=3D"background-color:#f3f3f3">
+  <table style=3D"padding:0;text-align:left;vertical-align:top;width:100%=
+">
+    <tbody><tr><td height=3D"40px" style=3D"-moz-hyphens:auto;-webkit-hyp=
+hens:auto;border-collapse:collapse!important;color:#0a0a0a;font-size:40px=
+;font-weight:400;hyphens:auto;line-height:40px;margin:0;mso-line-height-r=
+ule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:normal=
+">=C2=A0</td></tr></tbody>
+  </table>
+</div>
+<!--   End of Popular Post   -->
+
+
+
+
+
+  <center style=3D"color:#0a0a0a;font-size:28px;font-weight:400;margin-bo=
+ttom: 8px;">New in topics and categories you follow</center>
+
+
+
+
+<table style=3D"padding:0;text-align:left;vertical-align:top;width:100%">=
+
+  <tbody>
+
+
+<!--   Begin new topic  -->
+    <tr style=3D"vertical-align:top;">
+      <td style=3D"padding:8px;text-align:left;">
+        <p style=3D"background:#2F70AC;border-radius:50%;color:#fff;heigh=
+t:30px;line-height:30px;margin:0 0 10px 0;padding:0;text-align:center;wid=
+th:30px;">
+          1
+        </p>
+      </td>
+      <td style=3D"padding:8px;text-align:left;">
+        <a href=3D"http://forum.epicodus.com/t/housing-for-february-cohor=
+t/1207" style=3D"text-decoration: none; font-weight: bold; color: #006699=
+;; color:#2F70AC;font-weight:400;line-height:1.3;margin:0;padding:0;text-=
+decoration:none">
+          <strong>Housing for February Cohort</strong>
+        </a>
+        <p style=3D"color:#0a0a0a;line-height:1.3;margin:0 0 10px 0;paddi=
+ng:0;text-align:left">
+          <a href=3D"http://forum.epicodus.com/c/new-students-intros-hous=
+ing-etc" style=3D"text-decoration: none; font-weight: bold; color: #00669=
+9;; font-size: 0.857em; white-space: nowrap; display: inline-block; posit=
+ion: relative; line-height: 1; margin-right: 10px;"><span style=3D"backgr=
+ound-color: #B3B5B4;display: inline-block; width: 10px; height: 10px;"></=
+span><span style=3D"color: #FFFFFF;color: #222222 !important; vertical-al=
+ign: text-top; line-height: 1; margin-left: 4px; padding-left: 2px; displ=
+ay: inline;max-width: 150px; overflow: hidden; text-overflow: ellipsis;" =
+data-drop-close=3D"true" title=3D"New around here? Please introduce yours=
+elf, share info about housing, find roommates, etc.">New Students (Intros=
+, Housing, etc.)</span></a>
+        </p>
+      </td>
+      <td style=3D"padding:8px;text-align:left;">
+            <img src=3D"http://forum.epicodus.com/letter_avatar_proxy/v2/=
+letter/o/bbe5ce/45.png" style=3D"height:20px;width:20px;margin:0 5px 5px =
+0;border-radius:50%;clear:both;display:inline-block;outline:0;text-decora=
+tion:none;">
+      </td>
+      <td style=3D"padding:8px;text-align:left;">
+        <img src=3D"http://forum.epicodus.com/images/emails/heart.png" st=
+yle=3D"clear:both;display:inline-block;float:left;height:20px;margin:0;ma=
+x-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+      <td style=3D"padding:8px;text-align:left;">
+        <img src=3D"http://forum.epicodus.com/images/emails/comment.png" =
+style=3D"clear:none;display:inline-block;float:left;height:20px;margin:0;=
+max-width:100%;opacity:.4;outline:0;text-decoration:none;width:auto">
+        <p style=3D"color:#8f8f8f;float:left;line-height:1.3;margin:0 5px=
+ 10px 5px;padding:0;text-align:left;font-weight:400;">0</p>
+      </td>
+    </tr>
+
+    <tr><td colspan=3D"6" height=3D"10px" style=3D"border-collapse:collap=
+se!important;line-height:10px;margin:0;mso-line-height-rule:exactly;paddi=
+ng:0;">=C2=A0</td></tr>
+
+<!--   End new topic  -->
+
+
+</tbody>
+</table>
+
+
+
+
+
+    </td>
+    <td style=3D"width:5%;padding:0;">=C2=A0</td>
+  </tr>
+</table>
+<style>
+  @media only screen {
+    html {
+      min-height: 100%;
+      background: #f3f3f3
+    }
+  }
+
+  @media only screen and (max-width:900px) {
+    table.body img {
+      width: auto;
+      height: auto
+    }
+    table.body center {
+      min-width: 0!important;
+    }
+    table.body .side-spacer {
+      width: 2.5%!important;
+    }
+    table.body .column,
+    table.body .columns {
+      height: auto!important;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+      padding-left: 16px!important;
+      padding-right: 16px!important
+    }
+    table.body .column .column,
+    table.body .column .columns,
+    table.body .columns .column,
+    table.body .columns .columns {
+      padding-left: 0!important;
+      padding-right: 0!important
+    }
+  }
+</style>
+
+
+
+
+<div style=3D"color:#666; font-size:95%; text-align:center; padding-top:1=
+5px;">
+  This summary is sent from <a href=3D"http://forum.epicodus.com" style=3D=
+"text-decoration: none; font-weight: bold; color: #006699;; color: #0088c=
+c">Epicodus Forum</a> when we haven't seen you in a while. To unsubscribe=
+ <a style=3D"text-decoration: none; font-weight: bold; color: #006699;; c=
+olor: #0088cc" href=3D"http://forum.epicodus.com/email/unsubscribe/248bac=
+95eaff358331fb55bfeb5b1272bb9a08cf23bc0cea0e2c34e71ddffc84">click here</a=
+>.
+</div>
+
+
+
+<!-- prevent Gmail on iOS font size manipulation -->
+<div style=3D"display:none;white-space:nowrap;font:15px courier;line-heig=
+ht:0">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0
+  =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0</div>
+
+
+
+
+</body>=
+
+----==_mimepart_58461b31423dc_3ac23fb3b9b17a54119283--

@@ -1,0 +1,326 @@
+/*------------Locked content-----------------*/
+.cp-modal-body.cp-locked-content,
+.cp-locked-content .cp-modal-body {
+    background-color: transparent;
+}
+
+.cp-locked-content .cp-text-container {
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.cp-locked-content .cp-desc-container,
+.cp-locked-content .cp-description {
+    color: #333;
+    font-size: 21px;
+    font-weight: normal;
+    line-height: 1em;
+    font-family: "Roboto",sans-serif;
+    margin-bottom: 10px;
+}
+
+.cp-locked-content .cp-title-container {
+    margin-bottom: 10px;
+    padding: 0;
+}
+.cp-locked-content-container .cp-overlay-close span{
+        font-family: "Roboto",serif;
+}
+.cp-locked-content .cp-title,
+.cp-locked-content h2.cp-title {
+    margin: 0;
+    font-size: 34px;
+    font-family: "Bitter", Arial, sans-serif;
+    color: #333;
+    font-weight: 600;
+    line-height: 1.15em;
+}
+
+.cp-locked-content .cp-short-description {
+    display: block;
+    width: 100%;
+    float: left;
+    margin: 0 0 15px;
+    font-family: "Roboto",sans-serif;
+    font-size: 30px;
+    line-height: 1em;
+    font-weight: normal;
+    color: #333;
+}
+
+.cp-locked-content .cp-description {
+    color: #6A0101;
+}
+
+.cp-locked-content .cp-form-container {
+    font-family: "Bitter", Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.64em;
+    color: #333;
+}
+
+.cp-locked-content .cp-info-container,
+.cp-locked-content .cp-info-container p {
+    font-family: "Roboto", Helvetica, sans-serif;
+    color: rgb(106, 0, 0);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1em;
+}
+
+.cp-locked-content .cp-info-container {
+    margin-top: 10px;
+    padding-bottom:0px;
+}
+
+.cp-locked-content .cp-submit {
+    background-color: rgb(3, 177, 133);
+    color: #FFF;
+     font-family: "Roboto", Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 1.38em;
+    outline: none;
+    /* border-radius: 10px; */
+    margin-right: 0px;
+}
+
+.cp-locked-content .cp-form-layout-3 .cp-submit {
+    font-size: 15px;
+    line-height: 1.45em;
+}
+
+.cp-locked-content .cp-submit,
+.cp-locked-content .cp-submit:hover,
+.cp-locked-content .cp-submit:active,
+.cp-locked-content .cp-submit:focus {
+    background-color: rgb(255, 76, 107);
+    background-image: none;
+    color: #fff;
+    border: none;
+}
+
+.cp-modal .cp-locked-content .cp-submit {
+    margin: 0px;
+}
+.cp-locked-content .cp-form-container {
+    max-width: 90%;
+    margin: 0 auto;
+    float: none;
+   /*  background-color: #E6E5E5; */
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid rgb(202, 196, 196);
+}
+
+.cp-locked-content .cp-form-without-name,
+.cp-locked-content .cp-form-with-name {
+    max-width: 100%;
+    margin: 0 auto;
+}
+.cp-locked-content .cp-image-container {
+    margin-bottom: 10px;
+}
+.cp-locked-content .cp-form-container .cp-form-field button,
+.cp-locked-content .cp-form-container .cp-form-field button:active,
+.cp-locked-content .cp-form-container .cp-form-field button:hover,
+.cp-locked-content .cp-form-container .cp-form-field button:focus,
+.cp-locked-content .cp-form-container .cp-form-field input,
+.cp-locked-content .cp-form-container .cp-form-field input:active,
+.cp-locked-content .cp-form-container .cp-form-field input:hover,
+.cp-locked-content .cp-form-container .cp-form-field input:focus,
+.cp-locked-content .cp-form-container .cp-form-field select,
+.cp-locked-content .cp-form-container .cp-form-field select:active,
+.cp-locked-content .cp-form-container .cp-form-field select:hover,
+.cp-locked-content .cp-form-container .cp-form-field select:focus,
+.cp-locked-content .cp-form-container .cp-form-field textarea,
+.cp-locked-content .cp-form-container .cp-form-field textarea:active,
+.cp-locked-content .cp-form-container .cp-form-field textarea:hover,
+.cp-locked-content .cp-form-container .cp-form-field textarea:focus {
+    /* -webkit-box-shadow:  inset 1px 2px 3px 0px #ccc;
+    -moz-box-shadow:  inset 1px 2px 3px 0px #ccc;
+    box-shadow: inset 1px 2px 3px 0px #ccc; */
+}
+
+.cp-locked-content .cp-form-container {
+
+    /* padding-top: 0px;
+    background-color: #E6E5E5;
+    border-radius: 15px;
+    border: 1px solid rgb(202, 196, 196);*/
+}
+
+.cp-locked-content .cp-modal-window-size .cp-modal-body,
+.cp-modal-window-size .cp-modal-body.cp-locked-content {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+/*--- form ---*/
+.cp-locked-content .cp-name-btn {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.cp-locked-content form#smile-optin-form {
+    margin-bottom: 0;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.cp-locked-content .cp-info-container .error,
+.cp-locked-content .cp-info-container .success {
+    width: 100%;
+    max-width: 90%;
+    padding: 20px 15px;
+    margin-left: 0;
+    margin: 0 auto;
+    color: #333;
+    border-color: #333;
+}
+
+.cp-locked-content div#info_editor {
+   /*  padding: 10px 0px; */
+    font-size: 15px;
+}
+
+.cp-locked-content .cp-affilate-link span,
+.cp-locked-content .cp-affilate-link,
+.cp-affilate-link a span,
+.cp_afl_link,
+.cp_afl_link  span,
+.cp-locked-content .cp-affilate {
+    color: rgb(68, 68, 68);
+}
+
+.cp-locked-content .form-with-btn-on-same {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.cp-locked-content .default-form {
+   /*  padding: 0 15px; */
+}
+.cp-locked-content .cp_responsive.cp_font {
+    line-height: normal;
+}
+.cp-locked-content .cp-image-container.cp-hide-image img {
+    display: none !important;
+}
+.cp-live-preview .cp-modal .cp-locked-content .cp-btn-gradient.cp-submit {
+    border: none;
+    box-shadow: 1px 1px 2px 0px rgba(66, 66, 66, 0.6);
+    border-radius: 3px;
+    background: -webkit-linear-gradient(rgb(179, 77, 77), rgb(102, 0, 0));
+    background: -o-linear-gradient(rgb(179, 77, 77), rgb(102, 0, 0));
+    background: -moz-linear-gradient(rgb(179, 77, 77), rgb(102, 0, 0)) ;
+    background: linear-gradient(rgb(179, 77, 77), rgb(102, 0, 0));
+}
+.cp-live-preview .cp-modal .cp-locked-content .cp-btn-gradient.cp-submit:hover {
+    background: rgb(102, 0, 0) !important;
+}
+
+@media (max-width:768px) {
+    .cp-modal-body.cp-locked-content {
+        text-align: center;
+    }
+
+    .cp-locked-content input.cp-email {
+        text-align: center;
+    }
+
+    .cp-locked-content input.cp_name {
+        text-align: center;
+    }
+
+    .cp-locked-content .cp-modal-window-size .cp-modal-body,
+    .cp-modal-window-size .cp-modal-body.cp-locked-content {
+        max-width: 100%;
+    }
+
+    .cp-locked-content .cp-formwith-name .form-button {
+        width: 100%;
+    }
+
+    .cp-locked-content .cp-form-simple .form-button {
+        padding-top: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float: left;
+        width: 100%;
+    }
+
+    .cp-locked-content .cp-info-container .error,
+    .cp-locked-content .cp-info-container .success {
+        max-width: 100%;
+    }
+
+    .cp-locked-content .cp-right-contain {
+        float: left;
+    }
+
+     .cp-locked-content .cp-form-name input[name="name"] {
+        text-align: center;
+    }
+
+    .cp-locked-content .cp-form-email.form-content {
+        float: left;
+        width: 100%;
+    }
+
+    .cp-locked-content .cp-form-layout-3 .cp-submit {
+        font-size: 40px;
+        line-height: 1.38em;
+    }
+    .cp-locked-content .cp-name-btn {
+        margin-top: 0;
+    }
+    .cp-locked-content .cp-form-name {
+        width: 100%;
+    }
+}
+
+@media (max-width:610px) {
+    .cp-locked-content .cp-submit {
+        font-size: 15px;
+        line-height: 1.38em;
+    }
+
+    .cp-locked-content .cp-desc-container,
+    .cp-locked-content .cp-description {
+        font-size: 35px;
+        margin-bottom: 5px;
+    }
+
+    .cp-locked-content .cp-short-description {
+        font-size: 15px;
+    }
+
+    .cp-locked-content .cp-title,
+    .cp-locked-content h1.cp-title {
+        font-size: 12px;
+    }
+
+    .cp-locked-content .cp-title-container {
+        margin-bottom: 10px;
+    }
+
+    .cp-locked-content .cp-info-container,
+    .cp-locked-content .cp-info-container p {
+        font-size: 12px;
+    }
+
+    .cp-locked-content form#smile-optin-form {
+        max-width: 100%;
+    }
+
+    .cp-locked-content .cp-form-layout-3 .cp-submit {
+        font-size: 15px;
+        line-height: 1.45em;
+    }
+
+}

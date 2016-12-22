@@ -1,0 +1,270 @@
+Return-path: <survey-noreply@hr.outbound.surveymonkey.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 15 Dec 2016 19:00:38 -0500
+Received: from mta1b4.outbound.surveymonkey.com ([52.40.63.61]:48206)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <survey-noreply@hr.outbound.surveymonkey.com>)
+	id 1cHfx0-002zBF-NF
+	for kyle@kylefisher.com; Thu, 15 Dec 2016 19:00:38 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=hr.outbound.surveymonkey.com; s=scph0716; t=1481846437;
+	i=@hr.outbound.surveymonkey.com;
+	bh=FlQxT4XuGdECjngGrBhfWLAzQ+BmgqKe73GxQf0679A=;
+	h=Content-Type:Message-ID:From:To:Subject:Date;
+	b=PdpUR3CoS2FBt2rdi4IJlpYDv9p3jkaE3pVp4XOZnMNg5d1IbH0ouDh2kuowlnX4Y
+	 t0dpKDVPz0AxzFscaw0H1fIYUM0aAOdt5iLDKIRGBv+AGM0jdygbxYmXZeqGOiyMc0
+	 0Q32z0f5LdqqW/RHDYa/9K0NDnmrDWmkE1K7hT88=
+X-MSFBL: dtAmKBVfQJVQ9sOKIKtLmaMscmhUSjCymWGHOPQM9Mg=|eyJyIjoia3lsZUBreWx
+	lZmlzaGVyLmNvbSIsInRyYW5zbWlzc2lvbl9pZCI6IjY2NDY3MTYxOTkxMjY3Mjk
+	3Iiwic3ViYWNjb3VudF9pZCI6IjEwMiIsImciOiJoaWdocmlzayIsInJjcHRfbWV
+	0YSI6eyAicmNwdF9yZWZfaWQiOiAiMjc2ODUzMzk4MiIsICJ0ZW1wbGF0ZV90eXB
+	lIjogIkludml0ZSIsICJjbXAiOiAibXNnLWVtbHM6MTQ5NjcyNTYiLCAidmVyc2l
+	vbiI6ICJ2MSIsICJyY3B0IjogIjk2OTE3OTM4MCIgfSwiZnJpZW5kbHlfZnJvbSI
+	6InN1cnZleS1ub3JlcGx5QGhyLm91dGJvdW5kLnN1cnZleW1vbmtleS5jb20iLCJ
+	yY3B0X3RhZ3MiOlsgXSwidGVtcGxhdGVfaWQiOiJzbXRwXzY2NDY3MTYxOTkxMjY
+	3Mjk3IiwiYiI6ImlwXzUyLjQwLjYzLjYxIiwidGVuYW50X2lkIjoic3VydmV5bW9
+	ua2V5IiwidGVtcGxhdGVfdmVyc2lvbiI6IjAiLCJtZXNzYWdlX2lkIjoiMDAwM2E
+	1MmU1MzU4ODc0OGRlNWIiLCJjYW1wYWlnbl9pZCI6IkVtYWlsQ29sbGVjdG9yIiw
+	iY3VzdG9tZXJfaWQiOiIxIn0=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="utf-8"
+Authentication-Results:  c.plat1.surveymonkey.aws-usw2c.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [10.91.114.60] ([10.91.114.60:3959] helo=sjc-smrespw120.endor.lan)
+	by outbound.surveymonkey.com (envelope-from <survey-noreply@hr.outbound.surveymonkey.com>)
+	(ecelerity 4.2.27.57721 r(Core:4.2.27.0)) with ESMTPSA (cipher=ECDHE-RSA-AES256-GCM-SHA384) 
+	id ED/B5-18567-5AE23585; Fri, 16 Dec 2016 00:00:37 +0000
+Message-ID: <ED.B5.18567.5AE23585@c.plat1.surveymonkey.aws-usw2c.prd.sparkpost>
+MIME-Version: 1.0
+From: "michael@epicodus.com via surveymonkey.com" <member@surveymonkey.com>
+To: kyle@kylefisher.com
+Subject: We want your opinion
+Date: Thu, 15 Dec 2016 16:00:37 -0800
+X-BINDING: =?utf-8?q?highrisk?=
+Reply-To: michael@epicodus.com
+Sender: <survey-noreply@hr.outbound.surveymonkey.com>
+List-Unsubscribe: <mailto:unsubscribe@outbound.surveymonkey.com?subject=unsubscribe:fNXHfEs8SPKe7iE8kfrlgs1cW4613HLRG_YM2e80a-c~|eyAicmNwdF90byI6ICJreWxlQGt5bGVmaXNoZXIuY29tIiwgInJjcHRfbWV0YSI6ICJ7XCJyY3B0X3JlZl9pZFwiOlwiMjc2ODUzMzk4MlwiLFwidGVtcGxhdGVfdHlwZVwiOlwiSW52aXRlXCIsXCJjbXBcIjpcIm1zZy1lbWxzOjE0OTY3MjU2XCIsXCJ2ZXJzaW9uXCI6XCJ2MVwiLFwicmNwdFwiOlwiOTY5MTc5MzgwXCJ9IiwgInJjcHRfdGFncyI6ICJbIF0iLCAidGVuYW50X2lkIjogInN1cnZleW1vbmtleSIsICJ0ZW1wbGF0ZV9pZCI6ICJzbXRwXzY2NDY3MTYxOTkxMjY3Mjk3IiwgIm1lc3NhZ2VfaWQiOiAiMDAwM2E1MmU1MzU4ODc0OGRlNWIiLCAidGVtcGxhdGVfdmVyc2lvbiI6ICIwIiwgImNhbXBhaWduX2lkIjogIkVtYWlsQ29sbGVjdG9yIiwgIm1haWxmcm9tIjogInN1cnZleS1ub3JlcGx5QGhyLm91dGJvdW5kLnN1cnZleW1vbmtleS5jb20iLCAiY3VzdG9tZXJfaWQiOiAiMSIsICJ0cmFuc21pc3Npb25faWQiOiAiNjY0NjcxNjE5OTEyNjcyOTciLCAiZnJpZW5kbHlfZnJvbSI6ICJzdXJ2ZXktbm9yZXBseUBoci5vdXRib3VuZC5zdXJ2ZXltb25rZXkuY29tIiwgInN1YmFjY291bnRfaWQiOiAiMTAyIiB9>
+List-Id: <surveymonkey-1-102>
+
+<html>
+<body style="margin:0; padding: 0;">
+<div align="center">
+   <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="font-family: Arial,Helvetica,sans-serif; max-width: 700px;">
+       <tr bgcolor="#183d68">
+           <td colspan="5" height="40">&#160;</td>
+       </tr>
+       <tr bgcolor="#183d68">
+           <td width="20">&#160;</td>
+           <td width="20">&#160;</td>
+           <td align="center" style="font-size: 29px; color:#FFFFFF; font-weight: normal; letter-spacing: 1px; line-height: 1;&#10;                           text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.2); font-family: Arial,Helvetica,sans-serif;">
+              2017 Week 48&#160;Feedback
+           </td>
+           <td width="20">&#160;</td>
+           <td width="20">&#160;</td>
+       </tr>
+       <tr bgcolor="#183d68">
+           <td colspan="5" height="40">&#160;</td>
+       </tr>
+       <tr>
+           <td height="10" colspan="5">&#160;</td>
+       </tr>
+       <tr>
+           <td>&#160;</td>
+           <td colspan="3" align="left" valign="top" style="color:#666666; font-size: 13px;">
+              
+                <p>We're running a survey and would love your input. Please let us know what you think below. Thanks for participating!<br/><br/>* Survey closes Monday at 9am.</p>
+              
+           </td>
+           <td>&#160;</td>
+       </tr>
+
+       
+           <tr>
+
+</tr><tr>
+    <td colspan="5">&#160;</td>
+</tr>
+
+<tr>
+    <td rowspan="15"/>
+    <td colspan="3" style="word-wrap: break-word;white-space: normal;font-size: 16px;font-family: Arial;font-weight: 700;line-height: 30px;color: #000000;font-style: normal;text-decoration: none;">Please select your current class</td>
+    <td rowspan="15"/>
+</tr>
+
+<tr>
+    <td colspan="3">&#160;</td>
+</tr>
+
+      <tr>
+        <td colspan="3" style="">
+
+                <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td valign="top" width="20" style="width:20px;padding-right:10px;">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehG_2BxKztesnj_2FLG_2FM3gzShemIzKFHgAB1X7d_2BAMdDbS5nFZkeeLtFOPoe33nC8loDTDMF3lbc28O95KWk0JvUSZojZkfNHWbbkYmimy1aYjZvrNwBiuKq74SyFBRMQaF7mx2xPnc1TgQWSw9bkbIWF3eMbmoYq4cIUeRMatAYeB_2Fyes_2FeoSb95IVwLk0b1mV3gI0nRGY1yPIaupv_2F3iUtCkhH7kMs_2Bw_2FQ1l3FaGbvSwJ51SKAFUCNPPRBuBD5cVYCutMdTAO8nW_2BEkKv9huR4OCvYME_2FbKnE5BYbMFzqCPSVY22hPJWgfD_2FUiq9YY_2FuxVdkeJFi3cfOmztJ_2B7zXkdFbJ4fZMoM9WmatHYveYdto5h" style="font-size:20px;text-decoration: none;vertical-align:top;color:#999999;">&#9711;</a>
+                            </td>
+                        <td valign="top" align="left">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehG_2BxKztesnj_2FLG_2FM3gzShemIzKFHgAB1X7d_2BAMdDbS5nFZkeeLtFOPoe33nC8loDTDMF3lbc28O95KWk0JvUSZojZkfNHWbbkYmimy1aYjZvrNwBiuKq74SyFBRMQaF7mx2xPnc1TgQWSw9bkbIWF3eMbmoYq4cIUeRMatAYeB_2Fyes_2FeoSb95IVwLk0b1mV3gI0nRGY1yPIaupv_2F3iUtCkhH7kMs_2Bw_2FQ1l3FaGbvSwJ51SKAFUCNPPRBuBD5cVYCutMdTAO8nW_2BEkKv9huR4OCvYME_2FbKnE5BYbMFzqCPSVY22hPJWgfD_2FUiq9YY_2FuxVdkeJFi3cfOmztJ_2B7zXkdFbJ4fZMoM9WmatHYveYdto5h" style="color:#000000;font-family:Arial;font-size:14px;font-weight:300;font-style:normal;text-decoration:none;">Android</a>
+                        </td>
+                    </tr>
+                </table>
+        </td>
+    </tr>
+
+        <tr>
+            <td colspan="3" style="font-size:9px;">&#160;</td>
+        </tr>
+
+      <tr>
+        <td colspan="3" style="">
+
+                <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td valign="top" width="20" style="width:20px;padding-right:10px;">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehJspbQLCnnXq6MnBlagW7vDQnWmDDXt1n9eLr8dXQxRvfSoRo7pWwBFEHJeRiIQAVmu86TzqdMR9u23p6usengFrun71Xsngsem5SkQF1IG6p5MXkKR_2BD2a5wuKE_2B9cPUY3oHr3v_2Buy8eCQPBb6QfVB49uw7x4b88R_2Bcmh1zXytHSV9ro10oWFp_2B3lR_2FlRpcbVaFKwbsW4TsQSx7qaaHnMc5foINYhSZvD7ITfUlPUIVbSXjvx66Hk44gxKoD7UwIKAlKgDGFLyqcdO_2BpblMfWS56Z5EapHEZDZ33e1LSPkAzsNVKhR_2BuN6VYZ2_2BlSWtrkhcq1xgA5hY_2F7NOk1v_2BUDZePBFd_2BcPvjaWyYCmEICBm" style="font-size:20px;text-decoration: none;vertical-align:top;color:#999999;">&#9711;</a>
+                            </td>
+                        <td valign="top" align="left">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehJspbQLCnnXq6MnBlagW7vDQnWmDDXt1n9eLr8dXQxRvfSoRo7pWwBFEHJeRiIQAVmu86TzqdMR9u23p6usengFrun71Xsngsem5SkQF1IG6p5MXkKR_2BD2a5wuKE_2B9cPUY3oHr3v_2Buy8eCQPBb6QfVB49uw7x4b88R_2Bcmh1zXytHSV9ro10oWFp_2B3lR_2FlRpcbVaFKwbsW4TsQSx7qaaHnMc5foINYhSZvD7ITfUlPUIVbSXjvx66Hk44gxKoD7UwIKAlKgDGFLyqcdO_2BpblMfWS56Z5EapHEZDZ33e1LSPkAzsNVKhR_2BuN6VYZ2_2BlSWtrkhcq1xgA5hY_2F7NOk1v_2BUDZePBFd_2BcPvjaWyYCmEICBm" style="color:#000000;font-family:Arial;font-size:14px;font-weight:300;font-style:normal;text-decoration:none;">C#</a>
+                        </td>
+                    </tr>
+                </table>
+        </td>
+    </tr>
+
+        <tr>
+            <td colspan="3" style="font-size:9px;">&#160;</td>
+        </tr>
+
+      <tr>
+        <td colspan="3" style="">
+
+                <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td valign="top" width="20" style="width:20px;padding-right:10px;">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehD3RW3_2B0nv6GkImbXlgriSCZ8dbMMwRBQw76fhnV36BkMwRjm50qQF_2BlXO_2FvzFS2HF_2BbLRz033tCss_2BAMPkO2I_2BqfK9BdotcCFnThlq_2FsmwW0BiM7pxQK2riLBYihpfXge8QjYPxK_2BKM0PJAjGYlJIp4jdMaf_2BAJOx7cYWYrDN1HW8rorNbszsCbtzWhhRALcbYrUz79ywbYviTiJvlw_2FSMDMc3kc_2FWwBZnohwMCBA7j0ql63MpFf8prP9iVlk8W51L1XIyFJaPM5VK7BhsSfNfbrDbl523HiRD5HT16BzejJ0iWwAsaJV0XGtEVVo0GBdSV5cIgcJDKgNBLgAXD7PpZDw1XgyJDr40Lnnerfz3m" style="font-size:20px;text-decoration: none;vertical-align:top;color:#999999;">&#9711;</a>
+                            </td>
+                        <td valign="top" align="left">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehD3RW3_2B0nv6GkImbXlgriSCZ8dbMMwRBQw76fhnV36BkMwRjm50qQF_2BlXO_2FvzFS2HF_2BbLRz033tCss_2BAMPkO2I_2BqfK9BdotcCFnThlq_2FsmwW0BiM7pxQK2riLBYihpfXge8QjYPxK_2BKM0PJAjGYlJIp4jdMaf_2BAJOx7cYWYrDN1HW8rorNbszsCbtzWhhRALcbYrUz79ywbYviTiJvlw_2FSMDMc3kc_2FWwBZnohwMCBA7j0ql63MpFf8prP9iVlk8W51L1XIyFJaPM5VK7BhsSfNfbrDbl523HiRD5HT16BzejJ0iWwAsaJV0XGtEVVo0GBdSV5cIgcJDKgNBLgAXD7PpZDw1XgyJDr40Lnnerfz3m" style="color:#000000;font-family:Arial;font-size:14px;font-weight:300;font-style:normal;text-decoration:none;">CSS</a>
+                        </td>
+                    </tr>
+                </table>
+        </td>
+    </tr>
+
+        <tr>
+            <td colspan="3" style="font-size:9px;">&#160;</td>
+        </tr>
+
+      <tr>
+        <td colspan="3" style="">
+
+                <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td valign="top" width="20" style="width:20px;padding-right:10px;">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehAgpwYx9RCZtfdjyndxaK0sSgyFnO4F3xjhDAuvxVsSxljP3rZzJZS_2BOQDJIzuGtuS4JXT8VyfNiRs8Nk3_2F4rhK_2Bb4LX5diyHVm2NA0u1TPEVgZQ1YgnhlLAIKONKqj2Ig_2FT5qr_2FVl_2B6_2FWdGv9Ab300TVA_2B4CegYT_2FZAEJUsKAypWXtaIIL4BZ8IoNfcSVv5mVRl26qUBQvuVEu2665LUWvfF4gTjyH294CVErZ3ZOKj0ZaMe2wKp2BxNkx7JsYIPK2x9lSdMUHe_2BiS4SOT2E2vPdiHbE_2FeeBelIXVj2Y8ppbd0omNFqD_2BO5WVUUHURTdICBPREs88pr18MvWyYkdkro_2FmP2zRT3GdVp2FqN54E_2FEihG6HvzQBOd89GQPKdL_2FA_3D_3D" style="font-size:20px;text-decoration: none;vertical-align:top;color:#999999;">&#9711;</a>
+                            </td>
+                        <td valign="top" align="left">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehAgpwYx9RCZtfdjyndxaK0sSgyFnO4F3xjhDAuvxVsSxljP3rZzJZS_2BOQDJIzuGtuS4JXT8VyfNiRs8Nk3_2F4rhK_2Bb4LX5diyHVm2NA0u1TPEVgZQ1YgnhlLAIKONKqj2Ig_2FT5qr_2FVl_2B6_2FWdGv9Ab300TVA_2B4CegYT_2FZAEJUsKAypWXtaIIL4BZ8IoNfcSVv5mVRl26qUBQvuVEu2665LUWvfF4gTjyH294CVErZ3ZOKj0ZaMe2wKp2BxNkx7JsYIPK2x9lSdMUHe_2BiS4SOT2E2vPdiHbE_2FeeBelIXVj2Y8ppbd0omNFqD_2BO5WVUUHURTdICBPREs88pr18MvWyYkdkro_2FmP2zRT3GdVp2FqN54E_2FEihG6HvzQBOd89GQPKdL_2FA_3D_3D" style="color:#000000;font-family:Arial;font-size:14px;font-weight:300;font-style:normal;text-decoration:none;">Drupal</a>
+                        </td>
+                    </tr>
+                </table>
+        </td>
+    </tr>
+
+        <tr>
+            <td colspan="3" style="font-size:9px;">&#160;</td>
+        </tr>
+
+      <tr>
+        <td colspan="3" style="">
+
+                <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td valign="top" width="20" style="width:20px;padding-right:10px;">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehPsak5zBH9w4SlxBK5z49uA_2FPih9rolSxn8W_2FO1jqBHdV1pnCr49266tg8NCv82e9DNeL1ZWR4dWESE_2B5pxpP7SmSrvVyfJ9DbmZ_2B0QALpONfuh_2BRTEJbcvsz2fkKS_2F7ZTWLuE9BpHFkMEkJpKabnwCn85OB2ajuyuslV8TrppIaa54V4CSWtvAxsin2yaO_2Fya3GGD9EMmUz5brH7g02LZKV_2F1HRMQYSzPLIJH2DYfmah5bxrR7L_2BVUWPDx5XvgS3if_2Fs_2FSE27_2BjEJKhnFdgGfFMvcsC5XUUNgSFHtZIY_2B_2B0T7S3k3IB5AWm6wyF4BMYw8W2Wt0zjkki5U7qLzy3259IH3V7gW9Q5OX7_2BDVpgN9B" style="font-size:20px;text-decoration: none;vertical-align:top;color:#999999;">&#9711;</a>
+                            </td>
+                        <td valign="top" align="left">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehPsak5zBH9w4SlxBK5z49uA_2FPih9rolSxn8W_2FO1jqBHdV1pnCr49266tg8NCv82e9DNeL1ZWR4dWESE_2B5pxpP7SmSrvVyfJ9DbmZ_2B0QALpONfuh_2BRTEJbcvsz2fkKS_2F7ZTWLuE9BpHFkMEkJpKabnwCn85OB2ajuyuslV8TrppIaa54V4CSWtvAxsin2yaO_2Fya3GGD9EMmUz5brH7g02LZKV_2F1HRMQYSzPLIJH2DYfmah5bxrR7L_2BVUWPDx5XvgS3if_2Fs_2FSE27_2BjEJKhnFdgGfFMvcsC5XUUNgSFHtZIY_2B_2B0T7S3k3IB5AWm6wyF4BMYw8W2Wt0zjkki5U7qLzy3259IH3V7gW9Q5OX7_2BDVpgN9B" style="color:#000000;font-family:Arial;font-size:14px;font-weight:300;font-style:normal;text-decoration:none;">Drupal (Philadelphia)</a>
+                        </td>
+                    </tr>
+                </table>
+        </td>
+    </tr>
+
+        <tr>
+            <td colspan="3" style="font-size:9px;">&#160;</td>
+        </tr>
+
+      <tr>
+        <td colspan="3" style="">
+
+                <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td valign="top" width="20" style="width:20px;padding-right:10px;">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehGurl2TwLJoEoI3hRql7Fdbx7GIcZTj5cuVc0eksQpOaU_2Fr00TlIVa1tAEA7MqeI35xduyVpUi_2FqJnVqG0LLdVrKja1hUY7tbxbD3y2SJq5pVYgq0yDmW_2BniOOhdJCM1vFyGvg7x3u_2BJg0HLipR4zecTHuuJ5dkuobBg7iMb1pzsyugBXoMqIdrMtQc6B0rC4MdSJCFjLUchCzN9KixX_2BYE75s4nRUc6gd4I0EoASIE4Z2wa4B2xd1HLRgiiWSAOUgIJdva04J59cY48f3OtwEQy936MeMEL_2BxHWO27iihmTVKkUxKJjk2D0lQuMkM39kmauf3eKbpDs_2BKdLFjmg3SZz8ugx_2B9EV4dor4ySPoKbYDr4Yzv0QZusy7OLzXtQTdw_3D_3D" style="font-size:20px;text-decoration: none;vertical-align:top;color:#999999;">&#9711;</a>
+                            </td>
+                        <td valign="top" align="left">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehGurl2TwLJoEoI3hRql7Fdbx7GIcZTj5cuVc0eksQpOaU_2Fr00TlIVa1tAEA7MqeI35xduyVpUi_2FqJnVqG0LLdVrKja1hUY7tbxbD3y2SJq5pVYgq0yDmW_2BniOOhdJCM1vFyGvg7x3u_2BJg0HLipR4zecTHuuJ5dkuobBg7iMb1pzsyugBXoMqIdrMtQc6B0rC4MdSJCFjLUchCzN9KixX_2BYE75s4nRUc6gd4I0EoASIE4Z2wa4B2xd1HLRgiiWSAOUgIJdva04J59cY48f3OtwEQy936MeMEL_2BxHWO27iihmTVKkUxKJjk2D0lQuMkM39kmauf3eKbpDs_2BKdLFjmg3SZz8ugx_2B9EV4dor4ySPoKbYDr4Yzv0QZusy7OLzXtQTdw_3D_3D" style="color:#000000;font-family:Arial;font-size:14px;font-weight:300;font-style:normal;text-decoration:none;">Ruby</a>
+                        </td>
+                    </tr>
+                </table>
+        </td>
+    </tr>
+
+        <tr>
+            <td colspan="3" style="font-size:9px;">&#160;</td>
+        </tr>
+
+      <tr>
+        <td colspan="3" style="">
+
+                <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td valign="top" width="20" style="width:20px;padding-right:10px;">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehLSXpOwmZdg8Zt1MrjHI7yJLzFO0S04QF1JDcHi8emRssDgXD3YOFbIEZrGB_2BbD_2BSzwzR8eI1BTH2ASqbI0XN4iW9tWn56VgvpFoRvG049P0tbIWdbw15sUjrlMFI44aMlb6u7v7s_2Ftp2_2BeQxp4QfcCT24sofUrxX8ycDwfN1PtyEMch1GdtzdMhFOer83w7f2nGC4C72JYY5hqbLElxxdAsL3k8UCrXP_2FW1OC2OeD6j5O2b4UmV_2BDHgOdy4LuoTtzIbECtOLXEQpN6XFlcohm2WXEueYnUB_2Bk_2FwVONOz8ZN7_2Fl_2Fkq6_2BtvA1w83Q0HQArj5bTsPE1dSvvrc60Z7qREzRdKyIwT7KKfvEwt9Tj9q_2F" style="font-size:20px;text-decoration: none;vertical-align:top;color:#999999;">&#9711;</a>
+                            </td>
+                        <td valign="top" align="left">
+                            <a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT2IfHMPxttyWWzwub84sxgB_2BQqtv3w0H8WVqi3OnTX3596T68R4KE0KwbD4o3M8uamY_2BeHeUJ8Kc0q_2FfFC0a5Tz7O_2BvyJ_2Ft6lSaXABktDMCpNsTxox57Udm4_2BvC_2F8kpMAffb9q2DWBbGmavLHX9oxOW2u_2BqCMDySzAVy1W7NyoO1uZtlJ1_2FM06_2FXWiW19lC6ImF_2B33_2BrNRChpgzE35pe8s25SVU80tik6W_2B8HGlm8SehLSXpOwmZdg8Zt1MrjHI7yJLzFO0S04QF1JDcHi8emRssDgXD3YOFbIEZrGB_2BbD_2BSzwzR8eI1BTH2ASqbI0XN4iW9tWn56VgvpFoRvG049P0tbIWdbw15sUjrlMFI44aMlb6u7v7s_2Ftp2_2BeQxp4QfcCT24sofUrxX8ycDwfN1PtyEMch1GdtzdMhFOer83w7f2nGC4C72JYY5hqbLElxxdAsL3k8UCrXP_2FW1OC2OeD6j5O2b4UmV_2BDHgOdy4LuoTtzIbECtOLXEQpN6XFlcohm2WXEueYnUB_2Bk_2FwVONOz8ZN7_2Fl_2Fkq6_2BtvA1w83Q0HQArj5bTsPE1dSvvrc60Z7qREzRdKyIwT7KKfvEwt9Tj9q_2F" style="color:#000000;font-family:Arial;font-size:14px;font-weight:300;font-style:normal;text-decoration:none;">.NET (SEATTLE)</a>
+                        </td>
+                    </tr>
+                </table>
+        </td>
+    </tr>
+
+         <tr>
+            <td colspan="5" style="font-size:9px;">&#160;</td>
+        </tr>
+
+ 
+       
+       <tr valign="top" style="color: #666666;font-size: 10px;">
+           <td>&#160;</td>
+           <td valign="top" align="center" colspan="3">
+               <p>Please do not forward this email as its survey link is unique to you. <br/><a href="https://surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT0zxcG2WiAPU55MgsW0pebcvrK99KaOLjbg1yBrfx6rg10S5w0eJ_2B5SGoLgqDek7NYUj5ed72Uz_2BEzoInL5oiDboWyHxG1V4b2i8oGs27qekbogCBayIIIQ8jH_2FrnRGrFziswU2KubI9jqi9puwgoYSANH7qztAH97GNOfJ84eY27CpgVVY1rcLu05iw4pzTNo_3D" target="_blank" style="color: #333333; text-decoration: underline;">Unsubscribe</a> from this list</p>
+           </td>
+           <td>&#160;</td>
+       </tr>
+       <tr>
+           <td height="20" colspan="5">&#160;</td>
+       </tr>
+
+       <tr style="color: #999999;font-size: 10px;">
+           <td align="center" colspan="5"><table width="100%" cellpadding="2">
+    <tbody>
+        <tr>
+            <td width="45%" align="right" style="font-size: 10px; color: #999999;">Powered by</td>
+            <td width="55%" align="left">
+                <img width="130" align="middle" height="17" alt="SurveyMonkey Logo" src="https://www.surveymonkey.com/collect/images/smLogo.png"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</td>
+       </tr>
+       <tr>
+           <td height="20" colspan="5">&#160;</td>
+       </tr>
+   </table>
+</div>
+<img src="https://surveymonkey.com/tr/v1/te/LaLjj9FogPoF_2BUX50Xp7PYs2pnovsCpw_2BUy0LbNLBPamxeeBxHO0Rrje72sRgGtAYMQx_2FMqTb5P0gC8WpiBM1A_3D_3D.png" alt="" width="1px" height="1px"/></body>
+</html>

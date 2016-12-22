@@ -1,0 +1,992 @@
+Return-path: <bounces+1605419-960f-kyle=kylefisher.com@mail1.shared.hubspot.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 21 Nov 2016 17:34:21 -0500
+Received: from o3.mail1.shared.hubspot.com ([50.31.44.104]:48984)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+1605419-960f-kyle=kylefisher.com@mail1.shared.hubspot.com>)
+	id 1c8xAL-004Lld-81
+	for kyle@kylefisher.com; Mon, 21 Nov 2016 17:34:21 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=shared.hubspot.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe; 
+	s=m1; bh=xj+rnOjv4rSkJF2wIrsE3zF3GWw=; b=T+58bwgYw3Phw8EuRhEABlc
+	l9R+aeUcXqrSMgoxUi+uDYNfhBSFuGfUnAobEBVq2iUiL/O7rkvQ/TTSBFquRb31
+	swzrMG0Wgz+kWPH8MhLeFQrqbyVnkyhtc9lS37JyoxhF9/MItnlT/VOMqPze5M/X
+	gPfEJGAx5rmyrY/RJ0/k=
+From: City Fitness <no-reply@cityfitnessphilly.com>
+Reply-To: no-reply@cityfitnessphilly.com
+To: kyle@kylefisher.com
+Message-ID: <1479767580093.acb83ec0-5c90-4ede-abe1-18f17235c744@smtp.hubapi.com>
+Subject: Is Bulletproof Coffee A Trend To Jump On?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_9040_1634699125.1479767654963"
+List-Unsubscribe: <mailto:Vn0CHc3BPYr3W3DK7BV3DNW6DW1XnCY91Gy6kVW1Q1BlM3LFcsqW1V24y91X04k5W95D7_86wcLGZW6xjQ4d8h5d0FVKk60x3JN_GwW3ZVcj54cKh8KW1JxwY52mLYp74l6qx1@m.hsms09.com>, <http://t.hsms09.com/e1t/c/*W3n1zvB5SsTzXW6vF9My4f9QMd0/*W8HS3-T2Hrg8GW6DCDLP8XfRnn0/5/f18dQhb0S2C56_t1JKV12sfJ4QxKpXW2C_zzf4Tk62qW79175H634k20N1WXM93vMnpwW8k6RV15wt3G5W6M-9ms50HPhjW3N3YHZ6-LJ8XW4kQbzk8L7fkwW8pM8R41hW37xW8Sdb7Z1t-k9WN4_7YFsMFBzlW1n4zNR86CQG-W51Q3G16HxH_nW1ZHJK04QDVmxW3XS6hs3zLQk0W6ZZMJ42G7SRnW6vxDCH6_swX6N5Dgfq9d4FgbW3_1Svj7BmlknN2MMTDzFHPMTW2Bkv-N3TGBVBW21Xz212Rv6qFVp1pnX5_WqF1W3CMfkl6tl26DV3GTk71HgCzPN3YGvl4QP_kXW8YHwLR6B4xwsW9k73V65TW0VYW6PqP2_8Z40jwW3S7rmF7F1wJSN15qdd2Dbk15W62WDlH2G45qkW8jwx0z3sLXgQW8Qmv_x7pdKbJW9k7StV6Kgz6p102>
+X-HubSpot-MID: CiRhY2I4M2VjMC01YzkwLTRlZGUtYWJlMS0xOGYxNzIzNWM3N
+        DQQm/kpGLqyASAAKMmyjxIw4pkpOhNreWxlQGt5bGVmaXNoZXIuY29tQ
+        L27lciIK0jiAlogODE0NWRlM2IwNTNlYzFmNTIwZjYwMDNlMDVhZTdhY
+        zhlAAAIQnD57ZABgAEAigEkOThhNThhYTMtMDI4NS0zNThlLTgyZWYtN
+        DMxNTU1ZTRlNWMzoAEAqAEBsAEAyAEB0gEebm8tcmVwbHlAY2l0eWZpd
+        G5lc3NwaGlsbHkuY29t
+Date: Mon, 21 Nov 2016 22:34:14 +0000 (UTC)
+X-SG-EID: eU/ka35llXGMH3nAOV67BrlAvnJbsZjQ68cwO3vk6pUx1y5tA4Iz2n0TLCfs8f/87fWcGAtKUBDx8+
+ 0bGzyRycBcvOX6lf4kZA+3aIZeofPm4YYAfcq6DS3AnUWHDb+oqaBtaD2Pt+zRuFk8ekYaZZu+987T
+ gx3hiCFWyDMMnfvjEzbJqXGtWd1qLB2gQey9K/QuAqR8XbSOm8YBs67ZAtJUX8ood+7pig8h7m46ET
+ Q=
+X-SG-ID: BaKDar+VrkG/S9kwb9JXA3uu7fNg5SDKA+J8D0It0Alfm3/O6qLAwtcf4IgR+sWmt18tR+cHO8ps0N
+ CxqxsjUE2AQWP0V50cBK6BLqnwwC7lWxqJBw7TI9SqDEb28+9cLG0mTsRC556dWtPAcwTb9htJ945w
+ 4qF8m1sLLM8qlen4eT9Eef52cmfPBl49rurVw5uRL+mRywuAgqxF1BhhP3tvtxNgkk3zR2W9w+9V74
+ MQaDsPx76at1D51mG3Hz2E3ZkBuzjVfSQtVNHPtfv58Pm7dl99cfle2k5GfLUMwS8vSUtojeepoYSh
+ +vqbcOIRYQbIXwmzaRlqA8epn9P253O4G5EwszY1yPXJ1p1Tr1BA8CEoXeHhbjyj1heEaGtlaSV9Ts
+ 9YuVNXLFVSsmpk2w72pz37lD68ruvY8Z8YIwQ=
+
+------=_Part_9040_1634699125.1479767654963
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Fitness =E2=80=A2 Food =E2=80=A2 Trends =E2=80=A2 Lifestyle =E2=80=A2 Phill=
+y =E2=80=A2 Community
+
+Not rendering correctly? View this email as a web page here (http://cityfit=
+nessphilly-1.hs-sites.com/is-bulletproof-coffee-a-trend-to-jump-on?ecid=3DA=
+CsprvtdJ0U1bUTbeF7JKNMAKZL-2Gvoc_17iyC4RGtUnK2RxzEXl86Hlxl9eSZPTOXiN2-4IaMT=
+&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D=
+38000969&_hsenc=3Dp2ANqtz-9GgEOyHxfsLpIrhZgS--IQnbGxshLdHndcaOT14HFpWnhMlVY=
+cOMYVKqzgQ163bA9_0Me3JknQAPWTuvdzvO7bCxRyBA&_hsmi=3D38000969) .
+
+City Fitness Philly (http://cityfitnessphilly.com?utm_campaign=3DRSS&utm_so=
+urce=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANqtz-=
+8Possay0lTdoi2lx4a-tiBTCS76ArCQmx0M0QKsoSMD-6YVi19TaDlQhEVoGK1ajC4BrTtqy1Tv=
+lbSgH0uXu5sMgeN-g&_hsmi=3D38000969)
+
+rss-head.jpg (http://blog.cityfitnessphilly.com?utm_campaign=3DRSS&utm_sour=
+ce=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANqtz---=
+ARMnM7a4LJIbtn633ha-3B7jJM7GBYdA_VO9Ny-hmRZaXcqtYhdgyKtiNqv5qznzYt9GFC5GZOY=
+gyaRHnMjURE6Mfw&_hsmi=3D38000969)
+
+Is Bulletproof Coffee A Trend To Jump On? (http://blog.cityfitnessphilly.co=
+m/trends/is-bulletproof-coffee-a-trend-to-jump-on/?utm_campaign=3DRSS&utm_s=
+ource=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANqtz=
+--5fwuQnmwz1JbIbTwRWweAzzsF-sTIUebGv2n4At2qADIZjw95B2SrFERiSBm0ii40V9EgD5sA=
+TT5OlXAckKPV54cNnA&_hsmi=3D38000969)
+
+By CityFitnessPhilly, Friday, November 18, 2016 7:01 PM
+
+bulletproof coffee trend
+
+Whether you=E2=80=99re a paleo eater or not, chances are, you=E2=80=99ve at=
+ least heard of the term =E2=80=98bulletproof coffee=E2=80=99 before. This =
+beverage is one that many people choose to start their=E2=80=A6
+
+The post Is Bulletproof Coffee A Trend To Jump On? (http://blog.cityfitness=
+philly.com/trends/is-bulletproof-coffee-a-trend-to-jump-on/?utm_campaign=3D=
+RSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hsenc=
+=3Dp2ANqtz-_Z_AjyIH-CUz-KhRKai6x9NDRurElXoMKrkhX1zNEu0mOPuTfFAXjAJ1-plJFnVn=
+K73cNtjgl3cqlDaQoGzQQYVFZ2uA&_hsmi=3D38000969) appeared first on City Fitne=
+ss Blog (http://blog.cityfitnessphilly.com?utm_campaign=3DRSS&utm_source=3D=
+hs_email&utm_medium=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANqtz-89n2_1i=
+54YLgF9kTHBZ0lNgdHXph8gznzIu8bD7jG-RaW7u_5Yg2z6CpDkxK4PR2luhAwNCg_O8DcIBBGw=
+82mb8adLkQ&_hsmi=3D38000969) .
+
+Read more =C2=BB (http://blog.cityfitnessphilly.com/trends/is-bulletproof-c=
+offee-a-trend-to-jump-on/?utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medi=
+um=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANqtz-9bqseJkcfBJzTL47K4acChN-=
+2QAX36RzjGR07BQ8w1lBOpGwJ9d_7waSsOWObSJaYK72qaCBCq1_5jZPuhTxnqZMJToQ&_hsmi=
+=3D38000969)
+
+Why You SHOULD Be Going Out on Thanksgiving Eve (http://blog.cityfitnessphi=
+lly.com/lifestyle/go-out-on-thanksgiving-eve-drinks/?utm_campaign=3DRSS&utm=
+_source=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANq=
+tz-8uknECuoZ6ZC9l_Lhubvs9oiZOLTSpqlEmFnAvsckBw9tmmHT7xPzeojB1O1Ud9j_UjieXxa=
+SXQXNSEU2rbkB-r3yxcQ&_hsmi=3D38000969)
+
+By Raquel Redmond, Thursday, November 17, 2016 6:38 PM
+
+Go Out on Thanksgiving Eve
+
+Remember that bar in your hometown that you had a bad night at and you said=
+ you would never go back? Well, it=E2=80=99s that time of year again and Th=
+anksgiving=E2=80=A6
+
+The post Why You SHOULD Be Going Out on Thanksgiving Eve (http://blog.cityf=
+itnessphilly.com/lifestyle/go-out-on-thanksgiving-eve-drinks/?utm_campaign=
+=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hse=
+nc=3Dp2ANqtz-_1v4SG5LtAP9xyE9r8LqO-hK3ui2iDZ8YPXum46ba7YcIAaw7D1mD5mIWF0WO5=
+476rlcuOFhNybpYq8Nn84HLvBX7O5Q&_hsmi=3D38000969) appeared first on City Fit=
+ness Blog (http://blog.cityfitnessphilly.com?utm_campaign=3DRSS&utm_source=
+=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANqtz-98Ru=
+uQwW293gNwgZ5E_X_B0CNT06lowJnV_5SDKoj6OMd4Uc4VWy4cfxxRyXV5dM2Toc3jrqDVY2j-9=
+Khqpvpo8fW8Og&_hsmi=3D38000969) .
+
+Read more =C2=BB (http://blog.cityfitnessphilly.com/lifestyle/go-out-on-tha=
+nksgiving-eve-drinks/?utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=
+=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANqtz-9Uqri3XkSI0fP2UfsaJgZWQqZY=
+yQXMJxMcPFgKNnZCYOvgMfW3ugiVvYL8MmLLHCzpMNjmobHYjTNXZ16MTBClzkoZjQ&_hsmi=3D=
+38000969)
+
+A Dietitian=E2=80=99s Ideal Thanksgiving Feast Unveiled (http://blog.cityfi=
+tnessphilly.com/food/dietitians-ideal-thanksgiving-feast/?utm_campaign=3DRS=
+S&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hsenc=3D=
+p2ANqtz-8aPwlV9ER0983eCtmAm0HbNHqm36C-QuwHZI4DRBXaC6dNe7_387l2wBGjYI2GVvEFy=
+YNjMZAfIx8BeXiTRxFLk8sPwQ&_hsmi=3D38000969)
+
+By Raquel Redmond, Tuesday, November 15, 2016 5:11 PM
+
+Dietitian's Ideal Thanksgiving
+
+Thanksgiving can be all about bingeing but I=E2=80=99m here to tell you tha=
+t it doesn=E2=80=99t have to be! My idea of Thanksgiving is indulging on a =
+few items, putting some=E2=80=A6
+
+The post A Dietitian=E2=80=99s Ideal Thanksgiving Feast Unveiled (http://bl=
+og.cityfitnessphilly.com/food/dietitians-ideal-thanksgiving-feast/?utm_camp=
+aign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&=
+_hsenc=3Dp2ANqtz---dMb8OFcAfcwhammmAmxm7Ji7tCjtfjcO177BLBQZSN6UgBPQ89qFE_ON=
+oqqsVEB2ybV7UoP06xu8RoGdOrm7uYkuVA&_hsmi=3D38000969) appeared first on City=
+ Fitness Blog (http://blog.cityfitnessphilly.com?utm_campaign=3DRSS&utm_sou=
+rce=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANqtz-_=
+VSeNQRRnrhvyn61aPbJrMEYLZhn5dnHM3FW2OFtMOe8hs2ECnr7C0puo5t0LRcOZFM7cId1menI=
+s1QDW2JneLBM4-Fw&_hsmi=3D38000969) .
+
+Read more =C2=BB (http://blog.cityfitnessphilly.com/food/dietitians-ideal-t=
+hanksgiving-feast/?utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Dem=
+ail&utm_content=3D38000969&_hsenc=3Dp2ANqtz-_tRGDGTB-9nQw9PNtywj6AtlQaw8_Mo=
+dPoTSW5AV4td_AJkcPL_iJ-BJ-LrFZYMZXoW9m_983z01Ub0dB4wwo3DizLYQ&_hsmi=3D38000=
+969)
+
+City Fitness Trial (http://cta-image-cms2.hubspot.com/ctas/v2/public/cs/ci/=
+?pg=3D21861336-ebb2-4f14-ab2f-846af3fe0948&pid=3D687259&ecid=3DACsprvtdJ0U1=
+bUTbeF7JKNMAKZL-2Gvoc_17iyC4RGtUnK2RxzEXl86Hlxl9eSZPTOXiN2-4IaMT&utm_rewrit=
+e=3DREWRITE_ALL&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail=
+&utm_content=3D38000969&_hsenc=3Dp2ANqtz-_oDjytLhep8EUFo08dZQ0t09hDIcwXL92J=
+y-mpZjKEVL1KdjDt1K4kF8w_U-wAqYSlC6TOw4tQNCWEOVQVTWO3S0uJ4A&_hsmi=3D38000969)
+
+Share on Facebook (http://www.facebook.com/share.php?u=3Dhttp%3A%2F%2Fblog.=
+cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Dfacebo=
+ok&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=
+=3D38000969&_hsenc=3Dp2ANqtz-9Zhu91Uzpzxp08ezVopGDcmG85JUHdoDK5RenCBtRDgGpB=
+FiGSFGfx1-v4LzCvhGnWKfNi8k8nDroBJ-Bl9N5kmqT-Bg&_hsmi=3D38000969)  Share on =
+Twitter (https://twitter.com/intent/tweet?original_referer=3Dhttp%3A%2F%2Fb=
+log.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Dtw=
+itter&url=3Dhttp%3A%2F%2Fblog.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%=
+3Dsocial%26utm_source%3Dtwitter&source=3Dtweetbutton&text=3DIs+Bulletproof+=
+Coffee+A+Trend+To+Jump+On%3F&utm_campaign=3DRSS&utm_source=3Dhs_email&utm_m=
+edium=3Demail&utm_content=3D38000969&_hsenc=3Dp2ANqtz-9HOWAR_Ww-mHtjP7HWkeJ=
+dg2eqbxeHefolLoJ8WnhIatJ4lQE-FVGpMr1pO4hzzTEGjPYdvKjZcTb4XVRDcA011sUglg&_hs=
+mi=3D38000969)  Share on Email (mailto:?subject=3DCheck out http%3A%2F%2Fbl=
+og.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Dema=
+il &body=3DCheck out http%3A%2F%2Fblog.cityfitnessphilly.com%2Ffeed%2F%3Fut=
+m_medium%3Dsocial%26utm_source%3Demail)
+
+City Fitness
+2101 South Street
+
+Philadelphia,
+PA
+19146
+U.S.A.
+
+You received this email because you are subscribed to City Fitness Blog Sub=
+scription from City Fitness.
+
+Update your email preferences (http://cityfitnessphilly-1.hs-sites.com/hs/m=
+anage-preferences/unsubscribe?v=3D1&d=3DeyJlYSI6Imt5bGVAa3lsZWZpc2hlci5jb20=
+iLCJlYyI6MzgwMDA5NjksInN1YnNjcmlwdGlvbklkIjo2NzUwNDIsImV0IjoxNDc5NzY3NTgwMD=
+kzLCJldSI6ImFjYjgzZWMwLTVjOTAtNGVkZS1hYmUxLTE4ZjE3MjM1Yzc0NCJ9&utm_campaign=
+=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D38000969&_hse=
+nc=3Dp2ANqtz-_OBI5gWiM8IRKls5z0mBdCdvp6-qVVWZ3GQJP56Fm-e6SjtQ51uFniIAM7nK60=
+oqad9IHMZk20cKV5TkEZJSuRI4Ursg&_hsmi=3D38000969) to choose the types of ema=
+ils you receive.
+
+Unsubscribe from all future emails (http://cityfitnessphilly-1.hs-sites.com=
+/hs/manage-preferences/unsubscribe-all?v=3D1&d=3DeyJlYSI6Imt5bGVAa3lsZWZpc2=
+hlci5jb20iLCJlYyI6MzgwMDA5NjksInN1YnNjcmlwdGlvbklkIjo2NzUwNDIsImV0IjoxNDc5N=
+zY3NTgwMDkzLCJldSI6ImFjYjgzZWMwLTVjOTAtNGVkZS1hYmUxLTE4ZjE3MjM1Yzc0NCJ9&utm=
+_campaign=3DRSS&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D3800=
+0969&_hsenc=3Dp2ANqtz-_giZ5apGnCrIJdZkdioay3RztpKMXJ4rc4-HkCWYZsPfQ8CCuR4Dj=
+xx9ql4nSAlnQAlWUuz499xvcgxI9JPkst0jXnCA&_hsmi=3D38000969)=
+
+------=_Part_9040_1634699125.1479767654963
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><!-- start coded_template: id:4304592182 path:generated_layo=
+uts/4304592172.html --><html bgcolor=3D"#f2f2f2" style=3D"margin: 0; paddin=
+g: 0; background-color: #f2f2f2"><head>
+        <title>Is Bulletproof Coffee A Trend To Jump On?</title>
+        <meta property=3D"og:title" content=3D"Is Bulletproof Coffee A Tren=
+d To Jump On?">
+        <meta name=3D"twitter:title" content=3D"Is Bulletproof Coffee A Tre=
+nd To Jump On?">
+=20=20=20=20=20=20=20=20
+        <style type=3D"text/css">
+        /*<![CDATA[*/
+            /* iOS automatically adds a link to addresses */
+            /* Style the footer with the same color as the footer text */
+            #footer a {
+                color: #999999;
+                -webkit-text-size-adjust: none;
+                text-decoration: underline;
+                font-weight: normal
+            }
+
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #main_body {
+                box-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+        /*]]>*/
+        </style>
+        <!-- http://www.emailon@cid.com/blog/details/C13/ensure_that_your_e=
+ntire_email_is_rendered_by_default_in_the_iphone_ipad -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                               =
+                                                      -->
+        <!--                            _/    _/            _/          _/_=
+/_/                        _/                         -->
+        <!--                           _/    _/  _/    _/  _/_/_/    _/    =
+    _/_/_/      _/_/    _/_/_/_/                      -->
+        <!--                          _/_/_/_/  _/    _/  _/    _/    _/_/ =
+   _/    _/  _/    _/    _/                           -->
+        <!--                         _/    _/  _/    _/  _/    _/        _/=
+  _/    _/  _/    _/    _/                            -->
+        <!--                        _/    _/    _/_/_/  _/_/_/    _/_/_/   =
+ _/_/_/      _/_/        _/_/                         -->
+        <!--                                                               =
+_/                                                    -->
+        <!--                                                              _=
+/                                                     -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                 Extra White Sp=
+ace!                                                  -->
+        <!--                                                               =
+                                                      -->
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" =
+content=3D"http://cityfitnessphilly-1.hs-sites.com/is-bulletproof-coffee-a-=
+trend-to-jump-on"></head>
+    <body bgcolor=3D"#f2f2f2" style=3D"margin: 0; padding: 0;  background-c=
+olor: #f2f2f2" marginheight=3D"0" marginwidth=3D"0" topmargin=3D"0">
+
+        <!-- Preview text (text which appears right after subject) -->
+        <div id=3D"preview_text" style=3D"display:none;font-size:1px;color:=
+#f2f2f2;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hid=
+den;">
+            Fitness =E2=80=A2 Food =E2=80=A2 Trends =E2=80=A2 Lifestyle =E2=
+=80=A2 Philly =E2=80=A2 Community
+        </div>
+
+        <!-- start container -->
+        <table bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2; -web=
+kit-font-smoothing: antialiased; -webkit-text-size-adjust: none" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+             <tbody><tr>
+                <td bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2;=
+">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#f2f2f2" st=
+yle=3D"background-color: #f2f2f2">
+                                    <!-- start header section -->
+                                    <div class=3D"header-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-email_view_as_web_page " style=3D"" d=
+ata-widget-type=3D"email_view_as_web_page">
+<div style=3D"padding-top: 15px; font-family: Geneva, Verdana, Arial, Helve=
+tica, sans-serif; text-align: right; font-size: 9px; line-height: 1.34em; c=
+olor: #999999">
+    Not rendering correctly? View this email as a web page <a class=3D"hubs=
+pot-mergetag" style=3D"color: #999999; text-decoration: underline; white-sp=
+ace: nowrap" data-viewaswebpage=3D"true" href=3D"http://t.hsms09.com/e1t/c/=
+*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W7PcrJr4gB8WgW6nSvQv5B887T0/5/f18dQhb0S41b6_J=
+dBgM1vjjHF6bsjW30X2NB47gzcVW6XbF-Q39MHPjW4vV1xb1-gWh0W1VcpVt92ypnLW4xfdvt7b=
+w3B7W2T-ghq50j1jqW24PFWP3S8ZGBW7bh35h45VhVsW7VR0NV8NdhG5W4sysHV3mkrgrW78Ylx=
+p4hqypsW59Th7Q96g6GvW2d3m-M4zdHg0W25vL6J1dcpdzN7krTmXszMfMN9dp4pv6FQ4kW5gr4=
+dx1jPHq4W2nj_GP32kkhvN3FbZ299q8tMW8YjCyR5H96mDW170Ls77YmYVHW8F2N_b4DcQvdW3q=
+LC1p7X5XfxW1J9Pdc1J090hVXyG5-7jfX63W5ffvK212YjbNW222GFy7P7b6NW3XqdqW8RdDlMW=
+94rK8Z8fPTH8W5L40kg2t-rBRN8hKpc2syhqxW9knLn61Rsk22W4jGdHR3qmZfnW6bQdxb7Stvs=
+tT-65c7kZdV7VJdz_p7kXTy-W3sS02l5NvbqHW1pHGJF83GbSnW2FW0yN1Yfl0bN9k043QlZ-j_=
+W3s7GDT7NvBgmW6W0G1D7ZkMjNW3Lr3wk4PBPnMN7KzrT_jsq62W6Dy_Vj5SPm_QW9bSf3460Fm=
+zQN6VScR-qsBjvW6Dq1lS6H1yxfW8WC6XD3sY0TTW4FTbN06-RfQJW8SqMf18755qhW18nZCY6j=
+57g6VnPV793nTJ8-f70Sk7b04" data-hs-link-id=3D"0" target=3D"_blank">here</a>.
+</div>
+
+
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end header wrapper -->
+                                    <!-- end header section -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#f2f2f2" style=3D"padding: 10px 20px; backgr=
+ound-color: #f2f2f2">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td id=3D"main_body" width=3D"600" bgcolor=
+=3D"#ffffff" style=3D"padding: 30px; background-color: #ffffff; border: 1px=
+ solid #cccccc; border-bottom: 1px solid #acacac; border-radius: 4px">
+                                    <div align=3D"center">
+                                        <table cellpadding=3D"0" width=3D"6=
+00" cellspacing=3D"0" border=3D"0">
+                                            <!-- start content -->
+                                            <tbody><tr>
+                                                <td style=3D"padding: 0; ba=
+ckground-color: #ffffff">
+                                                    <div align=3D"center">
+                                                        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"font-family: =
+sans-serif; font-size: 15px; line-height: 1.5em; color: #444444">
+                                                            <tbody><tr>
+                                                                <td>
+                                                                    <div al=
+ign=3D"center">
+                                                                        <!-=
+- start body section -->
+                                                                        <di=
+v class=3D"body-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-logo " style=3D"" data-widget-type=3D=
+"logo"><div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_logo_image" class=3D"hs_cos_wrapper hs_cos_wrappe=
+r_widget hs_cos_wrapper_type_logo" style=3D"color: inherit; font-size: inhe=
+rit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos=
+-type=3D"logo"><a href=3D"http://t.hsms09.com/e1t/c/*W28f2RF7yrGssW3hv_yQ5g=
+Mt9R0/*W4SLJy_31zXldVMqftB98pxwY0/5/f18dQhb0S5fq8XJ8kFW8__q7V3qJmymN23zYC4r=
+NDH9W1Fcqcv15zZmKW5q9kQw8B-PX8W3517_H8m7h1SVT8lWz8lwXc7W8tzK6w5wL96LW1sL3M0=
+3MybvyVcVn3D4Kzn27W2N33B53_t0gLW32Gf2Q4dy5FSW1kXfyt1SdKWJW1m2sXx8Xl1blW8W1L=
+YJ4cnH7hW7cvxVf8q5qBxVVQf4X5vDhTYW611dBq1pXvW7N66Ym7WMqp1wW8q_z088rRlY3N25_=
+7Smc2hXYW98Jc3D3Kr1B4W396fL85C4StfW66Yh2h4wDTzlW4t922z5yMk6fW5yn0st3k06PYW8=
+x9SJb8CKd8KMQDhXC_ks4_W3HstKw8GclM4VPNfDT3Cdk0dW3wv7Sm6xYY2PW6nW4TX3xb5GGW7=
+qVzbd1GyB6lW2mglJ-5PkNwpW2GPyFN7M5tvGW6ssnVK87L3K7W3jrNvr3h5SY9W4nK8MZ14WBZ=
+gDZpcdjCXZsf73bf--03" id=3D"hs-link-logo_image" style=3D"border-width:0px;b=
+order:0px;" data-hs-link-id=3D"0" target=3D"_blank"><img src=3D"https://cdn=
+2.hubspot.net/hub/687259/hubfs/cfphiladelphia_logo-1.png?width=3D231&amp;na=
+me=3Dcfphiladelphia_logo-1.png" class=3D"hs-image-widget " style=3D"max-hei=
+ght:51px; max-width:231px; border-width:0px;border:0px;" width=3D"231" alt=
+=3D"City Fitness Philly" title=3D"City Fitness Philly" srcset=3D"https://cd=
+n2.hubspot.net/hub/687259/hubfs/cfphiladelphia_logo-1.png?width=3D231&amp;n=
+ame=3Dcfphiladelphia_logo-1.png 231w, https://cdn2.hubspot.net/hub/687259/h=
+ubfs/cfphiladelphia_logo-1.png?width=3D462&amp;name=3Dcfphiladelphia_logo-1=
+.png 462w" sizes=3D"(max-width: 231px) 100vw, 231px"></a></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-rich_text " style=3D"font-size: 12px;=
+ line-height: 1.5em; text-align: center" data-widget-type=3D"rich_text"><di=
+v class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_column1" class=3D"hs_cos_wrapper hs_cos_wrapper_w=
+idget hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: in=
+herit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-c=
+os-type=3D"rich_text"><p style=3D"margin-bottom: 1em; "><a href=3D"http://t=
+.hsms09.com/e1t/c/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W8d9_v51JnzPdN45fVLScCTdy0/=
+5/f18dQhb0S5fn8XJ8HCW8__q7V3qJmymN23zYC4rNDH9W1Fcqcv5P7KMHW5q9kQw8B-__YW67k=
+5Wc5vD9_wN5wL6c-SzjjHW8rzJsK1nPLDsW5y5jh-1rfXlzW1kRpb77Yc3xQW6gp6Kq8W2c9WW3=
+2CQ2l8jxMNSW1VwV0k3HbcNkW1SdKWJ32j40pW5mZjbq31H380V9ZqgW6b-vF0N67h1zcQC5z2V=
+PC2cV8BFcN9V8C8bP33Pm4qW8sd-0P7c8p-BV94PFr3cqy5GN661M3Sh4GFkW4x6w8T4vLLKdW5=
+yKCQn8qsF2ZW2yk9D42z8hwcW6Q8z7G93nGllW8mDK282wCP8jW5vLD663jSzQ-W7fTS5-7fS7m=
+TW4Rj6Nh6BkmL8W6s16_28Ph58-W59Bvdb7yQjd9W4hC2gk5kfQ36W5jPJ7-5l3_2RW2cyH2G5k=
+zHQXW675vBx3yQkmFW6YlgDD6CV6qwW6zcJTl8NpX71W27RFv41WPqsCV1ngMc5xmQH-103" da=
+ta-hs-link-id=3D"0" target=3D"_blank"><img src=3D"https://cdn2.hubspot.net/=
+hub/687259/hubfs/nl/rss-head.jpg?width=3D600&amp;height=3D250&amp;name=3Drs=
+s-head.jpg" alt=3D"rss-head.jpg" width=3D"600" height=3D"250" srcset=3D"htt=
+ps://cdn2.hubspot.net/hub/687259/hubfs/nl/rss-head.jpg?width=3D600&amp;heig=
+ht=3D250&amp;name=3Drss-head.jpg 600w, https://cdn2.hubspot.net/hub/687259/=
+hubfs/nl/rss-head.jpg?width=3D1200&amp;height=3D500&amp;name=3Drss-head.jpg=
+ 1200w" sizes=3D"(max-width: 600px) 100vw, 600px"></a></p>
+<p style=3D"margin-bottom: 1em; ">&nbsp;</p></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-email_body " style=3D"" data-widget-t=
+ype=3D"email_body"><div id=3D"hs_cos_wrapper_hs_email_body" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"colo=
+r: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-=
+type=3D"widget" data-hs-cos-type=3D"rich_text"><!--rss-email-entries-->=20
+<table align=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%">=20
+ <tbody>
+  <tr>=20
+   <td>=20
+    <div style=3D"font-family: sans-serif; color: #444444; background-color=
+: #ffffff;">=20
+     <h2 style=3D"padding-bottom: 0px; margin: 0px 0px 5px; text-align: lef=
+t;"><span style=3D"color: #ff0000;"><a href=3D"http://t.hsms09.com/e1t/c/*W=
+28f2RF7yrGssW3hv_yQ5gMt9R0/*VbQkly4DMRT0W5Z4xL_2NSZcJ0/5/f18dQhb0Sq5M8Y9_Dz=
+W8FVmQd6SnL4KN477VgWVyffCW3gqRq-7wdhwPW1wcMDH7TRHxXW2XxNtn1F6w5DW1FmR851J6C=
+DlW7v3p0s2NB2NVW1L2TJ72Mjp43W1FtdvK7x1P1rW1wcnrf2Xw5MlW2Wsv-S7PTNp3W2NQ1yb8=
+Ct4VnVSbZsQ8yqJyHW8mp2bw8p-Vr0N65kbg29XXWpV8-0V155nSC9W1VJH714c2Rr9W71B_tr1=
+x4lQBW6Gd5l61VJhVTW5mKjF63m28v3W53X_Zp52YlfxW3_8mpl9fgwMTW4gDYGN6VwD9XN6Xg7=
+MLrK8S4W52jKBP82-8LMW5-4fT_2LMPjnW3100pR2qfqyTW6zQJ2_1S-zL8N825g3DrkCfTV7dF=
+3m5ly2zzW8X2dKr4bVggtW6YhlQX7vzrb2W1TN_X082G05yN538_PY6qVQ7W3MYtL8294YPHW1N=
+Ffl48P4D7lVlyY7d601RmMW5PjDyP7y0BRTW4VrCG95qv4fvN7hNnNfKPd15W906TBX72hTCLW5=
+S682x70f3WSW3DcpL31rpL-tMVMPV8Vmhl4f6bjKwr02" style=3D"color: #ff0000; text=
+-decoration: none;" data-hs-link-id=3D"0" target=3D"_blank">Is Bulletproof =
+Coffee A Trend To Jump On?</a></span></h2>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"><span style=3D"color: #999999;">By CityFitnessPhilly, Frida=
+y, November 18, 2016 7:01 PM</span></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"> </p>
+     <div style=3D"color: #999999;">=20
+      <img alt=3D"bulletproof coffee trend" class=3D"attachment-large size-=
+large wp-post-image" height=3D"400" src=3D"http://i0.wp.com/blog.cityfitnes=
+sphilly.com/wp-content/uploads/2016/11/bulletproof-coffee-trend.jpg?fit=3D1=
+100%2C733" width=3D"600" style=3D"display:block ; margin:auto ; margin-bott=
+om:5px ; height:400px ; width:600px ">=20
+      <div class=3D"post-excerpt">
+        Whether you=E2=80=99re a paleo eater or not, chances are, you=E2=80=
+=99ve at least heard of the term =E2=80=98bulletproof coffee=E2=80=99 befor=
+e. This beverage is one that many people choose to start their=E2=80=A6=20
+      </div>=20
+      <p style=3D"margin-bottom: 1em; ">The post <a href=3D"http://t.hsms09=
+.com/e1t/c/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W32gr8T3WHQP_VLy42j1z_Fms0/5/f18dQ=
+hb0Sq5M8Y9_DzW8FVmQd6SnL4KN477VgWVyffCW3gqRq-7wdhwPW1wcMDH7TRHxXW2XxNtn1F6w=
+5DW1FmR851J6CDlW7v3p0s2NB2NVW1L2TJ72Mjp43W1FtdvK7x1P1rW1wcnrf2Xw5MlW2Wsv-S7=
+PTNp3W2NQ1yb8Ct4VnVSbZsQ8yqJyHW8mp2bw8p-Vr0N65kbg29XXWpV8-0V155nSC9W1VJH714=
+c2Rr9W71B_tr1x4lQBW6Gd5l61VJhVTW5mKjF63m28v3W2LGsc952YlfxW3_8mpl9fgwMTW4fds=
+lV33FySPW7nZf902qY_HDN3qMyN8KztwKW14mm6P1f5Z7VW1fq-vL856WNVN5MNYRPHWlYBW5L0=
+YWw14Cmv3W9gk6mt5JWzc9W2bPpM95mx1YYW5n7vRl12zx-5W85zcTm5mxy1kW54mMrP11MynNW=
+3MYt232xQqYpW53NYtc4PLwTVW7pCfWn6Sm2mZW4LGdhY3jmQGWN3Vh2ZT84rVzW6PxM6P8Y8gZ=
+zW4Cl-Sk6fBStxW7vZP_68ZZq0fW1ZGfMB4mp_RSW5X0h3Y73vnPnTLZXB4mHt5z103" rel=3D=
+"nofollow" data-hs-link-id=3D"1" target=3D"_blank">Is Bulletproof Coffee A =
+Trend To Jump On?</a> appeared first on <a href=3D"http://t.hsms09.com/e1t/=
+c/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W7sNk4P5fkVM6W1TnFMs1Jlg2F0/5/f18dQhb0S5fn8=
+XJ8HCW8__q7V3qJmymN23zYC4rNDH9W1Fcqcv5P7KMHW5q9kQw8B-__YW67k5Wc5vD9_wN5wL6c=
+-SzjjHW8rzJsK1nPLDsW5y5jh-1rfXlzW1kRpb77Yc3xQW6gp6Kq8W2c9WW32CQ2l8jxMNSW1Vw=
+V0k3HbcNkW1SdKWJ32j40pW5mZjbq31H380V9Zqkg6dZ27bN67h1zcQC5z2VPC2cV3j__N7W3Jf=
+7mC5DJp5kN96dG2FR3p-jVbW2k95rhJCSW4vFrFF66hG7rW5t1f1Z1k_5xrVZwvm81q0h9lVPBc=
+yl8kWnqqMM7KGrLvFpJVR55q-37LG30VX6tZ04YR3znVfNvLd9bHlWdW4Rj6Nh6BbR_kW8-vMNB=
+4Pw1VkN2sbPxnvR74FW3JVXPQ1jV8fgW7vfMkK1gbPRHVWDM01798DQgW3qL4f787n_7SVXn6XV=
+2ggQWtW2C4F3Q56n9TBW2WlW6S6lRJl1N3f5_rb4cfZlf28qG9z04" rel=3D"nofollow" dat=
+a-hs-link-id=3D"1" target=3D"_blank">City Fitness Blog</a>.</p>=20
+     </div>
+     <p style=3D"margin-bottom: 1em; "></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; text-align: left;"><span style=3D"back=
+ground-color: #ff0000; padding: 20px;"><a href=3D"http://t.hsms09.com/e1t/c=
+/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W5Xqd3r9kG5KRVYXg356CVs-m0/5/f18dQhb0Sq5M8Y9=
+_DzW8FVmQd6SnL4KN477VgWVyffCW3gqRq-7wdhwPW1wcMDH7TRHxXW2XxNtn1F6w5DW1FmR851=
+J6CDlW7v3p0s2NB2NVW1L2TJ72Mjp43W1FtdvK7x1P1rW1wcnrf2Xw5MlW2Wsv-S7PTNp3W2NQ1=
+yb8Ct4VnVSbZsQ8yqJyHW8mp2bw8p-Vr0N65kbg29XXWpV8-0V155nSC9W1VJH714c2Rr9W71B_=
+tr1x4lQBW6Gd5l61VJhVTW5mKjF63m28v3W53X_Zp52YlfxW3_8mpl9fgwMTW4fdlHZ77Fw3gVn=
+_hfQ3r3Sh-W9dHrXD1TcQdhN2qRsl9vCQLfW2KC2_q5L6KdYV6fNdg9fP83DW9dC31v7JWXywW8=
+4YFt_5LH4GPW8TJpJs2LwZGLW30n0zC2MzKHmVt76ph5JVBk9N1B9RDV4slhZW3MYtL8294YPHW=
+1NFfl48P4D7lVlyY7d601RmMW5PjDyP7y0BRTW4VrCG95qv4fvN7hNnNfKPd15W906TBX72hTCL=
+W5S682x70f3WSW3DcpL31rpL-tMVN05-VmqbVdrzX7G02" style=3D"color: #ffffff; tex=
+t-decoration: none; font-weight: bold;" data-hs-link-id=3D"2" target=3D"_bl=
+ank">Read more =C2=BB</a></span></p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+    </div> </td>=20
+  </tr>=20
+  <tr>=20
+   <td>=20
+    <div style=3D"font-family: sans-serif; color: #444444; background-color=
+: #ffffff;">=20
+     <h2 style=3D"padding-bottom: 0px; margin: 0px 0px 5px; text-align: lef=
+t;"><span style=3D"color: #ff0000;"><a href=3D"http://t.hsms09.com/e1t/c/*W=
+28f2RF7yrGssW3hv_yQ5gMt9R0/*Vk38bD57qN6FW5bkVFn7ByyyS0/5/f18dQhb0Sq5K8Y9Xq0=
+W8FVmQd6SnL4KN477VgWVyffCW3gqRq-2RHNyKW1wcMDH7TRHxXW2XxNtn1F6w5DW1FmR851J6C=
+DlW7v3p0s2NB2NVW7B-VjB1G80pgW2JHGS_7VPTHyW7GZSN11Hlms0W7qW9Z91FnTrtW7TQBN17=
+PTvs2V7-LbZ5y5jh-W1rfXlz1kRpb7W7Yc3xQ6gp6KqW8W2c9W32CQ2lW8jxMNS1Vx27WW6Pkt_=
+V62_rVlV2wNfB9dH8_6W6V4mf74q_dR4W8gjY6L8WBKbVW56sy_82NhXK3W3qV4sw1DYTsnW2MT=
+z4Z9g3WRSW2v7LjN7JdY71V6QJ5Y5nN5zdVsWdnb4xY1lmW2bq8dl7vFjzBN4y9RmMpPBzfW8X1=
+_c45M9f-hW1g8VcB7vMjw1W2ctGbG56zjW3W2NmgQD1VS5g5W8ktp334lBZ6FVnpm3l1Q68w6W1=
+MMh8v7Z1bdhV7nHXb7kz5BVN6yD8RJhYKB0Vsk4dR3BBjZ0W6mYbQH8NdJNcW56fLbq168lrsW5=
+_Bx9R2B9zXJW66Lnw638rh8dW1tGQJT7bNL74f3Z5qSF04" style=3D"color: #ff0000; te=
+xt-decoration: none;" data-hs-link-id=3D"0" target=3D"_blank">Why You SHOUL=
+D Be Going Out on Thanksgiving Eve</a></span></h2>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"><span style=3D"color: #999999;">By Raquel Redmond, Thursday=
+, November 17, 2016 6:38 PM</span></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"> </p>
+     <div style=3D"color: #999999;">=20
+      <img alt=3D"Go Out on Thanksgiving Eve" class=3D"attachment-large siz=
+e-large wp-post-image" height=3D"397" src=3D"http://i0.wp.com/blog.cityfitn=
+essphilly.com/wp-content/uploads/2016/11/Go-Out-on-Thanksgiving-Eve-H1.jpg?=
+fit=3D1100%2C727" width=3D"600" style=3D"display:block ; margin:auto ; marg=
+in-bottom:5px ; height:397px ; width:600px ">=20
+      <div class=3D"post-excerpt">
+        Remember that bar in your hometown that you had a bad night at and =
+you said you would never go back? Well, it=E2=80=99s that time of year agai=
+n and Thanksgiving=E2=80=A6=20
+      </div>=20
+      <p style=3D"margin-bottom: 1em; ">The post <a href=3D"http://t.hsms09=
+.com/e1t/c/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W30BDWg2BRqFwW1Q768g428GFZ0/5/f18d=
+Qhb0Sq5K8Y9Xq0W8FVmQd6SnL4KN477VgWVyffCW3gqRq-2RHNyKW1wcMDH7TRHxXW2XxNtn1F6=
+w5DW1FmR851J6CDlW7v3p0s2NB2NVW7B-VjB1G80pgW2JHGS_7VPTHyW7GZSN11Hlms0W7qW9Z9=
+1FnTrtW7TQBN17PTvs2V7-LbZ5y5jh-W1rfXlz1kRpb7W7Yc3xQ6gp6KqW8W2c9W32CQ2lW8jxM=
+NS1Vx27WW6Pkt_V62_rVlV2wNfB9dH8_6W6V4mf74q_dR4W8gjY6L8WBKbVW56sy_82NhXFJW75=
+MjPq7s5pd8W1j1vrX49gDnVN6dwylG6vDKbN2bLC05HG11MW5Nq0m09dQmDNW6X9-Sr57R7QhW1=
+y7bC31TmnxdW76lfSc7J-FpyW57Jg1R75TWWRW3r38Hd3mVkGBW4MVTgV7rDWDVW1DWLgD4lBZ6=
+FVnpm3l1Q68w6W1MMh8v7Z1bdhV7nHXb7kz5BVN6yD8RJhYKB0Vsk4dR3BBjZ0W6mYbQH8NdJNc=
+W56fLbq168lrsW5_Bx9R2B9zXJW66Lnw638rh8dW1Dy_KC1QYpd8f3Z5qSF04" rel=3D"nofol=
+low" data-hs-link-id=3D"1" target=3D"_blank">Why You SHOULD Be Going Out on=
+ Thanksgiving Eve</a> appeared first on <a href=3D"http://t.hsms09.com/e1t/=
+c/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W2dD1qF2q33ZVW8RGDK_6YfBhq0/5/f18dQhb0S5fn8=
+XJ8HCW8__q7V3qJmymN23zYC4rNDH9W1Fcqcv5P7KMHW5q9kQw8B-__YW67k5Wc5vD9_wN5wL6c=
+-SzjjHW8rzJsK1nPLDsW5y5jh-1rfXlzW1kRpb77Yc3xQW6gp6Kq8W2c9WW32CQ2l8jxMNSW1Vw=
+V0k3HbcNkW1SdKWJ32j40pW5mZjbq31H380V9Zqkg6dZ27bN67h1zcQC5z2VPC2cV3jNHmhVNnd=
+Rz8n1fx4VRBw1T66P90jW964Nnb3KQSsgW6Rh7r633YCCKW5BkWxp4ZQ9W9W2CTyFp4RGlBSN96=
+4MdB-KRs5W5wNNDr7dSXHHW5CkDqJ39K6DcW7bGBNj94D0mGW5H_JxH5K0vSFN6wydXJSbHPPN2=
+0F0VYwKJnCV3qXTz3p1mvJW25Nw9Y6hHyyWW54Gjr92mM40CW5hfR428jkHl3W4CnMGr7h6QMbV=
+MVCjV8c5Xl3W9g65Gb2LS0J7N8ZYnxz4ZDLSV1_Q0c7GKblL111" rel=3D"nofollow" data-=
+hs-link-id=3D"2" target=3D"_blank">City Fitness Blog</a>.</p>=20
+     </div>
+     <p style=3D"margin-bottom: 1em; "></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; text-align: left;"><span style=3D"back=
+ground-color: #ff0000; padding: 20px;"><a href=3D"http://t.hsms09.com/e1t/c=
+/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W4WC7wp5JLkg6W75Pg397t7v130/5/f18dQhb0Sq5K8Y=
+9Xq0W8FVmQd6SnL4KN477VgWVyffCW3gqRq-2RHNyKW1wcMDH7TRHxXW2XxNtn1F6w5DW1FmR85=
+1J6CDlW7v3p0s2NB2NVW7B-VjB1G80pgW2JHGS_7VPTHyW7GZSN11Hlms0W7qW9Z91FnTrtW7TQ=
+BN17PTvs2V7-LbZ5y5jh-W1rfXlz1kRpb7W7Yc3xQ6gp6KqW8W2c9W32CQ2lW8jxMNS1Vx27WW6=
+Pkt_V62_rVlV2wNfB9dH8_6W6V4mf74q_dR4W8gjY6L8WBKbVW56sy_82NhXFJVnncm477KzJ4W=
+1BQFNR2Nm92HW31_pqF3q4k4KW1hFxB354BXlnW52F1yP5LjC73W2N3dVc78sDZyN9fN8RRpPJ8=
+tW76gSFy538WLYW2shgqt1DY_ycW2fR63t2PTs3wW1C2Sq-4z6m1QVnTJhm4lBZ6FVnpm3l1Q68=
+w6W1MMh8v7Z1bdhV7nHXb7kz5BVN6yD8RJhYKB0Vsk4dR3BBjZ0W6mYbQH8NdJNcW56fLbq168l=
+rsW5_Bx9R2B9zXJW66Lnw638rh8dN1yCWKdxCnk3f3Z5qSF04" style=3D"color: #ffffff;=
+ text-decoration: none; font-weight: bold;" data-hs-link-id=3D"2" target=3D=
+"_blank">Read more =C2=BB</a></span></p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+    </div> </td>=20
+  </tr>=20
+  <tr>=20
+   <td>=20
+    <div style=3D"font-family: sans-serif; color: #444444; background-color=
+: #ffffff;">=20
+     <h2 style=3D"padding-bottom: 0px; margin: 0px 0px 5px; text-align: lef=
+t;"><span style=3D"color: #ff0000;"><a href=3D"http://t.hsms09.com/e1t/c/*W=
+28f2RF7yrGssW3hv_yQ5gMt9R0/*W75hdYN6WWfWFW58SpY741tqjF0/5/f18dQhb0Sq5v8Y9Zw=
+PW8FVmQd6SnL4KN477VgWVyffCW3gqRq-2RK0-CW1wcMDH7TRHxXW2XxNtn1F6w5DW1FmR851J6=
+CDlW7v3p0s2NB2NVW2Xr_kf7F_pnMW1Hlj_c2QxvYlW7w3MKk7v6wXrW2GFzX02VvSs7W7t51bJ=
+2MB59RW7GPrcB7mHF3-W7sTjsd2Qy-dfMmSrdrkXDm9VQJJn63Lqnm_W8q5FTl4K45-LW328h7y=
+40jzwFW3LpDPX1njMtBN6H5S3kMNBCZVMMQxX80gSRfW97rB1b8xqY2_W5sxQL14xDX8gN8r0hl=
+RQJFzKW7fShZg3Jc_ybW4WlvR45G0FdvW5qGYm38tXZ1WW6PxZF33J5GgXN5qzhZfXN5LGW4WRz=
+3x6S7_JbW3dkyyw5vWjkGW5C4KMy9bHRlPW97rXlV95lK1sVgRk0K7wTZy2W4l9VBl3ygvH8N8c=
+3mphJ5T9KW2HYLM82ftXLmN5KXLfYmMKyCW1wRS6N5bsm7XW1rz1Gk8G8gJjW4LtTqQ2h7VKtW4=
+Gnh117brStkW2WNC-w1NwBMjW1MKd9H7Pdg7r111" style=3D"color: #ff0000; text-dec=
+oration: none;" data-hs-link-id=3D"0" target=3D"_blank">A Dietitian=E2=80=
+=99s Ideal Thanksgiving Feast Unveiled</a></span></h2>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"><span style=3D"color: #999999;">By Raquel Redmond, Tuesday,=
+ November 15, 2016 5:11 PM</span></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;"> </p>
+     <div style=3D"color: #999999;">=20
+      <img alt=3D"Dietitian's Ideal Thanksgiving" class=3D"attachment-large=
+ size-large wp-post-image" height=3D"400" src=3D"http://i0.wp.com/blog.city=
+fitnessphilly.com/wp-content/uploads/2016/11/Thanksgiving-Dieterians.jpg?fi=
+t=3D1100%2C733" width=3D"600" style=3D"display:block ; margin:auto ; margin=
+-bottom:5px ; height:400px ; width:600px ">=20
+      <div class=3D"post-excerpt">
+        Thanksgiving can be all about bingeing but I=E2=80=99m here to tell=
+ you that it doesn=E2=80=99t have to be! My idea of Thanksgiving is indulgi=
+ng on a few items, putting some=E2=80=A6=20
+      </div>=20
+      <p style=3D"margin-bottom: 1em; ">The post <a href=3D"http://t.hsms09=
+.com/e1t/c/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W42c3XV88V7-sW3QdlMB3Ggh520/5/f18d=
+Qhb0Sq5v8Y9ZwPW8FVmQd6SnL4KN477VgWVyffCW3gqRq-2RK0-CW1wcMDH7TRHxXW2XxNtn1F6=
+w5DW1FmR851J6CDlW7v3p0s2NB2NVW2Xr_kf7F_pnMW1Hlj_c2QxvYlW7w3MKk7v6wXrW2GFzX0=
+2VvSs7W7t51bJ2MB59RW7GPrcB7mHF3-W7sTjsd2Qy-dfMmSrdrkXDm9VQJJn63Lqnm_W8q5FTl=
+4K45-LW328h7y40jzwFW3LpDPX1njMtBN6H5S3kMNBCZVMMQxX80gSRfW97rB1b8xr0p3W5F1jm=
+c9bbljDV-5lz28rdNDvW4w6N6l8lPxgjN3MqVq882zWhW111K0_3h1m4RVNnhrZ955qLBW60THN=
+h8m2LnlW5xDyJz3gFFSGW7dF8Fh3j_-lDW5F1Vp-4pzClsW4vTlS57fSgXJW66x81-7wTZy2W4l=
+9VBl3ygvH8N8c3mphJ5T9KW2HYLM82ftXLmN5KXLfYmMKyCW1wRS6N5bsm7XW1rz1Gk8G8gJjW4=
+LtTqQ2h7VKtW4Gnh117brStkW2WNC-w1NwBMlN1MKdcd_y35L111" rel=3D"nofollow" data=
+-hs-link-id=3D"1" target=3D"_blank">A Dietitian=E2=80=99s Ideal Thanksgivin=
+g Feast Unveiled</a> appeared first on <a href=3D"http://t.hsms09.com/e1t/c=
+/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W2vhwSJ7KbRrHVgsTdg6PJ-6g0/5/f18dQhb0S5fn8XJ=
+8HCW8__q7V3qJmymN23zYC4rNDH9W1Fcqcv5P7KMHW5q9kQw8B-__YW67k5Wc5vD9_wN5wL6c-S=
+zjjHW8rzJsK1nPLDsW5y5jh-1rfXlzW1kRpb77Yc3xQW6gp6Kq8W2c9WW32CQ2l8jxMNSW1VwV0=
+k3HbcNkW1SdKWJ32j40pW5mZjbq31H380V9ZqgW6b-vF0N67h1zcQC5z2VPC2cV7fKpNgW1pxtS=
+N1k4S3nW39CLBT5D2QWhW63J_X-6N3KDmW1pX_yC2BVNxmW8r58Hs96drX_W3PMdd23JdjHjW6S=
+FvB624wYPfW5rj6lX4TDDVhW2y4bY-5DQQsZW4qK8Z44Vt540N8nPn35-Mlh7W4PkBg56BkmL8W=
+6s16_28Ph58-W59Bvdb7yQjd9W4hC2gk5kfQ36W5jPJ7-5l3_2RW2cyH2G5kzHQXW675vBx3yQk=
+mFW6YlgDD6CV6qwW6zcJTl8NpX71W27RFv41XNJhYTg58y19zPNY103" rel=3D"nofollow" d=
+ata-hs-link-id=3D"3" target=3D"_blank">City Fitness Blog</a>.</p>=20
+     </div>
+     <p style=3D"margin-bottom: 1em; "></p>=20
+     <p style=3D"margin-bottom: 1em; padding-top: 0px; margin-top: 0px; tex=
+t-align: left;">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; text-align: left;"><span style=3D"back=
+ground-color: #ff0000; padding: 20px;"><a href=3D"http://t.hsms09.com/e1t/c=
+/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W7Df8cB95j2qMW48CJP341ZbQY0/5/f18dQhb0Sq5v8Y=
+9ZwPW8FVmQd6SnL4KN477VgWVyffCW3gqRq-2RK0-CW1wcMDH7TRHxXW2XxNtn1F6w5DW1FmR85=
+1J6CDlW7v3p0s2NB2NVW2Xr_kf7F_pnMW1Hlj_c2QxvYlW7w3MKk7v6wXrW2GFzX02VvSs7W7t5=
+1bJ2MB59RW7GPrcB7mHF3-W7sTjsd2Qy-dfMmSrdrkXDm9VQJJn63Lqnm_W8q5FTl4K45-LW328=
+h7y40jzwFW3LpDPX1njMtBN6H5S3kMNBCZVMMQxX80gSRfW97rB1b8yfY7hW10tjb64qbQwrW99=
+sqB-1m2ryRW2DmKw35v8pt1W1rDwhx2CgRgYW8mQ9Lz8rlGkqN5GF4qCV83WBMSHn2wVGn_WVLX=
+G3T1pFZRkW38D_2D28V2g3W10dbq94sgW9WW3gPXtb4rWcMVW5v-TtR7wTZy2W4l9VBl3ygvH8N=
+8c3mphJ5T9KW2HYLM82ftXLmN5KXLfYmMKyCW1wRS6N5bsm7XW1rz1Gk8G8gJjW4LtTqQ2h7VKt=
+W4Gnh117brStkW2WNC-w1NwBMkN1MKd9HyXCMk111" style=3D"color: #ffffff; text-de=
+coration: none; font-weight: bold;" data-hs-link-id=3D"2" target=3D"_blank"=
+>Read more =C2=BB</a></span></p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+     <p style=3D"margin-bottom: 1em; ">&nbsp;</p>=20
+    </div> </td>=20
+  </tr>=20
+ </tbody>
+</table></div>
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-rich_text " style=3D"" data-widget-ty=
+pe=3D"rich_text"><div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1471636828266713" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inheri=
+t; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"w=
+idget" data-hs-cos-type=3D"rich_text"><!--HubSpot Call-to-Action Code -->=
+=20
+<span class=3D"hs-cta-wrapper" data-hs-img-pg=3D"21861336-ebb2-4f14-ab2f-84=
+6af3fe0948" id=3D"hs-cta-wrapper-21861336-ebb2-4f14-ab2f-846af3fe0948"> <sp=
+an class=3D"hs-cta-node hs-cta-21861336-ebb2-4f14-ab2f-846af3fe0948" id=3D"=
+hs-cta-21861336-ebb2-4f14-ab2f-846af3fe0948"> <a href=3D"http://t.hsms09.co=
+m/e1t/c/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W2qbxMf5z6fBYW91g5sR3h_1qq0/5/f18dQhb=
+0S2C97Bf-yvV1xT8T1MMRT7W1fCtjZ2GXGgXW5GwJsX7fHzCpW6KqPC25mm7sNW1mhgTc7wfpVL=
+W3mqP968ZMmPvW2crFVz2ky46ZW52lqx-9l73jjW5p1v7H3snGv_W8Jbl_593yfGNW1CQQLg8Lr=
+4frW8_0gF429Lt9mW3c-zy490mHWrW37K7K86Gqbv2VjZL6w1kxymvN7vLwH7-G_TMW5kTNQY32=
+10v0Vv1xBV1fC6kCW5YpN686cJgRFN53gRjLk8xK5W4Pfwpf2YF3BQW2MsSX06wW-s8W7Kvk4C6=
+HvmgYVTRyg33QGZLCW6yDlq84MkKR5W4bk73G6jP07dV1WGqX6Cr5nbN7T_fs3tY_zsW7sJ0HX6=
+7QvY4VRdq9k8-_83qW4m8ld77yJJZPVYJvl87cTZhLW67KLvh3MZ_BjW81gyps4RWsx-N7Gt4hy=
+GPZgvW2tsVdp59fT5pV4Y8jm19f_XlN2Cn1T7c6BJtVKNB-Q7C9mWtN1kRZJQp2twyW6Gd9Tr10=
+2YvJVwR19y7t5tHqW5_PlD43Srdm7W7k0ZMP48WbpwW3t33fV2yxf3ZW4cJqX47GxTbkW6vtVpR=
+23D8V_W3yRnzJ65jMnMW8F3F6y8Jsk8GN6XGxfTFVfxwW357YXn7VYWhSW6lz8xZ7jwVZhW93GG=
+YT2SXt_pW2b9r6G6KLFVYW4DC64Z8pGkxwW7xYMgp2l8bXBW4CzLhh8MHwpCW7TBjYv5RbDn-N8=
+Ktjxwzm3VRdXb97203" data-hs-link-id=3D"0" target=3D"_blank"> <img class=3D"=
+hs-cta-img" id=3D"hs-cta-img-21861336-ebb2-4f14-ab2f-846af3fe0948" style=3D=
+"border-width:0px;width: auto !important; max-width: 100% !important;" mce_=
+noresize=3D"1" src=3D"http://cta-image-cms2.hubspot.com/ctas/v2/public/cs/i=
+l/?pg=3D21861336-ebb2-4f14-ab2f-846af3fe0948&amp;pid=3D687259&amp;ecid=3DAC=
+sprvtdJ0U1bUTbeF7JKNMAKZL-2Gvoc_17iyC4RGtUnK2RxzEXl86Hlxl9eSZPTOXiN2-4IaMT"=
+ alt=3D"City Fitness Trial"></a> </span> </span>=20
+<!-- end HubSpot Call-to-Action Code -->
+<h2>&nbsp;</h2></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-text " style=3D"padding: 10px 0px 0px=
+ 0px; text-align: right" data-widget-type=3D"text"><div class=3D"layout-wid=
+get-wrapper">
+<div id=3D"hs_cos_wrapper_social_sharing_label" class=3D"hs_cos_wrapper hs_=
+cos_wrapper_widget hs_cos_wrapper_type_text" style=3D"color: inherit; font-=
+size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" d=
+ata-hs-cos-type=3D"text"></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-social_sharing " style=3D"padding: 10=
+px 0px 0px 0px; text-align: right" data-widget-type=3D"social_sharing"><div=
+ class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_Social_Sharing" class=3D"hs_cos_wrapper hs_cos_wr=
+apper_widget hs_cos_wrapper_type_social_sharing" style=3D"color: inherit; f=
+ont-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widge=
+t" data-hs-cos-type=3D"social_sharing"><a href=3D"http://t.hsms09.com/e1t/c=
+/*W28f2RF7yrGssW3hv_yQ5gMt9R0/*W4RLQZT2YSMSmW3tRxwt2NkBX_0/5/f18dQhb0S82_9c=
+LjJWW2Wtrnk5H0XxdN56BdWns1bYCW6Dk5RP1SrC8dVM7Yn35y5C1fW61SD151qMs7fW8B-9dc8=
+yVBNPVRJ3YJ3GtjSXW7-xbs47khzHgW3487sr5YX19vW4glqb85mF7flW5mxmqF8gXQSbW5L0h6=
+C16r7T2W3V-2B65Dfq37W2HVTVH3VKVtLW6nF5SN47YmLCN3CsXK9XVXBlN70fl6pNM7vQW2V-F=
+8l5K-FKHN5B4_2r_r6yzVJfbTZ6sSysYW2XsCWx7tf-dJW7kpkQ66sqc6-W2JDZKm2JDgVLVPW6=
+-X2Fq95DW22WLyB6HBHnDW6qG73422dQp1W7DRKrZ6wHz7FW7l3dKw7m0PkhW7KDSMC1bQV3NW7=
+DPC-829_sSbW1jxJvZ5_THYDW2kDwLB1hvYGzW1N5P057LSmjqW6Twtch20TScTW22WL1322dZc=
+CW222YLb6g-nWZW83DnxY68-FfGVFk2JC64TT97W4PFxqB4PxC8jW448gk945WthjW6csb7t2FM=
+ZZGW2zYCl68DGNSRW1wRS6N5bsm7XW1rz1Gk8G8gJjW4LtTqQ2h7VKtW4Gnh117brStkW2WNC-w=
+1NwBMjW1MKdcN2Q58jN111" target=3D"_blank" style=3D"width:24px;border-width:=
+0px;border:0px;" data-hs-link-id=3D"0"><img src=3D"https://static.hubspot.c=
+om/final/img/common/icons/social/facebook-24x24.png" class=3D"hs-image-widg=
+et hs-image-social-sharing-24" style=3D"max-height:24px;max-width:24px;bord=
+er-width:0px;border:0px;" width=3D"24" hspace=3D"0" alt=3D"Share on Faceboo=
+k"></a>&nbsp;<a href=3D"http://t.hsms09.com/e1t/c/*W28f2RF7yrGssW3hv_yQ5gMt=
+9R0/*W5bQ5BB8B3M-DW3Q3VGT47C_0L0/5/f18dQhb0S2C52WJLfhW12hdQ74Lc6tgVjqNwv17L=
+1T7W20ly8Y85P-78W5J5d531Gm0MlW3sF9mg4kMm49W5DKzsL7KCxbWW4_z5cN8gqzt1N4vBG3F=
+C5sszN4t1HjNzKnyvW2ZyhtJ8xGR7RW8sy_qH5m2DJ9W8BBK4V7_WBfrW1QXhmp1nVpg2W9jn58=
+y2rDFbBW739STW49272TN5ZRL5fVvblGW4VH-wm2TFJvFMH4v8SYBFz2W2ZppTJ24rgLqW8q9Th=
+L2M-JKfW2rsfhm3ymmzBW1J1djt6h_w8xW7Zf0Xc796669W1mnnL856TfdLW1mgBR52PCtqbW7Y=
+Ky0Y3vxp2sN1dgfzXr4-MmW8qP5Zv4nYS9_W6j1Dsc5ZTr3lW2Kgk4k5vRLq7W3t4FCd8dGSqcW=
+8vBk478ZTwFzW3MPYTd3zF685W42rPwc9knYtyW8jd9jR4YqtSvW3CqKNv26TRsnW4NdTcr1-yf=
+88W6zBRTx7hjJ8CW1_FN1z6Tp5H_Vx2Qjr23c2Q_W8H1W418FTGBnW1Ft8Pw4v3KdGW6ff_k62f=
+PGWBW7yR-JW7yJhmHN9c6F1pN8tFbW13-0bW2Z9lwVW7zhlP93n7VRNW3CDwRH2HQd-FW38tp_8=
+7Nvd9JW3r-_B64MXFpSN20RbW-wFDgzVHkP945SmdBfW2LgGZN1qz-LJW2ghPp67ZLnRmW7TXk_=
+k55mzsVW4GxPhj2Bk9b8W9jZ_N597QvPNN4WcgS8DLGv6111" target=3D"_blank" style=
+=3D"width:24px;border-width:0px;border:0px;" data-hs-link-id=3D"0"><img src=
+=3D"https://static.hubspot.com/final/img/common/icons/social/twitter-24x24.=
+png" class=3D"hs-image-widget hs-image-social-sharing-24" style=3D"max-heig=
+ht:24px;max-width:24px;border-width:0px;border:0px;" width=3D"24" hspace=3D=
+"0" alt=3D"Share on Twitter"></a>&nbsp;<a href=3D"mailto:?subject=3DCheck o=
+ut http%3A%2F%2Fblog.cityfitnessphilly.com%2Ffeed%2F%3Futm_medium%3Dsocial%=
+26utm_source%3Demail &amp;body=3DCheck out http%3A%2F%2Fblog.cityfitnessphi=
+lly.com%2Ffeed%2F%3Futm_medium%3Dsocial%26utm_source%3Demail" target=3D"_bl=
+ank" style=3D"width:24px;border-width:0px;border:0px;" data-hs-link-id=3D"0=
+"><img src=3D"https://static.hubspot.com/final/img/common/icons/social/emai=
+l-24x24.png" class=3D"hs-image-widget hs-image-social-sharing-24" style=3D"=
+max-height:24px;max-width:24px;border-width:0px;border:0px;" width=3D"24" h=
+space=3D"0" alt=3D"Share on Email"></a></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end body wrapper -->
+                                                                        <!-=
+- end body section -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20
+                                                        </tbody></table>
+                                                    </div>
+                                                </div></td>
+                                            </tr>
+                                            <!-- end content -->
+                                        </tbody></table>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2;=
+ padding: 13px 30px">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#f2f2f2" st=
+yle=3D"background-color: #f2f2f2">
+                                    <!-- start footer section -->
+                                    <div class=3D"footer-container-wrapper">
+<table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+<tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" style=3D"widt=
+h:100.0%; text-align: left; padding: 0; font-family: sans-serif; font-size:=
+ 15px; line-height: 1.5em; color: #444444; ">
+<div class=3D"widget-span widget-type-email_can_spam " style=3D"" data-widg=
+et-type=3D"email_can_spam"><p id=3D"footer" style=3D"margin-bottom: 1em; fo=
+nt-family: Geneva, Verdana, Arial, Helvetica, sans-serif; text-align: cente=
+r; font-size: 12px; line-height: 1.34em; color: #999999; display: block">
+City Fitness
+&nbsp;&nbsp;2101 South Street
+&nbsp;
+&nbsp;Philadelphia,
+&nbsp;PA
+&nbsp;&nbsp;19146
+&nbsp;&nbsp;U.S.A.
+<br><br>
+You received this email because you are subscribed to City Fitness Blog Sub=
+scription from City Fitness.
+<br><br>
+Update your <a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D=
+"http://t.hsms09.com/e1t/c/*VpjXbD3nSgHXW5s_27l7dyK0v0/*W96ncfM32zYgsW3Wp3Q=
+19clYzY0/5/f18dQhb0S2z_2RMZ5KLCQlNVqvtjW1NdKjW1tWxCpW2SBq-64QQMlZW64mC0D7JJ=
+YRvW7JN4p-8rzglhW6ZMm7h5NPxWvVhH9KY5QFGTXW8RMvhv18ZGgWW8SyxGj7wp1hkW8fTNNy4=
+rL889W5FPWn77y_k_pW9dyRtQ2CfrzbW6v7dtp6ZDGFRW4VTPZY4fz8PBW1DjXzz7Y2LmqW7ktD=
+Wz2YVZjKVc8h_f3TgD1rW1Z46lH2sDkYtLgpK366JqCW5Kf0Md8bxHDDW7gL0tR6-6_v5W59zCC=
+M87lCKgW2XsPMX2qjcCHW1xk23L4fBcKkW1qB-xf4fgmWQW1zVYLj33RBc0VjNGPN2jyHp7W5-L=
+PbV5FjYFdW7_lGRq2zxFSfW7Ch3tT74PYYNVYd9Sx1LsyQrW4hkVvn9050HSW60nmNc43Xyc0W2=
+pyl246YJGg2W15pWmk83VYvvW2Slj1184-cP0W5VLFvP1w5KZjW4RDhJQ3NmRZyW6Q-bmq3SFyT=
+CW73JZc28pMpQ1W418SB83CDdkSW8CV4Kz1MTDWkVR5K1m4kVsv5VxbwKp2mPHv_W2wcRvY8H2_=
+VgW90sHqd522t5XW7J7R9p2G6blgW85GhwX3yStJ7W2wgg5J35zv05W5_hNP-3RvCgqVL9Cgx5M=
+KG7nN6f7dxk6lM4sN1tsNKYkSwpDW6Ksslq5cz4kzN6Wws7rfMsHbW4rLm3d5yS_ylW6qvW5W7c=
+wcxWW1zng5t6NYmPSW7jx0V53vXQBcW94QB5R6WWqpXW8yzQQN194QdcW3v9hfb6TnGKSW8qkyr=
+t6WN84cdLtN0-04" style=3D"text-decoration: underline; whitespace: nowrap; c=
+olor: #999999;" data-hs-link-id=3D"0" target=3D"_blank">email preferences</=
+a> to choose the types of emails you receive.
+<br><br>
+&nbsp;<a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D"http:=
+//t.hsms09.com/e1t/c/*VpjXbD3nSgHXW5s_27l7dyK0v0/*W7K3kkj8sP6LlN3mYNlr7qHhJ=
+0/5/f18dQhb0S2z_2fcTYHV14JnR3605NPW19PLxW3CqyH-W5Gn1ZZ33q2WgVH89Xb7HMCrXW4w=
+MCLD1mvr8FW1R81Zf5H1jY5W79Kpx-3ZHKHkW4MJfwl7QfdwtW3D5DfP3x8Vx5W94yDnm8Z86jG=
+W4HvpY45HQLRbW2hjN5R3_DRxJW3CLmjv86Dzp9W5x8vrD6XqLC6N15Ql_9FjJXtVlRkY_14gpP=
+tW8qTGcl24Q-1zW2lF3cd5WDCmMN1v-Q6BDVhZMW554WPr3-m8g9W7kDRBG5rcrCnW41b97F5sp=
+PYtW6Tf6w-2wlD1YVdsN9z7b5lCcW2ySy2L1X-cRbW1qmncf5XdlTNW5BH_dK8c-cM6W6xnQDK5=
+27w-GW4dJ1yg2zc8PRN5zsBkWn572GW7nQNbx1NqKJrW3Hx3B38vKkyMW8JYr2L6T2mddW4mMkc=
+V4QFp4SW4QCw0n7GMmczW86sykx7NbRJ7W1j2XYj43J2gSW66gDg972kLffN24G_5Hjc4dFN4-v=
+STpFYJMpVmqJj02RPPWyW2vzDVT5LLMchW3nG0r58sxN3KW6sWT0l1bsCtQW2XM2m15G1zv2W19=
+4kDM6D54LYW6g_ydy8dH--LW8gQd0Q36FCmwW251yZl5mgl0KW97YqWN7W2TYLW2TVLSS3VqywW=
+N5DX2Z5_mns1W3svMJZ6-g-38W7lsbCm1tBLn3W3W5nCY8yZmjnW7Q-jhF8rkGKyW4RP9Ym7sL7=
+QsW8M7pr16Jw30MW4yG14h8pG6kDW8s1kHC8M_5SnW2dlvd27TN9xLW8CSnFZ7Cgk3yW6JKLY81=
+91H-zf4Yz_Zv03" style=3D"text-decoration: underline; whitespace: nowrap; co=
+lor: #999999;" data-hs-link-id=3D"0" target=3D"_blank">Unsubscribe from all=
+ future emails</a>&nbsp;
+</p>
+
+</div><!--end widget-span -->
+   </td>
+</tr>
+<!--end footer wrapper -->
+                                    <!-- end footer section -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                            <tr>
+                                <td></td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        <!-- end container -->
+=20=20=20=20
+<!-- end coded_template: id:4304592182 path:generated_layouts/4304592172.ht=
+ml -->
+</div></td></tr></tbody></table></div></td></tr></tbody></table></div></td>=
+</tr></tbody></table><img src=3D"http://t.hsms09.com/e1t/o/*VhGDdP29Vs_cW8H=
+XjrZ45YDb00/*W6rWljv8R03znW99gJZ666LzXC0/5/f18dQhb0S6DP19wT_9W652yWt56Ql6YV=
+Qsxsq5vMG6PW1FNMT24D7_LWVrPC_j56fcvkW1_g5ZG5srpWYW19pKf_22NsKRW1L9wj37GMnCP=
+W5PkNwp2GPyFNW7M5tvG6ssnVKW87L3K73jrNvrW3h5SY94nK8MZF14WBZghzjhf3C5Xnd03" a=
+lt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"display:none!importa=
+nt;min-height:1px!important;width:1px!important;border-width:0!important;ma=
+rgin-top:0!important;margin-bottom:0!important;margin-right:0!important;mar=
+gin-left:0!important;padding-top:0!important;padding-bottom:0!important;pad=
+ding-right:0!important;padding-left:0!important"><style>@media print{#_hs {=
+ background-image: url('http://t.hsms09.com/e1t/o/*VhGDdP29Vs_cW8HXjrZ45YDb=
+00/*W72PmQd1cwqRQN1Vm5gKTrYj10/5/f18dQhb0S6Hd5gn3_1W66PG6T2S0sKMN7dSlG4d_Vc=
+WW3jWN2X5PKRglVslmXx56s_NLW6VzwTx76syM_W69zcys1H99y9W6DHYrL2jvg39W2LdjVl8js=
+m65W51Z2pV9bCFrVW8cJ7vG2WzQk2W88JbFx6v8FlCMJKQtsrHLW8dsQWBT02');}} div.Outl=
+ookMessageHeader {background-image:url('http://t.hsms09.com/e1t/o/*VhGDdP29=
+Vs_cW8HXjrZ45YDb00/*VkSK-64bh100W2Gjhp34nYcx50/5/f18dQhb0S6Hg5gpLVyW66PG6T2=
+S0sKMN7dSlG4d_VcWW3kpB3s2p_p05N1Jjht4rPC_jVrJh2D1_g5ZGW5srpWY19pKf_W22NsKR1=
+L9wfJW60fYpW2N3D8xW89W1FZ8s0J8dW5FvcKz834SWqW44Wzj1773tLDW92_cFS7-chyzW3j2s=
+0M3LfLlW0')} table.moz-email-headers-table {background-image:url('http://t.=
+hsms09.com/e1t/o/*VhGDdP29Vs_cW8HXjrZ45YDb00/*VkSK-64bh100W2Gjhp34nYcx50/5/=
+f18dQhb0S6Hg5gpLVyW66PG6T2S0sKMN7dSlG4d_VcWW3kpB3s2p_p05N1Jjht4rPC_jVrJh2D1=
+_g5ZGW5srpWY19pKf_W22NsKR1L9wfJW60fYpW2N3D8xW89W1FZ8s0J8dW5FvcKz834SWqW44Wz=
+j1773tLDW92_cFS7-chyzW3j2s0M3LfLlW0')} blockquote #_hs {background-image:ur=
+l('http://t.hsms09.com/e1t/o/*VhGDdP29Vs_cW8HXjrZ45YDb00/*VkSK-64bh100W2Gjh=
+p34nYcx50/5/f18dQhb0S6Hg5gpLVyW66PG6T2S0sKMN7dSlG4d_VcWW3kpB3s2p_p05N1Jjht4=
+rPC_jVrJh2D1_g5ZGW5srpWY19pKf_W22NsKR1L9wfJW60fYpW2N3D8xW89W1FZ8s0J8dW5FvcK=
+z834SWqW44Wzj1773tLDW92_cFS7-chyzW3j2s0M3LfLlW0')} #MailContainerBody #_hs =
+{background-image:url('http://t.hsms09.com/e1t/o/*VhGDdP29Vs_cW8HXjrZ45YDb0=
+0/*VkSK-64bh100W2Gjhp34nYcx50/5/f18dQhb0S6Hg5gpLVyW66PG6T2S0sKMN7dSlG4d_VcW=
+W3kpB3s2p_p05N1Jjht4rPC_jVrJh2D1_g5ZGW5srpWY19pKf_W22NsKR1L9wfJW60fYpW2N3D8=
+xW89W1FZ8s0J8dW5FvcKz834SWqW44Wzj1773tLDW92_cFS7-chyzW3j2s0M3LfLlW0')}</sty=
+le><div id=3D"_hs"></div></body></html>=
+
+------=_Part_9040_1634699125.1479767654963--
+

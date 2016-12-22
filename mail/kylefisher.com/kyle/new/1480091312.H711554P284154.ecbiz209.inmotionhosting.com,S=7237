@@ -1,0 +1,162 @@
+Return-path: <010001589c511d52-c81662a6-70dd-47c1-88c4-fb73f2e2eb93-000000@amazonses.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Fri, 25 Nov 2016 11:28:32 -0500
+Received: from a10-54.smtp-out.amazonses.com ([54.240.10.54]:39420)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <010001589c511d52-c81662a6-70dd-47c1-88c4-fb73f2e2eb93-000000@amazonses.com>)
+	id 1cAJMW-001Buw-Jy
+	for kyle@kylefisher.com; Fri, 25 Nov 2016 11:28:32 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=qbj4rklbg4bdssleu37kmepljop2lmma; d=venmo.com; t=1480091311;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date;
+	bh=BnEzbiXCqBitH5URNVbhTMjIo2V1AcGtCVrd27Vn8RU=;
+	b=FfS5yF7ga76vOI7UucLinHnQNBGWeV+4CUsdOS5wUFkdH6+wkdqvymLMpqv6xGzw
+	J51VrdOTYmjYwIUxdp4RgYvpD9GqMOus1jOT+f9GMgX/z4pQXeiwHZvgeAdOz6WXUN7
+	DZwrRYc/eD7ImCGwPX5SS2pfdMbqZUVB7bR1Kaa8=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1480091311;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date:Feedback-ID;
+	bh=BnEzbiXCqBitH5URNVbhTMjIo2V1AcGtCVrd27Vn8RU=;
+	b=tGh1qAGqHNJ/yPHThz/Ub0Fmohb7M2av4nmZqCpjtPzLKuwjOJn37Dq6s4ypgsCu
+	pHCsFX6vbYtOMeW+0JXU7vn8WQyWI/Ml+LyvYDSKvMVdNVG1mfIGBO86AFa5JVz51Qp
+	r5O3Y5VBOKFPDihacLADJo7ucpT616GPhhyPw5Lc=
+From: Venmo <venmo@venmo.com>
+Reply-To: no-reply@venmo.com
+To: kyle@kylefisher.com
+Subject: Your Venmo bank transfer has been initiated
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Message-ID: <010001589c511d52-c81662a6-70dd-47c1-88c4-fb73f2e2eb93-000000@email.amazonses.com>
+Date: Fri, 25 Nov 2016 16:28:31 +0000
+X-SES-Outgoing: 2016.11.25-54.240.10.54
+Feedback-ID: 1.us-east-1.fQ0yL0IwGSResIpU9lW9fHNtFl/iEQA4Znd52HkQv2U=:AmazonSES
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+<html class=""  id="html_container" xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title> - Venmo</title>
+    </head>
+
+    <body style="margin:0;">
+        
+        <div style="font-family:'helvetica neue';">
+            <div style="margin: 0 auto; max-width: 320px;">
+                <div style="font-size:13px;border: 2px solid #e8ebea;">
+                    <div style="padding: 10px 0; text-align: center; background-color: #3C95D2;">
+                        <img src="https://s3.amazonaws.com/venmo/venmo-logo-white.png" alt="venmo" title="venmo" style="color: #fff;width:125px;height:24px;" />
+                    </div>
+                    
+                    <div style="padding:20px;background-color:#fff;">
+                        
+
+<div width="100%" >
+    
+
+
+<div>
+    
+       <div style="font-size:20px;color:black;margin-bottom:12px;">
+          Bank Transfer Initiated
+          
+          <div style="font-size:12px;color:grey;">
+            Initiated on Friday, November 25, 2016
+          </div>
+          
+       </div>
+    
+    
+        <div style="font-size:12px;color:grey;">TRANSFER AMOUNT</div>
+        
+            <div style="font-size:18px;color:black;margin-bottom:12px;">$220.00</div>
+        
+    
+    
+        <div style="font-size:12px;color:grey;">ESTIMATED ARRIVAL</div>
+        <div style="font-size:18px;color:black;margin-bottom:12px;">Monday, November 28, 2016</div>
+        <div style="font-size:12px;color:grey;">DESTINATION</div>
+        <div style="font-size:18px;color:black;height:25px;margin-bottom:12px;">
+            
+                <img src="https://d1v6x81qdeozhc.cloudfront.net/static/images/banklogos/bankofamerica-54095154efcdad1f62cb0c626b7ab05b.png" style="float:left;border-radius:3px;max-height:25px;max-width:150px;"/>
+            
+            
+                <div style="font-size:18px;height:25px;margin-left:5px;display:inline-block;">
+                    &middot;&middot;&middot;&middot;0444
+                </div>
+            
+        </div>
+
+        <div style="font-size:12px;color:grey;">
+            <p>Bank transfers initiated before 7 PM ET on business days will typically be available in your bank account the next business day. Business days are Mon-Fri, excluding bank holidays.</p>
+            <a href="https://help.venmo.com/hc/en-us/articles/221083888" style="color:#6fb4e0; text-decoration:none;">Learn more</a>
+            <p>Your withdrawal could be delayed or blocked if we identify a problem. It doesn't happen often, but if it does, we'll send you an email.</p>
+        </div>
+
+    
+</div>
+
+    
+
+
+
+<div style="color:#999;font-size:12px;margin-top:10px;padding-top:2px; border-top: 1px dotted #ccc">
+<p>Your transfer number is: 345891886</p>
+</div>
+
+
+    
+        <div style="color: #999; font-size: 11px; padding-top: 10px; border-top: 1px dotted #ccc">
+    
+        <div style="margin-top: 10px;">
+            IMPORTANT: If you did not make this request, please contact support@venmo.com or call 1-855-812-4430 immediately.
+        </div>
+    
+    <div style="margin-top: 10px;">
+        For any issues, including the recipient not receiving funds, please contact us at support@venmo.com or call 1-855-812-4430.
+    </div>
+    <div style="margin-top: 10px;">
+        See our <a style="text-decoration:none; color:#5291CB" href="https://venmo.com/legal/us-licenses">disclosures</a> for more information.
+    </div>
+</div>
+
+    
+</div>
+
+
+                        
+                    </div>
+                    <div style="padding:10px 15px; color: #888; background-color: #e8ebea; text-align: center;">
+                        
+                        
+                            <div style="color: #888; margin-top: 5px;">
+                                Venmo is a service of PayPal, Inc., a licensed provider of money transfer services. All money transmission is provided by PayPal, Inc. pursuant to PayPal, Inc.'s licenses.
+                            </div>
+                        
+                        <div style="color: #888; margin-top: 14px;">PayPal is located at<br/>2211 North First Street, San Jose, CA 95131</div>
+                        <div style="margin-top: 5px;">
+                            
+                        </div>
+                        
+                            <div style="margin-top: 5px;">
+                              Please do not reply directly to this email as you will not receive a response.
+                              
+                              For assistance, please visit our Help Center at <a href="https://help.venmo.com" style="text-decoration: none;">help.venmo.com</a>.
+                              
+                            </div>
+                        
+                    </div>
+                </div>
+                
+                    <div><img src="https://venmo.com/vt.png?scat=&u="/></div>
+                
+                
+                    <div style="text-align: center; color: #888; margin-top: 11px;">For security reasons, you cannot unsubscribe from transaction emails.</div>
+                
+            </div>
+        </div>
+    </body>
+</html>

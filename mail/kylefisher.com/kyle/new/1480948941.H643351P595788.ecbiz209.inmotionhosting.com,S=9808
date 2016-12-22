@@ -1,0 +1,128 @@
+Return-path: <msprvs1=17147mNEd7pRg=bounces-79970@bounce.theflexus.biz>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 05 Dec 2016 09:42:21 -0500
+Received: from mta65a.sparkpostmail.com ([54.244.48.142]:43665)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <msprvs1=17147mNEd7pRg=bounces-79970@bounce.theflexus.biz>)
+	id 1cDuTF-002UyR-Dw
+	for kyle@kylefisher.com; Mon, 05 Dec 2016 09:42:21 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=theflexus.biz;
+	s=scph0916; t=1480948926; i=@theflexus.biz;
+	bh=dd7DpnHSvTa0uBf1wplnGjNDw8O4FSPytxbJJYXns44=;
+	h=To:Date:List-Id:Subject:From:Reply-To:List-Unsubscribe;
+	b=sd458SG+3c0EDcAml4q1rsDC+6Tm+Z33iNVlSpEcjI3NIri+Pv29Nn0p4APuo749n
+	 bLPGbpRaUS89jAyfWYBIajx88kAAB9OU1o8ZH3IFupKmo/50jGLAY2iKZxPDl1SOU1
+	 FbArXQwoBqGhfjd36vLhbNXUCPmXarkoQDYcid9w=
+X-MSFBL: 7ElcC0Wm2hYsJlnWwWy+fS2kSldoRzFvBlYt8/6mJJo=|eyJ0cmFuc21pc3Npb25
+	faWQiOiI0ODQ1MTU3NjY2ODg4NTMwMSIsImciOiJiZ19mbHlpbmdlbnZlbG9wZSI
+	sIm1lc3NhZ2VfaWQiOiIwMDAyYmU3YzQ1NThmNjUzY2E3MSIsInRlbXBsYXRlX2l
+	kIjoidGVtcGxhdGVfNDg0NTE1NzY2Njg4ODUzMDEiLCJzdWJhY2NvdW50X2lkIjo
+	iMCIsImlwX3Bvb2wiOiJzaGFyZWQiLCJyY3B0X21ldGEiOnsgInN1YnNjcmliZXJ
+	fdWlkIjogImdvNTQwYzEwM2Y4ZjMiLCAiY2FtcGFpZ25fdWlkIjogImNxMDAyeHR
+	5bTIzOTgiIH0sImlwX3Bvb2xfcmF3IjoiZmx5aW5nZW52ZWxvcGUiLCJzZW5kaW5
+	nX2lwIjoiNTQuMjQ0LjQ4LjE0MiIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiY2F
+	tcGFpZ25faWQiOiJjcTAwMnh0eW0yMzk4IiwiciI6Imt5bGVAa3lsZWZpc2hlci5
+	jb20iLCJyY3B0X3RhZ3MiOlsgXSwidGVuYW50X2lkIjoic3BjIiwiYiI6ImlwXzU
+	0LjI0NC40OC4xNDIiLCJmcmllbmRseV9mcm9tIjoiYW5rdXJAdGhlZmxleHVzLmJ
+	peiIsImN1c3RvbWVyX2lkIjoiNzk5NzAifQ==
+To: "=?utf-8?B?a3lsZUBreWxlZmlzaGVyLmNvbQ==?=" <kyle@kylefisher.com>
+Message-ID: <AC.17.21494.EBC75485@momentum2.platform1.us-west-2.aws.cl.messagesystems.com>
+Date: Mon, 05 Dec 2016 14:42:06 +0000
+X-Mw-Subscriber-Uid: go540c103f8f3
+X-Mw-Campaign-Uid: cq002xtym2398
+X-Mw-Customer-Gid: 1
+X-Mw-Mailer: Sparkpost Web API
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://mailer.theflexus.org/index.php/campaigns/cq002xtym2398/report-abuse/gc2248dath5fb/go540c103f8f3
+X-Mw-Customer-Uid: cb7023qwx58f9
+Feedback-ID: cq002xtym2398:go540c103f8f3:gc2248dath5fb:cb7023qwx58f9
+X-Mw-Delivery-Sid: 2
+X-Sender: ankur@theflexus.biz
+List-Id: gc2248dath5fb <Subscriber04122016FSPL>
+Subject: =?utf-8?B?V2Vic2l0ZSBEZXZlbG9wbWVudCB8IE1vYmlsZSBBUFAgRGV2ZWxvcG1lbnQgIHwgT25saW5lIE1hcmtldGluZw==?=
+From: "=?utf-8?B?QW5rdXIgQmhhcmR3YWo=?=" <ankur@theflexus.biz>
+MIME-Version: 1.0
+X-Mw-Tracking-Did: 0
+Reply-To: ankur@theflexus.net
+X-Receiver: kyle@kylefisher.com
+Content-Type: multipart/alternative; boundary="_----tbybtVO4tR+JKAEjIOJHPg===_8C/17-21494-EBC75485"
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:pxArS5zi8V0r5o65LZCVsp9ghaCwqteKxo8eqxVowOQ~|eyAicmNwdF90byI6ICJreWxlQGt5bGVmaXNoZXIuY29tIiwgInJjcHRfbWV0YSI6ICJ7XCJzdWJzY3JpYmVyX3VpZFwiOlwiZ281NDBjMTAzZjhmM1wiLFwiY2FtcGFpZ25fdWlkXCI6XCJjcTAwMnh0eW0yMzk4XCJ9IiwgInJjcHRfdGFncyI6ICJbIF0iLCAiZnJpZW5kbHlfZnJvbSI6ICJhbmt1ckB0aGVmbGV4dXMuYml6IiwgInRlbXBsYXRlX2lkIjogInRlbXBsYXRlXzQ4NDUxNTc2NjY4ODg1MzAxIiwgInRyYW5zbWlzc2lvbl9pZCI6ICI0ODQ1MTU3NjY2ODg4NTMwMSIsICJzZW5kaW5nX2lwIjogIjU0LjI0NC40OC4xNDIiLCAidGVtcGxhdGVfdmVyc2lvbiI6ICIwIiwgIm1haWxmcm9tIjogIm1zcHJ2czE9MTcxNDdtTkVkN3BSZz1ib3VuY2VzLTc5OTcwQGJvdW5jZS50aGVmbGV4dXMuYml6IiwgIm1lc3NhZ2VfaWQiOiAiMDAwMmJlN2M0NTU4ZjY1M2NhNzEiLCAiY2FtcGFpZ25faWQiOiAiY3EwMDJ4dHltMjM5OCIsICJpcF9wb29sX3JhdyI6ICJmbHlpbmdlbnZlbG9wZSIsICJjdXN0b21lcl9pZCI6ICI3OTk3MCIsICJzdWJhY2NvdW50X2lkIjogIjAiLCAidGVuYW50X2lkIjogInNwYyIsICJpcF9wb29sIjogInNoYXJlZCIgfQ~~>
+
+--_----tbybtVO4tR+JKAEjIOJHPg===_8C/17-21494-EBC75485
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="UTF-8"
+
+ Hello Kyaira,
+
+ I hope I'm not bothering you!
+
+ I'm the CEO & Co-founder at Flexus Solutions, A Company that
+specializes in developing professional websites & Mobile APPs for SMEs
+and mid-sized businesses. I have been running this company for more
+than 10 years and we help companies such as yours to become a BRAND on
+the internet. Our services are:
+
+	* Corporate Website Design/Development
+ 	* Personal Blog Development
+ 	* eCommerce Website Development (Sell Products Online Faster & Easy)
+ 	* Mobile APP Development (iPhone, iPads, Android Phones & Tablets)
+ 	* Games Development (Mobile & Web)
+ 	* ERP & CRM Customization
+ 	* Software Development (Desktop & Mac)
+ 	* Digital Marketing (SEO/SEM/SMO/PPC)
+
+Are you available for a quick call tomorrow? If you have time
+available as per your convenience, I'd be happy to schedule a phone
+call.
+
+ Cheers,
+ Ankur B.
+ CEO
+
+ Flexus Solutions
+ 658 Cummins Highway Mattapan 
+ Boston Massachusetts 02126
+ United States
+
+ Website: www.theflexus.com
+http://mailer.theflexus.org/index.php/campaigns/cq002xtym2398/track-url/go540c103f8f3/f0a4298ebb140a100c2c0de22c571a5ac94d036f
+ Call Me: (914) 301-3560
+ Skype Us: FLEXUS.SOLUTIONS
+
+ If you don't wish to recieve my email in future, please Click Here
+http://mailer.theflexus.org/index.php/campaigns/cq002xtym2398/track-url/go540c103f8f3/3ce4896f97e3c49eca02e6186553c1d10b4ce5cc
+--_----tbybtVO4tR+JKAEjIOJHPg===_8C/17-21494-EBC75485
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html><head><meta name="charset" content="utf-8"><title></title></head><body>
+
+            <span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);"><span style="color:rgb(0,0,0);">Hello Kyaira,<br><br>
+I hope I'm not bothering you!<br><br>
+I'm the CEO &amp; Co-founder at Flexus Solutions, A Company that specializes in <span class="il">developing</span> professional <span class="il">websites</span> &amp; <span class="il">Mobile</span> APPs for SMEs and mid-sized businesses. I have been running this company for more than 10 years and we help companies such as yours to become a</span> <u><strong><span style="color:rgb(255,140,0);">BRAND </span></strong></u><span style="color:rgb(0,0,0);">on the internet. Our services are:</span></span></span><br>
+&nbsp;
+<ul><li><span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="color:rgb(0,0,0);"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);">Corporate <span class="il">Website</span> Design/<span class="il">Development</span></span></span></span></li>
+	<li><span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="color:rgb(0,0,0);"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);">Personal Blog <span class="il">Development</span></span></span></span></li>
+	<li><span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="color:rgb(0,0,0);"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);">eCommerce <span class="il">Website</span> <span class="il">Development</span> (Sell Products Online Faster &amp; Easy)</span></span></span></li>
+	<li><span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="color:rgb(0,0,0);"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);"><span class="il">Mobile</span> APP <span class="il">Development</span> (iPhone, iPads, Android Phones &amp; Tablets)</span></span></span></li>
+	<li><span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="color:rgb(0,0,0);"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);">Games Development (Mobile &amp; Web)</span></span></span></li>
+	<li><span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="color:rgb(0,0,0);"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);">ERP &amp; CRM Customization</span></span></span></li>
+	<li><span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="color:rgb(0,0,0);"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);">Software <span class="il">Development</span> (Desktop &amp; Mac)</span></span></span></li>
+	<li><span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="color:rgb(0,0,0);"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);">Digital Marketing (SEO/SEM/SMO/PPC)</span></span></span></li>
+</ul><br><span style="color:rgb(0,74,147);font-family:Cambria, sans-serif;font-size:14px;"><span style="font-family:Calibri, sans-serif;font-size:16px;background-color:rgb(255,255,255);"><span style="color:rgb(0,0,0);">Are you available for a quick call tomorrow? If you have time available as per your convenience, I'd be happy to schedule a phone call.<br><br>
+Cheers,<br>
+Ankur B.<br>
+CEO<br><br>
+Flexus Solutions<br />
+658 Cummins Highway Mattapan <br />
+Boston Massachusetts 02126<br />
+United States<br><br>
+Website: <a href="http://mailer.theflexus.org/index.php/campaigns/cq002xtym2398/track-url/go540c103f8f3/f0a4298ebb140a100c2c0de22c571a5ac94d036f">www.theflexus.com</a><br>
+Call Me: (914) 301-3560<br>
+Skype Us: <strong>FLEXUS.SOLUTIONS</strong><br><br>
+If you don't wish to recieve my email in future, please <a href="http://mailer.theflexus.org/index.php/campaigns/cq002xtym2398/track-url/go540c103f8f3/3ce4896f97e3c49eca02e6186553c1d10b4ce5cc">Click Here</a></span></span></span><img width="1" height="1" src="http://mailer.theflexus.org/index.php/campaigns/cq002xtym2398/track-opening/go540c103f8f3" alt="" />
+</body></html>
+--_----tbybtVO4tR+JKAEjIOJHPg===_8C/17-21494-EBC75485--
+

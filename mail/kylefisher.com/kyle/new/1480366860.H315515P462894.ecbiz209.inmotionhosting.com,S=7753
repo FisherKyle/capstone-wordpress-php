@@ -1,0 +1,175 @@
+Return-path: <amber@epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 28 Nov 2016 16:01:00 -0500
+Received: from mail-pf0-f179.google.com ([209.85.192.179]:36638)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <amber@epicodus.com>)
+	id 1cBT2q-001wPI-58
+	for kyle@kylefisher.com; Mon, 28 Nov 2016 16:01:00 -0500
+Received: by mail-pf0-f179.google.com with SMTP id 189so26788335pfz.3
+        for <kyle@kylefisher.com>; Mon, 28 Nov 2016 13:01:00 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=epicodus.com; s=google;
+        h=mime-version:subject:from:to:date:message-id;
+        bh=P7ldcYD4yl3IXdQ/Toz/6Dl+A2nKunnHbLSxa6eWQlk=;
+        b=gxN7HTdRUm6v89UEzXJILm31lmiNzW4HeN4XKUjQMPX8sjKIID0gwHHXL184o5usXh
+         9IJyswp2t8U+InSJKK4dewoshhLM8SBt7EzU12gJilP1ZFEowFNlBiHiZ5dWbzZrolYc
+         cYb6Lvtv+qD3RSLzrPDdyBZ5VwLqGzh+vqJ2w=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:subject:from:to:date:message-id;
+        bh=P7ldcYD4yl3IXdQ/Toz/6Dl+A2nKunnHbLSxa6eWQlk=;
+        b=FAILP7lrIZZepbQBU7lixdA9QxcS8kq4bNRzvnWJLVcUDe1xM8WiCRoga93MhZK4PY
+         hctS5iBO72Zl96OBYzba6ZS2ObnmvMH8oVA6MbBa11PsJ7Bqy9336g4172NjYB0k1knd
+         VO2LSshTywG2mou+EBH81XXRuhsTJkEyR+mVjI5BVdnRKeHNaFT/RuvBe1INvujFq2+e
+         MRBrrEWsdlASXDMIp5+12SIrnzLuaino8sGBmotp9PObmGnCkrsTwqgFBZox6RbVOqBS
+         0aMMSg9KHyZzWO0sHcudNHeDq5AzmADU6zSfNfXyDSSyEHXJ3nUto/kp41a/AGxGPPOo
+         iwRA==
+X-Gm-Message-State: AKaTC00ZTFHpJCrVRxOhv0HzzPEoWZFmTw9mNvSENBCm9gnHNH/sDZWqeswVhTtSRY+BAg==
+X-Received: by 10.84.210.167 with SMTP id a36mr54391068pli.125.1480366857973;
+        Mon, 28 Nov 2016 13:00:57 -0800 (PST)
+Received: from smtpgw.close.io (ec2-52-27-236-234.us-west-2.compute.amazonaws.com. [52.27.236.234])
+        by smtp.gmail.com with ESMTPSA id a66sm89366338pfa.64.2016.11.28.13.00.57
+        for <kyle@kylefisher.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 28 Nov 2016 13:00:57 -0800 (PST)
+Content-Type: multipart/mixed; boundary="===============4954995410290497142=="
+MIME-Version: 1.0
+Subject: Cover Letter/LinkedIn/Mock Interview
+From: amber arnold <amber@epicodus.com>
+To: kyle@kylefisher.com
+Date: Mon, 28 Nov 2016 21:00:57 +0000
+Message-ID: <148036685732.83329.3111940439980276297@worker3.close.io>
+X-CLOSEIO-EMAIL-ID: acti_lML48znpEjUzxviKEDJNQIaWJYw1QyPwwP4xtS6hQUM
+
+--===============4954995410290497142==
+Content-Type: multipart/alternative;
+ boundary="===============5633267675177923645=="
+MIME-Version: 1.0
+
+--===============5633267675177923645==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hey Kyle,  =
+
+  =
+
+Next week, I will start your cover letter and LinkedIn profile reviews.  =
+
+  =
+
+If you missed class today, make sure you review [these
+lessons](https://www.learnhowtoprogram.com/internship-and-job-search
+/internship-process/linkedin-mock-interviews-and-cover-letters-classwork) in
+preparation for our these reviews.  =
+
+  =
+
+**By next Monday December 5th, please submit (via Epicenter Internship clas=
+s):**  =
+
+  =
+
+=E2=80=A2 A completed cover letter based off of one of the internship compa=
+ny
+descriptions listed in Epicenter (doesn't matter which, as you haven't had
+your interviews assigned yet). The more complete of a cover letter you have,
+the better feedback we'll be able to give. The cover letter template we work
+on together can then be used to write future versions.  =
+
+=E2=80=A2 A completed LinkedIn profile  =
+
+=E2=80=A2 A completed Resume  =
+
+=E2=80=A2 Highlights or comments with any questions/concerns you'd like to =
+get
+specific feedback on  =
+
+  =
+
+**The following week, we'll start brief mock interviews via Skype. Before o=
+ur mock interview:**  =
+
+  =
+
+=E2=80=A2 [Schedule](https://calendly.com/amberarnold/mockinterview) your m=
+ock
+interview  =
+
+=E2=80=A2 Practice [non-technical](https://www.learnhowtoprogram.com/intern=
+ship-and-
+job-search/preparing-for-job-interviews/non-technical-interview) and
+[technical](https://www.learnhowtoprogram.com/internship-and-job-search
+/preparing-for-job-interviews/technical-interviews) interview questions.  =
+
+=E2=80=A2 Have some questions ready that you would ask a potential employer=
+ in an
+interview.  =
+
+=E2=80=A2 Have 3-5 skills/things about yourself in mind that you really wan=
+t to
+highlight in an interview.  =
+
+=E2=80=A2 Be able to talk about your journey to becoming a programmer. What=
+ were you
+doing before, and how did you transition into wanting to pursue programming=
+?  =
+
+  =
+
+Lastly, if you haven't done so already, you'll need to sign the [student
+internship agreement](https://www.hellosign.com/s/9fc606e2) before our
+meeting. Let me know if you have any questions!  =
+
+  =
+
+  =
+
+**Amber Arnold**  =
+
+amber@epicodus.com
+--===============5633267675177923645==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hey Kyle,<br><br>Next week, I will start your cover letter and LinkedIn pro=
+file reviews.<br><br>If you missed class today, make sure you review <a hre=
+f=3D"https://www.learnhowtoprogram.com/internship-and-job-search/internship=
+-process/linkedin-mock-interviews-and-cover-letters-classwork" target=3D"_b=
+lank">these lessons</a> in preparation for our these reviews.<br><br><stron=
+g>By next Monday December 5th, please submit (via Epicenter Internship clas=
+s):</strong><br><br>=E2=80=A2 A completed cover letter based off of one of =
+the internship company descriptions listed in Epicenter (doesn't matter whi=
+ch, as you haven't had your interviews assigned yet). The more complete of =
+a cover letter you have, the better feedback we'll be able to give. The cov=
+er letter template we work on together can then be used to write future ver=
+sions.<br>=E2=80=A2 A completed LinkedIn profile<br>=E2=80=A2 A completed R=
+esume<br>=E2=80=A2 Highlights or comments with any questions/concerns you'd=
+ like to get specific feedback on<br><br><strong>The following week, we'll =
+start brief mock interviews via Skype. Before our mock interview:</strong><=
+br><br>=E2=80=A2 <a href=3D"https://calendly.com/amberarnold/mockinterview"=
+ rel=3D"noopener noreferrer" target=3D"_blank">Schedule</a> your mock inter=
+view<br>=E2=80=A2 Practice <a href=3D"https://www.learnhowtoprogram.com/int=
+ernship-and-job-search/preparing-for-job-interviews/non-technical-interview=
+" target=3D"_blank">non-technical</a> and <a href=3D"https://www.learnhowto=
+program.com/internship-and-job-search/preparing-for-job-interviews/technica=
+l-interviews" target=3D"_blank">technical</a> interview questions.<br>=E2=
+=80=A2 Have some questions ready that you would ask a potential employer in=
+ an interview.<br>=E2=80=A2 Have 3-5 skills/things about yourself in mind t=
+hat you really want to highlight in an interview.<br>=E2=80=A2 Be able to t=
+alk about your journey to becoming a programmer. What were you doing before=
+, and how did you transition into wanting to pursue programming?<br><br>Las=
+tly, if you haven't done so already, you'll need to sign the <a href=3D"htt=
+ps://www.hellosign.com/s/9fc606e2">student internship agreement</a> before =
+our meeting. Let me know if you have any questions!<br><br><br><strong>Ambe=
+r Arnold</strong><br>amber@epicodus.com<img src=3D"https://app.close.io/ema=
+il_opened/eyJlbWFpbF9pZCI6ICJhY3RpX2xNTDQ4em5wRWpVenh2aUtFREpOUUlhV0pZdzFRe=
+VB3d1A0eHRTNmhRVU0iLCAiZW1haWxfYWRkcmVzcyI6ICJreWxlQGt5bGVmaXNoZXIuY29tIn0%=
+3D/tracking.png" alt=3D"" width=3D"1" height=3D"1" />
+--===============5633267675177923645==--
+
+--===============4954995410290497142==--

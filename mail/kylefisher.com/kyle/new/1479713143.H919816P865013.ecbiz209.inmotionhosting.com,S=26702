@@ -1,0 +1,635 @@
+Return-path: <20161121072541c6a718f7e9294d8ab1eb68d0a3a0p0na@bounces.amazon.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 21 Nov 2016 02:25:43 -0500
+Received: from a13-29.smtp-out.amazonses.com ([54.240.13.29]:40675)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <20161121072541c6a718f7e9294d8ab1eb68d0a3a0p0na@bounces.amazon.com>)
+	id 1c8iz1-003d1h-RR
+	for kyle@kylefisher.com; Mon, 21 Nov 2016 02:25:43 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=jvxsykglqiaiibkijmhy37vqxh4mzqr6; d=amazon.com; t=1479713142;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date;
+	bh=In4RBDZ0rJDgOeoYYzD+4xeESYG9+vgQ9En9pc2Tf0A=;
+	b=OAe8wfqnZZ3IEDWzshNvNhyKQ2u8fpdI0+ZVM0MGofQlg1XeMO9/kQ0j9Bq2+Nw0
+	SOMptnWms8CbPRc2wgH7Yu8kLqMhSTWWizrcn7hB0uMa5c7j2Avd4uL+LU+jVf1DcQQ
+	ojRQuJSjuwhoZnE8M+HIeLuSG4W4YjdHSXHRaRlM=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1479713142;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date:Feedback-ID;
+	bh=In4RBDZ0rJDgOeoYYzD+4xeESYG9+vgQ9En9pc2Tf0A=;
+	b=bCLCF2QVHZm8ol06IEOwicrhc95VOQW7xOHUQsudVTYduyPcIKHixedvU9l8Evq8
+	+ryi+D8GJMzu4P0jogTYxIgeFZLX4Wqo66zDoXLNEj4tx+aEIqF5iwmNSDdd31vpKyP
+	BRmpjX3AjfbolewT6K39jdtECDqG/xcZqRJtJFwo=
+From: "Amazon.com" <ship-confirm@amazon.com>
+Reply-To: ship-confirm@amazon.com
+To: kyle@kylefisher.com
+Message-ID: <0100015885c6b84d-38362625-5dc1-48fe-b167-c95300f93f23-000000@email.amazonses.com>
+Subject: Your Amazon.com order of "Gauges Kit 28 Pieces Tapers..." and 1
+ more item has shipped!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2208659_201181214.1479713142842"
+X-AMAZON-MAIL-RELAY-TYPE: notification
+Bounces-to: 20161121072541c6a718f7e9294d8ab1eb68d0a3a0p0na@bounces.amazon.com
+X-AMAZON-METADATA: CA=C23Z40VW4M0B3L-CU=A2SCO4VBODRW03-RI=ALAJWFVSEIPA7
+X-Original-MessageID: <urn.rtn.msg.20161121072541c6a718f7e9294d8ab1eb68d0a3a0p0na@1479713142843.rtn-svc-na-1e-759f5599.us-east-1.amazon.com>
+Date: Mon, 21 Nov 2016 07:25:42 +0000
+X-SES-Outgoing: 2016.11.21-54.240.13.29
+Feedback-ID: 1.us-east-1.ZHcGJK6s+x+i9lRHKog4RW3tECwWIf1xzTYCZyUaiec=:AmazonSES
+
+------=_Part_2208659_201181214.1479713142842
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Amazon.com Shipping Confirmation
+http://www.amazon.com/ref=TE_SIMP_g
+
+--------------------------------------------------------------------
+Hello kyle fisher,
+
+"Gauges Kit 28 Pieces Tapers..." and one other item have shipped.
+
+Details
+Order #109-4851961-5506662
+
+Arriving:
+    Tuesday, November 22
+
+Track your package at:
+	https://www.amazon.com/gp/css/shiptrack/view.html/ref=TE_SIMP_typ?ie=UTF8&addressID=jpjptunumn&latestArrivalDate=1479873600&orderID=109-4851961-5506662&shipmentDate=1479713000&orderingShipmentId=6034677281928&packageId=1
+
+Shipped to:
+    Kyle A. Fisher
+    316 MCADOO AVE...
+
+		
+====================================================================
+
+    Total Before Tax: $25.98 
+    Shipment Total: $25.98
+
+====================================================================
+
+View or manage your order in Your Orders:
+https://www.amazon.com/gp/css/order-details?orderId=109-4851961-5506662&eoid=1%3A1%3ARMmbIJ8kn94Uu0hqtFX8FujadXAw1oNbqAdk1qn4H6379Vqw2uolW0i2%2BbdC9vYr5tNXfTcIytXpTr%2BQ8e5NpiGnjBkUhcDqJD1S7J6vQw47Tyzy0%2B3YGzNwonfPM9B93rNFpTHEXNszgE%2B2wDIHtFERij%2FMfWofQ7BtgmpR6ShFTrhdDTiyVszOBR1ZISJC36zt8PHj1n4JxkdaxkPWc38qGXpBn7hZoFX6J3G85ZlwyGss3bwG%2Fz763agltAKd95Zol5AlR4vY3MAUx3UksvKoMAKXqjyHgWF9ICBF7%2B31OU%2B0swSFMZgNNdGmqRRjV4eOQrib%2FU1Kyf4YS25%2FUw%3D%3D&ref_=TE_SIMP_od
+
+We hope to see you again soon.<br/>
+Amazon.com
+
+--------------------------------------------------------------------
+Unless otherwise noted, items sold by Amazon.com LLC are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com LLC, it may be subject to state and local sales tax, depending upon the sellers business policies and the location of their operations. For more tax and seller information, visit: http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=200962600 
+
+Your invoice can be accessed here:
+https://www.amazon.com/gp/css/summary/print.html?orderID=109-4851961-5506662&ref_=TE_SIMP_inv
+
+This email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message.               
+------=_Part_2208659_201181214.1479713142842
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <style type=3D"text/css">
+body {
+=09margin:0;
+    color:#333;
+}
+
+a {
+=09text-decoration:none;
+=09color:#006699;
+}
+
+p {
+=09margin:0px;
+}
+
+img {
+=09border:0;
+    margin:0;
+}
+
+/* container */
+#container {
+=09width:540px;
+=09margin:0 auto;
+}
+
+#content {
+=09width:500px;
+    margin:0 20px;
+}
+
+/* header */
+#header {
+=09border-bottom:1px solid #eaeaea;
+    padding-top:10px;
+    padding-left:0px;
+    padding-right:0px;
+    padding-bottom:10px;
+}
+
+#logo {
+}
+
+#title {
+}
+
+#title p{
+=09font-size:20px;
+=09font-family: "arial", "sans-serif";
+}
+
+#amazonLogo{
+=09width:107px;
+    height:31px;
+}
+
+/* Greeting Summary */
+#greetingSummary {
+    padding-left:0px;
+    padding-right:0px;
+    padding-top:9px;
+    padding-bottom:18px;
+}
+
+#greetingSummary p {
+    font-size:14px;
+=09font-family: "arial", "sans-serif";
+}
+
+#greetingSummary .greeting{
+=09font-size:18px;
+    line-height:30px;
+    color:#cc6600;
+}
+
+/* critical info */
+#criticalInfo {
+    border-top:3px solid #cbcfd4;
+    background-color:#f6f7f8;
+}
+
+#criticalInfo_left{
+    padding-left:18px;
+    padding-right:9px;
+    padding-top:11px;
+    padding-bottom:14px;
+}
+
+#criticalInfo_right{
+    padding-left:9px;
+    padding-right:18px;
+    padding-top:11px;
+    padding-bottom:14px;
+}
+
+#criticalInfo p {
+    font-size:14px;
+=09font-family: "arial", "sans-serif";
+    font-weight:bold;
+}
+
+#criticalInfo .label {
+=09color:#666;=09
+    font-weight:normal;
+}
+
+#criticalInfo .info {
+    font-weight:normal;
+}
+
+#criticalInfo .important {
+=09color:#009900;
+}
+
+#criticalInfo .subtotals {
+=09font-size:12px;
+=09font-family: "arial", "sans-serif";
+    font-weight:normal;
+}
+
+#criticalInfo a {
+=09font-weight:normal;
+}
+
+#criticalInfo_bottom {
+=09padding-left:0px;
+    padding-top:9px;
+    padding-bottom:9px;
+}
+
+#criticalInfo_bottom p {
+=09font-size:11px;
+=09font-family: "arial", "sans-serif";
+}
+
+/* content tables */
+#costBreakdown {
+=09width:100%;
+}
+
+/* cost breakdown */
+#costBreakdown td {
+=09vertical-align: top;
+=09width:100%;
+=09text-align:left;
+=09font-family: "arial";
+}
+
+#costBreakdown .price {
+=09font-size:12px;
+=09text-align:right;
+}
+
+#costBreakdown .text {
+=09font-size:12px;
+}
+
+#costBreakdown .total {
+=09font-size:14px;
+=09font-weight:bold;
+}
+
+/* closing */
+#closing {
+    padding-left:0;
+    padding-top:9px;
+    padding-bottom:9px;
+=09border-bottom:1px solid #eaeaea;
+}
+
+#closing p {
+    font-size:14px;
+=09font-family: "arial", "sans-serif";
+}
+
+#closing .signature {
+=09font-size:14px;=09
+=09font-weight:bold;
+}
+
+/* marketingContent */
+#marketingContent {
+=09border-bottom:1px solid #eaeaea;
+}
+
+/* footer */
+#footer {
+=09padding-top:9px;
+}
+
+#footer p {
+=09color:#666;
+=09font-size:10px;
+    line-height:16px;
+    padding-bottom:10px;
+=09font-family: "arial", "sans-serif";
+
+}
+</style>=20
+  <title>Shipping Confirmation</title>=20
+ </head>=20
+ <body style=3D"margin: 0; color: rgb(51, 51, 51)"><img width=3D"1" height=
+=3D"1" src=3D"https://www.amazon.com/gp/r.html?C=3D2PXF3GTNJE0R0&K=3DA2SCO4=
+VBODRW03&R=3D3VYJV73QQALTF&T=3DO&U=3Dhttps%3A%2F%2Fimages-na.ssl-images-ama=
+zon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&A=3DYQ95TXVASXA8C4POGSTQRUNEUF=
+MA&H=3DRQADLB17PTXSJ7YEG22JLFNFAIGA&ref_=3Dpe_385040_172232000_opens" />=20
+  <table align=3D"center" cellspacing=3D"0" id=3D"container" cellpadding=3D=
+"0" style=3D"width: 540px; margin: 0 auto">=20
+   <tbody>
+    <tr>
+     <td>=20
+      <table cellspacing=3D"0" id=3D"content" cellpadding=3D"0" style=3D"wi=
+dth: 500px; margin: 0 20px">=20
+       <tbody>
+        <tr>=20
+         <td id=3D"header" style=3D"border-bottom: 1px solid rgb(234, 234, =
+234); padding-top: 10px; padding-left: 0px; padding-right: 0px; padding-bot=
+tom: 10px">=20
+          <table cellspacing=3D"0" cellpadding=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"250" id=3D"logo" style=3D""> <a href=3D"https://w=
+ww.amazon.com/gp/r.html?C=3D2PXF3GTNJE0R0&K=3DA2SCO4VBODRW03&R=3D3VYJV73QQA=
+LTF&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fref%3Dpe_385040_172232000_TE_S=
+IMP_&A=3DDCYCFIADXXWDXMM1F0RAJE50FOKA&H=3DDJZIH0EG0TUVBWUA3JS7LKMG9W0A&ref_=
+=3Dpe_385040_172232000_TE_SIMP_" title=3D"Visit Amazon.com" style=3D"text-d=
+ecoration: none; color: rgb(0, 102, 153)"><img id=3D"amazonLogo" alt=3D"Ama=
+zon" src=3D"http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/te/logo.=
+png" style=3D"width: 107px; height: 31px; border: 0; margin: 0" /></a> </td=
+>=20
+             <td width=3D"250" id=3D"title" valign=3D"top" align=3D"right" =
+style=3D""> <p style=3D"font-size: 20px; font-family: &quot;arial&quot;, &q=
+uot;sans-serif&quot;; margin: 0px">Shipping Confirmation</p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td id=3D"greetingSummary" style=3D"padding-left: 0px; padding-rig=
+ht: 0px; padding-top: 9px; padding-bottom: 18px"> <p style=3D"font-size: 14=
+px; font-family: &quot;arial&quot;, &quot;sans-serif&quot;; margin: 0px"> <=
+span class=3D"greeting" style=3D"font-size: 18px; line-height: 30px; color:=
+ rgb(204, 102, 0)">Hello kyle fisher,</span><br /><br /> <a href=3D"https:/=
+/www.amazon.com/gp/r.html?C=3D2PXF3GTNJE0R0&K=3DA2SCO4VBODRW03&R=3D3VYJV73Q=
+QALTF&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Forder-details%3Fo=
+rderId%3D109-4851961-5506662%26eoid%3D1%253A1%253ARMmbIJ8kn94Uu0hqtFX8Fujad=
+XAw1oNbqAdk1qn4H6379Vqw2uolW0i2%252BbdC9vYr5tNXfTcIytXpTr%252BQ8e5NpiGnjBkU=
+hcDqJD1S7J6vQw47Tyzy0%252B3YGzNwonfPM9B93rNFpTHEXNszgE%252B2wDIHtFERij%252F=
+MfWofQ7BtgmpR6ShFTrhdDTiyVszOBR1ZISJC36zt8PHj1n4JxkdaxkPWc38qGXpBn7hZoFX6J3=
+G85ZlwyGss3bwG%252Fz763agltAKd95Zol5AlR4vY3MAUx3UksvKoMAKXqjyHgWF9ICBF7%252=
+B31OU%252B0swSFMZgNNdGmqRRjV4eOQrib%252FU1Kyf4YS25%252FUw%253D%253D%26ref_%=
+3Dpe_385040_172232000_TE_SIMP_od&A=3DTPWHBZURIIQUIFNYUGUDFIA5U24A&H=3DCTYWD=
+1YJ6VGFKLBSLMQRLP4SETWA&ref_=3Dpe_385040_172232000_TE_SIMP_od" style=3D"tex=
+t-decoration: none; color: rgb(0, 102, 153)">&quot;Gauges Kit 28 Pieces Tap=
+ers...&quot; and one other item</a> have shipped. </p> </td>=20
+        </tr>=20
+        <tr>=20
+         <td> <p style=3D"padding-left: 0px; padding-right: 0px; padding-to=
+p: 0px; padding-bottom: 0px; font: 18px Arial, sans-serif; color: rgb(204, =
+102, 0); border-bottom: 1px solid rgb(234, 234, 234); margin: 0px"> Details=
+ </p> <p style=3D"font: 14px Arial, sans-serif; color: rgb(102, 102, 102); =
+padding-bottom: 5px; padding-top: 5px; margin: 0px"> Order <a href=3D"https=
+://www.amazon.com/gp/r.html?C=3D2PXF3GTNJE0R0&K=3DA2SCO4VBODRW03&R=3D3VYJV7=
+3QQALTF&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Forder-details%3=
+ForderId%3D109-4851961-5506662%26eoid%3D1%253A1%253ARMmbIJ8kn94Uu0hqtFX8Fuj=
+adXAw1oNbqAdk1qn4H6379Vqw2uolW0i2%252BbdC9vYr5tNXfTcIytXpTr%252BQ8e5NpiGnjB=
+kUhcDqJD1S7J6vQw47Tyzy0%252B3YGzNwonfPM9B93rNFpTHEXNszgE%252B2wDIHtFERij%25=
+2FMfWofQ7BtgmpR6ShFTrhdDTiyVszOBR1ZISJC36zt8PHj1n4JxkdaxkPWc38qGXpBn7hZoFX6=
+J3G85ZlwyGss3bwG%252Fz763agltAKd95Zol5AlR4vY3MAUx3UksvKoMAKXqjyHgWF9ICBF7%2=
+52B31OU%252B0swSFMZgNNdGmqRRjV4eOQrib%252FU1Kyf4YS25%252FUw%253D%253D%26ref=
+_%3Dpe_385040_172232000_TE_SIMP_od&A=3DTPWHBZURIIQUIFNYUGUDFIA5U24A&H=3DCTY=
+WD1YJ6VGFKLBSLMQRLP4SETWA&ref_=3Dpe_385040_172232000_TE_SIMP_od" style=3D"t=
+ext-decoration: none; color: rgb(0, 102, 153)">#109-4851961-5506662</a> </p=
+> </td>=20
+        </tr>=20
+        <tr>=20
+         <td id=3D"criticalInfo" style=3D"border-top: 3px solid rgb(203, 20=
+7, 212); background-color: rgb(246, 247, 248)">=20
+          <table cellspacing=3D"0" cellpadding=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"223" valign=3D"top" id=3D"criticalInfo_left" styl=
+e=3D"padding-left: 18px; padding-right: 9px; padding-top: 11px; padding-bot=
+tom: 14px"> <p style=3D"font-size: 14px; font-family: &quot;arial&quot;, &q=
+uot;sans-serif&quot;; font-weight: bold; margin: 0px"> <span class=3D"label=
+" style=3D"color: rgb(102, 102, 102); font-weight: normal">Arriving:</span>=
+<br /> <span class=3D"important" style=3D"color: rgb(0, 153, 0)"> Tuesday, =
+November 22 </span> </p> <br /> <p style=3D"font-size: 14px; font-family: &=
+quot;arial&quot;, &quot;sans-serif&quot;; font-weight: bold; margin: 0px"> =
+<a href=3D"https://www.amazon.com/gp/r.html?C=3D2PXF3GTNJE0R0&K=3DA2SCO4VBO=
+DRW03&R=3D3VYJV73QQALTF&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2=
+Fshiptrack%2Fview.html%2Fref%3Dpe_385040_172232000_TE_SIMP_typ%3Fie%3DUTF8%=
+26addressID%3Djpjptunumn%26latestArrivalDate%3D1479873600%26orderID%3D109-4=
+851961-5506662%26shipmentDate%3D1479713000%26orderingShipmentId%3D603467728=
+1928%26packageId%3D1&A=3DQW93UDGDG57NXJGY3XU5B27AMBIA&H=3DT58IHB4YHIBP0KDWA=
+YAIQMI16JKA&ref_=3Dpe_385040_172232000_TE_SIMP_typ" style=3D"font-weight: n=
+ormal; text-decoration: none; color: rgb(0, 102, 153)"> <img alt=3D"Track y=
+our package" id=3D"trackYourPackage" src=3D"http://g-ec2.images-amazon.com/=
+images/G/01/x-locale/cs/te/TrackYourPackage._V320689763_.png" style=3D"bord=
+er: 0; margin: 0" /> </a> </p> <br /> <p style=3D"font-size: 14px; font-fam=
+ily: &quot;arial&quot;, &quot;sans-serif&quot;; font-weight: bold; margin: =
+0px"> <a href=3D"https://www.amazon.com/gp/r.html?C=3D2PXF3GTNJE0R0&K=3DA2S=
+CO4VBODRW03&R=3D3VYJV73QQALTF&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2=
+Fcss%2Forder-details%3ForderId%3D109-4851961-5506662%26eoid%3D1%253A1%253AR=
+MmbIJ8kn94Uu0hqtFX8FujadXAw1oNbqAdk1qn4H6379Vqw2uolW0i2%252BbdC9vYr5tNXfTcI=
+ytXpTr%252BQ8e5NpiGnjBkUhcDqJD1S7J6vQw47Tyzy0%252B3YGzNwonfPM9B93rNFpTHEXNs=
+zgE%252B2wDIHtFERij%252FMfWofQ7BtgmpR6ShFTrhdDTiyVszOBR1ZISJC36zt8PHj1n4Jxk=
+daxkPWc38qGXpBn7hZoFX6J3G85ZlwyGss3bwG%252Fz763agltAKd95Zol5AlR4vY3MAUx3Uks=
+vKoMAKXqjyHgWF9ICBF7%252B31OU%252B0swSFMZgNNdGmqRRjV4eOQrib%252FU1Kyf4YS25%=
+252FUw%253D%253D%26ref_%3Dpe_385040_172232000_TE_SIMP_od&A=3DTPWHBZURIIQUIF=
+NYUGUDFIA5U24A&H=3DCTYWD1YJ6VGFKLBSLMQRLP4SETWA&ref_=3Dpe_385040_172232000_=
+TE_SIMP_od" style=3D"font-weight: normal; text-decoration: none; color: rgb=
+(0, 102, 153)"> <img alt=3D"Your Orders" id=3D"yourOrders" src=3D"http://g-=
+ec2.images-amazon.com/images/G/01/x-locale/cs/te/OrderDetails._V320688448_.=
+png" style=3D"border: 0; margin: 0" /> </a> </p> </td>=20
+             <td width=3D"223" valign=3D"top" id=3D"criticalInfo_right" sty=
+le=3D"padding-left: 9px; padding-right: 18px; padding-top: 11px; padding-bo=
+ttom: 14px"> <p style=3D"font-size: 14px; font-family: &quot;arial&quot;, &=
+quot;sans-serif&quot;; font-weight: bold; margin: 0px"> <span class=3D"labe=
+l" style=3D"color: rgb(102, 102, 102); font-weight: normal">Shipped to:</sp=
+an><br /> Kyle A. Fisher<br /> 316 MCADOO AVE... </p> <br />=20
+              <table cellspacing=3D"0" cellpadding=3D"0" id=3D"costBreakdow=
+n" style=3D"width: 100%">=20
+               <tbody>
+                <tr>=20
+                 <td style=3D"vertical-align: top; width: 100%; text-align:=
+ left; font-family: &quot;arial&quot;">=20
+                  <table id=3D"costBreakdownLeft">=20
+                   <tbody>
+                    <tr>=20
+                     <td class=3D"text" style=3D"font-size: 12px; vertical-=
+align: top; width: 100%; text-align: left; font-family: &quot;arial&quot;">=
+ Total Before Tax: </td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td class=3D"total" style=3D"font-size: 14px; font-wei=
+ght: bold; vertical-align: top; width: 100%; text-align: left; font-family:=
+ &quot;arial&quot;"> Shipment Total: </td>=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                 <td style=3D"vertical-align: top; width: 100%; text-align:=
+ left; font-family: &quot;arial&quot;">=20
+                  <table id=3D"costBreakdownRight">=20
+                   <tbody>
+                    <tr>=20
+                     <td class=3D"price" style=3D"font-size: 12px; text-ali=
+gn: right; vertical-align: top; width: 100%; font-family: &quot;arial&quot;=
+"> $25.98 </td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td class=3D"total" style=3D"font-size: 14px; font-wei=
+ght: bold; vertical-align: top; width: 100%; text-align: left; font-family:=
+ &quot;arial&quot;"> $25.98 </td>=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                </tr>=20
+               </tbody>
+              </table>=20
+              <table cellspacing=3D"0" cellpadding=3D"0">
+               <tbody>
+                <tr>
+                 <td> <img align=3D"left" height=3D"1" src=3D"http://g-ec2.=
+images-amazon.com/images/G/01/x-locale/cs/te/MagicPixel._V319790361_.png" w=
+idth=3D"222" style=3D"border: 0; margin: 0" /> </td>
+                </tr>
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td id=3D"criticalInfo_bottom" style=3D"padding-left: 0px; padding=
+-top: 9px; padding-bottom: 9px"> <p style=3D"font-size: 11px; font-family: =
+&quot;arial&quot;, &quot;sans-serif&quot;; margin: 0px"> </p> </td>=20
+        </tr>=20
+        <tr>=20
+         <td id=3D"closing" style=3D"padding-left: 0; padding-top: 9px; pad=
+ding-bottom: 9px; border-bottom: 1px solid rgb(234, 234, 234)"> <p style=3D=
+"font-size: 14px; font-family: &quot;arial&quot;, &quot;sans-serif&quot;; m=
+argin: 0px">We hope to see you again soon.<br /><br /> <span class=3D"signa=
+ture" style=3D"font-size: 14px; font-weight: bold">Amazon.com</span></p> </=
+td>=20
+        </tr>=20
+        <tr>=20
+         <td id=3D"marketingContent" style=3D"border-bottom: 1px solid rgb(=
+234, 234, 234)">=20
+          <table width=3D"500" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" align=3D"left" class=3D"deviceWidth" style=3D"vertical-align:central=
+;background:white;">
+           <tbody>
+            <tr>
+             <td>=20
+              <table width=3D"500" class=3D"devicewidth" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"inherit" bgcolor=3D"#FFFFFF">=20
+               <tbody>
+                <tr>=20
+                 <td style=3D"font-family:Arial,Sans-Serif;font-size:18px;f=
+ont-weight:normal;font-style:normal;text-decoration:none;color:#C60;text-al=
+ign:left;padding:6px 0 0 0;"> Customers Who Bought Gauges Kit 28 Pie... Als=
+o Bought </td>=20
+                </tr>=20
+               </tbody>
+              </table> </td>
+            </tr>
+            <tr>
+             <td>=20
+              <table width=3D"500" cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0" align=3D"left" class=3D"deviceWidth" style=3D"vertical-align:centr=
+al;background:white;">=20
+               <tbody>
+                <tr>=20
+                 <td width=3D"48%" bgcolor=3D"#ffffff" align=3D"left" class=
+=3D"asin_2col" style=3D"vertical-align:middle;">=20
+                  <table>=20
+                   <tbody>
+                    <tr>=20
+                     <td align=3D"center" style=3D"padding:12px 5px 10px 5p=
+x;vertical-align:middle;"> <a href=3D"https://www.amazon.com/gp/r.html?C=3D=
+2PXF3GTNJE0R0&K=3DA2SCO4VBODRW03&R=3D3VYJV73QQALTF&T=3DC&U=3Dhttps%3A%2F%2F=
+www.amazon.com%2Fgp%2Fproduct%2FB00JVWY28Y%2Fref%3Dpe_385040_172232000_pd_t=
+e_s_gc_im%2F159-7583029-4168713&A=3DD61BKPYANA9JBP9X91IFRXVHDHYA&H=3DSRXRPA=
+RTOVIXMYNGQKEKZXCPGXKA&ref_=3Dpe_385040_172232000_pd_te_s_gc_im" style=3D"t=
+ext-decoration: none; color: rgb(0, 102, 153)"> <img src=3D"https://images-=
+na.ssl-images-amazon.com/images/I/415Y2tI%2BE0L._AC_SL500_SS80_.jpg" width=
+=3D"80" height=3D"80" class=3D"pr_image_80 pr_image_desktop" alt=3D"Gauge G=
+ear Twin Pack- Ear Stretching Balm Cream with Jojoba Oil Natural Healing Pr=
+oduct" border=3D"0" style=3D"border: 0; margin: 0" /> </a> </td>=20
+                     <td align=3D"left" style=3D"padding:12px 5px 10px 5px;=
+vertical-align:middle;">=20
+                      <table>=20
+                       <tbody>
+                        <tr align=3D"left" style=3D"">=20
+                         <td> <a href=3D"https://www.amazon.com/gp/r.html?C=
+=3D2PXF3GTNJE0R0&K=3DA2SCO4VBODRW03&R=3D3VYJV73QQALTF&T=3DC&U=3Dhttps%3A%2F=
+%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00JVWY28Y%2Fref%3Dpe_385040_172232000_p=
+d_te_s_gc_ti%2F159-7583029-4168713&A=3D8NMTP9QM8MBL6LZA6MDTU32CADGA&H=3DUEU=
+MB19DLSU6WH4NWU8Z8DIUMUGA&ref_=3Dpe_385040_172232000_pd_te_s_gc_ti" style=
+=3D"font-family: Arial, Sans-Serif; text-decoration: none; color: rgb(136, =
+136, 136); font-size: 13px; font: 13px Arial, Sans-Serif">Gauge Gear Twin P=
+ack- Ear...</a> </td>=20
+                        </tr>=20
+                        <tr align=3D"left" style=3D"">=20
+                         <td> <span style=3D"font-family:Arial,Sans-Serif; =
+text-decoration:none; color:#888; font-size:13px; vertical-align:3px"> $6.9=
+9 </span> <span style=3D"vertical-align:0px"></span> </td>=20
+                        </tr>=20
+                       </tbody>
+                      </table> </td>=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                 <td width=3D"48%" bgcolor=3D"#ffffff" align=3D"left" class=
+=3D"asin_2col" style=3D"vertical-align:middle;">=20
+                  <table>=20
+                   <tbody>
+                    <tr>=20
+                     <td align=3D"center" style=3D"padding:12px 5px 10px 5p=
+x;vertical-align:middle;"> <a href=3D"https://www.amazon.com/gp/r.html?C=3D=
+2PXF3GTNJE0R0&K=3DA2SCO4VBODRW03&R=3D3VYJV73QQALTF&T=3DC&U=3Dhttps%3A%2F%2F=
+www.amazon.com%2Fgp%2Fproduct%2FB01B1Y48AG%2Fref%3Dpe_385040_172232000_pd_t=
+e_s_gc_im%2F159-7583029-4168713&A=3D1QFT1OECVASX2LT5HPOQGV25JXUA&H=3DCRRNDX=
+PFLLA3AEYAEUC9TX3U79AA&ref_=3Dpe_385040_172232000_pd_te_s_gc_im" style=3D"t=
+ext-decoration: none; color: rgb(0, 102, 153)"> <img src=3D"https://images-=
+na.ssl-images-amazon.com/images/I/41aCC-7VGbL._AC_SL500_SS80_.jpg" width=3D=
+"80" height=3D"80" class=3D"pr_image_80 pr_image_desktop" alt=3D"Premium St=
+retched Ear Lobe Cream" border=3D"0" style=3D"border: 0; margin: 0" /> </a>=
+ </td>=20
+                     <td align=3D"left" style=3D"padding:12px 5px 10px 5px;=
+vertical-align:middle;">=20
+                      <table>=20
+                       <tbody>
+                        <tr align=3D"left" style=3D"">=20
+                         <td> <a href=3D"https://www.amazon.com/gp/r.html?C=
+=3D2PXF3GTNJE0R0&K=3DA2SCO4VBODRW03&R=3D3VYJV73QQALTF&T=3DC&U=3Dhttps%3A%2F=
+%2Fwww.amazon.com%2Fgp%2Fproduct%2FB01B1Y48AG%2Fref%3Dpe_385040_172232000_p=
+d_te_s_gc_ti%2F159-7583029-4168713&A=3DCPZI7KJLLVNS4HZIJQY61EOCFCEA&H=3DD2P=
+M3QMURXSHRISWWL0JXZCASTIA&ref_=3Dpe_385040_172232000_pd_te_s_gc_ti" style=
+=3D"font-family: Arial, Sans-Serif; text-decoration: none; color: rgb(136, =
+136, 136); font-size: 13px; font: 13px Arial, Sans-Serif">Premium Stretched=
+ Ear Lobe Cream</a> </td>=20
+                        </tr>=20
+                        <tr align=3D"left" style=3D"">=20
+                         <td> <span style=3D"font-family:Arial,Sans-Serif; =
+text-decoration:none; color:#888; font-size:13px; vertical-align:3px"> $9.9=
+9 </span> <span style=3D"vertical-align:0px"></span> </td>=20
+                        </tr>=20
+                       </tbody>
+                      </table> </td>=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                </tr>=20
+               </tbody>
+              </table> </td>
+            </tr>
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td id=3D"footer" style=3D"padding-top: 9px"> <p style=3D"color: r=
+gb(102, 102, 102); font-size: 10px; line-height: 16px; padding-bottom: 10px=
+; font-family: &quot;arial&quot;, &quot;sans-serif&quot;; margin: 0px">Unle=
+ss otherwise noted, items sold by Amazon.com LLC are subject to sales tax i=
+n select states in accordance with the applicable laws of that state. If yo=
+ur order contains one or more items from a seller other than Amazon.com LLC=
+, it may be subject to state and local sales tax, depending upon the seller=
+s business policies and the location of their operations. Learn more about =
+<a href=3D"https://www.amazon.com/gp/r.html?C=3D2PXF3GTNJE0R0&K=3DA2SCO4VBO=
+DRW03&R=3D3VYJV73QQALTF&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2=
+Fcustomer%2Fdisplay.html%2Fref%3Dpe_385040_172232000_TE_SIMP_tx%3Fie%3DUTF8=
+%26nodeId%3D200962600&A=3DPXHG0DQ4NJ2ACWKGKRRFBZWWZS4A&H=3DR3QZHBSICFWVEHHX=
+WPXZPYZE0BYA&ref_=3Dpe_385040_172232000_TE_SIMP_tx" style=3D"text-decoratio=
+n: none; color: rgb(0, 102, 153)">tax and seller information</a>.</p> <p st=
+yle=3D"color: rgb(102, 102, 102); font-size: 10px; line-height: 16px; paddi=
+ng-bottom: 10px; font-family: &quot;arial&quot;, &quot;sans-serif&quot;; ma=
+rgin: 0px"> Your invoice can be accessed <a href=3D"https://www.amazon.com/=
+gp/f.html?C=3D2PXF3GTNJE0R0&K=3DA2SCO4VBODRW03&R=3D3VYJV73QQALTF&T=3DC&U=3D=
+https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fsummary%2Fprint.html%3ForderID%3D=
+109-4851961-5506662%26ref_%3Dpe_385040_172232000_TE_SIMP_inv&A=3D7AG702FHWS=
+XWHN7HRCAZAVR59I4A&H=3DGHEOH4IO71AMJCRDHAZWXEH10Z4A&ref_=3Dpe_385040_172232=
+000_TE_SIMP_inv" style=3D"text-decoration: none; color: rgb(0, 102, 153)">h=
+ere</a>. </p> <p style=3D"color: rgb(102, 102, 102); font-size: 10px; line-=
+height: 16px; padding-bottom: 10px; font-family: &quot;arial&quot;, &quot;s=
+ans-serif&quot;; margin: 0px"> This email was sent from a notification-only=
+ address that cannot accept incoming email. Please do not reply to this mes=
+sage. </p> </td>=20
+        </tr>=20
+       </tbody>
+      </table> </td>
+    </tr>=20
+   </tbody>
+  </table> =20
+ <img width=3D"1" height=3D"1" src=3D"https://www.amazon.com/gp/r.html?C=3D=
+2PXF3GTNJE0R0&K=3DA2SCO4VBODRW03&R=3D3VYJV73QQALTF&T=3DE&U=3Dhttps%3A%2F%2F=
+images-na.ssl-images-amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&A=3DAW=
+UVUJS52IC0KNPIO6DCW8VNYQCA&H=3DSSXWIEWU94ME0W6DDZ7JKKI2OV0A&ref_=3Dpe_38504=
+0_172232000_open" /></body>
+</html>
+------=_Part_2208659_201181214.1479713142842--

@@ -1,0 +1,34 @@
+Return-path: <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Wed, 21 Dec 2016 15:42:27 -0500
+Received: from mail-s56.mailgun.us ([184.173.153.56]:35643)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>)
+	id 1cJniV-003wzi-6c
+	for kyle@kylefisher.com; Wed, 21 Dec 2016 15:42:27 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=epicodus.com; q=dns/txt; s=mx;
+ t=1482352945; h=Content-Transfer-Encoding: Mime-Version: Content-Type:
+ Subject: From: To: Message-Id: Date: Sender;
+ bh=57kWkS9aP+VNXU+F0UoQSB+sOwO9zUyesKuZ1sJCDgw=; b=XomZpZLrElj+w47vkyl+fG/JhDt/f04KIusruvlcHC16JlY+fy8ED+R226u2/MUVzOJ/qj+I
+ Mc8iJarYMdka1G94iTuu8xFAQW+H/hrxxxwL2hmX7NILYNc0Zs20qv7s70Rj/f95y7QPY6e/
+ ZGaeQF3WZ0qs70meQMKEtx7iqeU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=epicodus.com; s=mx; q=dns;
+ h=Sender: Date: Message-Id: To: From: Subject: Content-Type:
+ Mime-Version: Content-Transfer-Encoding;
+ b=uCP+pBTpvPmi/kC6C+XxLT3t71WRdD9CsnNyPjJCV8QWuPBz5lf612cU/qf8Ly9LppMWc7
+ HJqVNZjGcp4CDlNUt8gLpPVH7uSoQMqlwQjK8goY2Cu2mU/pi/4v8UPuqToHdZuTrP5kpV7z
+ EJmFdAVwbVvDmQQWsnnGhZri4cvQs=
+Sender: no-reply@epicodus.com
+Date: Wed, 21 Dec 2016 20:42:25 +0000
+X-Mailgun-Sending-Ip: 184.173.153.56
+X-Mailgun-Sid: WyI4ZmIxZiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgImUxZTk1Il0=
+Received: by luna.mailgun.net with HTTP; Wed, 21 Dec 2016 20:42:24 +0000
+Message-Id: <20161221204224.65087.91818.51AA3905@epicodus.com>
+To: kyle@kylefisher.com
+From: no-reply@epicodus.com
+Subject: Code review reviewed
+Content-Type: text/plain; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi Kyle Fisher. Your Angular  code has been reviewed. You can view it at https://epicenter.epicodus.com/courses/85/code_reviews/483.

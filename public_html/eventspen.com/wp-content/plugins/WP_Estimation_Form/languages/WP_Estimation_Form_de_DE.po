@@ -1,0 +1,1417 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: lfb\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.8.1\n"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "E&P Form Builder"
+msgstr "E&P Formular-Generator"
+
+msgid "Estimation & Payment Forms"
+msgstr "Bewertungs- & Zahlungsformulare"
+
+msgid "Return to the forms list"
+msgstr "Zur Formularliste zurückzukehren"
+
+msgid "Orders List"
+msgstr "Liste der Bestellungen"
+
+msgid "Reference"
+msgstr "Referenz"
+
+msgid "Estimation Form"
+msgstr "Schätzformular"
+
+msgid "Select a form"
+msgstr "Wähle ein Formular"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "Forms List"
+msgstr "Formularliste"
+
+msgid "Form ID"
+msgstr "Form ID"
+
+msgid "Add a new Form"
+msgstr "Ein neues Formular hinzufügen"
+
+msgid "Import forms"
+msgstr "Formulare importieren"
+
+msgid "Export all forms"
+msgstr "Formulare exportieren"
+
+msgid "Form title"
+msgstr "Formularname"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Edit this form"
+msgstr "Formular bearbeiten"
+
+msgid "Preview this form"
+msgstr "Vorschau Formular"
+
+msgid "View orders of this form"
+msgstr "Bestellungen über dieses Formular zeigen"
+
+msgid "Duplicate this form"
+msgstr "Formular duplizieren"
+
+msgid "Duplicate this step"
+msgstr "Schritt duplizieren"
+
+msgid "Delete this form"
+msgstr "Formular löschen"
+
+msgid "My Step"
+msgstr "Mein Schritt"
+
+msgid "Add a step"
+msgstr "Schritt hinzufügen"
+
+msgid "View the form"
+msgstr "Formular anschauen"
+
+msgid "Remove all steps"
+msgstr "Alle Schritte löschen"
+
+msgid "Steps manager"
+msgstr "Schritte verwalten"
+
+msgid "Are you sure you want to delete all steps ?"
+msgstr "Wirklich alle Schritte löschen?"
+
+msgid "Form settings"
+msgstr "Formular Einstellungen"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "Last Step"
+msgstr "Letzter Schritt"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Texts"
+msgstr "Texte"
+
+msgid "Title"
+msgstr "Titel:"
+
+msgid "The form title"
+msgstr "Name des Formulars"
+
+msgid "Selection required"
+msgstr "Auswahl erforderlich"
+
+msgid "Something like \"You need to select an item to continue\""
+msgstr "So etwas wie \"Sie müssen ein Element auszuwählen, um fortzufahren\""
+
+msgid "Button \"next step\""
+msgstr "Button \"Nächster Schritt\""
+
+msgid "Something like \"NEXT STEP\""
+msgstr "So etwas wie \"nächster Schritt\""
+
+msgid "Link \"previous step\""
+msgstr "Link \"Vorheriger Schritt\""
+
+msgid "Something like \"return to previous step\""
+msgstr "So etwas wie \"zurück zum vorherigen Schritt\""
+
+msgid "Introduction"
+msgstr "Einführung"
+
+msgid "Enable Introduction ? "
+msgstr "Einführung aktivieren ?"
+
+msgid "Is Introduction enabled ? "
+msgstr "Ist Einführung aktiviert?"
+
+msgid "Introduction title"
+msgstr "Einführung Titel"
+
+msgid "Something like \"HOW MUCH TO MAKE MY WEBSITE ?\""
+msgstr "So etwas wie „Wieviel würde meine Internetseite kosten?“"
+
+msgid "Introduction text"
+msgstr "Einführungstext"
+
+msgid "Something like \"Estimate the cost of a website easily using this awesome tool.\""
+msgstr "So etwas wie \"Mit diesem Preisrechner lassen sich Sie die Kosten für Ihre Internetseite ganz einfach schätzen.\""
+
+msgid "Introduction button"
+msgstr "Einführung Button"
+
+msgid "Something like \"GET STARTED\""
+msgstr "So etwas wie \"Jetzt starten\""
+
+msgid "Options"
+msgstr "Optionen"
+
+msgid "Order reference prefix"
+msgstr "Präfix für Referenz"
+
+msgid "Enter a prefix for the order reference"
+msgstr "Präfix für die Bestellreferenz eingeben"
+
+msgid "Initial price"
+msgstr "Grundpreis"
+
+msgid "Starting price"
+msgstr "Startpreis"
+
+msgid "Maximum price"
+msgstr "Höchstpreis"
+
+msgid "Leave blank for automatic calculation"
+msgstr "Freilassen für automatische Berechnung"
+
+msgid "Hide initial price in the progress bar ? "
+msgstr "Anfangspreis im Fortschrittsbalken ausblenden?"
+
+msgid "Display or hide the initial price from progress bar"
+msgstr "Ein- oder Ausblenden des Grundpreises im Fortschrittsbalken"
+
+msgid "Progress bar shows"
+msgstr "Fortschrittsbalken zeigen"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Step"
+msgstr "Schritt"
+
+msgid "The progress bar can show the price or step number"
+msgstr "Der Fortschrittsbalken kann den Preis oder den Schritt anzeigen"
+
+msgid "Currency"
+msgstr "Währung"
+
+msgid "$, € , £ ..."
+msgstr ""
+
+msgid "Currency Position"
+msgstr "Position Währungssymbol"
+
+msgid "Right"
+msgstr "rechts"
+
+msgid "Left"
+msgstr "links"
+
+msgid "Sets the currency position in the price"
+msgstr "Legt die Position des Währungssymbols fest"
+
+msgid "Animations speed"
+msgstr "Geschwindigkeit"
+
+msgid "Sets the animations speed, in seconds(default : 0.5)"
+msgstr "Legt die Geschwindigkeit von Animationen in Sekunden fest (Standard: 0.5)"
+
+msgid "Quantity selection style"
+msgstr "Stil der Mengenauswahl"
+
+msgid "Buttons"
+msgstr "Buttons"
+
+msgid "Field"
+msgstr "Feld"
+
+msgid "If \"field\", tooltip will be positionned on top"
+msgstr "Wenn „Feld“, positioniert sich die Kurzinfo als Tooltip oben"
+
+msgid "Admin email"
+msgstr "Admin-Email"
+
+msgid "Email that will receive requests"
+msgstr "Email-Adresse, an welche die Anfragen gehen"
+
+msgid "Admin email subject"
+msgstr "Betreff Admin-Email"
+
+msgid "Something like \"New order from your website\""
+msgstr "So etwas wie \"Neue Bestellung auf Deiner WebSite\""
+
+msgid "Admin email content"
+msgstr "Inhalt Admin-Email"
+
+msgid "Variables"
+msgstr "Variable"
+
+msgid "Selected items list"
+msgstr "Liste der ausgewählten Elemente"
+
+msgid "Last step form values"
+msgstr "Formularwerte aus letztem Schritt"
+
+msgid "Order reference"
+msgstr "Bestellnummer"
+
+msgid "Customer email"
+msgstr "Kunden-Email"
+
+msgid "Send email to the customer ? "
+msgstr "Email an den Benutzer senden?"
+
+msgid "If true, the user will receive a confirmation email"
+msgstr "Wenn ausgewählt, erhält der Benutzer eine Bestätigungsmail"
+
+msgid "Customer email subject"
+msgstr "Betreff Kunden-Email"
+
+msgid "Something like \"Order confirmation\""
+msgstr "So etwas wie \"Bestellbestätigung\""
+
+msgid "Call an url on close"
+msgstr "Aufgerufene URL beim Schließen"
+
+msgid "Complete this field if you want to call a specific url on close . Otherwise leave it empty."
+msgstr "Dieses Feld komplettieren, um eine bestimmte URL beim Schließen des Fensters aufzurufen. Andernfalls leer lassen."
+
+msgid "Last step title"
+msgstr "Titel letzter Schritt"
+
+msgid "Something like \"Final cost\", \"Result\" ..."
+msgstr "So etwas wie \"Geschätzter Endpreis\" oder \"Ergebnis\"..."
+
+msgid "Last step text"
+msgstr "Text letzter Schritt"
+
+msgid "Something like \"The final estimated price is :\""
+msgstr "So etwas wie \"Der geschätzte Endpreis beträgt:\""
+
+msgid "Last step button"
+msgstr "Button \"Letzter Schritt\""
+
+msgid "Something like \"ORDER MY WEBSITE\""
+msgstr "So etwas wie \"Meine Internetseite bestellen\""
+
+msgid "Succeed text"
+msgstr "Text nach Versenden"
+
+msgid "Something like \"Thanks, we will contact you soon\""
+msgstr "So etwas wie \"Vielen Dank! Wir setzen uns umgehend mit Ihnen in Verbindung.\""
+
+msgid "Use paypal payment"
+msgstr "PayPal-Zahlung nutzen?"
+
+msgid "Use stripe payment"
+msgstr "Stripe-Zahlung nutzen?"
+
+msgid "If true, the user will be redirected to the payment page"
+msgstr "Wenn ausgewählt, wird der Benutzer auf die Zahlungsseite weitergeleitet."
+
+msgid "Paypal email"
+msgstr "PayPal-Email"
+
+msgid "Enter your paypal email"
+msgstr "PayPal-Email eingeben"
+
+msgid "Enter your payment currency"
+msgstr "Zahlungswährung eingeben"
+
+msgid "Payment currency"
+msgstr "Zahlungswährung"
+
+msgid "Only this percentage will be paid by paypal"
+msgstr "Nur diesen Anteil über PayPal zahlen"
+
+msgid "Percentage of the total price to pay"
+msgstr "Prozentsatz der Gesamtsummer"
+
+msgid "Gravity Form"
+msgstr "Gravity Formular"
+
+msgid "Assign a Gravity Form to the last step"
+msgstr "Dem letzten Schritt ein Gravity Formular zuweisen"
+
+msgid "None"
+msgstr "Keines"
+
+msgid "Woo Commerce"
+msgstr "WooCommerce"
+
+msgid "Add selected items to cart"
+msgstr "Ausgewähltes Element in den Warenkorb legen"
+
+msgid "If true, all items with price must beings products of the woo catalog"
+msgstr "Wenn gesetzt, müssen alle Elemente mit Preis auch Produkte im Woo Katalog sein"
+
+msgid "Fields of the final step"
+msgstr "Felder im letzten Schritt"
+
+msgid "Add a field"
+msgstr "Feld hinzufügen"
+
+msgid "Label"
+msgstr "Beschriftung"
+
+msgid "Order"
+msgstr "Reihenfolge"
+
+msgid "Type"
+msgstr "Art"
+
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+msgid "ex : #ecf0f1"
+msgstr "ex: # ecf0f1"
+
+msgid "Main color"
+msgstr "Hauptfarbe"
+
+msgid "ex : #1abc9c"
+msgstr "z.B.: #1abc9c"
+
+msgid "Secondary  color"
+msgstr "Sekundärfarbe"
+
+msgid "ex : #34495e"
+msgstr "z.B. : #34495e"
+
+msgid "Texts color"
+msgstr "Schriftfarbe"
+
+msgid "ex : #bdc3c7"
+msgstr "z.B. : #bdc3c7"
+
+msgid "Pictures size"
+msgstr "Bildgröße"
+
+msgid "Enter your custom css code here"
+msgstr "Geben Sie ein benutzerdefiniertes CSS hier ein"
+
+msgid "Custom CSS rules"
+msgstr "Benutzerdefinierte CSS-Regeln"
+
+msgid "Enter a size in pixels(ex : 64)"
+msgstr "Größe in Pixel eingeben (z.B.: 64)"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "This is the field label"
+msgstr "Feldbezeichnung"
+
+msgid "Fields take place according to the order"
+msgstr "Felder werden entsprechend der Reihenfolge angeordnet"
+
+msgid "Type of field"
+msgstr "Feldtyp"
+
+msgid "Choose a type"
+msgstr "Einen Typ wählen"
+
+msgid "Validation"
+msgstr "Bestätigung"
+
+msgid "Select a validation method"
+msgstr "Eine Validierungsmethode wählen"
+
+msgid "Toggle or displayed ? "
+msgstr "Aufklappen oder gleich anzeigen?"
+
+msgid "Edit a link"
+msgstr "Link bearbeiten"
+
+msgid "Link conditions"
+msgstr "Link-Bedingungen"
+
+msgid "Add a condition"
+msgstr "Bedingung hinzufügen"
+
+msgid "Element"
+msgstr "Element"
+
+msgid "Condition"
+msgstr "Bedingung"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Redirect to a page"
+msgstr "Formular in eine Seite integrieren"
+
+msgid "Text field"
+msgstr "Textfeld"
+
+msgid "Select field"
+msgstr "Wähle Sie ein Feld"
+
+msgid "Number field"
+msgstr "Nummern-Feld"
+
+msgid "Select"
+msgstr "Wählen"
+
+msgid "Button"
+msgstr "Button "
+
+msgid "Must be filled"
+msgstr "Muss ausgefüllt sein"
+
+msgid "Use decimals"
+msgstr "Verwende Dezimalstellen"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Maximum"
+msgstr "Maximal"
+
+msgid "Edit a step"
+msgstr "Einen Schritt bearbeiten"
+
+msgid "Step options"
+msgstr "Optionen für Schritte"
+
+msgid "This is the step name"
+msgstr "Name des Schrittes"
+
+msgid "If true, the user must select at least one item to continue"
+msgstr "Wenn ausgewählt, muss der Benutzer mindestens ein Element auswählen, um fortzufahren."
+
+msgid "Items List"
+msgstr "Liste der Elemente"
+
+msgid "Add a new Item"
+msgstr "Ein neues Element hinzufügen"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Edit an item"
+msgstr "Element bearbeiten"
+
+msgid "Item options"
+msgstr "Element Optionen"
+
+msgid "This is the item name"
+msgstr "Name des Elements"
+
+msgid "Items take place according to the order defined"
+msgstr "Die Anzeige der Elemente erfolgt entsprechend der definierten Reihenfolge"
+
+msgid "Small description"
+msgstr "Kurze Beschreibung"
+
+msgid "Item small description. You can leave it empty."
+msgstr "Kurze Beschreibung zum Element. Kann leer gelassen werden."
+
+msgid "Group name"
+msgstr "Gruppenname"
+
+msgid "Only one of the items of a same group can be selected"
+msgstr "Es kann nur eine Element einer gleichen Gruppe ausgewählt werden"
+
+msgid "Picture"
+msgstr "Bild"
+
+msgid "Checkbox"
+msgstr "Checkbox"
+
+msgid "Options of select field"
+msgstr "Auswahloptionen"
+
+msgid "A facultative description"
+msgstr "Eine optionale Beschreibung"
+
+msgid "Add a new option"
+msgstr "Neue Option hinzufügen"
+
+msgid "Option value"
+msgstr "Optionswert"
+
+msgid "Option price"
+msgstr "Optionspreis"
+
+msgid "File field"
+msgstr "Datei-Feld"
+
+msgid "Select a type of item"
+msgstr "Wählen Sie einen Element Typ"
+
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+msgid "Select a picture"
+msgstr "Bild wählen"
+
+msgid "Tint image ?"
+msgstr "Bild färben?"
+
+msgid "Automatically fill the picture with the main color"
+msgstr "Das Bild automatisch an die Hauptfarbe anpassen"
+
+msgid "Display price in title ?"
+msgstr "Preis im Titel anzeigen?"
+
+msgid "Shows the price in the item title"
+msgstr "Zeigt den Preis im Elementtitel"
+
+msgid "Use column or row ?"
+msgstr "Spalte oder Zeile verwenden?"
+
+msgid "Column"
+msgstr "Spalte"
+
+msgid "Row"
+msgstr "Zeile"
+
+msgid "The item will be displayed as column or full row"
+msgstr "Das Element wird als Spalte oder vollständige Zeile angezeigt"
+
+msgid "Woocommerce product"
+msgstr "WooCommerce Produkt"
+
+msgid "You can select a product from your catalog"
+msgstr "Ein Produkt aus dem Katalog wählen"
+
+msgid "Percentage"
+msgstr "prozentual"
+
+msgid "Sets the item price"
+msgstr "Preis für das Element"
+
+msgid "Calculation"
+msgstr "Berechnung"
+
+msgid "Operator"
+msgstr "Operator"
+
+msgid "+"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "x"
+msgstr "x"
+
+msgid "/"
+msgstr ""
+
+msgid "Is selected ?"
+msgstr "Ist vorausgewählt?"
+
+msgid "Is the item selected by default ?"
+msgstr "Ist das Element standardmäßig ausgewählt?"
+
+msgid "Is required ?"
+msgstr "Ist erforderlich?"
+
+msgid "Is the item required to continue ?"
+msgstr "Ist das Element zwingend erforderlich für den nächsten Schritt?"
+
+msgid "Enable quantity choice ?"
+msgstr "Mengenauswahl aktiviert?"
+
+msgid "Can the user select a quantity for this item ?"
+msgstr "Kann der Benutzer eine Menge für dieses Element auswählen?"
+
+msgid "Max quantity"
+msgstr "Maximale Anzahl"
+
+msgid "Sets the maximum quantity that can be selected"
+msgstr "Legt die maximale Menge fest, die ausgewählt werden kann"
+
+msgid "Apply reductions on quantities ?"
+msgstr "Preisminderung auf Mengen?"
+
+msgid "If quantity >= than"
+msgstr "Wenn Menge >= dann"
+
+msgid "Item price becomes"
+msgstr "Preis wird"
+
+msgid "Quantity"
+msgstr "Menge"
+
+msgid "New item price"
+msgstr "Einen neuen Preis für das Element hinzufügen"
+
+msgid "Add a new reduction"
+msgstr "Eine neue Reduzierung hinzufügen"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Integrate form in a page"
+msgstr "Formular in eine Seite integrieren"
+
+msgid "To use in fullscreen"
+msgstr "Im Vollbildmodus verwenden"
+
+msgid "To use as popup"
+msgstr "Als Popup verwenden"
+
+msgid "Import data"
+msgstr "Daten importieren"
+
+msgid "Be careful : all existing forms and steps will be erased importing new data."
+msgstr "Achtung! Alle vorhandenen Formulare und Schritte werden beim Import gelöscht."
+
+msgid "Select the .zip data file"
+msgstr "Zip-Datei wählen"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Import"
+msgstr "Importieren"
+
+msgid "Export data"
+msgstr "Daten exportieren"
+
+msgid "Download the exported data"
+msgstr "Die exportierten Daten herunterladen"
+
+msgid "View this order"
+msgstr "Bestellung zeigen"
+
+msgid "Delete this order"
+msgstr "Bestellung löschen"
+
+msgid "Click the flag icon to set this step at first step"
+msgstr "Das Flaggensymbol klicken, um diesen Schritt als ersten Schritt festzulegen"
+
+msgid "Start a link to another step"
+msgstr "Einen Link zum nächsten Schritt setzen"
+
+msgid "Remove this step"
+msgstr "Schritt entfernen"
+
+msgid "Edit this step"
+msgstr "Diesen Schritt bearbeiten"
+
+msgid "Is selected"
+msgstr "Ist ausgewählt"
+
+msgid "Is unselected"
+msgstr "Ist nicht ausgewählt"
+
+msgid "Is superior to"
+msgstr "Ist höher als"
+
+msgid "Is inferior to"
+msgstr "Ist niedriger als"
+
+msgid "Is equal to"
+msgstr "Ist gleich"
+
+msgid "Quantity selected is superior to"
+msgstr "Ausgewählte Menge ist höher als"
+
+msgid "Quantity selected is inferior to"
+msgstr "Ausgewählte Menge ist niedriger als"
+
+msgid "Quantity is equal to"
+msgstr "Menge ist gleich"
+
+msgid "Total price"
+msgstr "Gesamtpreis"
+
+msgid "Is Filled"
+msgstr "Ist ausgefüllt"
+
+msgid "An error occurred during the exportation. Please verify that your server supports the ZipArchive php library "
+msgstr "Ein Fehler ist beim Export aufgetreten. Bitte überprüfen Sie, ob Ihr Server die ZipArchive PHP-Bibliothek unterstützt."
+
+msgid "An error occurred during the importation. Please verify that your server supports the ZipArchive php library "
+msgstr "Ein Fehler ist beim Import aufgetreten. Bitte überprüfen Sie, ob Ihr Server die ZipArchive PHP-Bibliothek unterstützt."
+
+msgid "An error occurred during the transfer"
+msgstr "Während der Übertragung ist ein Fehler aufgetreten"
+
+msgid "Set on true to hide the price on the last step."
+msgstr "Einschalten, um den Preis im letzten Schritt auszublenden."
+
+msgid "Hide the final price ?"
+msgstr "Endpreis ausblenden?"
+
+msgid "Hide tooltips on touch devices ?"
+msgstr "Tooltips auf Touch-Geräten verbergen?"
+
+msgid "Sets the minimum quantity that can be selected"
+msgstr "Legt die Mindestmenge fest, die ausgewählt werden kann"
+
+msgid "Min quantity"
+msgstr "Min Anzahl"
+
+msgid "Enable legal notice ?"
+msgstr "Die rechtlichen Hinweise aktivieren?"
+
+msgid "If true, the user must accept the notice before submitting the form"
+msgstr "Wenn das markiert ist, muss der Benutzer den Hinweis vor dem Absenden des Formulars akzeptieren"
+
+msgid "Legal notice"
+msgstr "Rechtliche Hinweise"
+
+msgid "Sentence of acceptance"
+msgstr "Einverständniserklärung"
+
+msgid "Something like \"I certify I completely read and I accept the legal notice by validating this form\""
+msgstr "So etwas wie \"Ich bestätige, dass ich die rechtlichen Hinweise vollständig gelesen habe und akzeptiere diese durch Bestätigung dieses Formulars\""
+
+msgid "Content of the legal notice"
+msgstr "Inhalt der rechtlichen Hinweise"
+
+msgid "Write your legal notice here"
+msgstr "Schreiben Sie Ihre rechtlichen Hinweise hier hinein"
+
+msgid "If you fill an url, it will be opened in a new tab on selection"
+msgstr "Wird eine URL eingetragen, öffnet diese in einem neuen Tab"
+
+msgid "Open url on click ?"
+msgstr "Mit Klick die URL öffnen?"
+
+msgid "Date picker"
+msgstr "Datumsauswahl"
+
+msgid "Select your language code"
+msgstr "Wählen Sie Ihre Sprache"
+
+msgid "Datepicker language"
+msgstr "Datepicker Sprache"
+
+msgid "Decimals separator"
+msgstr "Dezimalstellen Trennzeichen"
+
+msgid "Thousands separator"
+msgstr "Tausender Trennzeichen"
+
+msgid "Enter a separator or leave empty"
+msgstr "Geben Sie einen Separator ein oder lassen sie das Feld leer"
+
+msgid "Show a summary ?"
+msgstr "Zeigen Sie eine Zusammenfassung?"
+
+msgid "Do you want to show a summary on last step ?"
+msgstr "Wollen Sie eine Zusammenfassung als letzten Schritt anzeigen?"
+
+msgid "Summary title"
+msgstr "Zusammenfassung Titel"
+
+msgid "Something like \"Summary\""
+msgstr "So etwas wie \"Zusammenfassung\""
+
+msgid "Label \"Description\""
+msgstr "Label \"Beschreibung\""
+
+msgid "Something like \"Description\""
+msgstr "So etwas wie \"Beschreibung\""
+
+msgid "Label \"Quantity\""
+msgstr "Label \"Menge\""
+
+msgid "Something like \"Quantity\""
+msgstr "So etwas wie \"Menge\""
+
+msgid "Label \"Price\""
+msgstr "Label \"Preis\""
+
+msgid "Something like \"Price\""
+msgstr "Etwas wie \"Preis\""
+
+msgid "Label \"Total\""
+msgstr "Label \"Total\""
+
+msgid "Something like \"Total :\""
+msgstr "Etwas wie \"Total\""
+
+msgid "Slider"
+msgstr "Slider"
+
+msgid "Label \"Information\""
+msgstr "Label \"Information\""
+
+msgid "Something like \"Information :\""
+msgstr "So etwas wie \"Information\""
+
+msgid "Show in email/summary ?"
+msgstr "Zeigen Sie in der E-Mail eine Zusammenfassung?"
+
+msgid "This item will be displayed in the summary if the user selects it"
+msgstr "Dieses Element wird in der Zusammenfassung angezeigt werden, wenn der Benutzer es auswählt"
+
+msgid "This step will be displayed in the summary"
+msgstr "Dieser Schritt wird in der Zusammenfassung angezeigt werden"
+
+msgid "Payment method"
+msgstr "Eine Zahlungsmethode wählen"
+
+msgid "Payment"
+msgstr "Zahlung"
+
+msgid "Does the price corresponds to a subscription ?"
+msgstr "Entspricht der Preis den Angaben im Formular?"
+
+msgid "Is subscription ?"
+msgstr "Ist das ein Abonnement?"
+
+msgid "Text after price"
+msgstr "Text nach dem Preis"
+
+msgid "Something like \"/month\""
+msgstr "So etwas wie \"/ Monat\""
+
+msgid "Frequency of subscription"
+msgstr "Frequenz des Abonnements"
+
+msgid "Payment will be renewed every ... ?"
+msgstr "Soll der Zahlungsvorgang erneuert werrden jeden ... ?\". "
+
+msgid "The subscription ends after how many payments ?"
+msgstr "Das Abonnement endet nach wieviel Zahlungen?"
+
+msgid "How many payments ?"
+msgstr "Wie viele Zahlungen?"
+
+msgid "Illimited"
+msgstr "Unbegrenzt"
+
+msgid "day(s)"
+msgstr "Tag(e)"
+
+msgid "week(s)"
+msgstr "Woche(n)"
+
+msgid "month(s)"
+msgstr "Monat(e)"
+
+msgid "year(s)"
+msgstr "Jahr(e)"
+
+msgid "Use paypal IPN"
+msgstr "Verwenden Sie PayPal IPN"
+
+msgid "IPN requires a PayPal Business or Premier account and IPN must be configured on that account.<br/>See the <a %1$s>PayPal IPN Integration Guide</a> to learn how to set up IPN.<br/>The IPN listener URL you will need is : %2$s"
+msgstr "IPN erfordert ein PayPal Geschäfts- oder Privatkonto und IPN muss dann auf diesem Account konfiguriert werden. <br/> Siehe dazu den <a %1$s>PayPal IPN Integration Guide</a> um zu lernen, wie Sie IPN konfigurieren. <br/> Die IPN Listener URL die Sie benötigen ist: %2$s"
+
+msgid "Use paypal Sandbox"
+msgstr "PayPal Sandbox aktivieren"
+
+msgid "Enable this field only to test with fake payments"
+msgstr "Aktivieren Sie die Sandbox nur um Zahlungen zu testen. Es wird kein echter Zahlungsvorgang ausgeführt."
+
+msgid "Toggle"
+msgstr "Gleich anzeigen"
+
+msgid "Displayed"
+msgstr "Aufklappen"
+
+msgid "Export .csv"
+msgstr "Export .csv"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Hide quantity column"
+msgstr "Spalten Mengen verbergen"
+
+msgid "Do you want to hide the column of quantities ?"
+msgstr "Wollen Sie die Mengenspalten verbergen ?"
+
+msgid "Hide zero prices"
+msgstr "Ausblenden der Preise mit Wert Null"
+
+msgid "Do you want to hide zero prices ?"
+msgstr "Möchten sie die Preise mit Wert Null ausblenden?"
+
+msgid "Rich Text"
+msgstr "Voller Text"
+
+msgid "Paypal currency"
+msgstr "Paypal Währung"
+
+msgid "Discount coupons"
+msgstr "Rabatt-Coupons"
+
+msgid "Coupon code"
+msgstr "Gutscheincode"
+
+msgid "Add a new coupon"
+msgstr "Fügen sie einen neuen Gutschein hinzu"
+
+msgid "Remove all coupons"
+msgstr "Entfernen sie alle Coupons"
+
+msgid "Max uses"
+msgstr "Max verwendet"
+
+msgid "Number of uses"
+msgstr "Anzahl der verwendungen"
+
+msgid "Reduction"
+msgstr "Ermäßigung"
+
+msgid "Set 0 for an infinite use"
+msgstr "Setzen Sie 0 für unendlich"
+
+msgid "Edit a coupon"
+msgstr "Einen Gutschein bearbeiten"
+
+msgid "If you enable this option, a discount coupon field will be displayed at end of the form"
+msgstr "Wenn Sie diese Option aktivieren, wird ein Gutscheinfeld am Ende des Formulars angezeigt werden"
+
+msgid "Label of the coupon field"
+msgstr "Titel des Gutscheinsfelds"
+
+msgid "Color picker"
+msgstr "Farbwähler"
+
+msgid "Mailchimp list"
+msgstr "Mailchimp liste"
+
+msgid "Mailchimp API key"
+msgstr "Mailchimp API-Schlüssel"
+
+msgid "Send contact to Mailchimp ?"
+msgstr "Sende Kontakt zu Mailchimp ?"
+
+msgid "Mailpoet list"
+msgstr "Mailpoet liste"
+
+msgid "Send contact to MailPoet ?"
+msgstr "Sende Kontakt zu MailPoet ?"
+
+msgid "Send contact to GetResponse ?"
+msgstr "Sende Kontakt zu GetResponse ?"
+
+msgid "GetResponse API key"
+msgstr "GetResponse API-Schlüssel"
+
+msgid "GetResponse list"
+msgstr "GetResponse Liste"
+
+msgid "Millions separator"
+msgstr "Millionen Trennzeichen"
+
+msgid "Is hidden ?"
+msgstr "Ist verborgen ?"
+
+msgid "Item will be used in the calculation, but will not be displayed"
+msgstr "Element wird in der Berechnung verwendet werden, wird aber nicht angezeigt werden"
+
+msgid "Min size"
+msgstr "Min Größe"
+
+msgid "Max size"
+msgstr "Max Größe"
+
+msgid "Fill this field to limit the the minimum number of characters"
+msgstr "Füllen Sie dieses Option aus, um die die minimale Anzahl von Zeichen zu begrenzen"
+
+msgid "Fill this field to limit the the maximum number of characters"
+msgstr "Füllen Sie dieses Option aus, um die die maximal Anzahl von Zeichen zu begrenzen"
+
+msgid "Isn't a part of the subscription ?"
+msgstr "Ist das nicht ein Teil des Abonnements?"
+
+msgid "If checked, the item price will not be a part of the subscription price"
+msgstr "Wenn diese Option aktiviert ist, wird der Elementpreis nicht ein Teil des Bezugspreises"
+
+msgid "Ajax navigation support"
+msgstr "Ajax-Navigation Unterstützung"
+
+msgid "Activate this option if your theme uses ajax navigation to display pages"
+msgstr "Aktivieren Sie diese Option, wenn Ihr Thema Ajax-Navigation verwendet Seiten anzeigen"
+
+msgid "Label of files fields"
+msgstr "Label Dateien-Felder"
+
+msgid "Something like \"Drop files here to upload\""
+msgstr "So etwas wie \"Dateien hierhin ziehen zum hochladen\""
+
+msgid "Size error for files fields"
+msgstr "Größenfehler für Dateien Felder"
+
+msgid "Something like \"File is too big (max size: {{maxFilesize}}MB)\""
+msgstr "So etwas wie \"Die Datei ist zu groß (maximale Größe: {{maxFilesize}} MB)\""
+
+msgid "File type error for files fields"
+msgstr "Dateityp Fehler für Dateien Felder"
+
+msgid "Something like \"Invalid file type\""
+msgstr "So etwas wie \"Ungültiger Dateityp\""
+
+msgid "Max files"
+msgstr "Max Dateien"
+
+msgid "Maximum number of files the user can upload"
+msgstr "Maximale Anzahl der Dateien, die ein Benutzer hochladen kann"
+
+msgid "Allowed files"
+msgstr "Erlaubte Dateiformate"
+
+msgid "Enter the allowed extensions separated by commas"
+msgstr "Geben Sie die erlaubten Erweiterungen durch Komma getrennt ein"
+
+msgid "All conditions must be filled"
+msgstr "Alle Bedingungen müssen ausgefüllt werden"
+
+msgid "One of the conditions must be filled"
+msgstr "Eine der Bedingungen müssen ausgefüllt werden"
+
+msgid "Use calculation ?"
+msgstr "Verwenden Berechnung?"
+
+msgid "If checked, the price will be replaced by a calculation"
+msgstr "Wenn diese Option aktiviert ist, wird der Preis durch eine Berechnung ersetzt werden"
+
+msgid "Use the buttons to easily create your calculation"
+msgstr "Verwenden Sie die Schaltflächen, um Ihre Berechnung erstellen"
+
+msgid "Add a value"
+msgstr "Fügen Sie einen Wert hinzu"
+
+msgid "Select an item"
+msgstr "Wähle ein Element aus"
+
+msgid "Select an attribute"
+msgstr "Wählen Sie ein Attribut"
+
+msgid "Is price superior to"
+msgstr "Ist Preis höher als"
+
+msgid "Is price inferior to"
+msgstr "Ist Preis niedriger als"
+
+msgid "Is price equal to"
+msgstr "Ist Preis gleich wie"
+
+msgid "Example of calculation"
+msgstr "Berechnungsbeispiel"
+
+msgid "Here, the default price of the item will be $10. If the item #3 is selected, the price of the current item will be the half of the item #3 price multiplied by the selected quantity of the item #1."
+msgstr "Hier wird der Standardpreis des Elements $ 10 sein. Wenn das Element # 3 ausgewählt ist, wird der Preis des aktuellen Elements die Hälfte des Preises von Element # 3 sein mit der gewünschten Menge des Elements # 1 multipliziert."
+
+msgid "Type of information"
+msgstr "Informationstyp"
+
+msgid "It will allow the plugin to recover this information"
+msgstr "Dem Plugin ermöglichen diese Informationen zu erholen"
+
+msgid "Other"
+msgstr "Andere"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "First name"
+msgstr "Vorname"
+
+msgid "Last name"
+msgstr "Nachname"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "State"
+msgstr "Bundesland"
+
+msgid "Zip code"
+msgstr "Postleitzahl"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Confirmation by email required ?"
+msgstr "Bestätigung per E-Mail erforderlich?"
+
+msgid "Max items per row"
+msgstr "Max Elemente pro Zeile"
+
+msgid "Leave 0 to fill the full width"
+msgstr "Lassen Sie den Wert auf 0, für die volle Breite"
+
+msgid "Use Google font ?"
+msgstr "Verwenden Sie Google Schrift?"
+
+msgid "If disabled, the default theme font will be used"
+msgstr "Wenn deaktiviert, wird die Standard-Theme Schriftart verwendet"
+
+msgid "Google font name"
+msgstr "Google Schriftname"
+
+msgid "ex : Lato"
+msgstr "ex : Lato"
+
+msgid "See available Google fonts"
+msgstr "Siehe verfügbare Google-Schriften"
+
+msgid "Export as CSV"
+msgstr "Export als CSV"
+
+msgid "Form"
+msgstr "Formular"
+
+msgid "Total Subscription"
+msgstr "Gesamt Abonnement"
+
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+msgid "By filling this field, you can track user actions in your form"
+msgstr "Durch Ausfüllen dieses Feldes, können Sie Benutzeraktionen in Ihrem Formular verfolgen"
+
+msgid "Total quantity"
+msgstr "Gesamtmenge"
+
+msgid "Show it depending on conditions ?"
+msgstr "Zeigen Sie es je nach Bedingungen?"
+
+msgid "This item will be displayed only if the conditions are filled"
+msgstr "Dieses Element wird nur angezeigt, wenn die Bedingungen erfüllt sind"
+
+msgid "This step will be displayed only if the conditions are filled"
+msgstr "Dieser Schritt wird nur angezeigt, wenn die Bedingungen erfüllt sind"
+
+msgid "Edit conditions"
+msgstr "Bedingungen bearbeiten"
+
+msgid "Conditions"
+msgstr "Bedingungen"
+
+msgid "Send the order as pdf"
+msgstr "Senden Sie den Auftrag als pdf"
+
+msgid "A pdf file will be generated and sent as attachment"
+msgstr "Eine PDF-Datei wird als Anlage erzeugt und gesendet werden"
+
+msgid "Use payment only if selected"
+msgstr "Verwenden Sie die Zahlung nur dann, wenn ausgewählt"
+
+msgid "Payment will be used only if this item is selected"
+msgstr "Die Zahlung wird nur verwendet werden, wenn dieses Element ausgewählt wird"
+
+msgid "Send contact as soon the email field is filled ?"
+msgstr "Senden, sobald das E-Mail-Feld ausgefüllt ist?"
+
+msgid "If checked, the contact will be send at end of the step containing the email field"
+msgstr "Wenn aktiviert, wird der Kontakt am Ende des Schritts mit Ausfüllen des E-Mail-Felds gesendet"
+
+msgid "No progress bar"
+msgstr "Keine Fortschrittsbalken"
+
+msgid "Show the total price at bottom ?"
+msgstr "Den Gesamtpreis unten anzeigen?"
+
+msgid "Display or hide the total price at bottom of each step"
+msgstr "Den Gesamtpreis unten bei jedem Schritt anzeigen oder verbergen"
+
+msgid "Stripe secret key"
+msgstr "Stripe geheimer Schlüssel"
+
+msgid "Enter your stripe secret key"
+msgstr "Geben Sie Ihren Stripe Geheimschlüssel ein"
+
+msgid "Stripe publishable key"
+msgstr "Stripe öffentlicher Schlüssel"
+
+msgid "Enter your stripe publishable key"
+msgstr "Geben Sie Ihren Stripe öffentlichen Schlüssel ein"
+
+msgid "Label \"Credit Card number\""
+msgstr "Label \"Kreditkartennummer\""
+
+msgid "Something like \"Credit Card number\""
+msgstr "So etwas wie \"Kreditkartennummer \""
+
+msgid "Label \"CVC\""
+msgstr "Label \"CVC \""
+
+msgid "Something like \"CVC\""
+msgstr "So etwas wie \"CVC \""
+
+msgid "Label \"Expiration date\""
+msgstr "Label \"Verfallsdatum \""
+
+msgid "Something like \"Expiration date\""
+msgstr "So etwas wie \"Verfallsdatum \""
+
+msgid "Stripe payment"
+msgstr "Stripe Zahlung"
+
+msgid "Stripe currency"
+msgstr "Stripe Währung"
+
+msgid "Enter your stripe currency"
+msgstr "Geben Sie Ihre Stripe Währung ein"
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+msgid "View statistics"
+msgstr "Statistiken zeigen"
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "Month"
+msgstr "Monat"
+
+msgid "Months"
+msgstr "Monate"
+
+msgid "Year"
+msgstr "Jahr"
+
+msgid "Years"
+msgstr "Jahre"
+
+msgid "Amount of orders"
+msgstr "Anzahl der Aufträge"
+
+msgid "One time payments or estimates"
+msgstr "Einmalige Zahlungen oder Schätzungen"
+
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+msgid "Type of chart"
+msgstr "Charttyp"
+
+msgid "All years"
+msgstr "Alle Jahre"
+
+msgid "Return to the form"
+msgstr "Zurück zum Formular"
+
+msgid "View orders"
+msgstr "Bestellungen anzeigen"
+
+msgid "+ and - allow you to add or remove the price of the total price, * and / allow you to add or remove a percentage from the total price"
+msgstr "Mit + und - können Sie den Preis des Gesamtpreises hinzuzufügen oder entfernen, mit * und / können Sie einen Prozentsatz vom Gesamtpreis hinzuzufügen oder zu entfernen"
+
+msgid "Insert"
+msgstr "Einfügen"
+
+msgid "Get the value of a field"
+msgstr "Holen Sie sich den Wert eines Feldes"
+
+msgid "Scroll margin"
+msgstr "Scroll-Marge"
+
+msgid "Increase this value if your theme uses a fixed header"
+msgstr "Erhöhen Sie diesen Wert, wenn Ihr Theme ein festes Banner verwendet"
+
+msgid "Delay before the redirection"
+msgstr "Verzögerung vor Umleitung"
+
+msgid "Enter the wanted delay in seconds"
+msgstr "Geben Sie die gewünschte Verzögerung in Sekunden an"
+
+msgid "URL"
+msgstr ""
+
+msgid "Conditions on redirection ?"
+msgstr "Die Bedingungen zur Umleitung?"
+
+msgid "Activate it to create different possible redirections"
+msgstr "Aktivieren, um verschiedene mögliche Umleitungen zu erstellen"
+
+msgid "Add a redirection"
+msgstr "Fügen Sie eine Umleitung hinzu"
+
+msgid "Add a distance"
+msgstr "Fügen Sie einen Abstand hinzu"
+
+msgid "Google Maps browser key"
+msgstr "Google Maps Browser Schlüssel"
+
+msgid "By filling this field, you can use distance calculations"
+msgstr "Durch Ausfüllen dieses Feldes, können Sie Entfernungsberechnungen verwenden"
+
+msgid "Departure address"
+msgstr "Abfahrtsadresse"
+
+msgid "Arrival address"
+msgstr "Ankunftsadresse"
+
+msgid "Item"
+msgstr "Element"
+
+msgid "Nothing"
+msgstr "Nichts"
+
+msgid "The result will be the distance between the two addresses in"
+msgstr "Das Ergebnis wird der Abstand zwischen den beiden Adressen werden in"
+
+msgid "Distance calculation"
+msgstr "Entfernungsberechnung"
+
+msgid "Select the items containing the departure and arrival addresses"
+msgstr "Wählen Sie die Elemente, die Abfahrts- und Ankunfts Adressen enthalten"
+
+msgid "Use distance as quantity ?"
+msgstr "Verwenden Sie Abstand als Menge?"
+
+msgid "Configure the distance"
+msgstr "Konfigurieren Sie den Abstand"
+
+msgid "km"
+msgstr ""
+
+msgid "miles"
+msgstr "meilen"
+
+msgid "Edit a redirection"
+msgstr "Bearbeiten einer Umleitung"
+
+msgid "Distance calculation error"
+msgstr "Die Entfernung Berechnungsfehler"
+
+msgid "Something like \"Calculating the distance could not be performed, please verify the input addresses\""
+msgstr "So etwas wie \"Die Berechnung der Entfernung nicht durchgeführt werden konnte, finden Sie in die Eingabeadressen überprüfen\""
+
+msgid "Custom JS"
+msgstr ""
+
+msgid "You can paste your own js code here"
+msgstr "Sie können Ihre eigenen js Code einfügen hier"
+
+msgid "The quantity of this item will be hidden in the summary"
+msgstr "Die Menge dieses Element wird in der Zusammenfassung ausgeblendet werden"
+
+msgid "Hide quantity in summary ?"
+msgstr "Ausblenden Menge zusammengefasst?"
+
+msgid "Hide the next step button ?"
+msgstr "Ausblenden der nächste Schritt Taste?"
+
+msgid "Defines the default value of this field"
+msgstr "Definiert den Standardwert dieses Felds"
+
+msgid "Default value"
+msgstr "Standardwert"

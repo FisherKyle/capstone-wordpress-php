@@ -1,0 +1,158 @@
+Return-path: <roopawebsolutionservice@hotmail.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 05 Dec 2016 13:33:11 -0500
+Received: from snt004-omc4s9.hotmail.com ([65.55.90.212]:49430)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <roopawebsolutionservice@hotmail.com>)
+	id 1cDy4d-002spc-5H
+	for kyle@kylefisher.com; Mon, 05 Dec 2016 13:33:11 -0500
+Received: from APC01-PU1-obe.outbound.protection.outlook.com ([65.55.90.199]) by SNT004-OMC4S9.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 5 Dec 2016 10:33:05 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=cd4squT7uh8SENcpw+aVlPQjJWTgdbKeOrDFpnyK98o=;
+ b=pb/L8SZ/HI0Ptql41Hv7YIK5lfODvI+wyDYEpfxolzbHE7MGahdtrTRV7cfaXgC2kDkg2yuo3huBNpnkEQqfkq9awBquUwtYeBABWKLMMyGa7HFwoxlc3XUoCltgrIOkYPCILyzn+LAEGdu1Y9jytzj70lJLa7aQiGtJEBppQkiwfGHzAscqfPStjRZUUYcGRj8CslL6IEVCk4tmJTNMSyU4cUZczm7la68F33WGeAKDLnvd+ms2ANzKPmkvhOlUWA8gaGgseXwErHNtZG1uO3iMDk91mfzOsX2K7a6lq5r7wdkBLolHG876VWNNdAzNC6b7nzbK946Xsp9Rbs4v1Q==
+Received: from SG2APC01FT061.eop-APC01.prod.protection.outlook.com
+ (10.152.250.55) by SG2APC01HT120.eop-APC01.prod.protection.outlook.com
+ (10.152.251.109) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.4; Mon, 5 Dec
+ 2016 18:32:21 +0000
+Received: from HK2PR0199MB0627.apcprd01.prod.exchangelabs.com (10.152.250.57)
+ by SG2APC01FT061.mail.protection.outlook.com (10.152.251.65) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.4 via Frontend
+ Transport; Mon, 5 Dec 2016 18:32:20 +0000
+Received: from HK2PR0199MB0627.apcprd01.prod.exchangelabs.com
+ ([fe80::bc29:468b:6670:b6f7]) by
+ HK2PR0199MB0627.apcprd01.prod.exchangelabs.com
+ ([fe80::bc29:468b:6670:b6f7%14]) with mapi id 15.01.0761.016; Mon, 5 Dec 2016
+ 18:32:17 +0000
+From: Roopa Mishra <roopawebsolutionservice@hotmail.com>
+Subject: Affordable Website Development
+Thread-Topic: Affordable Website Development
+Thread-Index: AQHSTyWPrunuB8s1u0+sDVQbxWkWog==
+Date: Mon, 5 Dec 2016 18:32:17 +0000
+Message-ID: <HK2PR0199MB0627E6BDEAC73C3284EE3A65B8830@HK2PR0199MB0627.apcprd01.prod.exchangelabs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: domains.namespace4you.com; dkim=none (message not
+ signed) header.d=none;domains.namespace4you.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:;UpperCasedChecksum:;SizeAsReceived:17640;Count:35
+x-tmn: [jXAj55aE78Wyrx2cjcMck+hJd1R0g49t]
+x-incomingheadercount: 35
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;SG2APC01HT120;5:LCKWt+1KcK/a3zDdZpd/mGD/uVBrwOlGjhoilMp9Bvt9Gvym8JRIxjXiGw66Y9GVICrNrQMsHGDKM47IHdZ8v34ZyuVIg6+T8ubNOt2IH4hnDayGKN/ctzCkiuOFEAxHwE3UFasjoZyo/GGs9OkX7O+VzIJjahSZghn3jsMZBCY=;24:rOQTYY3aXxvvZWG/pivTvUdRzD2URx6wsmoo3PqtH/NSUdiVgUD2Srk2nCRFHToqmx1sNnc0f8J5aL3kGhVraBISqpCWoMqT12Hv0ff+Bzk=;7:5Mcppw01MblQPjwJgOfGtPevh/iR4OCLMkosTbs8XObzzS6zQ1edTU4kEtLpeEeP9gxfx6DkFUqymp6wqokJhj0DGCGJFFyOlJPbDdr3tLLzng/+aUHruMIwUHzS9pngqNzpH58FUa3rPi2lE2QPPOX05U7Egad2TgErA3IYRigeAQ89cVpPGixvp9ib31pO7a8MHHhAqKq4ZEIVm9yHT+zusbKbIPai4dDU8r/XVPjj6Sai8EAsDAF/FYochjqUvuBqBbFFTXjo7d46l/NyOKDfaXGIs5NB7hWfuTKEIQBnB2QiBFGgTt9sHyF1B37cEx3Bd01pyXObZ9/OZyNHmBlCiWamqyv4j8nY9PZOrrk=
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:SG2APC01HT120;H:HK2PR0199MB0627.apcprd01.prod.exchangelabs.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 9c612b99-a774-4999-c676-08d41d3d0acb
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506293)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:SG2APC01HT120;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:SG2APC01HT120;BCL:0;PCL:0;RULEID:;SRVR:SG2APC01HT120;
+x-forefront-prvs: 0147E151B5
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_HK2PR0199MB0627E6BDEAC73C3284EE3A65B8830HK2PR0199MB0627_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 05 Dec 2016 18:32:17.4917
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT120
+Bcc:
+X-OriginalArrivalTime: 05 Dec 2016 18:33:05.0703 (UTC) FILETIME=[04EB0B70:01D24F26]
+
+--_000_HK2PR0199MB0627E6BDEAC73C3284EE3A65B8830HK2PR0199MB0627_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Hello,
+
+I sincerely hope you are doing well.
+
+We are an India based Web Design company with a primary focus on SEO based =
+Website Design & Development (PHP development).
+
+We have a dedicated team of 150 professional designers, developers and SEO =
+specialists; especially for Graphic/Flash/3D designing.
+
+We can assure you of getting quality works. Most firms overseas have achiev=
+ed a significant amount of savings by outsourcing either part of, or their =
+entire work to us in India.
+
+We would like you to give us an opportunity to work with your company and A=
+MAZE you with our service.
+
+Please let us know in case you are interested.
+
+Kind Regards,
+Peter Onimisi
+
+
+--_000_HK2PR0199MB0627E6BDEAC73C3284EE3A65B8830HK2PR0199MB0627_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Hello,<br>
+<br>
+I sincerely hope you are doing well.<br>
+<br>
+We are an India based Web Design company with a primary focus on SEO based =
+Website Design &amp; Development</span><span style=3D"font-size: 10pt; font=
+-family: Arial, sans-serif;">
+</span><span style=3D"font-size:=0A=
+10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:red">(PHP=
+ development).</span><span style=3D"font-size: 10pt; font-family: Arial, sa=
+ns-serif;"><br>
+<br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;=
+sans-serif&quot;;=0A=
+color:#0000CC">We have a dedicated team of 150 professional designers, deve=
+lopers and SEO specialists; especially for
+</span><span style=3D"font-size:=0A=
+10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:red">Grap=
+hic/Flash/3D designing.</span><span style=3D"font-size: 10pt; font-family: =
+Arial, sans-serif;"><br>
+<br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;=
+sans-serif&quot;;=0A=
+color:#0000CC">We can assure you of getting quality works. Most firms overs=
+eas have achieved a significant amount of savings by outsourcing either par=
+t of, or their entire work to us in
+ India.<br>
+<br>
+We would like you to give us an opportunity to work with your company and A=
+MAZE you with our service.<br>
+<br>
+Please let us know in case you are interested.<br>
+<br>
+Kind Regards,<br>
+<span>Peter Onimisi</span></span><span style=3D"font-size:10.0pt;color:#000=
+0CC"><o:p></o:p></span></p>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_HK2PR0199MB0627E6BDEAC73C3284EE3A65B8830HK2PR0199MB0627_--

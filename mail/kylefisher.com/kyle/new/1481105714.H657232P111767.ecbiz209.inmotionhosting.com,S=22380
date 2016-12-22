@@ -1,0 +1,422 @@
+Return-path: <annusharma01@outlook.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Wed, 07 Dec 2016 05:15:14 -0500
+Received: from blu004-omc4s3.hotmail.com ([65.55.111.142]:52328)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <annusharma01@outlook.com>)
+	id 1cEZFq-000T4K-GI
+	for kyle@kylefisher.com; Wed, 07 Dec 2016 05:15:14 -0500
+Received: from IND01-MA1-obe.outbound.protection.outlook.com ([65.55.111.137]) by BLU004-OMC4S3.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Wed, 7 Dec 2016 02:15:14 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=NDFkevS6IfLTB0MPN9qOtzkZtMBj9rRM3VPMXtSx95w=;
+ b=oOYMNKAQ9595Y/SSJ1JPfogp+B4cN3a2ttA/4410gBtg6dOQwnoOQy6B1wK4tzQ0lKCPYZAny6zcma1AlKUtwpWDqHFVLDXFLRxQUbT1bRDpDtpAtcNgyEDswo9JUDAXsgg9vrQufxYGw8uRiKfKSasZONusLpWX6UWfUpT7+UmwtijmjBj5gDjpC6tGzaP9uCAgDybo6d45QjPQVz40msjdSn1/+iDGH7YxxSNlP5g+A5Vb5tD2DAtabfhs5EDmhfxMMUoQ8012+DEjmyH0EIQTMkYSSk2bOVTdRo2WDjAtg8+SciwZmaNi3VZA3WYFHfwlT29cWaIMcnAr/klKYQ==
+Received: from MA1IND01FT008.eop-IND01.prod.protection.outlook.com
+ (10.152.200.52) by MA1IND01HT011.eop-IND01.prod.protection.outlook.com
+ (10.152.200.104) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.761.6; Wed, 7 Dec
+ 2016 10:14:47 +0000
+Received: from BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM (10.152.200.57) by
+ MA1IND01FT008.mail.protection.outlook.com (10.152.200.132) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.4 via Frontend
+ Transport; Wed, 7 Dec 2016 10:14:46 +0000
+Received: from BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM ([10.164.128.141]) by
+ BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM ([10.164.128.141]) with mapi id
+ 15.01.0761.018; Wed, 7 Dec 2016 10:14:42 +0000
+From: Annu Sharma <annusharma01@outlook.com>
+Subject: Re:  Web designing and development
+Thread-Topic: Web designing and development
+Thread-Index: AQHST6mRr4CSIWC4tkGeQgkCI+nxxaD8RfSS
+Date: Wed, 7 Dec 2016 10:14:42 +0000
+Message-ID: <BM1PR01MB0033588ACCBFD8B051C43556CD850@BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM>
+References: <BM1PR01MB00330DE89DE582F0AB596EA8CD820@BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM>
+In-Reply-To: <BM1PR01MB00330DE89DE582F0AB596EA8CD820@BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-IN, en-US
+Content-Language: en-IN
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: yahoo.com; dkim=none (message not signed)
+ header.d=none;yahoo.com; dmarc=none action=none header.from=outlook.com;
+x-incomingtopheadermarker: OriginalChecksum:;UpperCasedChecksum:;SizeAsReceived:12390;Count:37
+x-tmn: [8oT8j256tQGxJqMD8lYXHbIuBFR3V+a9]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;MA1IND01HT011;7:Pb29s1wh8bSWW1tsa2iLdfx+A/vPPTGs+XtWcFpmRgvDb7lYtgnF8bYz4e0nriq7fJusHGDy0wpQXqjNPMs6h7J342UYbacf/aG3tRHBx3jugpoXxT5mPgwrn6gYLTfPXPXa1dyXbPWI5A6FR+5ySVgH1BAsUzM/H0jcoLBNsBbE+jz8GW6y5A9kXIkPxHGv2cOLskqKVktP5yKoYtKUv+ffBKA75ZH04ovog8VtnapRUBKiwcgRZP547+yvhUrQjNcDxtq0e2xin88A/wDkjjj1vPUhzBoB21Eab7XOzjaMBwTjhbfvPyUh7plcqnA42+g2/R+Djqc/t3igas44tbWXHwaBsZQIc9u2DihIYqt5reTcIWF84/4xtHTJ0kyONFV0LlhI0NZMyN0ZVFtZC6wuwI2EAQYRtDve66+opamAiIR6LuwXtZ0ytd3wLFSfE0ObEcwTK90+U1ILGK7P6A==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:MA1IND01HT011;H:BM1PR01MB0033.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 141dd706-38aa-4552-a955-08d41e89dcaa
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:MA1IND01HT011;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:MA1IND01HT011;BCL:0;PCL:0;RULEID:;SRVR:MA1IND01HT011;
+x-forefront-prvs: 01494FA7F7
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BM1PR01MB0033588ACCBFD8B051C43556CD850BM1PR01MB0033INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 07 Dec 2016 10:14:42.5976
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MA1IND01HT011
+Bcc:
+X-OriginalArrivalTime: 07 Dec 2016 10:15:14.0418 (UTC) FILETIME=[CD122D20:01D25072]
+
+--_000_BM1PR01MB0033588ACCBFD8B051C43556CD850BM1PR01MB0033INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Hope you are doing well.
+
+I am waiting for your response yet.
+
+Haven't heard back from you, just wondering if you are interested in our se=
+rvices.
+
+Please Share your requirements & contact details (Skype ID or Phone Number)
+
+Do let me know if you are interested and I would be happy to share you more=
+ details about our past work details, client testimonials. According your n=
+eed.
+
+I am looking forward to positive response from you soon.
+
+Kind Regards
+
+
+
+________________________________
+From: Annu Sharma
+Sent: 06 December 2016 15:45
+Subject: Web designing and development
+
+Hi,
+
+I am Annu, Online Marketing Consultant
+
+Get your web designing and development done at a minimal price by our web e=
+xperts.
+
+We are 50+ employees working round the clock for our overseas clients and i=
+f you have any of the following requirement please revert back to us:
+
+We offer a variety of services that can satisfy your needs at affordable co=
+st.
+
+Digital Marketing Services:-
+
+(1)    Full SEO package (with plan and activities).
+(2)    PPC (pay per click).
+(3)    SMO (Facebook, Twitter, LinkedIn, YouTube, and Myspace etc.).
+(4)    Content Writing Services.
+(5)    ORM (online reputation management)
+
+Web Designing Services:-
+
+(1)   Upgrade existing Website (with Flash, Graphic, PHP and other Content =
+Management System).
+(2)   New website for Business (in Drupal, Joomla, e-commerce, Wordpress & =
+Asp.net).
+
+App Development Services:-
+
+(1)    IPhone & IPad App Development.
+(2)    Android & Blackberry App Development
+
+May I know in which Service are you interested? If you are interested, then=
+ I can send you our past work details, testimonials, affordable quotation, =
+samples, price list with the best offer.
+
+Feel free to contact us for more information and we will provide Free SEO A=
+nalysis Report.
+
+
+Thanks & Regards,
+Annu Sharma
+Online Marketing Consultant
+
+
+
+--_000_BM1PR01MB0033588ACCBFD8B051C43556CD850BM1PR01MB0033INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">Hi,<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">Hope you are doing well.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">I am waiting for your response yet.<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">Haven't heard back from you, just wondering if=
+ you are interested in our services.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">Please Share your requirements &amp; contact d=
+etails&nbsp;<b>(Skype ID or Phone Number)<o:p></o:p></b></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">Do let me know if you are interested and I wou=
+ld be happy to share you more details about our past work details,
+ client&nbsp;testimonials.&nbsp;<b>According your need.</b><o:p></o:p></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">I am looking forward to positive response from=
+ you soon.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; line-height: norma=
+l; background-image: initial; background-position: initial; background-size=
+: initial; background-repeat: initial; background-attachment: initial; back=
+ground-origin: initial; background-clip: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Book Antiqua&quot;,&quot;=
+serif&quot;;=0A=
+mso-fareast-font-family:&quot;Arial Unicode MS&quot;;mso-bidi-font-family:&=
+quot;Microsoft Tai Le&quot;">Kind Regards<o:p></o:p></span></p>
+<p></p>
+<p><br>
+</p>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Annu Sharma<br>
+<b>Sent:</b> 06 December 2016 15:45<br>
+<b>Subject:</b> Web designing and development</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div id=3D"divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size:12pt; color=
+:#000000; font-family:Calibri,Arial,Helvetica,sans-serif">
+<p></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Hi,</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">I am</span><span class=3D"apple-converted-space"><b><spa=
+n style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">&nbsp;An=
+nu,</span></b></span><span style=3D"font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;">&nbsp;Online Marketing
+ Consultant</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Get your <b>
+web designing and development</b> done at a minimal price by our web expert=
+s.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">We are 50&#43; employees working round the clock for our=
+ overseas clients and if you have any of the following requirement please r=
+evert back to us:<span class=3D"apple-converted-space">&nbsp;</span></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">We offer a variety of services that can satisfy your nee=
+ds at
+<b>affordable cost.</b></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;">Digital Marketing Services:-</span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">(1)&nbsp;&nbsp;&nbsp; Full SE=
+O package
+<b>(with plan and activities)</b>.</span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">(2)&nbsp;&nbsp;&nbsp; PPC
+<b>(pay per click)</b>.</span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">(3)&nbsp;&nbsp;&nbsp; SMO
+<b>(Facebook, Twitter, LinkedIn, YouTube,<a name=3D"_GoBack"></a> and Myspa=
+ce etc.).</b></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">(4)&nbsp;&nbsp;&nbsp; Content=
+ Writing Services.</span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">(5)&nbsp;&nbsp;&nbsp; ORM
+<b>(online reputation management)</b></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;">Web Designing Services:-</span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">(1)&nbsp;&nbsp; Upgrade exist=
+ing Website
+<b>(with Flash, Graphic, PHP and other Content Management System).</b></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">(2)&nbsp;&nbsp; New website f=
+or Business
+<b>(in Drupal, Joomla, e-commerce, Wordpress &amp;<span class=3D"apple-conv=
+erted-space">&nbsp;</span>Asp.net).</b></span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;">App Development Services:-</span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">(1)&nbsp;&nbsp;&nbsp; IPhone =
+&amp; IPad App Development.</span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">(2)&nbsp;&nbsp;&nbsp; Android=
+ &amp; Blackberry App Development</span></p>
+<p class=3D"MsoNormal" style=3D"text-indent:.5in"><span style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;">May I know in which Service are you interested?</span=
+></b><span style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"=
+> If you are interested, then I can send you our past work details, testimo=
+nials,
+ affordable quotation, samples, price list with the best offer.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;">Feel free to contact us for more informat=
+ion and we will provide
+<b>Free SEO Analysis Report.</b></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Thanks &amp; Regards,</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;; background:#F3F3F3">Annu Sharma</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">Online Marketing Consultant</span><span class=3D"apple-c=
+onverted-space"><span style=3D"font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;">&nbsp;</span></span><span style=3D"font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;"></span></p>
+<br>
+<p></p>
+<p><br>
+</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_BM1PR01MB0033588ACCBFD8B051C43556CD850BM1PR01MB0033INDP_--

@@ -1,0 +1,49 @@
+Return-path: <no-reply@alertsp.chase.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Fri, 02 Dec 2016 09:53:31 -0500
+Received: from shvj12.jpmchase.com ([159.53.110.180]:28407)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <no-reply@alertsp.chase.com>)
+	id 1cCpDO-000sxM-WC
+	for kyle@kylefisher.com; Fri, 02 Dec 2016 09:53:31 -0500
+Received: from spe2.svr.us.jpmchase.net (spe2.svr.us.jpmchase.net [169.69.31.63])       by shvj12.jpmchase.com  with ESMTP id uB2ErUFx028847       (using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384(256 bits) verified OK)       for <kyle@kylefisher.com>; Fri, 2 Dec 2016 14:53:31 GMT
+DKIM-Filter: OpenDKIM Filter v2.7.5 shvj12.jpmchase.com uB2ErUFx028847
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=alertsp.chase.com;
+	s=d4815; t=1480690411;
+	bh=L4qdb9fC5STwqBgw1ekJ8Ngi+AbJKbwo/d0xcDhwdVs=;
+	h=Date:From:To:Subject;
+	b=5GXS2QFX9gic4xjXisRizFCCMg5RCzQunUXydVVLt9F5WtXAV/2JEDVE+wxGX6Gma
+	 KPyBawW5J7ujLs64gtZFXttHYf8UXjlxtlhBiJop313T+YKuJEhT8bX1qaO8c4C8jw
+	 npBaRQ44XNlG5ysJhQ4K3qXf3Wyq2JahOfUbNbYa2rp4L/79td02jo4bzYnsu2aKSj
+	 HDSoZkHqWOIahVhi88BGm90xtXJ2jesWn5KrON0fjAztdrPt6Jn3LGz8B4dPy3a9on
+	 HKLJsIoPdbxFEpAihL2pE9aXzq7uyOa/+bGFjDb4zOhtdTsFOUqV8k3H+EqkdW9RLV
+	 /jBDLxVfV/kSA==
+Received: from cdc2vpc5lpr21.svr.us.jpmchase.net (cdc2vpc5lpr21.svr.us.jpmchase.net [169.121.236.226])       by spe2.svr.us.jpmchase.net  with ESMTP id uB2ErUQ9014559       for <kyle@kylefisher.com>; Fri, 2 Dec 2016 14:53:30 GMT
+Received: from cdc2vpc5lpr21 (loopback [127.0.0.1])
+	by cdc2vpc5lpr21.svr.us.jpmchase.net (AIX6.1/8.14.4/8.11.0) with ESMTP id uB2ErUHM23593132
+	for <kyle@kylefisher.com>; Fri, 2 Dec 2016 09:53:30 -0500
+Date: Fri, 2 Dec 2016 09:53:30 -0500 (EST)
+From: Chase <no-reply@alertsp.chase.com>
+To: kyle@kylefisher.com
+Message-ID: <167986581.384492.1480690410326.JavaMail.wasadm@cdc2vpc5lpr21>
+Subject: Your Credit Card Payment Received Alert From Chase Card Services
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+DEVICE-ID: 96942846
+APP-SOURCE: Alerts
+NOTIFICATION-ID: 1021330190662
+Content-Language: ENG
+
+
+For credit card account ending in 9756: Your payment has posted.  
+
+This Alert was sent according to your settings.  To update your settings, log on at www.Chase.com.
+---------------------
+
+Get your statements online instead of in the mail.  Switch to Paperless Statements today!  Log in now.
+
+Please don't reply to this Alert. To send a secure message from your Inbox, log on at www.Chase.com
+
+			

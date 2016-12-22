@@ -1,0 +1,2323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-10-15 12:41+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: convertplug.php:235 convertplug.php:236
+#: admin/contacts/views/dashboard.php:92
+#: admin/contacts/views/dashboard.php:109
+msgid "Connects"
+msgstr ""
+
+#: convertplug.php:244 convertplug.php:245
+#: framework/Ultimate_Icon_Manager.php:99
+#: framework/Ultimate_Icon_Manager.php:100
+msgid "Icon Manager"
+msgstr ""
+
+#: convertplug.php:256
+msgid "Google Font Manager"
+msgstr ""
+
+#: convertplug.php:257 modules/modal/functions/functions.common.php:10
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/ajax-actions.php:550
+msgid "Unable to delete the style. Please Try again."
+msgstr ""
+
+#: admin/ajax-actions.php:567
+msgid "Unable to delete the mailer. Please Try again."
+msgstr ""
+
+#: admin/ajax-actions.php:586
+msgid "Modules Updated!"
+msgstr ""
+
+#: admin/ajax-actions.php:590 admin/ajax-actions.php:1687
+msgid "No settings were updated. Try again!"
+msgstr ""
+
+#: admin/ajax-actions.php:606 admin/contacts/views/dashboard.php:325
+msgid "Something went wrong! Please try again."
+msgstr ""
+
+#: admin/ajax-actions.php:701 mailers/active_campaign.php:89
+#: mailers/aweber.php:89 mailers/campaign_monitor.php:89 mailers/emma.php:96
+#: mailers/hubspot.php:81 mailers/iContact.php:100 mailers/madmimi.php:94
+#: mailers/mailchimp.php:83 modules/modal/functions/functions.common.php:1495
+msgid "Please enter correct email address."
+msgstr ""
+
+#: admin/ajax-actions.php:702 mailers/active_campaign.php:90
+#: mailers/aweber.php:90 mailers/campaign_monitor.php:90 mailers/emma.php:97
+#: mailers/hubspot.php:82 mailers/iContact.php:101 mailers/madmimi.php:95
+#: mailers/mailchimp.php:85 modules/modal/functions/functions.common.php:1481
+msgid ""
+"Thanks you."
+msgstr ""
+
+#: admin/ajax-actions.php:858
+msgid "No contacts available to export."
+msgstr ""
+
+#: admin/ajax-actions.php:1584
+msgid "Style Already Exists! Please try importing another style."
+msgstr ""
+
+#: admin/ajax-actions.php:1613
+msgid "Modal imported successfully!"
+msgstr ""
+
+#: admin/ajax-actions.php:1620
+msgid "Something went wrong! Please try again with different file."
+msgstr ""
+
+#: admin/ajax-actions.php:1683
+msgid "Settings Updated!"
+msgstr ""
+
+#: admin/get_started.php:7 admin/modules.php:23
+msgid "Welcome to ConvertPlug!"
+msgstr ""
+
+#: admin/get_started.php:8 admin/modules.php:24
+msgid ""
+"Welcome to ConvertPlug - the easiest WordPress plugin to convert website "
+"traffic into leads. ConvertPlug will help you build email lists, drive "
+"traffic, promote videos, offer coupons and much more!"
+msgstr ""
+
+#: admin/get_started.php:11 admin/modules.php:27 admin/registration.php:8
+#: admin/settings.php:31
+msgid "Version"
+msgstr ""
+
+#: admin/get_started.php:19 admin/modules.php:34 admin/registration.php:16
+#: admin/settings.php:38
+msgid "About"
+msgstr ""
+
+#: admin/get_started.php:20 admin/modules.php:35 admin/registration.php:17
+#: admin/settings.php:39
+msgid "Settings"
+msgstr ""
+
+#: admin/get_started.php:22 admin/modules.php:36 admin/registration.php:18
+#: admin/settings.php:41
+msgid "Registration"
+msgstr ""
+
+#: admin/get_started.php:38
+msgid "Same traffic, but more conversions!"
+msgstr ""
+
+#: admin/get_started.php:39
+msgid "Let's see how ConvertPlug works and some use cases -"
+msgstr ""
+
+#: admin/get_started.php:47
+msgid "Build Email List"
+msgstr ""
+
+#: admin/get_started.php:52
+msgid "Promote Videos"
+msgstr ""
+
+#: admin/get_started.php:57 admin/contacts/views/analytics.php:20
+#: admin/contacts/views/contacts.php:131 admin/contacts/views/dashboard.php:98
+#: admin/contacts/views/dashboard.php:206
+#: admin/contacts/views/dashboard.php:232 modules/modal/views/main.php:157
+#: modules/modal/views/main.php:363 modules/modal/views/main.php:364
+#: modules/modal/views/variant/variant.php:65
+msgid "Analytics"
+msgstr ""
+
+#: admin/get_started.php:62
+msgid "Drive Traffic"
+msgstr ""
+
+#: admin/get_started.php:67
+msgid "Offer Coupons"
+msgstr ""
+
+#: admin/get_started.php:72
+msgid "Share Updates"
+msgstr ""
+
+#: admin/get_started.php:99 admin/registration.php:67
+msgid "LET'S GET STARTED"
+msgstr ""
+
+#: admin/modules.php:82
+msgid "Save Modules"
+msgstr ""
+
+#: admin/registration.php:4
+msgid "ConvertPlug &mdash; Registration"
+msgstr ""
+
+#: admin/registration.php:5
+msgid ""
+"When you register your copy of ConvertPlug, instant access to our support "
+"portal, one click updates, extensions and many other addon freebies will "
+"unlocked to you. It is a one time process and will take lass than a minute!."
+msgstr ""
+
+#: admin/registration.php:32
+msgid "Register"
+msgstr ""
+
+#: admin/registration.php:35
+msgid ""
+"Register with your email address which instantly creates your account on our "
+"support portal."
+msgstr ""
+
+#: admin/registration.php:43
+msgid "Validate Purchase"
+msgstr ""
+
+#: admin/registration.php:46
+msgid ""
+"Once registered, enter your purchase code and validate your license to get "
+"eligible for one click updates."
+msgstr ""
+
+#: admin/registration.php:54
+msgid "That's All!"
+msgstr ""
+
+#: admin/registration.php:57
+msgid ""
+"You will have access to our support portal, one click updates, extensions "
+"and many other addon freebies."
+msgstr ""
+
+#: admin/registration.php:73
+msgid ""
+"Thank you for choosing ConvertPlug. We are thrilled and committed to make "
+"your WordPress experience better."
+msgstr ""
+
+#: admin/settings.php:26
+msgid "ConvertPlug &mdash; Settings"
+msgstr ""
+
+#: admin/settings.php:27
+msgid ""
+"Below are some global settings that are applied to the elements designed "
+"with ConvertPlug. If you're just getting started, you probably don't need to "
+"do anything here right now.\n"
+msgstr ""
+
+#: admin/settings.php:67
+msgid "Set Timezone"
+msgstr ""
+
+#: admin/settings.php:68
+msgid ""
+"Depending on your selection, input will be taken for timer based features in "
+"ConvertPlug."
+msgstr ""
+
+#: admin/settings.php:73
+msgid "WordPress Timezone"
+msgstr ""
+
+#: admin/settings.php:74
+msgid "System Default Time"
+msgstr ""
+
+#: admin/settings.php:78
+msgid "User Inactivity Time"
+msgstr ""
+
+#: admin/settings.php:79
+msgid ""
+"Modal can be trigger for idle user on your website. This setting helps you "
+"control that idle time."
+msgstr ""
+
+#: admin/settings.php:83
+msgid " Seconds"
+msgstr ""
+
+#: admin/settings.php:88
+msgid "Disable modal impression count for"
+msgstr ""
+
+#: admin/settings.php:89
+msgid ""
+"This setting is used while generating analytics data. For selected WordPress "
+"user roles, impressions will not be counted."
+msgstr ""
+
+#: admin/settings.php:125 modules/modal/views/global.php:147
+msgid "Save Settings"
+msgstr ""
+
+#: admin/settings.php:162
+msgid "Updated!"
+msgstr ""
+
+#: admin/settings.php:168 admin/contacts/views/dashboard.php:324
+#: admin/contacts/views/new-list.php:215 admin/contacts/views/new-list.php:228
+msgid "Error!"
+msgstr ""
+
+#: admin/auto-update/admin-functions.php:548
+msgid "Please"
+msgstr ""
+
+#: admin/auto-update/admin-functions.php:548
+msgid "activate"
+msgstr ""
+
+#: admin/auto-update/admin-functions.php:548
+msgid "your copy of the"
+msgstr ""
+
+#: admin/auto-update/admin-functions.php:548
+msgid ""
+"to get update notifications, access to support features & other resources!"
+msgstr ""
+
+#: admin/auto-update/admin-functions.php:562
+msgid "You do not have sufficient permissions to update plugins for this site."
+msgstr ""
+
+#: admin/auto-update/admin-functions.php:671
+msgid "Error! Can't connect to filesystem"
+msgstr ""
+
+#: admin/auto-update/admin-functions.php:689
+#: admin/auto-update/admin-functions.php:727
+msgid "Downloading package from Server"
+msgstr ""
+
+#: admin/auto-update/admin-functions.php:809
+msgid "Something went wrong. Please try again!"
+msgstr ""
+
+#: admin/auto-update/index.php:29
+msgid "Upgrading Extension"
+msgstr ""
+
+#: admin/auto-update/index.php:43
+msgid "Manage "
+msgstr ""
+
+#: admin/auto-update/index.php:43
+msgid "Back to Registration"
+msgstr ""
+
+#: admin/auto-update/index.php:259
+msgid "Let's Get Started!"
+msgstr ""
+
+#: admin/auto-update/index.php:260
+msgid ""
+"Please register using the form below and get instant access to our support "
+"portal, updates, extensions and more!"
+msgstr ""
+
+#: admin/auto-update/index.php:268
+msgid "Your Name"
+msgstr ""
+
+#: admin/auto-update/index.php:271
+msgid "Your Email Address"
+msgstr ""
+
+#: admin/auto-update/index.php:274
+msgid "Verify Email Address"
+msgstr ""
+
+#: admin/auto-update/index.php:278
+msgid "Receive important news, updates & freebies on email."
+msgstr ""
+
+#: admin/auto-update/index.php:282
+msgid "Register and Proceed"
+msgstr ""
+
+#: admin/auto-update/index.php:285
+msgid "We respect your privacy & of course you can unsubscribe at any time."
+msgstr ""
+
+#: admin/auto-update/index.php:320
+msgid "Welcome to Brainstorm Force"
+msgstr ""
+
+#: admin/auto-update/index.php:321
+msgid ""
+"Validate your purchase keys and get eligible for receiving one click "
+"updates, extensions and freebies."
+msgstr ""
+
+#: admin/auto-update/index.php:383
+msgid "Licenses"
+msgstr ""
+
+#: admin/auto-update/index.php:385
+msgid "Help"
+msgstr ""
+
+#: admin/auto-update/index.php:388
+msgid "Debug"
+msgstr ""
+
+#: admin/auto-update/index.php:390
+msgid "System Info"
+msgstr ""
+
+#: admin/auto-update/index.php:585
+msgid "Enable Developer access"
+msgstr ""
+
+#: admin/auto-update/index.php:585
+msgid "Read more about developer access "
+msgstr ""
+
+#: admin/auto-update/index.php:585
+msgid "here"
+msgstr ""
+
+#: admin/auto-update/index.php:593
+msgid "Activate your license to enable!"
+msgstr ""
+
+#: admin/auto-update/index.php:618
+msgid "Check if there are updates available of plugins by Brainstorm Force."
+msgstr ""
+
+#: admin/auto-update/index.php:625
+msgid "Check Updates Now"
+msgstr ""
+
+#: admin/auto-update/index.php:632
+msgid ""
+"Having any trouble using our products? Head to our support center to get "
+"your issues resolved."
+msgstr ""
+
+#: admin/auto-update/index.php:633
+msgid "Request Support"
+msgstr ""
+
+#: admin/auto-update/index.php:667
+msgid "Reset Site"
+msgstr ""
+
+#: admin/auto-update/index.php:677
+msgid "Remove Bundled Products"
+msgstr ""
+
+#: admin/auto-update/index.php:688
+msgid "WordPress Environment"
+msgstr ""
+
+#: admin/auto-update/index.php:750
+msgid "Server Environment"
+msgstr ""
+
+#: admin/auto-update/index.php:805
+msgid "Theme Information"
+msgstr ""
+
+#: admin/auto-update/index.php:825
+msgid "Installed Plugins"
+msgstr ""
+
+#: admin/auto-update/updater.php:254 admin/auto-update/updater.php:256
+msgid "Update "
+msgstr ""
+
+#: admin/auto-update/updater.php:365
+msgid "Products"
+msgstr ""
+
+#: admin/auto-update/updater.php:368
+msgid ""
+"The following plugins from Brainstorm Force have new versions available."
+msgstr ""
+
+#: admin/auto-update/updater.php:373 admin/auto-update/updater.php:381
+#: admin/contacts/views/contacts.php:158
+msgid "Name"
+msgstr ""
+
+#: admin/auto-update/updater.php:374 admin/auto-update/updater.php:382
+msgid "Installed Version"
+msgstr ""
+
+#: admin/auto-update/updater.php:375 admin/auto-update/updater.php:383
+msgid "Latest Version"
+msgstr ""
+
+#: admin/auto-update/updater.php:376 admin/auto-update/updater.php:384
+#: admin/contacts/views/dashboard.php:140 modules/modal/views/main.php:194
+#: modules/modal/views/variant/variant.php:95
+msgid "Actions"
+msgstr ""
+
+#: admin/auto-update/updater.php:410
+msgid "You have version "
+msgstr ""
+
+#: admin/auto-update/updater.php:423
+msgid "Your plugins from Brainstorm Force are all up to date."
+msgstr ""
+
+#: admin/contacts/views/analytics.php:20 admin/contacts/views/contacts.php:125
+msgid "Back to Campaigns List"
+msgstr ""
+
+#: admin/contacts/views/analytics.php:43
+msgid "Select Campaign"
+msgstr ""
+
+#: admin/contacts/views/analytics.php:45
+msgid "All Campaigns"
+msgstr ""
+
+#: admin/contacts/views/analytics.php:52 modules/modal/views/analytics.php:66
+msgid "Start Date <span class=\"cp-analatics-italic\">(dd-mm-yyyy)</span>"
+msgstr ""
+
+#: admin/contacts/views/analytics.php:56 modules/modal/views/analytics.php:70
+msgid "End Date <span class=\"cp-analatics-italic\">(dd-mm-yyyy)</span>"
+msgstr ""
+
+#: admin/contacts/views/analytics.php:60 modules/modal/views/analytics.php:74
+msgid "Graph Type"
+msgstr ""
+
+#: admin/contacts/views/contacts.php:128
+msgid "Export CSV"
+msgstr ""
+
+#: admin/contacts/views/contacts.php:136
+#: admin/contacts/views/dashboard.php:103 modules/modal/views/main.php:165
+#: modules/modal/views/main.php:392
+msgid "Search"
+msgstr ""
+
+#: admin/contacts/views/contacts.php:162
+msgid "Email"
+msgstr ""
+
+#: admin/contacts/views/contacts.php:166
+msgid "Subscribed On"
+msgstr ""
+
+#: admin/contacts/views/contacts.php:189 modules/modal/views/main.php:339
+msgid "No results available."
+msgstr ""
+
+#: admin/contacts/views/contacts.php:189
+msgid "Back to Contact List"
+msgstr ""
+
+#: admin/contacts/views/contacts.php:191
+msgid "No contacts available."
+msgstr ""
+
+#: admin/contacts/views/contacts.php:207
+#: admin/contacts/views/dashboard.php:255
+msgid "Search Contacts:"
+msgstr ""
+
+#: admin/contacts/views/contacts.php:220
+#: admin/contacts/views/dashboard.php:137
+msgid "Contacts"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:92
+#: admin/contacts/views/dashboard.php:231
+msgid "Create new list"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:92 admin/contacts/views/dashboard.php:95
+#: admin/contacts/views/dashboard.php:231 admin/contacts/views/new-list.php:4
+msgid "Create New Campaign"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:93
+msgid ""
+"Connects is a tool to capture, sync, manage & analyze your contacts all in "
+"one place. Create campaigns & integrate them with your favorite CRM "
+"software. It comes with built-in analytics as well."
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:122
+msgid "Service"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:127
+msgid "Campaign"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:132
+msgid "List"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:159
+msgid "Contact list is empty."
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:205
+msgid "Export"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:207
+msgid "Delete"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:216
+msgid "No results available. "
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:216
+msgid "back to campaign list"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:218 modules/modal/views/main.php:344
+msgid "First time being here?"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:218
+msgid "Create new campaign"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:218
+msgid "Awesome! Let's start with your first campaign"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:280
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:281
+msgid "You will not be able to recover this list!"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:285
+msgid "Yes, delete it!"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:286
+msgid "No, cancel it!"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:295
+msgid "Cancelled"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:295
+msgid "Your style is safe :)"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:300
+msgid "Are you sure, you want to delete this list?"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:316
+msgid "Removed!"
+msgstr ""
+
+#: admin/contacts/views/dashboard.php:317
+msgid "The campaign list you have selected is removed."
+msgstr ""
+
+#: admin/contacts/views/new-list.php:40
+msgid "Campaign Name"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:47
+msgid "Do you want to sync connects with any third party software?"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:65
+msgid ""
+"Your connects can be synced to CRM & Mailer softwares like HubSpot, "
+"MailChimp, etc. if you choose any from above."
+msgstr ""
+
+#: admin/contacts/views/new-list.php:77
+msgid "Where to find this?"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:89
+msgid "Previous"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:95
+msgid "Create Campaign"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:100
+msgid "Next"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:207
+msgid "Added!"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:208
+msgid "The campaign you just created, is added to the list."
+msgstr ""
+
+#: admin/contacts/views/new-list.php:216 admin/contacts/views/new-list.php:229
+msgid "Error adding the campaign to the list. Please try again."
+msgstr ""
+
+#: admin/contacts/views/new-list.php:243
+msgid "Are you sure? If you disconnect, your previous campaigns syncing with"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:243
+msgid "will be disconnected as well."
+msgstr ""
+
+#: admin/contacts/views/new-list.php:260 mailers/mailchimp.php:54
+msgid "Authenticate MailChimp"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:279
+msgid "Authenticate campaignmonitor"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:285
+msgid "Authenticate activecampaign"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:292
+msgid "Authenticate icontact"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:299 mailers/emma.php:68
+msgid "Authenticate MyEmma"
+msgstr ""
+
+#: admin/contacts/views/new-list.php:304
+msgid "Authenticate HubSpot"
+msgstr ""
+
+#: framework/Ultimate_Font_Manager.php:116
+msgid "Google Fonts Manager"
+msgstr ""
+
+#: framework/Ultimate_Font_Manager.php:117
+msgid "Refresh Font List"
+msgstr ""
+
+#: framework/Ultimate_Font_Manager.php:122
+msgid "Search font.."
+msgstr ""
+
+#: framework/Ultimate_Font_Manager.php:130
+msgid "Your Font Collection"
+msgstr ""
+
+#: framework/Ultimate_Font_Manager.php:199
+msgid "Update font"
+msgstr ""
+
+#: framework/Ultimate_Font_Manager.php:251
+msgid " new fonts added. "
+msgstr ""
+
+#: framework/Ultimate_Font_Manager.php:256
+msgid ""
+"Fonts could not be downloaded as there might be some issue with "
+"file_get_contents or wp_remote_get due to your server configuration."
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:133
+msgid "Icon Fonts Manager"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:134
+msgid "Upload/Select Fontello Font Zip"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:134
+msgid "Insert Fonts Zip File"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:135
+msgid "Upload New Icons"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:154
+msgid "No font icons uploaded. Upload some font icons to display here."
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:249
+msgid "Default Icons"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:310
+msgid ""
+"Using this feature is reserved for Super Admins. You unfortunately don't "
+"have the necessary permissions."
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:325
+msgid "Was not able to retrieve the Font name from your Uploaded Folder"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:327
+msgid "smile_font_added:"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:339
+msgid "smile_font_removed"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:341
+msgid "Was not able to remove Font"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:354
+msgid "Wasn't able to create temp folder"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:379
+msgid "Unable to extract the file."
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:389
+msgid "Wasn't able to work with Zip Archive"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:401
+msgid ""
+"selection.json or SVG file not found. Was not able to create the necessary "
+"config files"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:428
+msgid ""
+"It seems that the font with the same name is already exists! Please upload "
+"the font with different name."
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:433
+msgid ""
+"Uploaded font is not from IcoMoon. Please upload fonts created with the "
+"IcoMoon App Only."
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:480
+#: framework/Ultimate_Icon_Manager.php:488
+msgid "Was not able to write a config file"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:512
+msgid "Unable to write css. Upload icons downloaded only from icomoon"
+msgstr ""
+
+#: framework/Ultimate_Icon_Manager.php:539
+msgid "Unable to add this font. Please try again."
+msgstr ""
+
+#: framework/classes/class.style-framework.php:224
+msgid "Start Customizing"
+msgstr ""
+
+#: framework/classes/class.style-framework.php:236
+msgid "Use This"
+msgstr ""
+
+#: framework/classes/class.style-framework.php:239
+msgid "Live Preview"
+msgstr ""
+
+#: framework/classes/class.style-framework.php:244
+msgid "Customize"
+msgstr ""
+
+#: framework/classes/class.style-framework.php:304
+#: modules/modal/views/main.php:149 modules/modal/views/main.php:154
+#: modules/modal/views/main.php:344 modules/modal/views/main.php:360
+#: modules/modal/views/main.php:361
+msgid "Create New Modal"
+msgstr ""
+
+#: framework/classes/class.style-framework.php:348
+msgid "Name This Design"
+msgstr ""
+
+#: framework/classes/class.style-framework.php:350
+msgid ""
+"A unique & descriptive name will help you in future as it would appear in "
+"the dashboard, analytics, etc."
+msgstr ""
+
+#: framework/classes/class.style-framework.php:419
+#: modules/modal/views/new-style.php:33
+msgid "Search theme for modal"
+msgstr ""
+
+#: framework/classes/class.style-framework.php:490
+msgid "What would you like to do with current modal?"
+msgstr ""
+
+#: framework/functions/functions.admin.php:56
+msgid "Element Edit / Preview Page"
+msgstr ""
+
+#: framework/functions/functions.admin.php:57
+msgid "<h1>Do not delete / publish this page</h1>"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:28
+msgid "No Repeat"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:29
+msgid "Repeat"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:30
+msgid "X Repeat"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:31
+msgid "Y Repeat"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:35
+msgid "Center"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:36
+#: framework/lib/fields/border/border.php:147
+#: framework/lib/fields/margin/margin.php:81
+#: framework/lib/fields/padding/padding.php:81
+msgid "Left"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:37
+#: framework/lib/fields/border/border.php:155
+#: framework/lib/fields/margin/margin.php:89
+#: framework/lib/fields/padding/padding.php:89
+msgid "Right"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:41
+msgid "Cover"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:42
+msgid "Contain"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:43
+#: framework/lib/fields/google-fonts/typography.php:91
+#: framework/lib/fields/media/media.php:69
+msgid "Default"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:52
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:62
+msgid "Background Position"
+msgstr ""
+
+#: framework/lib/fields/background/background.php:72
+msgid "Background Size"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:68
+msgid "Solid"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:69
+msgid "Dotted"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:70
+msgid "Dashed"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:71
+msgid "Double"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:72
+msgid "Groove"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:73
+msgid "Ridge"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:74
+msgid "Inset"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:75
+msgid "Outset"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:78
+msgid "None"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:91
+msgid "Border Style"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:106
+msgid "Border Color"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:115
+msgid "Border Width"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:139
+#: framework/lib/fields/margin/margin.php:73
+#: framework/lib/fields/padding/padding.php:73
+msgid "Top"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:163
+#: framework/lib/fields/margin/margin.php:97
+#: framework/lib/fields/padding/padding.php:97
+msgid "Bottom"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:185
+msgid "Border Radius"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:201
+msgid "Top Left"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:209
+msgid "Top Right"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:217
+msgid "Bottom Left"
+msgstr ""
+
+#: framework/lib/fields/border/border.php:225
+msgid "Bottom Right"
+msgstr ""
+
+#: framework/lib/fields/box-shadow/box-shadow.php:70
+#: modules/modal/functions/functions.common.php:296
+msgid "Type"
+msgstr ""
+
+#: framework/lib/fields/box-shadow/box-shadow.php:97
+msgid "Shadow Color"
+msgstr ""
+
+#: framework/lib/fields/box-shadow/box-shadow.php:105
+msgid "Horizontal Length"
+msgstr ""
+
+#: framework/lib/fields/box-shadow/box-shadow.php:113
+msgid "Vertical Length"
+msgstr ""
+
+#: framework/lib/fields/box-shadow/box-shadow.php:123
+msgid "Blur Radius"
+msgstr ""
+
+#: framework/lib/fields/box-shadow/box-shadow.php:131
+msgid "Spread Radius"
+msgstr ""
+
+#: framework/lib/fields/categories/categories.php:23
+msgid "Categories"
+msgstr ""
+
+#: framework/lib/fields/google-fonts/typography.php:43
+msgid "Font Name"
+msgstr ""
+
+#: framework/lib/fields/margin/margin.php:63
+#: framework/lib/fields/padding/padding.php:63
+msgid "All Sides"
+msgstr ""
+
+#: framework/lib/fields/media/media.php:37
+msgid "Change Image"
+msgstr ""
+
+#: framework/lib/fields/media/media.php:37
+msgid "Select Image"
+msgstr ""
+
+#: framework/lib/fields/media/media.php:54
+msgid "No Image Selected"
+msgstr ""
+
+#: framework/lib/fields/media/media.php:67
+msgid "Remove"
+msgstr ""
+
+#: framework/lib/fields/media/media.php:76
+msgid "Select Size"
+msgstr ""
+
+#: framework/lib/fields/new_mailer/new_mailer.php:50
+msgid "It seems that you don't have any campaigns yet!"
+msgstr ""
+
+#: framework/lib/fields/new_mailer/new_mailer.php:50
+msgid "Click here"
+msgstr ""
+
+#: framework/lib/fields/pages/pages.php:23 modules/modal/views/global.php:110
+msgid "Pages"
+msgstr ""
+
+#: framework/lib/fields/pages/pages.php:36
+msgid "Posts"
+msgstr ""
+
+#: mailers/active_campaign.php:31
+msgid "Active Campaign API URL"
+msgstr ""
+
+#: mailers/active_campaign.php:36
+msgid "Active Campaign API Key"
+msgstr ""
+
+#: mailers/active_campaign.php:50 mailers/active_campaign.php:226
+#: mailers/aweber.php:42 mailers/aweber.php:216
+#: mailers/campaign_monitor.php:51 mailers/emma.php:55 mailers/hubspot.php:42
+#: mailers/iContact.php:59 mailers/madmimi.php:49 mailers/madmimi.php:219
+#: mailers/mailchimp.php:41
+msgid "Select List"
+msgstr ""
+
+#: mailers/active_campaign.php:63
+msgid "Authenticate Active Campaign"
+msgstr ""
+
+#: mailers/active_campaign.php:65 mailers/active_campaign.php:246
+msgid "Use different 'Active Campaign' account?"
+msgstr ""
+
+#: mailers/active_campaign.php:131 mailers/aweber.php:166
+#: mailers/campaign_monitor.php:126 mailers/emma.php:139
+#: mailers/hubspot.php:132 mailers/iContact.php:136 mailers/madmimi.php:129
+#: mailers/mailchimp.php:145
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: mailers/active_campaign.php:210
+msgid "Access denied: Invalid credentials (URL and/or API key)."
+msgstr ""
+
+#: mailers/aweber.php:26
+msgid "Authenticate Aweber"
+msgstr ""
+
+#: mailers/aweber.php:29
+msgid "Enter the authorization  code:"
+msgstr ""
+
+#: mailers/aweber.php:55 mailers/aweber.php:232
+msgid "Use different 'Aweber' account?"
+msgstr ""
+
+#: mailers/aweber.php:58
+msgid "Connect to Aweber"
+msgstr ""
+
+#: mailers/aweber.php:250
+msgid "Please provide valid authorization code for connecting to Aweber."
+msgstr ""
+
+#: mailers/campaign_monitor.php:32
+msgid "Client ID"
+msgstr ""
+
+#: mailers/campaign_monitor.php:37
+msgid "Campaign Monitor API Key"
+msgstr ""
+
+#: mailers/campaign_monitor.php:64
+msgid "Authenticate Campaign Monitor"
+msgstr ""
+
+#: mailers/campaign_monitor.php:66 mailers/campaign_monitor.php:238
+msgid "Use different 'Campaign Monitor' account?"
+msgstr ""
+
+#: mailers/campaign_monitor.php:208
+msgid "Unable to authenticate. Please check client ID and API key."
+msgstr ""
+
+#: mailers/campaign_monitor.php:276
+msgid "disconnected"
+msgstr ""
+
+#: mailers/campaign_monitor.php:304
+msgid "Unable to authenticate."
+msgstr ""
+
+#: mailers/emma.php:31
+msgid "Public API key"
+msgstr ""
+
+#: mailers/emma.php:36
+msgid "Private API key"
+msgstr ""
+
+#: mailers/emma.php:41
+msgid "Account ID"
+msgstr ""
+
+#: mailers/emma.php:70 mailers/emma.php:259
+msgid "Use different 'MyEmma' account?"
+msgstr ""
+
+#: mailers/emma.php:217 mailers/iContact.php:215
+msgid "Please enter all credentails from above fields"
+msgstr ""
+
+#: mailers/emma.php:234
+msgid "Invalid credentials ."
+msgstr ""
+
+#: mailers/hubspot.php:28
+msgid "HubSpot API Key"
+msgstr ""
+
+#: mailers/hubspot.php:55
+msgid "Authenticate Hubspot"
+msgstr ""
+
+#: mailers/hubspot.php:57 mailers/hubspot.php:239
+msgid "Use different 'Hubspot' account?"
+msgstr ""
+
+#: mailers/hubspot.php:215
+msgid "Failed to authenticate. Please check API Key"
+msgstr ""
+
+#: mailers/iContact.php:34
+msgid "iContact App ID"
+msgstr ""
+
+#: mailers/iContact.php:39
+msgid "iContact App Username"
+msgstr ""
+
+#: mailers/iContact.php:44
+msgid "iContact App Password"
+msgstr ""
+
+#: mailers/iContact.php:73
+msgid "Authenticate iContact"
+msgstr ""
+
+#: mailers/iContact.php:75 mailers/iContact.php:265
+msgid "Use different 'iContact' account?"
+msgstr ""
+
+#: mailers/madmimi.php:30
+msgid "Email OR Username"
+msgstr ""
+
+#: mailers/madmimi.php:35
+msgid "Mad Mimi API Key"
+msgstr ""
+
+#: mailers/madmimi.php:62
+msgid "Authenticate Mad Mimi"
+msgstr ""
+
+#: mailers/madmimi.php:64
+msgid "Use different 'Mad Mimi' account?"
+msgstr ""
+
+#: mailers/madmimi.php:208
+msgid "Unable to authenticate. Please check Username and API key"
+msgstr ""
+
+#: mailers/madmimi.php:236
+msgid "Use different 'Mad Mini' account?"
+msgstr ""
+
+#: mailers/mailchimp.php:31
+msgid "MailChimp API Key"
+msgstr ""
+
+#: mailers/mailchimp.php:56 mailers/mailchimp.php:281
+msgid "Use different 'MailChimp' account?"
+msgstr ""
+
+#: mailers/mailchimp.php:225
+msgid "Please provide valid API Key for your mailchimp account."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:23
+msgid "Main Title"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:24
+msgid "We Have a Special Offer For You!"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:25
+msgid "Enter the main heading title."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:37
+msgid "Short Description"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:38
+msgid "ENTER YOUR EMAIL & GET 20% DISCOUNT ON ALL PLANS!"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:39
+msgid "Enter the short description that displays under the main title."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:51
+msgid "Notice / Tip Under Form"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:52
+msgid "We respect your right to privacy as much as we do our own."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:53
+msgid "Enter the notice / tip that displays under the subscription form."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:65
+msgid "Modal Content"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:66
+msgid ""
+"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis viverra, "
+"urna vitae vehicula congue, purus nibh vestibulum lacus, sit amet tristique "
+"ante odio viverra orci. Nullam consectetur mollis lacinia.</p>"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:67
+msgid "Enter the short description of this optin.(HTML is Allowed)"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:83
+msgid "Modal Title Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:85
+msgid "Select the title text color."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:97
+msgid "Description Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:99
+msgid "Select the description text color."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:111
+msgid "Notice / Tip Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:113
+msgid "Select the text color for Notice / Tip under the form."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:125
+msgid "Background Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:127
+msgid "Choose the background color for modal box area."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:138
+msgid "Overlay Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:140
+msgid "Provide the overlay color that appears behind modal box area."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:151
+msgid "Background Image"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:153
+msgid ""
+"You can provide an image that would be appear behind the content in the "
+"modal box area. For this setting to work, the background color you've chosen "
+"must be transparent."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:182
+msgid "Upload Image"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:185
+msgid "Upload an image that will be displayed inside the content area."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:196
+msgid "Resize Image"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:212
+msgid "Image Position"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:226
+msgid "Horizontal Position"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:241
+msgid "Vertical Position"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:257
+msgid "Hide Image on Small Screens"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:259
+#: modules/modal/functions/functions.common.php:590
+#: modules/modal/functions/functions.common.php:662
+#: modules/modal/functions/functions.common.php:832
+#: modules/modal/functions/functions.common.php:846
+#: modules/modal/functions/functions.common.php:1004
+#: modules/modal/functions/functions.common.php:1019
+#: modules/modal/functions/functions.common.php:1052
+#: modules/modal/functions/functions.common.php:1085
+#: modules/modal/functions/functions.common.php:1114
+#: modules/modal/functions/functions.common.php:1157
+#: modules/modal/functions/functions.common.php:1222
+#: modules/modal/functions/functions.common.php:1466
+msgid "YES"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:260
+#: modules/modal/functions/functions.common.php:591
+#: modules/modal/functions/functions.common.php:663
+#: modules/modal/functions/functions.common.php:833
+#: modules/modal/functions/functions.common.php:847
+#: modules/modal/functions/functions.common.php:1005
+#: modules/modal/functions/functions.common.php:1020
+#: modules/modal/functions/functions.common.php:1053
+#: modules/modal/functions/functions.common.php:1086
+#: modules/modal/functions/functions.common.php:1115
+#: modules/modal/functions/functions.common.php:1158
+#: modules/modal/functions/functions.common.php:1223
+#: modules/modal/functions/functions.common.php:1467
+msgid "NO"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:261
+msgid ""
+"On smaller screens like mobile, smaller modals look more beautiful. To "
+"reduce the size of the modal, you may hide the image with this setting."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:299
+msgid "Image"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:301
+msgid "Text"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:302
+msgid "Do Not Close"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:313
+msgid "Close Icon"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:326
+msgid "Position"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:329
+msgid "Adjacent to Modal"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:330
+msgid "Outside Modal"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:343
+msgid "Close Text"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:357
+msgid "Close Text Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:371
+msgid "Choose Image"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:384
+msgid "Close Link Background Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:397
+msgid "Close Modal By Clicking On -"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:399
+msgid "Close Button & Overlay"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:400
+msgid "Close Button Only"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:412
+msgid "Display Tooltip On Hover"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:414
+#: modules/modal/functions/functions.common.php:738
+msgid "Yes"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:415
+#: modules/modal/functions/functions.common.php:739
+msgid "No"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:427
+msgid "Tooltip Text"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:428
+msgid "Note: Modals are displays only once!"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:441
+msgid "Tooltip Text  Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:454
+msgid "Tooltip Background Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:471
+msgid "Animation Effect"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:473
+msgid "Animation effect while the modal appears."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:588
+msgid "Disable Animation on Small Screens"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:592
+msgid "On smaller screens like mobile, disable animation with this setting."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:604
+msgid "Disable When Browser Width Is Below -"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:609
+msgid ""
+"When width of the browser is below provided value, the modal animation will "
+"disable."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:627
+msgid "Modal Size"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:629
+msgid ""
+"Provide custom size of your choice or make this modal cover entire screen "
+"area."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:631
+msgid "Full Screen"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:632
+msgid "Custom Width"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:644
+msgid "Modal Width"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:660
+msgid "Remove Default Padding"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:664
+msgid "Remove the default padding between content area and modal box edges."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:675
+msgid "Border"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:689
+msgid ""
+"Using very customizable settings below, you can apply a border around the "
+"modal box."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:700
+msgid "Box Shadow"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:724
+msgid "Affiliate Link"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:736
+msgid "Become a ConvertPlug Affiliate"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:750
+msgid "Envato Username"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:763
+msgid "Affilate title"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:776
+#, php-format
+msgid ""
+"Did you know that you can earn 30% for each sale you refer to ConvertPlug? "
+"Just enter your Envato username and get started!</br></br><a style=\"text-"
+"decoration:none;\" href=\"http://themeforest.net/legal/affiliate\" target="
+"\"_blank\">Curious how does it work?</a>"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:789
+msgid "Custom Code"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:801
+msgid "Custom CSS"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:803
+msgid "Enter your custom css code for this modal here."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:818
+msgid "Form Options"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:830
+msgid "Enable Name Field"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:844
+msgid "Display Button On Next Line"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:859
+msgid "Placeholder Text for Name"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:872
+msgid "Placeholder Text for Email"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:884
+msgid "Placeholder Text Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:895
+msgid "Placeholder Font"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:908
+msgid "Input Box Background Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:920
+msgid "Input Box Border Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:933
+msgid "Button Options"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:945
+msgid "Button Title"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:947
+msgid "Enter the button title."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:959
+msgid "Submit Button Background Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:972
+msgid "Submit Button Border Color"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:985
+msgid ""
+"Note - Above settings apply to only Built-In Forms. These won't be effective "
+"with Custom Forms."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1002
+msgid "Before User Leaves / Exit Intent"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1006
+msgid ""
+"If enabled, modal will load right before user is about to leave your website."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1017
+#: modules/modal/functions/functions.common.php:1032
+msgid "After Few Seconds"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1021
+msgid "If enabled, modal will load automatically after few seconds."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1038
+msgid ""
+"How long the modal should take to be displayed after the page is loaded? "
+"(value in seconds)."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1050
+msgid "After User Scrolls"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1054
+msgid "If enabled, modal will load as user scrolls down on the page."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1065
+msgid "Load After Scroll %"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1071
+msgid ""
+"How much should the user scroll the page to display the modal? (value in %)."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1083
+msgid "When User Is Inactive"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1087
+msgid ""
+"If enabled, a modal will be displayed to visitor if he is idle on page for "
+"certain time."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1098
+msgid "Seconds"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1098
+msgid "Modal will trigger after `"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1112
+msgid "Launch With CSS Class"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1116
+msgid ""
+"Modal can be triggered on click of any UI element. Just provide the unique "
+"CSS class of that element here and modal will be trigger when you click on "
+"that element."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1127
+msgid "CSS Class Name"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1140
+msgid "[cp_modal id=\""
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1143
+msgid "Launch With Shortcode"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1144
+msgid ""
+"Place your text, image or HTML in-between the provided shortcode to launch "
+"the modal."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1155
+msgid "Enable Cookies"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1159
+msgid ""
+"ConvertPlug can check user history and limit repeat occurrence of modal when "
+"cookies are enabled. No more annoying modals!"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1170
+msgid "Do Not Show After Conversion"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1176
+msgid ""
+"How many days this modal should not be displayed after user submits the form?"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1188
+msgid "Do Not Show After Closing"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1194
+msgid ""
+"How many days this modal should not be displayed after user closes the modal?"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1220
+msgid "Enable On Complete Site"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1224
+msgid ""
+"If set YES, code of this modal will be added throughout the website so it "
+"can function anywhere. If set NO - select the specific areas where you want "
+"the modal to function and code will be automatically embedded there."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1235
+msgid "Enable Only On"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1262
+msgid ""
+"You can select the exceptional areas, where you want this modal to function."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1276
+msgid "Exceptionally, Disable On"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1302
+msgid "You can select the areas, where you do not want this modal to function."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1330
+msgid "Logged-in Users"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1332
+#: modules/modal/functions/functions.common.php:1347
+msgid "SHOW"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1333
+#: modules/modal/functions/functions.common.php:1348
+msgid "HIDE"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1334
+msgid ""
+"If your website has login functionality, should the modal be visible to "
+"logged users?"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1345
+msgid "First Time Users"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1349
+msgid "When user visits your site for the first time, should modal be visible?"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1360
+msgid ""
+"By default, this modal will be effective for all. However using controls "
+"above, you can hide it for certain visitors."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1373
+msgid "Enable Modal On Site"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1375
+msgid "LIVE"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1376
+msgid "PAUSE"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1377
+msgid "When modal set as pause, it won't be effective on your website."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1393
+msgid "Collect Leads Using -"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1405
+msgid "Paste HTML Code"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1407
+msgid ""
+"Paste the HTML code of your form, that you can get in your CRM Software like "
+"MailChimp"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1419
+msgid ""
+"\"First\" is the default and ready to use campaign. If you would like, you "
+"can create a new campaign <a href=\""
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1433
+msgid "Successful Submission "
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1436
+msgid "Display a message"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1437
+msgid "Redirect user"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1450
+msgid "Redirect URL"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1452
+msgid ""
+"Enter the url where you would like to redirect the user after successfully "
+"added to the list."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1464
+msgid "Pass Lead Data To Redirect URL"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1468
+msgid ""
+"Passes the lead email (and name if enabled) as query arguments to redirect "
+"URL."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1480
+msgid "Message After Success"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1482
+msgid ""
+"Enter the message you would like to display the user after successfully "
+"added to the list."
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1494
+msgid "Failed Submission"
+msgstr ""
+
+#: modules/modal/functions/functions.common.php:1496
+msgid ""
+"Enter the message you would like to display the user for invalid email "
+"address."
+msgstr ""
+
+#: modules/modal/views/analytics.php:22
+msgid "Modal Analytics"
+msgstr ""
+
+#: modules/modal/views/analytics.php:22
+#: modules/modal/views/variant/variant.php:59
+#: modules/modal/views/variant/variant.php:68
+msgid "Back to Modal List"
+msgstr ""
+
+#: modules/modal/views/analytics.php:45
+msgid "Select Modal"
+msgstr ""
+
+#: modules/modal/views/analytics.php:83
+msgid "Comparison Factor"
+msgstr ""
+
+#: modules/modal/views/analytics.php:86
+msgid "Impression Vs Conversion"
+msgstr ""
+
+#: modules/modal/views/analytics.php:88
+msgid "Impression"
+msgstr ""
+
+#: modules/modal/views/analytics.php:89
+msgid "Conversion"
+msgstr ""
+
+#: modules/modal/views/analytics.php:90
+msgid "Conversion Rate"
+msgstr ""
+
+#: modules/modal/views/edit.php:18
+msgid "Edit Modal Style"
+msgstr ""
+
+#: modules/modal/views/edit.php:19 modules/modal/views/global.php:3
+msgid "Go to main page"
+msgstr ""
+
+#: modules/modal/views/edit.php:19
+msgid "Back to Main Page"
+msgstr ""
+
+#: modules/modal/views/global.php:2 modules/modal/views/main.php:148
+msgid "Modal Designer"
+msgstr ""
+
+#: modules/modal/views/global.php:3
+msgid "Back to Main"
+msgstr ""
+
+#: modules/modal/views/global.php:8
+msgid "Your Styles"
+msgstr ""
+
+#: modules/modal/views/global.php:9
+msgid "Global display setting"
+msgstr ""
+
+#: modules/modal/views/global.php:9
+msgid "Global Display"
+msgstr ""
+
+#: modules/modal/views/global.php:34
+msgid "Select style"
+msgstr ""
+
+#: modules/modal/views/global.php:47
+msgid "Select the style to be displayed on each page / post of your site."
+msgstr ""
+
+#: modules/modal/views/global.php:53
+msgid "Delay"
+msgstr ""
+
+#: modules/modal/views/global.php:58
+msgid "Enter the duration after which the styled to be displayed."
+msgstr ""
+
+#: modules/modal/views/global.php:64
+msgid "Cookie Time"
+msgstr ""
+
+#: modules/modal/views/global.php:68
+msgid "Days"
+msgstr ""
+
+#: modules/modal/views/global.php:69
+msgid ""
+"Enter the duration for cookies to be stored.( Keep blank or 0 to not set the "
+"cookie )"
+msgstr ""
+
+#: modules/modal/views/global.php:75
+msgid "Mouse Exit Intent"
+msgstr ""
+
+#: modules/modal/views/global.php:83
+msgid "Enable"
+msgstr ""
+
+#: modules/modal/views/global.php:84
+msgid "Display this modal when user trying to leave the browser window."
+msgstr ""
+
+#: modules/modal/views/global.php:90
+msgid "Exclude Modal on-"
+msgstr ""
+
+#: modules/modal/views/global.php:98
+msgid "Front Page, Archive and Search Pages"
+msgstr ""
+
+#: modules/modal/views/global.php:99
+msgid "Exclude this modal from Front Page, Archive and Search Pages."
+msgstr ""
+
+#: modules/modal/views/global.php:104
+msgid "Blog Posts"
+msgstr ""
+
+#: modules/modal/views/global.php:105
+msgid "Exclude this modal from blog posts."
+msgstr ""
+
+#: modules/modal/views/global.php:111
+msgid "Exclude this modal from pages."
+msgstr ""
+
+#: modules/modal/views/global.php:117
+msgid "Exclude pages by ID"
+msgstr ""
+
+#: modules/modal/views/global.php:122
+msgid "Enter page id separated by comma to exclude them."
+msgstr ""
+
+#: modules/modal/views/global.php:128
+msgid "Custom Class Name"
+msgstr ""
+
+#: modules/modal/views/global.php:133
+msgid "Enter class name to trigger this modal."
+msgstr ""
+
+#: modules/modal/views/global.php:140
+msgid "No styles available."
+msgstr ""
+
+#: modules/modal/views/global.php:140
+msgid "Click here to create new"
+msgstr ""
+
+#: modules/modal/views/main.php:159
+msgid "Upload Your Exported file"
+msgstr ""
+
+#: modules/modal/views/main.php:159
+msgid "Import Style"
+msgstr ""
+
+#: modules/modal/views/main.php:160 modules/modal/views/main.php:529
+msgid "Import Modal"
+msgstr ""
+
+#: modules/modal/views/main.php:185 modules/modal/views/variant/variant.php:89
+msgid "Modal Name"
+msgstr ""
+
+#: modules/modal/views/main.php:189 modules/modal/views/variant/variant.php:91
+msgid "Impressions"
+msgstr ""
+
+#: modules/modal/views/main.php:192 modules/modal/views/variant/variant.php:93
+msgid "Status"
+msgstr ""
+
+#: modules/modal/views/main.php:245 modules/modal/views/main.php:273
+#: modules/modal/views/variant/variant.php:121
+#: modules/modal/views/variant/variant.php:129
+#: modules/modal/views/variant/variant.php:185
+#: modules/modal/views/variant/variant.php:193
+msgid "Live"
+msgstr ""
+
+#: modules/modal/views/main.php:247 modules/modal/views/main.php:276
+#: modules/modal/views/variant/variant.php:123
+#: modules/modal/views/variant/variant.php:132
+#: modules/modal/views/variant/variant.php:187
+#: modules/modal/views/variant/variant.php:196
+msgid "Pause"
+msgstr ""
+
+#: modules/modal/views/main.php:263
+#: modules/modal/views/variant/variant.php:125
+#: modules/modal/views/variant/variant.php:189
+msgid "Scheduled"
+msgstr ""
+
+#: modules/modal/views/main.php:279
+#: modules/modal/views/variant/variant.php:135
+#: modules/modal/views/variant/variant.php:199
+msgid "Schedule"
+msgstr ""
+
+#: modules/modal/views/main.php:296
+msgid "See Variants"
+msgstr ""
+
+#: modules/modal/views/main.php:298
+msgid "Create Variant"
+msgstr ""
+
+#: modules/modal/views/main.php:303
+#: modules/modal/views/variant/variant.php:149
+#: modules/modal/views/variant/variant.php:212
+msgid "Duplicate Modal"
+msgstr ""
+
+#: modules/modal/views/main.php:323
+#: modules/modal/views/variant/variant.php:152
+#: modules/modal/views/variant/variant.php:215
+msgid "View Analytics"
+msgstr ""
+
+#: modules/modal/views/main.php:325
+msgid "Export Settings"
+msgstr ""
+
+#: modules/modal/views/main.php:328
+#: modules/modal/views/variant/variant.php:154
+#: modules/modal/views/variant/variant.php:218
+msgid "Delete Modal"
+msgstr ""
+
+#: modules/modal/views/main.php:339 modules/modal/views/main.php:340
+msgid "Back to modal list"
+msgstr ""
+
+#: modules/modal/views/main.php:345
+msgid "Awesome! Let's start with your first modal"
+msgstr ""
+
+#: modules/modal/views/main.php:390
+msgid "Search Contacts"
+msgstr ""
+
+#: modules/modal/views/main.php:435
+#: modules/modal/views/variant/variant.php:252
+msgid "Schedule This Modal"
+msgstr ""
+
+#: modules/modal/views/main.php:445
+#: modules/modal/views/variant/variant.php:262
+msgid "Enter Starting Time"
+msgstr ""
+
+#: modules/modal/views/main.php:459
+#: modules/modal/views/variant/variant.php:276
+msgid "Enter Ending Time"
+msgstr ""
+
+#: modules/modal/views/main.php:480
+#: modules/modal/views/variant/variant.php:297
+msgid "Schedule Modal"
+msgstr ""
+
+#: modules/modal/views/main.php:483
+#: modules/modal/views/variant/variant.php:300
+msgid "Cancel"
+msgstr ""
+
+#: modules/modal/views/main.php:535
+msgid "Import"
+msgstr ""
+
+#: modules/modal/views/new-style.php:6
+msgid "Enter name for new modal"
+msgstr ""
+
+#: modules/modal/views/new-style.php:8
+msgid ""
+"Give a name to your modal and hit enter. Don't worry - you can change this "
+"in future if you don't like it anymore."
+msgstr ""
+
+#: modules/modal/views/variant/edit.php:19
+msgid "Edit Variant Style"
+msgstr ""
+
+#: modules/modal/views/variant/edit.php:20
+msgid "Back to Variant Tests"
+msgstr ""
+
+#: modules/modal/views/variant/new.php:5
+msgid "Create new variant for"
+msgstr ""
+
+#: modules/modal/views/variant/new.php:7
+msgid "Back to Variant's List"
+msgstr ""
+
+#: modules/modal/views/variant/new.php:8
+msgid "Back to Variants List"
+msgstr ""
+
+#: modules/modal/views/variant/new.php:12
+msgid ""
+"Give a name to your variant and hit enter. Don't worry - you can change this "
+"in future if you don't like it anymore."
+msgstr ""
+
+#: modules/modal/views/variant/new.php:17
+msgid "Enter title for new variant"
+msgstr ""
+
+#: modules/modal/views/variant/variant.php:50
+msgid "Variants for"
+msgstr ""
+
+#: modules/modal/views/variant/variant.php:57
+#: modules/modal/views/variant/variant.php:62
+#: modules/modal/views/variant/variant.php:237
+msgid "Create New Variant"
+msgstr ""
+
+#: modules/modal/views/variant/variant.php:146
+msgid "Edit Style"
+msgstr ""
+
+#: modules/modal/views/variant/variant.php:209
+msgid "Edit Modal"
+msgstr ""
+
+#: modules/modal/views/variant/variant.php:227
+msgid "FIRST TIME BEING HERE?"
+msgstr ""
+
+#: modules/modal/views/variant/variant.php:227
+msgid "Create new variant Test"
+msgstr ""
+
+#: modules/modal/views/variant/variant.php:228
+msgid "Awesome! Let's start with your first variant"
+msgstr ""
+
+#: modules/modal/views/variant/variant.php:236
+msgid "Create New variant"
+msgstr ""

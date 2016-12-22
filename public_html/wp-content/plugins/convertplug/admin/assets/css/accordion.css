@@ -1,0 +1,61 @@
+.metro .accordion > .accordion-frame {
+	border-bottom: 1px #EAEAEA solid;
+}
+.metro .accordion > .accordion-frame > .heading:focus {
+	box-shadow: none;
+	background: #F2F2F2;
+}
+.metro .accordion > .accordion-frame > .heading {
+	display: block;
+	text-decoration: none;
+	background-color: #F5F5F5;
+	padding: 10px 15px;
+	width: 100%;
+	position: relative;
+	color: #666;
+	box-sizing: border-box;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: "Open Sans",sans-serif;
+}
+.metro .accordion > .accordion-frame > .heading.collapsed {
+	background-color: #FFF;
+}
+.metro .accordion > .accordion-frame > .heading [class*="icon-"] {
+	margin-right: 10px;
+}
+.metro .accordion > .accordion-frame > .content {
+	padding: 10px;
+	background: #FFF;
+}
+.metro .accordion > .accordion-frame > .content {
+	display: none;
+}
+.metro .accordion.with-marker .heading:before {
+	position: absolute;
+	right: 10px;
+	top: 50%;
+	margin-top: -10px;
+/*	content: '\f460';*/
+	content: '\f142';
+	color:#333;
+	border: none;
+	background: 0 0;
+	font: 400 20px/1 dashicons;
+	speak: none;
+	display: block;
+	padding: 0;
+	text-indent: 0;
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-decoration: none!important;
+}
+.metro .accordion.with-marker .heading.collapsed:before {
+	content: '\f140';
+	color: #ABABAB;
+}
+a.heading:hover {
+  color: #222 !important;
+  background-color: #F5F5F5 !important;
+}

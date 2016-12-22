@@ -1,0 +1,301 @@
+Return-path: <info14+bncBD6K7M7K3MNRBQ7PXHBAKGQE7PGOL2A@tecwebguru.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 12 Dec 2016 05:11:19 -0500
+Received: from mail-pg0-f71.google.com ([74.125.83.71]:39143)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <info14+bncBD6K7M7K3MNRBQ7PXHBAKGQE7PGOL2A@tecwebguru.com>)
+	id 1cGNZm-003X51-P9
+	for kyle@kylefisher.com; Mon, 12 Dec 2016 05:11:18 -0500
+Received: by mail-pg0-f71.google.com with SMTP id x23sf237120877pgx.6
+        for <kyle@kylefisher.com>; Mon, 12 Dec 2016 02:11:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=tecwebguru-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to:x-original-sender
+         :x-original-authentication-results:precedence:mailing-list:list-id
+         :x-spam-checked-in-group:list-post:list-help:list-archive
+         :list-subscribe:list-unsubscribe;
+        bh=Lb+SXEcC8N7hhyz7e7ue1Y/lawuYdj4X+AUZm4gTWy0=;
+        b=eU2AY+yjAo96eiLeVGxkxHiziOPm0SZPAUyeGm1DfO9aH9/GspigAwGIIFs1KwtAO0
+         Q69HHnIeRcWTkdEI1oqsiTjSIBckAGj8ooyUJYjYBOVZT8zFJgw63UhDWfgYF42jpBLU
+         Z2B4lBHDRfNPhDWeRoM5zV9/4xVEiOaZfIQPmEhfIbOLM5J5Z52T4gHBJtOHfFaAmGDt
+         RZMqI5XF3xu7lFTqW7VrJL5K1A1lAEFSJRQaNfpMbiWCI4B8uBNGWKlfoKHEfY5PQ2IY
+         srpHAQ8rMIGLQISxWEhZWf99UemBg2mo3OTQUcGzFMpocQeiIdxKrwt+IP8c407Rk6Jz
+         S/gQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :x-original-sender:x-original-authentication-results:precedence
+         :mailing-list:list-id:x-spam-checked-in-group:list-post:list-help
+         :list-archive:list-subscribe:list-unsubscribe;
+        bh=Lb+SXEcC8N7hhyz7e7ue1Y/lawuYdj4X+AUZm4gTWy0=;
+        b=P8hEliaLS6Jfam/dbhXfL8188ZFaYX8B3rDaS3sex/+PoD4ax6weKJfZ+IHYN59sxf
+         OhoAYEP25LGReqxcqExC4qIhgWPAJBnpbB89pRXX3gxU3VoKaTVGwR0OpT1w0PAb9Zl5
+         nBIl+Jf5YThi5te0N7As4S4nSgMEA4mQcENMWNWVjne+RWh0RmRpOjrPhYt3uBlovkD5
+         KY5cT0El4D4FQqYLY1Lwj5e/E7fQmuSZLp38aWoX5Zre0jYztV9J+2RLUvotZXqyFKGM
+         J7laTtzHOlB31BWpV+i4mGFBmTWGtmGYPM+2HPlSaXwYxb1ubc/tj5xyg0qLoKGnqF8b
+         tGmg==
+X-Gm-Message-State: AKaTC01Z9DDBITmBWWnP0u96+J2/8MljAXwABO5slWvaXmejkztcA2eClbJoIXm+EsEPsQ==
+X-Received: by 10.99.5.85 with SMTP id 82mr47856754pgf.124.1481537476574;
+        Mon, 12 Dec 2016 02:11:16 -0800 (PST)
+X-BeenThere: info14@tecwebguru.com
+Received: by 10.157.52.220 with SMTP id t28ls13070809otd.3.gmail; Mon, 12 Dec
+ 2016 02:11:15 -0800 (PST)
+X-Received: by 10.55.149.134 with SMTP id x128mr74247460qkd.263.1481537475184;
+        Mon, 12 Dec 2016 02:11:15 -0800 (PST)
+Received: from mail-qk0-x243.google.com (mail-qk0-x243.google.com. [2607:f8b0:400d:c09::243])
+        by mx.google.com with ESMTPS id f11si25998223qte.84.2016.12.12.02.11.15
+        for <info14@tecwebguru.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 12 Dec 2016 02:11:15 -0800 (PST)
+Received-SPF: pass (google.com: domain of agn.richa001@gmail.com designates 2607:f8b0:400d:c09::243 as permitted sender) client-ip=2607:f8b0:400d:c09::243;
+Received: by mail-qk0-x243.google.com with SMTP id h201so9933631qke.3
+        for <info14@tecwebguru.com>; Mon, 12 Dec 2016 02:11:15 -0800 (PST)
+X-Received: by 10.55.81.8 with SMTP id f8mr78401356qkb.101.1481537474742; Mon,
+ 12 Dec 2016 02:11:14 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.12.169.220 with HTTP; Mon, 12 Dec 2016 02:11:14 -0800 (PST)
+From: Richa Agnihotri <agn.richa001@gmail.com>
+Date: Mon, 12 Dec 2016 15:41:14 +0530
+Message-ID: <CAAm6ppw7O2Gy-nJHXUJ3sqHPOFMdiJ008ZJE4FX8S+LdNX+jCg@mail.gmail.com>
+Subject: Affordable Website Development & Design Services,Mobile Application
+To: info14@tecwebguru.com
+Content-Type: multipart/alternative; boundary=001a114a8d5ee7568f05437352de
+X-Original-Sender: agn.richa001@gmail.com
+X-Original-Authentication-Results: mx.google.com;       dkim=pass
+ header.i=@gmail.com;       spf=pass (google.com: domain of
+ agn.richa001@gmail.com designates 2607:f8b0:400d:c09::243 as permitted
+ sender) smtp.mailfrom=agn.richa001@gmail.com;       dmarc=pass (p=NONE
+ dis=NONE) header.from=gmail.com
+Precedence: list
+Mailing-list: list info14@tecwebguru.com; contact info14+owners@tecwebguru.com
+List-ID: <info14.tecwebguru.com>
+X-Spam-Checked-In-Group: info14@tecwebguru.com
+X-Google-Group-Id: 173740326509
+List-Post: <https://groups.google.com/a/tecwebguru.com/group/info14/post>, <mailto:info14@tecwebguru.com>
+List-Help: <https://support.google.com/a/tecwebguru.com/bin/topic.py?topic=25838>,
+ <mailto:info14+help@tecwebguru.com>
+List-Archive: <https://groups.google.com/a/tecwebguru.com/group/info14/>
+List-Subscribe: <https://groups.google.com/a/tecwebguru.com/group/info14/subscribe>,
+ <mailto:info14+subscribe@tecwebguru.com>
+List-Unsubscribe: <mailto:googlegroups-manage+173740326509+unsubscribe@googlegroups.com>,
+ <https://groups.google.com/a/tecwebguru.com/group/info14/subscribe>
+
+--001a114a8d5ee7568f05437352de
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello There,
+
+Greetings of the day!!!
+
+We are a Website Designing /Development services company based in India.
+
+We offer a bag of services that can fulfill your needs at competitive price=
+.
+
+=C2=B7         Web Design
+
+=C2=B7         Web Development
+
+=C2=B7         Responsive Websites
+
+=C2=B7         Mobile Websites
+
+=C2=B7         Blog Design
+
+=C2=B7         E commerce Website Design
+
+=C2=B7         Landing Page Design
+
+=C2=B7         WordPress Web Design
+
+=C2=B7         Digital Marketing Consultancy (Knowledge Sharing)
+
+=C2=B7         Domain, Hosting & Email Setup
+
+=C2=B7         Search Engine Optimization (SEO)
+
+=C2=B7         Mobile App Development(Android/iOS/Windows)
+
+If you are interested in these services, I would request you to share your
+requirements and it would be great if you will available on Skype/phone to
+discuss regarding your requirements.
+
+Please share your contact details so that we can further contact you
+directly.
+
+I am looking forward for your valuable response.
+
+Best Regards,
+
+Richa
+
+--001a114a8d5ee7568f05437352de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+<p class=3D"gmail-MsoNormalCxSpFirst"><span style=3D"font-family:verdana,sa=
+ns-serif">Hello There,</span></p><span style=3D"font-family:verdana,sans-se=
+rif">
+
+
+
+</span><p class=3D"gmail-MsoNormalCxSpMiddle"><span style=3D"font-family:ve=
+rdana,sans-serif">Greetings of the day!!!</span></p><span style=3D"font-fam=
+ily:verdana,sans-serif">
+
+
+
+</span><p class=3D"gmail-MsoNormalCxSpMiddle"><span style=3D"font-family:ve=
+rdana,sans-serif">We are a Website Designing /Development services
+company based in India.</span></p><span style=3D"font-family:verdana,sans-s=
+erif">
+
+
+
+</span><p class=3D"gmail-MsoNormalCxSpLast"><span style=3D"font-family:verd=
+ana,sans-serif">We offer a bag of services that can fulfill your
+needs at competitive price.</span></p><span style=3D"font-family:verdana,sa=
+ns-serif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpFirst" style=3D"margin-left:0.=
+25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"f=
+ont-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-s=
+ize-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kerni=
+ng:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Web Design</span></p><span style=3D"font-family:verdana,sans-serif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Web Development</span></p><span style=3D"font-family:verdana,sans-se=
+rif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Responsive Websites</span></p><span style=3D"font-family:verdana,san=
+s-serif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Mobile Websites</span></p><span style=3D"font-family:verdana,sans-se=
+rif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Blog Design</span></p><span style=3D"font-family:verdana,sans-serif"=
+>
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>E commerce Website Design</span></p><span style=3D"font-family:verda=
+na,sans-serif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Landing Page Design</span></p><span style=3D"font-family:verdana,san=
+s-serif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>WordPress Web Design</span></p><span style=3D"font-family:verdana,sa=
+ns-serif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Digital Marketing Consultancy (Knowledge
+Sharing)</span></p><span style=3D"font-family:verdana,sans-serif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Domain, Hosting &amp; Email Setup</span></p><span style=3D"font-fami=
+ly:verdana,sans-serif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Search Engine Optimization (SEO)</span></p><span style=3D"font-famil=
+y:verdana,sans-serif">
+
+</span><p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:0=
+.25in"><span style=3D"font-family:verdana,sans-serif">=C2=B7<span style=3D"=
+font-style:normal;font-weight:normal;font-size:7pt;line-height:normal;font-=
+size-adjust:none;font-stretch:normal;font-feature-settings:normal;font-kern=
+ing:auto;font-synthesis:weight style;font-variant:normal">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+</span>Mobile App Development(Android/iOS/Windows)</span></p><span style=3D=
+"font-family:verdana,sans-serif">
+
+
+
+</span><p class=3D"gmail-MsoNormalCxSpFirst"><span style=3D"font-family:ver=
+dana,sans-serif">If you are interested in these services, I would
+request you to share your requirements and it would be great if you will
+available on Skype/phone to discuss regarding your requirements.</span></p>=
+<span style=3D"font-family:verdana,sans-serif">
+
+
+
+</span><p class=3D"gmail-MsoNormalCxSpMiddle"><span style=3D"font-family:ve=
+rdana,sans-serif">Please share your contact details so that we can
+further contact you directly.</span></p><span style=3D"font-family:verdana,=
+sans-serif">
+
+
+
+</span><p class=3D"gmail-MsoNormalCxSpMiddle"><span style=3D"font-family:ve=
+rdana,sans-serif">I am looking forward for your valuable response.</span></=
+p><span style=3D"font-family:verdana,sans-serif">
+
+
+
+</span><p class=3D"gmail-MsoNormalCxSpMiddle"><span style=3D"font-family:ve=
+rdana,sans-serif">Best Regards,</span></p><span style=3D"font-family:verdan=
+a,sans-serif">
+
+</span><p class=3D"gmail-MsoNormalCxSpMiddle"><span style=3D"font-family:ve=
+rdana,sans-serif">Richa</span><br></p></div>
+
+--001a114a8d5ee7568f05437352de--

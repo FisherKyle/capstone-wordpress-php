@@ -1,0 +1,119 @@
+/* jQuery cp_countdown styles 2.0.0. */
+.is-cp_countdown {
+	border: 0px solid #ccc;
+	background-color: transparent;
+	float: left;
+    width: 100%;
+    margin: 10px 0;
+    line-height: 1.5em;
+}
+.cp_countdown-rtl {
+	direction: rtl;
+}
+.cp_countdown-holding span {
+	color: #888;
+}
+.cp_countdown-section{
+    margin-bottom: 0;
+}
+.cp_countdown-row {
+	clear: both;
+	width: 100%;
+	padding: 0px 2px;
+	text-align: center;
+	display: block;
+    margin: 0 auto;
+    float: left;
+}
+.cp_countdown-show1 .cp_countdown-section {
+	width: 98%;
+}
+.cp_countdown-show2 .cp_countdown-section {
+	width: 48%;
+}
+.cp_countdown-show3 .cp_countdown-section {
+	width: 32.5%;
+}
+.cp_countdown-show4 .cp_countdown-section {
+	width: 24.5%;
+}
+.cp_countdown-show5 .cp_countdown-section {
+	width: 19.5%;
+}
+.cp_countdown-show6 .cp_countdown-section {
+	width: 16.25%;
+}
+.cp_countdown-show7 .cp_countdown-section {
+	width: 14%;
+}
+.cp_countdown-section {
+	display: block;
+	float: left;
+	font-size: 75%;
+	text-align: center;
+	padding: 0 15px;
+}
+.cp_countdown-amount {
+    font-size: 200%;
+}
+.cp_countdown-period {
+    display: block;
+}
+.cp_countdown-descr {
+	display: block;
+	width: 100%;
+}
+.cp_countdown-section {
+    padding: 0 15px;
+    display: inline-block;
+    margin-bottom: 0px;
+}
+.cp_countdown-amount {
+    font-size: 36px;
+    border: 1px solid transparent;
+    min-width: 1.15em;
+    max-width: 100%;
+    min-height: 1.15em;
+    line-height: 1.15em;
+    padding: 0;
+    margin: 0 auto;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    display: block;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding: 15px;
+    background: rgb(50, 50, 50);
+    border-radius: 4px;
+}
+.cp_countdown-period {
+    margin-top: 7px;
+    width: 100%;
+    display: block;
+}
+
+/*-side by side display*/
+.cp_countdown-side-by-side .cp_countdown-period {
+    display: inline-block;
+    width: auto;
+    padding: 0 4px;
+    margin: 0;
+}
+@media (max-width:768px) {
+    #cp_defaultCountdown {
+        font-size: 12px!important;       
+    }
+    
+    #cp_defaultCountdown .cp_countdown-amount{
+      font-size:12px!important;  
+      padding: 5px!important;  
+    }
+    #cp_defaultCountdown .cp_countdown-period {
+       font-size: 12px!important;  
+       
+    }
+    .cp_countdown-section {
+        padding: 5px;   
+    }
+}

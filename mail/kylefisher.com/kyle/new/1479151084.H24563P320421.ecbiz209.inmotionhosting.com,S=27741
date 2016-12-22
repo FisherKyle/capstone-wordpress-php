@@ -1,0 +1,735 @@
+Return-path: <travelocity@ac.travelocity.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 14 Nov 2016 14:18:04 -0500
+Received: from r91.ac.travelocity.com ([192.161.140.91]:50594)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <travelocity@ac.travelocity.com>)
+	id 1c6MlX-001LLt-Pf
+	for kyle@kylefisher.com; Mon, 14 Nov 2016 14:18:03 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=neolane;
+	d=ac.travelocity.com;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:list-unsubscribe:content-type:content-transfer-encoding;
+	bh=wV2pMvzv34fhlU+zxYXt3VGq2nehI4jyCG6ZRUc3gCg=;
+	b=UxREVRnw7ou4rYr1l/tHR+u1naMx+X6z3BVz03Alsd4P8tUeTaDLStPRMhTnFxFXYNExS8Gwcfa6y5hcKm+nUwjKNezZ+mNmruygzw28pa5PuaIMR3FZ0GIAi52eOQE+6AT6HI6yok2itt7b9odBKXIC4AzETTJMJPBqrJxVofo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=neolane;
+	d=ac.travelocity.com;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:List-Unsubscribe:Content-Type:Content-Transfer-Encoding;
+	b=OIIXcK0l3OqgaBVcjLYsQ9MABoqodWVNY5trK2Gswy2n2U4Rxz+Eo+MVe+8qSLylAQc5Zwk7hQ1CPtCr0i8ASC/ngJVpkfbcmkxRguR4yl0cRadW6vXI5iIVrx+/KxTLKZ/SPb/CPWZQybTftZ2EfOP1Ns4QyoXCbNjnKA3I9F0=
+From: "Travelocity" <travelocity@ac.travelocity.com>
+Date: Mon, 14 Nov 2016 13:18:01 -0600
+Subject: =?UTF-8?Q?=E2=9D=97?= An Official Announcement: 24-Hour Sales Event!
+To: <kyle@kylefisher.com>
+Reply-To: "Travelocity" <travelocity@ac.travelocity.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 6.1.1.8653
+Message-ID: <NM61241F9352E0133EDtravelocity@ac.travelocity.com>
+List-Unsubscribe: <mailto:travelocity@ac.travelocity.com?subject=unsubscribe%3CNM61241F9352E0133EDtravelocity@ac.travelocity.com%3E>
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head><META NAME=3D"ROBOTS" CONTENT=3D"NOINDEX, NOFOLLOW">
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; maximum-scale=3D1.=
+0;">
+
+<html>
+ 
+<head>
+
+<title>Travelocity.com</title>
+
+<!-- /\/\----------------styles----------------/\/\-->
+<style type=3D"text/css">
+
+/* Outlook fixes */
+#outlook a {padding:0;}
+table{mso-table-lspace:0pt; mso-table-rspace:0pt;}
+=2EExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fon=
+t,
+=2EExternalClass td, .ExternalClass div{line-height:100%;}
+
+/* iPhone automatic links */
+=2EappleLinkBodyTxt a{color:#6b6b6b;text-decoration: none;}
+=2EappleLinkBodyTxtWh  a{color:#FFFFFF;text-decoration: none;}
+=2EappleLinkBodyTxt1f  a{color:#1F1F1F;text-decoration: none;}
+=2EsupCopy {vertical-align: baseline; position: relative; top: -0.4em;}
+
+@media only screen and (max-width: 525px) {
+html,body
+{
+    width: 100%;
+    overflow-x: hidden; 
+}
+table[class=3D"container"]{
+  width:100% !important;
+  }
+table[class=3D"button-m-exapnd"]{
+  width:100%!important;
+  }
+table[class=3D"full-table-width"]{
+  width:100% !important; 
+  height:auto!important; 
+  line-height:normal!important;
+  }
+td[class=3D"mobile-hidden"], span[class=3D"nav-mobile-hidden"]{  
+  display:none !important;
+  font-size:16px !important;
+  }
+td[class=3D"nav_hid"], span[class=3D"nav-hid"]{  
+  display:none !important;
+  font-size:16px !important;
+  }
+img[class=3D"image"] {
+  width:100% !important;
+  height:auto !important;
+  }
+img[class=3D"image-hero"] {
+  width:280px !important;
+  height:180px !important;
+  }
+td[class=3D"column-drop"] {
+  float:left !important;
+  width:100% !important;
+}
+td[class=3D"app-column-drop"] {
+  float:left !important;
+  width:100% !important;
+  alignment-adjust:middle !important;
+}
+td[class=3D"price-align"] {
+  font-size:26px !important;
+  alignment-adjust:middle !important;
+}
+td[class=3D"center-align"] {
+  padding-right:20px !important;
+}
+td[class=3D"hero-price"] {
+  padding-top:15px !important;
+  padding-right:20px !important;
+}
+td[class=3D"column-drop-hero"] {
+  float:left !important;
+  width:100% !important;
+  padding:0px !important;
+}
+td[class=3D"title"] {
+  padding:10px 20px !important;
+  font-size:20px !important;
+} 
+td[class=3D"price-align"] {
+  font-size:30px !important;
+}
+td[class=3D"subtitle"] {
+  font-size:18px !important;
+} 
+td[class=3D"hero-image-padding"] {
+  padding:0px 20px !important;
+} 
+td[class=3D"nav_vis"] {
+  font-size:16px !important;
+} 
+td[class=3D"title"] {
+  font-size:20px !important;
+} 
+td[class=3D"container-padding"] {
+  padding:0px !important;
+} 
+span[class=3D"break"] {
+  display:block !important;
+  padding-top:5px !important;
+}
+div[class=3D"mobile-show"] {
+  padding:0px !important;
+  display:block !important;
+  margin:0px !important;
+  overflow:visible !important;
+  width:auto !important;
+  max-height:inherit !important
+} 
+table[class=3D"full-button-width"]{
+  width:100%!important;}
+*[class=3D"Textresize25"]{
+  font-size:20px !important;
+}
+
+</style>
+<!-- /\/\----------------styles----------------/\/\-->
+
+
+</head>
+
+
+
+ 
+ 
+<body bgcolor=3D"#ffffff" style=3D"margin: 0px; padding:0px; -webkit-text-s=
+ize-adjust:none;">
+
+
+
+<!-- m-wrap table-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr>
+  <td class=3D"container-padding" style=3D"padding:0 15px;">
+  <div align=3D"center">
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+ 
+<!-- m-container table-->   
+<table class=3D"container" width=3D"600" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0">
+<tr>
+  <td>
+    
+    
+    
+    
+
+    
+   
+    
+    
+    
+<!-- /\/\----------------brandmark - pre-header----------------/\/\-->
+<table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%">
+<tr>
+<td class=3D"mobile-hidden" bgcolor=3D"#FFFFFF" align=3D"center">
+
+<table width=3D"100%" border=3D"0"cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td align=3D"left"><a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f9=
+35,2e0133ed,2e02df1a&p1=3D&emlcid=3Dtravelocity-us.mr.24_blue_20161114_unen=
+g_D..hot-segmX.771830765.116891364." target=3D"_blank" style=3D"font-family=
+:Arial, Helvetica, sans-serif; font-size:11px; color:#0065b8;text-decoratio=
+n:none;">Today's deals have arrived</a></td>
+<td align=3D"right">&nbsp;</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#ffffff">
+
+<table border=3D"0" cellpadding=3D"10" cellspacing=3D"10" width=3D"100%"> 
+<tr>
+<td class=3D"nav" align=3D"center" style=3D"padding-top:1px; padding-right:=
+8px; padding-bottom:8px; padding-left:2px;"><a href=3D"http://t.ac.traveloc=
+ity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df1b&p1=3D=3Femlcid=3Dtravelocity-=
+us.mr.24_blue_20161114_uneng_D..hot-segmX.771830765.116891364." target=3D"_=
+blank" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; c=
+olor:#0065b8;text-decoration:none;"><img src=3D"http://images.trvl-media.co=
+m/media/content/expus/graphics/promos/deals/tvly/150428_tvly_logo_160.png" =
+border=3D"0" alt=3D"" style=3D"display:block;" target=3D"_blank"></a></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!-- /\/\----------------brandmark - pre-header----------------/\/\-->
+
+<!-- /\/\----------------primary nav----------------/\/\-->
+<table bgcolor=3D"#F5F5F5" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"border-top:1px solid #EEEEEE; border-bottom:1px so=
+lid #EEEEEE; padding:10px 10px 10px 10px;">
+<tr>
+<td class=3D"nav_vis" align=3D"center" style=3D"padding: 1px 1px 1px 1px;">=
+<a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df1=
+c&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.77=
+1830765.116891364." target=3D"_blank" style=3D" font-family: Helvetica, Ari=
+al, sans-serif; font-weight:lighter; font-size:13px; color:#003E74; text-de=
+coration:none;">Hotels</a></td>
+<td class=3D"nav_vis" align=3D"center" style=3D"padding: 1px 1px 1px 1px;">=
+<a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df1=
+d&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.77=
+1830765.116891364." target=3D"_blank" style=3D" font-family: Helvetica, Ari=
+al, sans-serif; font-weight:lighter; font-size:13px; color:#003E74; text-de=
+coration:none;">Flights</a></td>
+<td class=3D"nav_vis" align=3D"center" style=3D"padding: 1px 1px 1px 1px;">=
+<a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df1=
+e&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.77=
+1830765.116891364." target=3D"_blank" style=3D" font-family: Helvetica, Ari=
+al, sans-serif; font-weight:lighter; font-size:13px; color:#003E74; text-de=
+coration:none;">Flights + Hotels</a></td>
+<td class=3D"nav_vis" align=3D"center" style=3D"padding: 1px 1px 1px 1px;">=
+<a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df1=
+f&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.77=
+1830765.116891364." target=3D"_blank" style=3D" font-family: Helvetica, Ari=
+al, sans-serif; font-weight:lighter; font-size:13px; color:#003E74; text-de=
+coration:none;">Cars</a></td>
+<td class=3D"nav_hid" align=3D"center" style=3D"padding: 1px 1px 1px 1px;">=
+<a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df2=
+0&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.77=
+1830765.116891364." target=3D"_blank" style=3D" font-family: Helvetica, Ari=
+al, sans-serif; font-weight:lighter; font-size:13px; color:#003E74; text-de=
+coration:none;">Cruises</a></td>
+<td class=3D"nav_hid" align=3D"center" style=3D"padding: 1px 1px 1px 1px;">=
+<a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df2=
+1&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.77=
+1830765.116891364." target=3D"_blank" style=3D" font-family: Helvetica, Ari=
+al, sans-serif; font-weight:lighter; font-size:13px; color:#003E74; text-de=
+coration:none;">Deals</a></td>
+</tr>
+</table>
+<!-- /\/\----------------primary nav----------------/\/\-->
+
+
+
+
+
+
+
+
+
+
+
+<!-- body-->  
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr>
+  <td bgcolor=3D"#f5f5f5" align=3D"center" style=3D"border-bottom:1px solid=
+ #e9edf0; border-right:1px solid #e9edf0; border-left:1px solid #e9edf0;">
+    <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=
+ 
+    <tr>
+      <td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /\/\----------------hero message----------------/\/\-->
+<table class=3D"full-table-width" width=3D"600" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+<tr>
+<td valign=3D"top"><a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f9=
+35,2e0133ed,2e02df22&p1=3D&emlcid=3Dtravelocity-us.mr.24_blue_20161114_unen=
+g_D..hot-segmX.771830765.116891364." target=3D"_blank" style=3D"font-size: =
+35px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color=
+: #ffffff; text-decoration: none;"><img src=3D"https://images.trvl-media.co=
+m/media/content/expus/graphics/promos/deals/tvly/160523_24hour_600.jpg" bor=
+der=3D"0" width=3D"100%" alt=3D"" style=3D"display:block;"></a></td>
+</tr>
+</table>
+<!-- /\/\----------------hero message----------------/\/\-->
+<table bgcolor=3D"#003e74" border=3D"0" cellpadding=3D"0" cellspacing=3D"10=
+" width=3D"100%">
+<tr>
+  <td align=3D"center"><a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh12=
+41f935,2e0133ed,2e02df23&p1=3D&emlcid=3Dtravelocity-us.mr.24_blue_20161114_=
+uneng_D..hot-segmX.771830765.116891364." style=3D"font-family:Helvetica, Ar=
+ial, sans-serif; font-size:28px; font-weight:lighter; text-decoration:none;=
+ color:#ffffff" target=3D"_blank">Click below to browse today's deals</td>
+</tr>
+<tr>
+  <td align=3D"center"><a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh12=
+41f935,2e0133ed,2e02df24&p1=3D&emlcid=3Dtravelocity-us.mr.24_blue_20161114_=
+uneng_D..hot-segmX.771830765.116891364." style=3D"font-family:Helvetica, Ar=
+ial, sans-serif; font-size:18px; font-weight:lighter; text-decoration:none;=
+ color:#ffffff" target=3D"_blank">Deals change daily at 12:00 AM (PDT)</td>
+</tr>
+</table>
+<!-- /\/\----------------hero message----------------/\/\-->
+
+<table class=3D"full-table-width" width=3D"600" border=3D"0" cellpadding=3D=
+"10" cellspacing=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" bgcolor=3D"#003e74">
+
+
+    <table cellpsacing=3D"0" cellpadding=3D"0" border=3D"0"  class=3D"butto=
+n-m-exapnd">
+    <tr>
+      <td style=3D"padding: 12px 12px 12px 12px; background-color:#da8520; =
+border-radius: 2px; border:1px solid #ffffff;" align=3D"center"><a href=3D"=
+http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df25&p1=3D&eml=
+cid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.771830765.11689=
+1364." target=3D"_blank" style=3D"font-size: 16px; font-family: Arial, sans=
+-serif; font-weight: normal; color: #ffffff; text-decoration: none;">Save f=
+or 24 Hours Only ></a></td>
+    </tr>
+    </table>
+
+
+</td>
+</tr>
+</table>
+
+
+            </td>
+    </tr>
+    </table> 
+
+  </td>
+</tr>
+<tr>
+  <td bgcolor=3D"#1d5890" style=3D"border-top:1px solid #cccccc;"></td>
+</tr>
+</table>
+<!-- body-->
+
+
+<!-- /\/\---------------- canopy subs ----------------/\/\-->
+<table width=3D"100%" border=3D"0" cellspacing=3D"4" cellpadding=3D"4" styl=
+e=3D"padding:6px 6px 6px 6px;" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"column-drop" valign=3D"top" align=3D"center">
+  <a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02d=
+f26&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.=
+771830765.116891364." target=3D"_blank" style=3D"font-size: 35px; font-fami=
+ly: Helvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text=
+-decoration: none;"><img src=3D"http://t.ac.travelocity.com/res/travelocity=
+/161111_bf-comingsoon_300.png" border=3D"0" width=3D"280" alt=3D"" style=3D=
+"display:block;"></a>
+</td>
+<td class=3D"column-drop" valign=3D"top" align=3D"center">
+
+  <a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02d=
+f27&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.=
+771830765.116891364." target=3D"_blank" style=3D"font-size: 35px; font-fami=
+ly: Helvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text=
+-decoration: none;"><img src=3D"http://t.ac.travelocity.com/res/travelocity=
+/161107_PuertoPlata_300x250.png" border=3D"0" width=3D"280" alt=3D"" style=
+=3D"display:block;"></a></td>
+</tr>   
+</table>
+<!-- /\/\---------------- canopy subs ----------------/\/\-->
+
+
+
+
+
+
+<!-- social-->  
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"center">
+    <table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"1">
+      <tr>
+        <td align=3D"center" valign=3D"top"><a href=3D"http://t.ac.traveloc=
+ity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df28&p1=3D=3Femlcid=3Dtravelocity-=
+us.mr.24_blue_20161114_uneng_D..hot-segmX.771830765.116891364." target=3D"_=
+blank"><img src=3D"http://images.trvl-media.com/media/content/expus/graphic=
+s/promos/deals/tvly/fb_icon_120513.jpg" border=3D"0" alt=3D"Facebook" style=
+=3D"display:block;"></a></td>
+        <td align=3D"center" valign=3D"top"><a href=3D"http://t.ac.traveloc=
+ity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df29&p1=3D=3Femlcid=3Dtravelocity-=
+us.mr.24_blue_20161114_uneng_D..hot-segmX.771830765.116891364." target=3D"_=
+blank"><img src=3D"http://images.trvl-media.com/media/content/expus/graphic=
+s/promos/deals/tvly/twitter_icon_120513.jpg" border=3D"0" alt=3D"Twitter" s=
+tyle=3D"display:block;"></a></td>
+        <td align=3D"center" valign=3D"top"><a href=3D"http://t.ac.traveloc=
+ity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df2a&p1=3D=3Femlcid=3Dtravelocity-=
+us.mr.24_blue_20161114_uneng_D..hot-segmX.771830765.116891364." target=3D"_=
+blank"><img src=3D"http://images.trvl-media.com/media/content/expus/graphic=
+s/promos/deals/tvly/pin_icon_120513.jpg" border=3D"0" alt=3D"Pintrest" styl=
+e=3D"display:block;"></a></td>
+        <td align=3D"center" valign=3D"top"><a href=3D"http://t.ac.traveloc=
+ity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df2b" target=3D"_blank"><img src=
+=3D"http://t.ac.travelocity.com/res/travelocity/gplus_icon_120513.jpg" bord=
+er=3D"0" alt=3D"Google +" style=3D"display:block;"></a></td>
+        <td align=3D"center" valign=3D"top"><a href=3D"http://t.ac.traveloc=
+ity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df2c&p1=3D=3Femlcid=3Dtravelocity-=
+us.mr.24_blue_20161114_uneng_D..hot-segmX.771830765.116891364." target=3D"_=
+blank"><img src=3D"http://t.ac.travelocity.com/res/travelocity/yt_icon_1205=
+13.jpg" border=3D"0" alt=3D"YouTube" style=3D"display:block;"></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<!-- social--> 
+
+<!--ROW 600x75 ------------------------------------------------------------=
+--------- -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" styl=
+e=3D"padding:0px 0px 0px 0px;" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"column-drop" valign=3D"top" align=3D"center">
+  <a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02d=
+f2d" target=3D"_blank" style=3D"font-size: 35px; font-family: Helvetica, Ar=
+ial, sans-serif; font-weight: normal; color: #ffffff; text-decoration: none=
+;"><img src=3D"http://t.ac.travelocity.com/res/travelocity/151027_us_Disney=
+_WDW_Update_7076_Responsive_600x154_v1.jpg" border=3D"0" width=3D"600" alt=
+=3D"" style=3D"display:block;"></a></td>
+</tr>   
+</table> 
+<!--ROW 600x75 ------------------------------------------------------------=
+--------- -->
+
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"1" cellpadding=3D"2" bgco=
+lor=3D"#ffffff">
+  <tr>
+    <td class=3D"column-drop">
+    <a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e0=
+2df2e&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segm=
+X.771830765.116891364." target=3D"_blank" style=3D"font-family:Arial;font-s=
+ize:14px;color:#0065b8;text-decoration:none;"><img src=3D"http://t.ac.trave=
+locity.com/res/travelocity/160929_Mobile-Banner.png" width=3D"100%" border=
+=3D"0" alt=3D"" style=3D"display:block;">
+    </a>
+    </td>
+
+<!--  
+    <img src=3D"http://t.ac.travelocity.com/res/travelocity/160908_App_Bann=
+er.png" width=3D"100%" border=3D"0" alt=3D"" style=3D"display:block;">
+
+    <td class=3D"column-drop"><p><a href=3D"http://www.travelocity.com/app=
+=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.771830765=
+.116891364." 
+    target=3D"_blank" style=3D"font-family:Arial;font-size:14px;color:#0065=
+b8;text-decoration:none;">
+    Plan & book on-the-go with Travelocity's mobile app!</a>
+    <a href=3D"http://www.travelocity.com/app=3Femlcid=3Dtravelocity-us.mr.=
+24_blue_20161114_uneng_D..hot-segmX.771830765.116891364." 
+    target=3D"_blank" style=3D"font-family:Arial;font-size:12px;color:#0065=
+b8;text-decoration:none;"><strong><br />
+    Discover More &gt;</strong></a>
+    </td>
+    <td class=3D"column-drop" align=3D"right">
+        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"1">
+      <tr>
+        <td align=3D"center"><a href=3D"https://178620.measurementapi.com/s=
+erve=3Faction=3Dclick&publisher_id=3D178620&site_id=3D107614&my_campaign=3D=
+EMAIL&my_publisher=3DEMAIL&my_site=3DEMAIL&my_adgroup=3DMOBILE&my_ad=3Deml.=
+travelocity-us.mr.24_blue_20161114_uneng_D.mobile.hot-segmX.771830765.11689=
+1364.&my_placement=3DEMAIL" target=3D"_blank" style=3D"font-size: 10px; fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #999999=
+; text-decoration: none;"><img src=3D"http://images.trvl-media.com/media/co=
+ntent/expus/graphics/promos/deals/tvly/apple-badge3.jpg" width=3D"101" bord=
+er=3D"0" alt=3D"" style=3D"display:block;"></a></td>
+        <td align=3D"center"><a href=3D"https://178620.measurementapi.com/s=
+erve=3Faction=3Dclick&publisher_id=3D178620&site_id=3D107616&my_campaign=3D=
+EMAIL&my_publisher=3DEMAIL&my_site=3DEMAIL&my_adgroup=3DMOBILE&my_ad=3Deml.=
+travelocity-us.mr.24_blue_20161114_uneng_D.mobile.hot-segmX.771830765.11689=
+1364.&my_placement=3DEMAIL" target=3D"_blank" style=3D"font-size: 10px; fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #999999=
+; text-decoration: none;"><img src=3D"http://images.trvl-media.com/media/co=
+ntent/expus/graphics/promos/deals/tvly/160510_google-play-badge2.jpg" width=
+=3D"117" border=3D"0" alt=3D"" style=3D"display:block;"></a></td>
+      </tr> 
+    </table>
+    </td>
+-->
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+<!-- dis-->  
+ 
+<TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" align=3Dcenter bgColo=
+r=3D#ffffff border=3D0>
+<TBODY>
+<TR>
+<TD align=3Dleft><FONT style=3D"FONT-SIZE: 11px; FONT-FAMILY: Helvetica, Ar=
+ial, sans-serif; COLOR: #999999"><STRONG>SUBSCRIPTION INFORMATION</STRONG><=
+BR>You are receiving this email because you are a Travelocity customer or y=
+ou signed up to receive promotional emails.<BR>Please add <A style=3D"FONT-=
+SIZE: 11px; TEXT-DECORATION: none; FONT-FAMILY: Helvetica, Arial, sans-seri=
+f; COLOR: #3366ff" href=3D"mailto:travelocity@ac.travelocity.com" target=3D=
+_blank>travelocity@ac.travelocity.com</A> to your address book / safe sende=
+rs list to ensure that you receive our emails. You qualified for this email=
+ based on your email preferences. If you would like to stop receiving promo=
+tional emails from us, you can opt-out below. If you need additional assist=
+ance, please <a style=3D"FONT-SIZE: 11px; TEXT-DECORATION: none; FONT-FAMIL=
+Y: Helvetica, Arial, sans-serif; COLOR: #3366ff" href=3D"http://t.ac.travel=
+ocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02df2f&p1=3D=3Femlcid=3Dtravelocit=
+y-us.mr.24_blue_20161114_uneng_D..hot-segmX.771830765.116891364." target=3D=
+"_blank">email us</A> anytime. <BR><BR><B>EMAIL PREFERENCES</B> <BR><a styl=
+e=3D"FONT-SIZE: 11px; TEXT-DECORATION: none; FONT-FAMILY: Helvetica, Arial,=
+ sans-serif; COLOR: #3366ff" href=3D"http://t.ac.travelocity.com/r/=3Fid=3D=
+h1241f935,2e0133ed,2e02df30&p1=3D/webApp/trvPromoSubCenterEnc=3Fid=3D%403Q7=
+dxRQA5PJZFnjfWr5hAQ%3D%3D&tpid=3D80001&langid=3DEN&emlcid=3Dtravelocity-us.=
+mr.24_blue_20161114_uneng_D.email_pref.gen-segmX.771830765.116891364.0" tar=
+get=3D"_blank">Update Your Preferences</A><BR>Please allow 48 hours for you=
+r Email Preferences setting to be updated.<BR>Your privacy is important to =
+us. View our <a style=3D"FONT-SIZE: 11px; TEXT-DECORATION: none; FONT-FAMIL=
+Y: Helvetica, Arial, sans-serif; COLOR: #3366ff" href=3D"http://t.ac.travel=
+ocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02dfc7&p1=3D=3Femlcid=3Dtravelocit=
+y-us.mr.24_blue_20161114_uneng_D..hot-segmX.771830765.116891364." target=3D=
+"_blank">privacy policy</A>.</FONT> <BR><BR><FONT style=3D"FONT-SIZE: 9px; =
+FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: #999999">If you would lik=
+e to be permanently removed from the receipt of all promotional, discount o=
+ffers and specials, travel advisories and information you may <a style=3D"F=
+ONT-SIZE: 9px; TEXT-DECORATION: none; FONT-FAMILY: Helvetica, Arial, sans-s=
+erif; COLOR: #3366ff" href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f9=
+35,2e0133ed,2e02dfc8&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_un=
+eng_D..hot-segmX.771830765.116891364.&p2=3D%403Q7dxRQA5PJZFnjfWr5hAQ%3D%3D&=
+p3=3DTVLY24HR" target=3D"_blank">Unsubscribe</A> from all Travelocity email=
+s.<BR>Please allow 5-10 business days for your unsubscribe request to be pr=
+ocessed.<BR></FONT></TD></TR></TBODY></TABLE>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"5" align=3D"center" wi=
+dth=3D"100%">
+<tr><td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:11px; =
+color:#999999" align=3D"left" valign=3D"top">
+
+<IMG SRC=3D"https://ad.doubleclick.net/ddm/ad/N6344.1207.TRAVELOCITY.COM/B1=
+0408507.140876647;sz=3D1x1;ord=3D116891364;dc_lat=3D;dc_rdid=3D;tag_for_chi=
+ld_directed_treatment=3D=3F" BORDER=3D0 WIDTH=3D1 HEIGHT=3D1 ALT=3D"Adverti=
+sement">
+
+<br /><strong>TERMS AND CONDITIONS</strong><br />
+<ul>
+<li>Special offers are only available at participating 
+                    hotels. Prices shown above include applicable discount.=
+ 
+                    Hotel savings are based upon Travelocity's everyday hot=
+el 
+                    rates, excluding taxes and other fees. Minimum stay may=
+ be 
+                    required. Sample pricing is per person based on double 
+                    occupancy. Offers are subject to availability and may b=
+e 
+                    discontinued without notice. Additional restrictions an=
+d 
+                    blackout dates may apply. Offers are subject to availab=
+ility 
+                    and may be discontinued without notice. Sample rates 
+                    displaying above are for the travel period represented.=
+ 
+                    Sample air/hotel packages above include accommodation p=
+lus 
+                    roundtrip air for travel during the noted time period. 
+                    Sample air/hotel package prices are per person, based u=
+pon 
+                    double occupancy. Package prices vary by date, departur=
+e 
+                    city, and availability. Sample air/hotel package prices=
+ 
+                    include taxes and fees. Offers are subject to availabil=
+ity 
+                    and may be discontinued without notice. Additional 
+                    restrictions and blackout dates may apply. 
+                    <LI>Savings based on all vacation package bookings with=
+ 
+                    Flight + Hotel on Travelocity.com from January 6, 2014 
+                    through July 6, 2014, as compared to price of the same 
+                    components booked separately. Savings will vary based o=
+n 
+                    origin/destination, length of trip, stay dates and sele=
+cted 
+                    travel supplier(s). Savings not available on all packag=
+es. </li>
+</ul>
+ 
+
+
+    </td>
+  </tr>
+</table>
+
+<table border=3D"0" bgcolor=3D"#FFFFFF" cellspacing=3D"0" cellpadding=3D"5"=
+ align=3D"center" width=3D"100%">
+  <tr>
+    <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:11px; =
+color:#999999" align=3D"left" valign=3D"top">
+    <a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e0=
+2dfc9&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segm=
+X.771830765.116891364." style=3D"font-family:Helvetica, Arial, sans-serif; =
+font-size:11px; text-decoration:none; color:#3366ff" target=3D"_blank">www.=
+travelocity.com</a> | 
+    <a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e0=
+2dfca&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segm=
+X.771830765.116891364." style=3D"font-family:Helvetica, Arial, sans-serif; =
+font-size:11px; text-decoration:none; color:#3366ff" target=3D"_blank">    =
+Travelocity Customer Care</a> | 108th Avenue NE Bellevue, WA 98004, USA
+    <br>&copy; 1996-2016 Travelscape LLC. All rights reserved. Travelocity,=
+ the Stars Design, and The Roaming Gnome Design are trademarks of Travelsca=
+pe LLC. Use of this Web site constitutes acceptance of the Travelocity  <a =
+href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1241f935,2e0133ed,2e02dfcb&p=
+1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_20161114_uneng_D..hot-segmX.77183=
+0765.116891364." style=3D"text-decoration:none;" target=3D"_blank">User Agr=
+eement</a> 
+    and <a target=3D"_blank" href=3D"http://t.ac.travelocity.com/r/=3Fid=3D=
+h1241f935,2e0133ed,2e02dfcc&p1=3D=3Femlcid=3Dtravelocity-us.mr.24_blue_2016=
+1114_uneng_D..hot-segmX.771830765.116891364." style=3D"text-decoration: non=
+e;">Privacy Policy</a>. CST# 2056372-50</td>
+  </tr>
+</table>
+<!-- dis-->  
+
+
+
+
+
+
+
+
+
+
+  </td>
+</tr>
+</table>
+<!-- m-container table-->  
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  </td>
+</tr>
+</table>
+<!-- m-wrap table-->
+
+
+<img height=3D'0' width=3D'0' alt=3D'' src=3D'http://t.ac.travelocity.com/r=
+/=3Fid=3Dh1241f935,2e0133ed,1'/></body>
+</html>
+

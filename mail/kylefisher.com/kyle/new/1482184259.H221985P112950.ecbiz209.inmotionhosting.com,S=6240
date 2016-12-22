@@ -1,0 +1,201 @@
+Return-path: <201612192150562d968009fff24ac7ac4e7992f610p0na@bounces.amazon.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 19 Dec 2016 16:50:59 -0500
+Received: from a13-8.smtp-out.amazonses.com ([54.240.13.8]:40191)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <201612192150562d968009fff24ac7ac4e7992f610p0na@bounces.amazon.com>)
+	id 1cJ5pj-000TNV-2X
+	for kyle@kylefisher.com; Mon, 19 Dec 2016 16:50:59 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=jvxsykglqiaiibkijmhy37vqxh4mzqr6; d=amazon.com; t=1482184256;
+	h=From:To:Message-ID:Subject:MIME-Version:Content-Type:Date;
+	bh=itUDe2Kos9Qsrh9Nh4oHlIXAqJR5f+3/Ssv4PAAD69w=;
+	b=u//1pj0RfMBId+U221fYyGbG0K5ellZ2bklilxGFzbBDXp/rqPmITHgqga93Fmt8
+	YlBcV5aYcVpjJLmQfhZ7Q+fDfozun+nsnJFqJ1eJegCE/bMslFhgTiVnUn34R03F+cS
+	FCXvkmlkSbV3w/9Vv9WN5Iir/HV5YRR53BPrVhl4=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1482184256;
+	h=From:To:Message-ID:Subject:MIME-Version:Content-Type:Date:Feedback-ID;
+	bh=itUDe2Kos9Qsrh9Nh4oHlIXAqJR5f+3/Ssv4PAAD69w=;
+	b=F3FP/wYbHMI3f/mE1UqrqykNf48rA3L2yxjDC7cO1AqJgDOlr01/i6hp/JNGJ7YY
+	EhJOkntLVBFgQSFGa0mLsfge+An2w6zh0SYXwmlpSn7tEkA3FntAQd2w3XMgdO47xY/
+	kB/M0QuO6w+k3bNeRctq60Frb+EXgJd+5Wn8p5w4=
+From: Amazon <account-update@amazon.com>
+To: kyle@kylefisher.com
+Message-ID: <010001591910ec53-e0ac56d0-5012-491c-8146-e04cf87d28e7-000000@email.amazonses.com>
+Subject: Amazon password assistance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_46270_1869055922.1482184256566"
+X-AMAZON-MAIL-RELAY-TYPE: notification
+Bounces-to: 201612192150562d968009fff24ac7ac4e7992f610p0na@bounces.amazon.com
+X-AMAZON-METADATA: CA=C1HRFLBWX4HK1T-RI=ALAJWFVSEIPA7
+X-Original-MessageID: <urn.rtn.msg.201612192150562d968009fff24ac7ac4e7992f610p0na@1482184256566.rtn-svc-na-1a-f07f6b80.us-east-1.amazon.com>
+Date: Mon, 19 Dec 2016 21:50:56 +0000
+X-SES-Outgoing: 2016.12.19-54.240.13.8
+Feedback-ID: 1.us-east-1.ZHcGJK6s+x+i9lRHKog4RW3tECwWIf1xzTYCZyUaiec=:AmazonSES
+
+------=_Part_46270_1869055922.1482184256566
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+  <html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style type="text/css">
+body {
+    margin:0;
+    color:#333;
+}
+
+a {
+    text-decoration:none;
+    color:#006699;
+}
+
+p {
+    margin:0px;
+}
+
+img {
+    border:0;
+    margin:0;
+}
+
+/* container */
+#container {
+    width:540px;
+    margin:0 auto;
+}
+
+#content {
+    width:500px;
+    margin:0 20px;
+}
+
+/* header */
+#header {
+    border-bottom:1px solid #eaeaea;
+    padding-top:10px;
+    padding-left:0px;
+    padding-right:0px;
+    padding-bottom:10px;
+}
+
+#title p{
+    font-size:20px;
+    font-family: "arial", "sans-serif";
+}
+
+#amazonLogo{
+    width:107px;
+    height:31px;
+}
+
+/* verification msg */
+#verificationMsg {
+    padding-left:0;
+    padding-top:9px;
+    padding-bottom:9px;
+}
+
+#verificationMsg p {
+    font-size:14px;
+    font-family: "arial", "sans-serif";
+}
+
+#verificationMsg .otp {
+    font-size:18px;
+    font-weight:bold;
+}
+
+/* account security */
+#accountSecurity {
+    padding-left:0;
+    padding-top:9px;
+    padding-bottom:9px;
+}
+
+#accountSecurity p {
+    font-size:12px;
+    font-family: "arial", "sans-serif";
+}
+
+/* closing */
+#closing {
+    padding-left:0;
+    padding-top:9px;
+    padding-bottom:9px;
+}
+
+#closing p {
+    font-size:14px;
+    font-family: "arial", "sans-serif";
+}
+
+#closing .signature {
+    font-size:14px;
+    font-weight:bold;
+}
+
+
+
+    </style>
+    <title></title>
+  </head>
+  <body><img width="1" height="1" src="https://www.amazon.com/gp/r.html?C=PEZFBQGDUNSN&R=3VYJV73QQALTF&T=O&U=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&A=YOXO3ROWDNNTEUHM0PKEMLBQMJAA&H=TAV5EUMHH4MEUOART5URUVJFORKA&ref_=pe_1568390_127719720_opens" />
+  <table align="center" cellspacing="0" id="container" cellpadding="0">
+    <tbody>
+    <tr>
+      <td>
+        <table cellspacing="0" id="content" cellpadding="0">
+          <tbody>
+          <tr>
+            <td id="header">
+              <table cellspacing="0" cellpadding="0">
+                <tbody>
+                <tr>
+                  <td width="250" id="logo">
+                    <a href="https://www.amazon.com/gp/r.html?C=PEZFBQGDUNSN&R=3VYJV73QQALTF&T=C&U=https%3A%2F%2Fwww.amazon.com%3Fref_%3Dpe_1568390_127719720&A=EX6CIQ0QTRHPQ0JK2AKDA7VVD9SA&H=UTS51HEBDP6WAVHA84QKX7XCOWWA&ref_=pe_1568390_127719720">
+<img src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/te/logo._CB152417367_.png" id="amazonLogo"/>                    </a>
+                  </td>
+                  <td width="250" id="title" valign="top" align="right"><p>Password assistance</p></td>
+                </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td id="verificationMsg">
+              <p>To verify your identity, please use the following code:</p>
+              <br/>
+              <p class="otp">684185</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td id="accountSecurity">
+              <p>Amazon takes your account security very seriously. Amazon will never email you and ask you to disclose or verify your Amazon password, credit card, or banking account number. If you receive a suspicious email with a link to update your account information, do not click on the link&mdash;instead, 
+report the email to Amazon for investigation.
+
+              </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td id="closing">
+              <p>We hope to see you again soon. <br/> <span class="signature">Amazon.com</span>
+              </p>
+            </td>
+          </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  <img width="1" height="1" src="https://www.amazon.com/gp/r.html?C=PEZFBQGDUNSN&R=3VYJV73QQALTF&T=E&U=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&A=YSIHUEWJDFR8K4SQ0ANRW2T2HGKA&H=YKFBSHR9NNQGWK1GRCFULIMKDL8A&ref_=pe_1568390_127719720_open" /></body>
+  </html>
+------=_Part_46270_1869055922.1482184256566--

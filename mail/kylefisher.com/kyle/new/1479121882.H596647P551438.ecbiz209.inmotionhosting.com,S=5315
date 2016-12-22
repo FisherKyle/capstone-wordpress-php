@@ -1,0 +1,108 @@
+Return-path: <010001586288c97f-43413254-a446-4c17-973c-ea6ce5995631-000000@amazonses.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 14 Nov 2016 06:11:22 -0500
+Received: from a11-99.smtp-out.amazonses.com ([54.240.11.99]:51882)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <010001586288c97f-43413254-a446-4c17-973c-ea6ce5995631-000000@amazonses.com>)
+	id 1c6FAY-002JS4-HF
+	for kyle@kylefisher.com; Mon, 14 Nov 2016 06:11:22 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=qbj4rklbg4bdssleu37kmepljop2lmma; d=venmo.com; t=1479121881;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date;
+	bh=MHESUa/LjpEcQ0Ghg5vCiBiMjJfdHnUVJefkzpfkLLI=;
+	b=G4GNwhUa3hqqJhfFqWSc2O7WeR7lmn8HF7MOHy3kYZKp2qsti3LDVrsoRj9ndkr7
+	7FjDCxqVsQr3xpJRTbm2l7v4ZZITEFPOPNq/QoxUgsY7q94gjxGubLtk/TJBMydGmuN
+	1EDj0uyMwdRJyqgttkRCnxdLHYcoYcch6exc5xXE=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1479121881;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date:Feedback-ID;
+	bh=MHESUa/LjpEcQ0Ghg5vCiBiMjJfdHnUVJefkzpfkLLI=;
+	b=a1A806G2lRT1FHrO04YWOREokAikKgv90qTAgSewKW9u1a3OxIzCa7P40Ue4Pq94
+	ka5HRv/Iha0tbztfXZgBShFAXGIWKhWOiKoblnhO0XEdyRtZhL43r3UOL1HXlrgf77X
+	3BtVstFVZDMDF4IhPW1fExbFXbjL4GXvwU/nPXj4=
+From: Venmo <venmo@venmo.com>
+Reply-To: no-reply@venmo.com
+To: kyle@kylefisher.com
+Subject: Your October 2016 Transaction History
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Message-ID: <010001586288c97f-43413254-a446-4c17-973c-ea6ce5995631-000000@email.amazonses.com>
+Date: Mon, 14 Nov 2016 11:11:21 +0000
+X-SES-Outgoing: 2016.11.14-54.240.11.99
+Feedback-ID: 1.us-east-1.fQ0yL0IwGSResIpU9lW9fHNtFl/iEQA4Znd52HkQv2U=:AmazonSES
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+<html id="html_container" xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title> - Venmo</title>
+    </head>
+
+    <body style="margin:0;">
+        <div style="font-family:'helvetica neue';">
+            <div style="margin: 20px auto 0; max-width:340px;">
+                
+<div style="text-align:center;">
+  <p style="font-size:20px;">Hi Kyle,</p>
+  <p style="color:#999;margin-bottom:0px;">Your transaction history for October 2016<br />is now available.</p>
+    <table width="100%">
+      <tr>
+        <td style="border:20px transparent solid;">
+            <div style="padding:12px 0;background-color:#3C95D2;border-radius:8px;">
+                <a href="https://venmo.com/account/settings/balance/statement?start=10-01-2016&end=10-31-2016" style="text-decoration:none;color:#fff;display:block;width:100%;">
+                   View History on Venmo.com
+                </a>
+            </div>
+        </td>
+      </tr>
+      <tr style="display: block; padding-top: 20px; color: #999;">
+        <td style="padding-bottom: 20px; display: block;">Venmo sends this notification periodically<br />to help you stay on top of your account activity.</td>
+      </tr>
+    </table>
+    <br />
+</div>
+
+                <table style="
+                    text-align: center;
+                    padding: 24px 20px 20px;
+                    color: #C7C8CA;
+                    font-size: 12px;
+                    margin: 0 auto;
+                    width: 80%;
+                "><tbody>
+                    
+                        <tr><td style="padding-bottom: 20px;">As required by law, we are providing you with this notification of your transaction history. <a href="https://help.venmo.com/hc/en-us/articles/218008288" style="color:#3C95D2; text-decoration:none;">Learn more</a>.</td></tr>
+                    
+                    <tr><td style="padding-bottom: 20px;">Venmo is a service of PayPal, Inc., a licensed provider of money transfer services. All money transmission is provided by PayPal, Inc. pursuant to PayPal, Inc.'s licenses.</td></tr>
+                    <tr><td>PayPal is located at</td></tr>
+                    <tr><td style="padding-bottom: 20px;">2211 N. First Street, San Jose, CA 95131</td></tr>
+                    
+                    
+                    <tr><td style="padding-bottom: 20px;">
+                        Please do not reply directly to this email as you will not receive a response.
+                        
+                        For assistance, please visit our Help Center at <a href="https://help.venmo.com" style="text-decoration: none;">help.venmo.com</a>.
+                        
+                    </td></tr>
+                    
+                    
+                    <tr><td><div style="
+                        width: 100px;
+                        height: 19px;
+                        background: url(https://s3.amazonaws.com/venmo/venmo_logo_blue.png) no-repeat top / 100px 19px;
+                        margin: 0 auto;
+                    "></div></td></tr>
+                </tbody></table>
+            </div>
+            
+                <div><img src="https://venmo.com/vt.png?scat=&u="/></div>
+            
+        </div>
+    </body>
+</html>

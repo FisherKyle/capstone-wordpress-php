@@ -1,0 +1,380 @@
+Return-path: <riyashirvastavriy1@outlook.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 06 Dec 2016 07:26:11 -0500
+Received: from snt004-omc3s28.hotmail.com ([65.55.90.167]:61100)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <riyashirvastavriy1@outlook.com>)
+	id 1cEEp1-004OHR-1v
+	for kyle@kylefisher.com; Tue, 06 Dec 2016 07:26:11 -0500
+Received: from EUR01-VE1-obe.outbound.protection.outlook.com ([65.55.90.136]) by SNT004-OMC3S28.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 6 Dec 2016 04:26:10 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=Qa6Ob1DnufDSm35dmxeVisrPwyu9wtUAAp22KQdhDkE=;
+ b=tZ99p3JT5AvxLr5Tzd8dr/1cJ8L1zGNguCykEudWnVyhXsDkZJmiBbG2BnoogUJkXDmiNGyZxF9ghOo5HGQyPzzijLV9gK6234iBZMu4obKc5sDM5PwwQfrgABPkIuZgm7wGTh67C5xjg5rePTv2lREKU0AlybDnSQHitOWz50OYMFRvrPL/4LtLX2YnbI8VP2lLDrZrhfQsQfYxz/7pUl5tL+3Yojxg+wGBf+ApJugA+osFGw7q/C1PTq1B2vdbgrRlK3wusLUroVAXdGDnLyRqbW8APh9BZHmPPMw/+ZQL5aCS7+SJJTJqQRZYFCJ7+e0aO36qkVpBWIR9vNvt8g==
+Received: from VE1EUR01FT060.eop-EUR01.prod.protection.outlook.com
+ (10.152.2.54) by VE1EUR01HT091.eop-EUR01.prod.protection.outlook.com
+ (10.152.3.159) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.4; Tue, 6 Dec
+ 2016 12:25:58 +0000
+Received: from VI1PR0701MB2238.eurprd07.prod.outlook.com (10.152.2.51) by
+ VE1EUR01FT060.mail.protection.outlook.com (10.152.3.93) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.761.6 via Frontend Transport; Tue, 6 Dec 2016 12:25:57 +0000
+Received: from VI1PR0701MB2238.eurprd07.prod.outlook.com ([10.169.137.141]) by
+ VI1PR0701MB2238.eurprd07.prod.outlook.com ([10.169.137.141]) with mapi id
+ 15.01.0771.008; Tue, 6 Dec 2016 12:25:56 +0000
+From: Riya Shrivastav <riyashirvastavriy1@outlook.com>
+To: Riya Shrivastav <riyashirvastavriy1@outlook.com>
+Subject: Custom Website| Logo Design| Web Services|
+Thread-Topic: Custom Website| Logo Design| Web Services|
+Thread-Index: AQHST7vXkXXnF9VNpUm1EynRXmcXRw==
+Date: Tue, 6 Dec 2016 12:25:56 +0000
+Message-ID: <VI1PR0701MB2238C6CBF09C0D042671DFE48B820@VI1PR0701MB2238.eurprd07.prod.outlook.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: gmail.com; dkim=none (message not signed)
+ header.d=none;gmail.com; dmarc=none action=none header.from=outlook.com;
+x-incomingtopheadermarker: OriginalChecksum:F57FE6A4136B4E55228C51D66751242543ED05D767207ACDAE015015F4014FA0;UpperCasedChecksum:2C05C28F3221AD23F353CC74A7CDD3BF9A86DF129A9BDEE65A5618B66DE06CF2;SizeAsReceived:17028;Count:36
+x-tmn: [l+Tp80JBuB+9FgzwLa3XtwlQlMWXoFzT]
+x-incomingheadercount: 36
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;VE1EUR01HT091;5:fneRI4P0a56AZ+KW2HAIjM/siEmo1xkvDRbFx5kJvk3dC97CER52iPaWkxd9M/XOeLVnr/FoYhJ4Wn08V5GypnnfU/7UmJzaIv/xMMAF2/rS82CI6NBJRRQpcXcqQSTWVmVSk8rLdSOrtxMlaJlNxA==;24:3G2UJ9x0P1Emu1O0ukB//n1dJLLs/REdDNZyPuhoiBbxNrMETPWnBJDDNLjM0C+Z0KdFw/3aEL8S4QAZL7BpLrOJHvNkFltnQwJRIq0RXIA=;7:WA95me2WT0Ze9/jKoYSGlIOlDGu02h2W0yFEBh3F+lPiwEe7U06IQKzX5tWnxTnmPqPi8ncZN5u1XuaZVMMU3NdPEfJ3owx5ztfQGqApUTAfnpExpVTKUkxdsKhhbbdL6tsT+MrKnlK3nK+BQj+etSKBylQkUbMHxooOU78jbKBK4rlUXz0TpORKCJnbFoayamNnP2bOKH9qJsIaPkn264vbsxXSJmPjGx2XzmAdg99wl8yAYlLq0JZIJXtVexRSfS3hILe5H9bLP6O9JAYH3Ucl+9dyUru20GyBqTD+CFIwQNhzkei2y1iBr8rR1QLYVtVXE+s/ZEcMlDUVozFIIbHP3u6MOzlmZUNRaKzAnfs=
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:VE1EUR01HT091;H:VI1PR0701MB2238.eurprd07.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: caeab2ff-7186-40a3-b27a-08d41dd30739
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506293)(5061507293)(1603103113)(1601125047);SRVR:VE1EUR01HT091;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:VE1EUR01HT091;BCL:0;PCL:0;RULEID:;SRVR:VE1EUR01HT091;
+x-forefront-prvs: 01480965DA
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_VI1PR0701MB2238C6CBF09C0D042671DFE48B820VI1PR0701MB2238_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Dec 2016 12:25:56.0707
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VE1EUR01HT091
+X-OriginalArrivalTime: 06 Dec 2016 12:26:10.0567 (UTC) FILETIME=[ED49A170:01D24FBB]
+
+--_000_VI1PR0701MB2238C6CBF09C0D042671DFE48B820VI1PR0701MB2238_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi..!
+
+We are an Indian based Website Design & Development with PHP Development an=
+d offer services at modest rate. We have a dedicated team of 65+ profession=
+al designers and developers with over 8 years of experience and we thrive o=
+n the idea that design makes a difference.
+
+Our services at a glance: -
+
+1.   Website development (Custom Website Development, PHP, Java, .Net Devel=
+opment, Ajax Programming, etc.)
+2.   Website designing (Logo Design, HTML designing, corporate website desi=
+gn, PSD to XHTML/HTML, etc.)
+3.   Open source customization/ CMS (Joomla, Drupal, Wordpress, etc)
+4.   Ecommerce website development (Magento, OS Commerce, Zen Cart integrat=
+ion etc)
+5.   Web Programming Services (PHP MySQL Development, PHP Frameworks, JavaS=
+cript Frameworks etc)
+
+Do let me know if you are willing to discuss a possible redesigning/redevel=
+opment of your website or designing new website. I can send you more detail=
+s on the packages/action/Portfolio/past work details.
+
+I'm waiting for your reply.
+  Merry Christmas<http://www.whychristmas.com/customs/languages.shtml>
+
+PROFESSIONAL    TRUSTWORTHY    RELIABLE    QUALITY    SERVICE
+ Note: - Though this is not an automated email, we keep on sending out thes=
+e emails to all those people whom we find eligible of using our services. T=
+o unsubscribe from future mails (i.e., to ensure that we do not contact you=
+ again for this matter), please send a blank mail to email with NO as Subje=
+ct.
+
+
+
+
+
+
+--_000_VI1PR0701MB2238C6CBF09C0D042671DFE48B820VI1PR0701MB2238_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; background-image: =
+initial; background-attachment: initial; background-size: initial; backgrou=
+nd-origin: initial; background-clip: initial; background-position: initial;=
+ background-repeat: initial;">
+<span lang=3D"EN-CA" style=3D"font-size:=0A=
+10.0pt;font-family:&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-f=
+amily:&quot;Times New Roman&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#002060;mso-ansi-lan=
+guage:EN-CA">Hi..!
+</span><b><span lang=3D"EN-CA" style=3D"font-size:8.0pt;font-family:Raavi;m=
+so-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;color:red;mso-ansi-language:EN-CA"><o:p></o:p><=
+/span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; background-image: =
+initial; background-attachment: initial; background-size: initial; backgrou=
+nd-origin: initial; background-clip: initial; background-position: initial;=
+ background-repeat: initial;">
+<span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:=0A=
+&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times N=
+ew Roman&quot;;mso-bidi-font-family:=0A=
+&quot;Times New Roman&quot;;color:#002060;mso-ansi-language:EN-CA">&nbsp;<b=
+r>
+We are an Indian based Website Design &amp; Development with PHP Developmen=
+t and offer services at modest rate. We have a dedicated team of 65&#43; pr=
+ofessional designers and developers with over 8 years of experience and we =
+thrive on the idea that design makes a difference.<br>
+&nbsp;<br>
+<b><u>Our services at a glance: -</u></b></span><span lang=3D"EN-CA" style=
+=3D"font-size:10.0pt;font-family:&quot;Bell MT&quot;,&quot;serif&quot;;mso-=
+fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#0070C0;=0A=
+mso-ansi-language:EN-CA"><br>
+&nbsp;<br>
+</span><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot;Bel=
+l MT&quot;,&quot;serif&quot;;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&q=
+uot;Times New Roman&quot;;=0A=
+color:#002060;mso-ansi-language:EN-CA">1.&nbsp; &nbsp;Website development</=
+span><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot;Bell =
+MT&quot;,&quot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#0070C0;=0A=
+mso-ansi-language:EN-CA">&nbsp;</span><b><span lang=3D"EN-CA" style=3D"font=
+-size: 10pt; font-family: 'Bell MT', serif;">(</span></b><span lang=3D"EN-C=
+A" style=3D"font-size:10.0pt;font-family:&quot;Bell MT&quot;,&quot;serif&qu=
+ot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#4F6228;=0A=
+mso-ansi-language:EN-CA">Custom
+ Website Development, PHP, Java, .Net Development, Ajax Programming, etc</s=
+pan><b><span lang=3D"EN-CA" style=3D"font-size: 10pt; font-family: 'Bell MT=
+', serif;">.)<br>
+</span></b><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot=
+;Bell MT&quot;,&quot;serif&quot;;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&q=
+uot;Times New Roman&quot;;=0A=
+color:#002060;mso-ansi-language:EN-CA">2.&nbsp;&nbsp; Website designing</sp=
+an><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot;Bell MT=
+&quot;,&quot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#0070C0;=0A=
+mso-ansi-language:EN-CA">&nbsp;</span><b><span lang=3D"EN-CA" style=3D"font=
+-size: 10pt; font-family: 'Bell MT', serif;">(</span></b><span lang=3D"EN-C=
+A" style=3D"font-size:10.0pt;font-family:&quot;Bell MT&quot;,&quot;serif&qu=
+ot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#4F6228;=0A=
+mso-ansi-language:EN-CA">Logo
+ Design, HTML designing, corporate website design, PSD to XHTML/HTML, etc.<=
+/span><b><span lang=3D"EN-CA" style=3D"font-size: 10pt; font-family: 'Bell =
+MT', serif;">)&nbsp;</span></b><span lang=3D"EN-CA" style=3D"font-size:10.0=
+pt;font-family:&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-famil=
+y:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#0070C0;=0A=
+mso-ansi-language:EN-CA"><br>
+</span><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot;Bel=
+l MT&quot;,&quot;serif&quot;;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&q=
+uot;Times New Roman&quot;;=0A=
+color:#002060;mso-ansi-language:EN-CA">3.&nbsp;&nbsp; Open source customiza=
+tion/ CMS</span><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:=
+=0A=
+&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times N=
+ew Roman&quot;;mso-bidi-font-family:=0A=
+&quot;Times New Roman&quot;;color:#0070C0;mso-ansi-language:EN-CA">&nbsp;</=
+span><b><span lang=3D"EN-CA" style=3D"font-size: 10pt; font-family: 'Bell M=
+T', serif;">(</span></b><span lang=3D"EN-CA" style=3D"font-size:10.0pt;=0A=
+font-family:&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&=
+quot;Times New Roman&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#4F6228;mso-ansi-lan=
+guage:EN-CA">Joomla,
+ Drupal, Wordpress, etc</span><b><span lang=3D"EN-CA" style=3D"font-size: 1=
+0pt; font-family: 'Bell MT', serif;">)<br>
+</span></b><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot=
+;Bell MT&quot;,&quot;serif&quot;;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&q=
+uot;Times New Roman&quot;;=0A=
+color:#002060;mso-ansi-language:EN-CA">4.&nbsp;&nbsp; Ecommerce website dev=
+elopment</span><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&=
+quot;Bell MT&quot;,&quot;serif&quot;;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&q=
+uot;Times New Roman&quot;;=0A=
+color:#0070C0;mso-ansi-language:EN-CA">&nbsp;</span><b><span lang=3D"EN-CA"=
+ style=3D"font-size: 10pt; font-family: 'Bell MT', serif;">(</span></b><spa=
+n lang=3D"EN-CA" style=3D"font-size:10.0pt;=0A=
+font-family:&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&=
+quot;Times New Roman&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#4F6228;mso-ansi-lan=
+guage:EN-CA">Magento,
+ OS Commerce, Zen Cart integration etc</span><b><span lang=3D"EN-CA" style=
+=3D"font-size: 10pt; font-family: 'Bell MT', serif;">)&nbsp;</span></b><spa=
+n lang=3D"EN-CA" style=3D"font-size:=0A=
+10.0pt;font-family:&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-f=
+amily:&quot;Times New Roman&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#0070C0;mso-ansi-lan=
+guage:EN-CA"><br>
+</span><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot;Bel=
+l MT&quot;,&quot;serif&quot;;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&q=
+uot;Times New Roman&quot;;=0A=
+color:#002060;mso-ansi-language:EN-CA">5.&nbsp;&nbsp; Web Programming Servi=
+ces</span><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot;=
+Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#0070C0;=0A=
+mso-ansi-language:EN-CA">&nbsp;</span><b><span lang=3D"EN-CA" style=3D"font=
+-size: 10pt; font-family: 'Bell MT', serif;">(</span></b><span lang=3D"EN-C=
+A" style=3D"font-size:10.0pt;font-family:&quot;Bell MT&quot;,&quot;serif&qu=
+ot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#4F6228;=0A=
+mso-ansi-language:EN-CA">PHP
+ MySQL Development, PHP Frameworks, JavaScript Frameworks etc</span><b><spa=
+n lang=3D"EN-CA" style=3D"font-size: 10pt; font-family: 'Bell MT', serif;">=
+)</span></b><span style=3D"font-size: 9pt;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; background-image: =
+initial; background-attachment: initial; background-size: initial; backgrou=
+nd-origin: initial; background-clip: initial; background-position: initial;=
+ background-repeat: initial;">
+<span style=3D"font-size:10.0pt;=0A=
+font-family:&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&=
+quot;Times New Roman&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#0070C0">&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;
+</span><span style=3D"font-size: 9pt;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; background-image: =
+initial; background-attachment: initial; background-size: initial; backgrou=
+nd-origin: initial; background-clip: initial; background-position: initial;=
+ background-repeat: initial;">
+<span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:=0A=
+&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times N=
+ew Roman&quot;;mso-bidi-font-family:=0A=
+&quot;Times New Roman&quot;;color:#002060;mso-ansi-language:EN-CA">Do let m=
+e know if you are willing to discuss a possible redesigning/redevelopment
+ of your website or designing new website. I can send</span><span lang=3D"E=
+N-CA" style=3D"font-size:10.0pt;=0A=
+mso-bidi-font-size:11.0pt;font-family:&quot;Bell MT&quot;,&quot;serif&quot;=
+;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#0070C0;=0A=
+mso-ansi-language:EN-CA">&nbsp;</span><span lang=3D"EN-CA" style=3D"font-si=
+ze:10.0pt;=0A=
+font-family:&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&=
+quot;Times New Roman&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#002060;mso-ansi-lan=
+guage:EN-CA">you
+ more details on the packages/action/Portfolio/past work details.</span><sp=
+an lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot;Bell MT&quot;=
+,&quot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#0070C0;=0A=
+mso-ansi-language:EN-CA"><br>
+&nbsp;<br>
+</span><span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:&quot;Bel=
+l MT&quot;,&quot;serif&quot;;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&q=
+uot;Times New Roman&quot;;=0A=
+color:#215868;mso-ansi-language:EN-CA">I&#8217;m waiting for your reply.<o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt;"><span style=3D"fo=
+nt-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">&nbsp;
+</span><a href=3D"http://www.whychristmas.com/customs/languages.shtml"><b><=
+span style=3D"font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:=0A=
+&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Time=
+s New Roman&quot;;color:#660099;=0A=
+text-decoration:none;text-underline:none">Merry
+ Christmas</span></b></a><b><span style=3D"font-size:10.5pt;font-family:=0A=
+&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Time=
+s New Roman&quot;;color:#222222">
+<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; background-image: =
+initial; background-attachment: initial; background-size: initial; backgrou=
+nd-origin: initial; background-clip: initial; background-position: initial;=
+ background-repeat: initial;">
+<span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:=0A=
+&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times N=
+ew Roman&quot;;mso-bidi-font-family:=0A=
+&quot;Times New Roman&quot;;color:#215868;mso-ansi-language:EN-CA"><br>
+</span><span lang=3D"EN-CA" style=3D"font-size:9.0pt;font-family:&quot;Bell=
+ MT&quot;,&quot;serif&quot;;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&q=
+uot;Times New Roman&quot;;=0A=
+color:red;mso-ansi-language:EN-CA">PROFESSIONAL&nbsp;&nbsp;&nbsp; TRUSTWORT=
+HY&nbsp;&nbsp;&nbsp; RELIABLE&nbsp;&nbsp;&nbsp; QUALITY&nbsp;&nbsp;&nbsp; S=
+ERVICE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span><span style=3D"font-size: 9pt;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt; background-image: =
+initial; background-attachment: initial; background-size: initial; backgrou=
+nd-origin: initial; background-clip: initial; background-position: initial;=
+ background-repeat: initial;">
+<span lang=3D"EN-CA" style=3D"font-size:10.0pt;font-family:=0A=
+&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times N=
+ew Roman&quot;;mso-bidi-font-family:=0A=
+&quot;Times New Roman&quot;;color:red;mso-ansi-language:EN-CA">&nbsp;</span=
+><b><span style=3D"font-size:6.0pt;font-family:&quot;Bell MT&quot;,&quot;se=
+rif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot=
+;;color:#222222">Note:</span></b><b><span style=3D"font-size:6.0pt;font-fam=
+ily:=0A=
+&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times N=
+ew Roman&quot;;mso-bidi-font-family:=0A=
+&quot;Times New Roman&quot;;color:#222222">&nbsp;-</span></b><span style=3D=
+"font-size:6.0pt;=0A=
+font-family:&quot;Bell MT&quot;,&quot;serif&quot;;mso-fareast-font-family:&=
+quot;Times New Roman&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:#222222">
+ Though this is not an automated email, we keep on sending out these emails=
+ to all those people whom we find eligible of using our services. To unsubs=
+cribe from future mails (i.e., to ensure that we do not contact you again f=
+or this matter), please send a blank
+ mail to email with NO as Subject.</span><span style=3D"font-size: 9pt;"><o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_VI1PR0701MB2238C6CBF09C0D042671DFE48B820VI1PR0701MB2238_--

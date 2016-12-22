@@ -1,0 +1,1441 @@
+Return-path: <travelocity@ac.travelocity.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Sat, 26 Nov 2016 13:09:38 -0500
+Received: from r96.ac.travelocity.com ([192.161.140.96]:56760)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <travelocity@ac.travelocity.com>)
+	id 1cAhPu-001qlg-RB
+	for kyle@kylefisher.com; Sat, 26 Nov 2016 13:09:38 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=neolane;
+	d=ac.travelocity.com;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:list-unsubscribe:content-type:content-transfer-encoding;
+	bh=ITpnL2j5DS4xluQckSOgfm/7n8jp6MKNbSFEXdt19gI=;
+	b=H8UPqa4a7xiFbfLlINnFV1zeA0S6b/BVxdeA+L2ag8TH1ljx9pAUA7MPkQsr6AR71b138IqcpC7yzL6CHramahLjrmHnkweAxH5JajmRUOQ+ZJTIxItjBAeEcZQYuHIyT4G20nTaH/tNoCI6RKPSnHgbUjN7mbxrEBLXoepz3iU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=neolane;
+	d=ac.travelocity.com;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:List-Unsubscribe:Content-Type:Content-Transfer-Encoding;
+	b=BNoQ8xz8Gu5o2TMC7SNDGjcITNBN1k+wulKfDfnTCGOfzNJWJPFxod20ekLlA3pY/EEx8Wl6L7Q/ZoHBZZcCDcGwBHffPUmS1RcQ6mZ+ELqyad0oNMAbHIFPuIp8opFAWpgbFuWS7zaTyWqhFchK1Y6Q6tFmGIw4/iV/uMPhKD4=
+From: "Travelocity" <travelocity@ac.travelocity.com>
+Date: Sat, 26 Nov 2016 12:09:35 -0600
+Subject: Cyber Monday is Coming- Don't Miss Our Biggest Day of Savings!
+To: <kyle@kylefisher.com>
+Reply-To: "Travelocity" <travelocity@ac.travelocity.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 6.1.1.8653
+Message-ID: <NM61F0945172E4F4734travelocity@ac.travelocity.com>
+List-Unsubscribe: <mailto:travelocity@ac.travelocity.com?subject=unsubscribe%3CNM61F0945172E4F4734travelocity@ac.travelocity.com%3E>
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+    <title></title>
+    
+    <style type=3D"text/css">a.button{-webkit-transition:.3s all ease;trans=
+ition:.3s all ease}a.button:hover{-webkit-transition:.3s all ease;transitio=
+n:.3s all ease;background-color:#7BAED4!important}a.button-secondary{-webki=
+t-transition:.3s all ease;transition:.3s all ease}a.button-secondary:hover{=
+-webkit-transition:.3s all ease;transition:.3s all ease;color:#7BAED4!impor=
+tant}a.button-social,a.button-social.facebook{-webkit-transition:.3s all ea=
+se;transition:.3s all ease}a.button-social.facebook:hover{background:#6485c=
+c!important;color:#fff!important;-webkit-transition:.3s all ease;transition=
+:.3s all ease;text-decoration:none!important}a.button-social.twitter{-webki=
+t-transition:.3s all ease;transition:.3s all ease}a.button-social.twitter:h=
+over{background:#33c9ff!important;color:#fff!important;-webkit-transition:.=
+3s all ease;transition:.3s all ease;text-decoration:none!important}td[lang=
+=3Dx-menuItem],td[lang=3Dx-menuItem].menu-item a{-webkit-transition:.3s eas=
+e all;transition:.3s ease all}td[lang=3Dx-menuItem]:hover{background:#fff;-=
+webkit-transition:.3s ease all;transition:.3s ease all}td[lang=3Dx-menuItem=
+].menu-item a:hover{color:#737373!important;-webkit-transition:.3s ease all=
+;transition:.3s ease all;text-decoration:none!important}td.p a:hover,td.sma=
+ll a:hover{text-decoration:underline!important}td[lang=3Dx-menuItem].menu-i=
+tem.social{-webkit-transition:.3s ease all;transition:.3s ease all}td[lang=
+=3Dx-menuItem].menu-item.social:hover{-webkit-transition:.3s ease all;trans=
+ition:.3s ease all;background:#fff}table.embed-full{width:100%!important}td=
+.p a{-webkit-transition:.3s all ease;transition:.3s all ease}td.p a:hover,t=
+d.small a{-webkit-transition:.3s all ease}td.p a:hover{transition:.3s all e=
+ase;color:#5c7d96!important}td.small a{transition:.3s all ease}td.small a:h=
+over{-webkit-transition:.3s all ease;transition:.3s all ease}td.small.callo=
+ut-text a:hover{text-decoration:none!important}td.disclaimer a{-webkit-tran=
+sition:.3s all ease;transition:.3s all ease}td.disclaimer a:hover{-webkit-t=
+ransition:.3s all ease;transition:.3s all ease;text-decoration:underline!im=
+portant}a.button:hover{-webkit-transition:.3s all ease;transition:.3s all e=
+ase;background-color:#7BAED4}a.button-social.facebook:hover{background:#648=
+5cc;color:#fff!important}a.button-social.twitter:hover{background:#33c9ff;c=
+olor:#fff!important}@media only screen and (max-width:628px){.mobile-left{t=
+ext-align:left!important}.mobile-right{text-align:right!important}.mobile-c=
+enter{text-align:center!important}.mobile-center img{margin:0 auto!importan=
+t;float:none!important}td.mobile-left span{text-align:left!important}td.mob=
+ile-center span{text-align:center!important}td.mobile-center img{margin:0 a=
+uto!important;float:none!important}}@media only screen and (max-width:628px=
+){a.button-social{width:100%!important;padding:14px 0!important}}@media onl=
+y screen and (max-width:628px){td.column.hr-show-for-small{height:1px;width=
+:100%!important}td.mobile-vr-bottom-7{padding-bottom:7px!important;box-sizi=
+ng:content-box}td.mobile-vr-top-7{padding-top:7px!important}td.mobile-vr-bo=
+ttom-14{padding-bottom:14px!important}td.mobile-vr-top-14{padding-top:14px!=
+important}td.mobile-vr-bottom-21{padding-bottom:21px!important;box-sizing:c=
+ontent-box}td.mobile-vr-top-21{padding-top:21px!important}td.mobile-vr-bott=
+om-28{padding-bottom:28px!important}td.mobile-vr-top-28{padding-top:28px!im=
+portant}table.box-overlay{max-width:90%!important}}@media only screen and (=
+max-width:628px){table.box-overlay .overlay{padding:0 21px!important}table.=
+box-overlay .overlay table.box-content{width:100%}table.box-overlay .overla=
+y table.box-content .h3,table.box-overlay .overlay table.box-content .h4,ta=
+ble.box-overlay .overlay table.box-content .p{padding-left:14px;padding-rig=
+ht:14px}table.two-up-image-callout td.column .callout-image-wrapper{max-wid=
+th:293px!important;margin:0 auto}}@media only screen and (max-width:628px){=
+table.four-up-image-callout td.column .callout-image-wrapper{max-width:138p=
+x!important;margin:0 auto}table.four-up-image-callout td.callout-section ta=
+ble.pair{width:300px;margin:0 auto}}@media only screen and (max-width:628px=
+){table.four-up-image-callout td.callout-section table.pair .callout-image{=
+width:138px}}@media only screen and (max-width:628px){table.two-up-card-cal=
+lout td.card{width:auto!important}table.two-up-card-callout td.card .card-i=
+mage-wrapper{max-width:292px;margin:0 auto}table[class=3Dbody] center,table=
+[class=3Dbody] div.div-wrapper{min-width:0!important}table[class=3Dbody] di=
+v.nowrap,table[class=3Dbody] span.nowrap{white-space:normal!important}table=
+[class=3Dbody] table.masthead table.container{width:100%!important}table[cl=
+ass=3Dbody] table.container{width:90%!important;min-width:0!important}table=
+[class=3Dbody] table:not(.container){width:100%!important;float:none!import=
+ant}table[class=3Dbody] table:not(.container).mobile-margin{width:90%!impor=
+tant}table[class=3Dbody] table:not(.container).m-w-auto{width:auto!importan=
+t;margin:0 auto;float:none!important}table[class=3Dbody] table.non-responsi=
+ve td.column{display:table-cell!important}table[class=3Dbody] td.column{dis=
+play:block;width:auto!important}table[class=3Dbody] td.mobile-column-contai=
+n table.cell{max-width:225px;margin:0 auto}table[class=3Dbody] td.m-h-auto{=
+height:auto!important}table[class=3Dbody] td.m-w-auto{width:auto!important}=
+table[class=3Dbody] td img.m-img-100,table[class=3Dbody] td.full-width,tabl=
+e[class=3Dbody] td.m-img-100 img{width:100%!important}table[class=3Dbody] t=
+d.m-pad-top{padding-top:20px!important}table[class=3Dbody] td.m-pad-bottom{=
+padding-bottom:20px!important}table[class=3Dbody] td td.mainCol{display:tab=
+le-header-group!important}table[class=3Dbody] td td.subCol{display:table-fo=
+oter-group!important}td.mobile-text-pad{padding-left:15px!important;padding=
+-right:15px!important}.hide-for-small,.show-for-desktop{display:none!import=
+ant}.hide-for-desktop,.show-for-small{display:inherit!important}.hide-for-d=
+esktop.wrapper,.show-for-small.wrapper{display:block!important}
+
+
+
+
+td[class=3D"column-drop"] {
+  float:left !important;
+  width:100% !important;
+}  
+  
+  
+  
+
+
+
+
+
+</style><!--[if mso]><style type=3D"text/css">a,body{padding:0}</style><![e=
+ndif]-->
+    <link rel=3D"stylesheet" href=3D"css/extra-inline.css">
+  </head>
+
+
+
+
+
+
+
+
+  <body style=3D"font-family: 'Arial', sans-serif; width: 100%; min-width: =
+100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0=
+; padding: 0;">
+    <table class=3D"body" style=3D"border-spacing: 0; border-collapse: coll=
+apse; box-sizing: border-box; padding: 0; vertical-align: top; font-family:=
+ 'Arial', sans-serif; width: 100%;" width=3D"100%">
+      <tr style=3D"padding: 0; vertical-align: top;">
+        <td width=3D"100%" align=3D"center" background=3D"https://images.tr=
+vl-media.com/media/content/expus/graphics/promos/deals/tvly/paper-texture2.=
+jpg" bgcolor=3D"#faf6f2" style=3D"padding: 0; vertical-align: top; text-ali=
+gn: left; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none=
+; -ms-hyphens: none; hyphens: none; border-collapse: collapse; box-sizing: =
+border-box;">
+          <!--
+          *********************************************** 
+          PARTIAL / header
+          *********************************************** 
+          -->
+          <table data-type=3D"partial" align=3D"center" width=3D"100%" clas=
+s=3D"header" style=3D"border-spacing: 0; border-collapse: collapse; box-siz=
+ing: border-box; padding: 0; vertical-align: top; margin: 0 auto;">
+            <tr style=3D"padding: 0; vertical-align: top;">
+              <td align=3D"center" style=3D"padding: 0; vertical-align: top=
+; text-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hyp=
+hens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; bo=
+x-sizing: border-box;">
+                <!--
+                *********************************************** 
+                MODULE / preheader
+                ***********************************************
+                
+                -->
+                <table data-type=3D"module" id=3D"preheader" width=3D"100%"=
+ style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-=
+box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" background=3D"https://images.trvl-=
+media.com/media/content/expus/graphics/promos/deals/tvly/bkg-dark-5.png" st=
+yle=3D"padding: 0; vertical-align: top; text-align: left; word-break: break=
+-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphen=
+s: none; border-collapse: collapse; box-sizing: border-box;">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600"><!--[if gte mso 15]><tr><td height=3D"14px" class=3D"ms=
+o-empty">&nbsp;</td></tr><![endif]-->
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td class=3D"column seventeen first" style=3D"p=
+adding: 0; vertical-align: top; text-align: left; word-break: break-word; -=
+webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none;=
+ border-collapse: collapse; box-sizing: border-box;">
+                              <table class=3D"cell" style=3D"border-spacing=
+: 0; border-collapse: collapse; box-sizing: border-box; padding: 0; vertica=
+l-align: top; width: 425px;" width=3D"425">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"28" valign=3D"middle" class=
+=3D"disclaimer mobile-center" style=3D"padding: 0; text-align: left; vertic=
+al-align: middle; word-break: break-word; -webkit-hyphens: none; -moz-hyphe=
+ns: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; box-=
+sizing: border-box;"><span style=3D"font-family: 'Arial', sans-serif; font-=
+size: 11px; line-height: 21px; letter-spacing: .025em; color: #b2b2b2; disp=
+lay: block;">BIG savings are almost here! </span></td>
+                                </tr>
+                              </table>
+                            </td>
+                            <td class=3D"column seven last" style=3D"paddin=
+g: 0; vertical-align: top; text-align: left; word-break: break-word; -webki=
+t-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; bord=
+er-collapse: collapse; box-sizing: border-box;">
+                              <table align=3D"right" class=3D"cell" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 175px;" width=3D"175">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"28" valign=3D"middle" class=
+=3D"disclaimer menu-item right mobile-center" style=3D"padding: 0; text-ali=
+gn: right; vertical-align: middle; word-break: break-word; -webkit-hyphens:=
+ none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; border-collaps=
+e: collapse; box-sizing: border-box;"><span style=3D"font-family: 'Arial', =
+sans-serif; font-size: 11px; line-height: 21px; letter-spacing: .025em; col=
+or: #b2b2b2; display: block;"><a href=3D"http://t.ac.travelocity.com/r/=3Fi=
+d=3Dh1f094517,2e4f4734,2e62d1f3&p1=3D%40hMb30DuuwMkj4ZdjsLj04FrLFHHRF3yPY0i=
+Cc47oS9s%3D" style=3D"font-size: 11px; line-height: 21px; letter-spacing: .=
+025em; font-family: 'Arial', sans-serif; color: #b2b2b2; text-decoration: n=
+one; -webkit-transition: .3s ease all; transition: .3s ease all; font-weigh=
+t: 100; display: block; cursor: pointer;">View in browser -></a></span></td=
+>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <!--
+                *********************************************** 
+                MODULE / logo
+                *********************************************** 
+                -->
+                <table data-type=3D"module" width=3D"100%" class=3D"poll im=
+age-callout" style=3D"border-spacing: 0; border-collapse: collapse; box-siz=
+ing: border-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-top: 0px; -webkit-hyphens: n=
+one; -moz-hyphens: none; hyphens: none; border-collapse: collapse; box-sizi=
+ng: border-box; word-break: break-word; -ms-hyphens: none;">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td style=3D"padding: 0; vertical-align: top; t=
+ext-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hyphen=
+s: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; box-s=
+izing: border-box;">
+                              <table align=3D"center" style=3D"border-spaci=
+ng: 0; border-collapse: collapse; box-sizing: border-box; padding: 0; verti=
+cal-align: top; margin: 0 auto;">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"14" class=3D"mso-empty" sty=
+le=3D"vertical-align: top; padding: 0; line-height: 0px; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; font-size: 0px; text-align: left; word-break: b=
+reak-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; box-sizing=
+: border-box; border-collapse: collapse; -webkit-hyphens: none;"></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;"> 
+                                  <td class=3D"center" style=3D"padding: 0;=
+ vertical-align: top; text-align: center; word-break: break-word; -webkit-h=
+yphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; border-=
+collapse: collapse; box-sizing: border-box;"><a href=3D"http://t.ac.travelo=
+city.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d1f4&p1=3D=3Femlcid=3Dtravelocity=
+-us.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364.=
+" style=3D"text-decoration: none; font-family: 'Arial', sans-serif; cursor:=
+ pointer;"><img style=3D"outline: none; text-decoration: none; -ms-interpol=
+ation-mode: bicubic; max-width: 100%; clear: both; display: block; border: =
+none; margin: 0 auto; float: none; width: 162px;" src=3D"http://5eb1119f6b9=
+93ed5f255-2da6abaa1a8adb4188cb7af2a9c7f112.r70.cf1.rackcdn.com/travelocity-=
+template/travelocity-logo.png" alt=3D"travelocity&#174;" width=3D"162"></a>=
+</td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"14" class=3D"mso-empty" sty=
+le=3D"vertical-align: top; padding: 0; line-height: 0px; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; font-size: 0px; text-align: left; word-break: b=
+reak-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; box-sizing=
+: border-box; border-collapse: collapse; -webkit-hyphens: none;"></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <!--
+                *********************************************** 
+                MODULE / main-nav
+                ***********************************************
+                -->
+                <table data-type=3D"module" width=3D"100%" class=3D"horizon=
+tal-rule" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing=
+: border-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-bottom: 0; padding-top: 0; -=
+ms-hyphens: none; -moz-hyphens: none; border-collapse: collapse; box-sizing=
+: border-box; -webkit-hyphens: none; word-break: break-word; hyphens: none;=
+">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td width=3D"600" height=3D"1" background=3D"ht=
+tps://images.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/=
+hr.png" bgcolor=3D"#ebebeb" class=3D"hr-eroded" style=3D"vertical-align: to=
+p; padding: 0; text-align: left; font-size: 1px; line-height: 1px; word-bre=
+ak: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; b=
+order-collapse: collapse; box-sizing: border-box; -ms-hyphens: none;">&nbsp=
+; </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <table data-type=3D"module" width=3D"100%" class=3D"main-na=
+v" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: borde=
+r-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-bottom: 0; padding-top: 0; -=
+ms-hyphens: none; -moz-hyphens: none; border-collapse: collapse; box-sizing=
+: border-box; -webkit-hyphens: none; word-break: break-word; hyphens: none;=
+">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td style=3D"padding: 0; vertical-align: top; t=
+ext-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hyphen=
+s: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; box-s=
+izing: border-box;">
+                              <table align=3D"center" class=3D"main-menu" s=
+tyle=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-bo=
+x; padding: 0; vertical-align: top; margin: 0 auto;">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item" style=3D"height: 42px; padding: 0 21px; vertical-ali=
+gn: middle; text-align: center; -ms-hyphens: none; word-break: break-word; =
+border-collapse: collapse; box-sizing: border-box; -moz-hyphens: none; -web=
+kit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.travelocity.com/r=
+/=3Fid=3Dh1f094517,2e4f4734,2e62d1f5&p1=3D=3Femlcid=3Dtravelocity-us.mr.Cyb=
+erMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." style=3D=
+"font-size: 13px; letter-spacing: .025em; font-family: 'Arial', sans-serif;=
+ color: #737373; text-decoration: none; line-height: 35px; -webkit-transiti=
+on: .3s ease all; transition: .3s ease all; font-weight: 100; display: bloc=
+k; cursor: pointer;">Hotels</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item" style=3D"height: 42px; padding: 0 21px; vertical-ali=
+gn: middle; text-align: center; -ms-hyphens: none; word-break: break-word; =
+border-collapse: collapse; box-sizing: border-box; -moz-hyphens: none; -web=
+kit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.travelocity.com/r=
+/=3Fid=3Dh1f094517,2e4f4734,2e62d1f6&p1=3D=3Femlcid=3Dtravelocity-us.mr.Cyb=
+erMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." style=3D=
+"font-size: 13px; letter-spacing: .025em; font-family: 'Arial', sans-serif;=
+ color: #737373; text-decoration: none; line-height: 35px; -webkit-transiti=
+on: .3s ease all; transition: .3s ease all; font-weight: 100; display: bloc=
+k; cursor: pointer;">Flights</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item" style=3D"height: 42px; padding: 0 21px; vertical-ali=
+gn: middle; text-align: center; -ms-hyphens: none; word-break: break-word; =
+border-collapse: collapse; box-sizing: border-box; -moz-hyphens: none; -web=
+kit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.travelocity.com/r=
+/=3Fid=3Dh1f094517,2e4f4734,2e62d1f7&p1=3D=3Femlcid=3Dtravelocity-us.mr.Cyb=
+erMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." style=3D=
+"font-size: 13px; letter-spacing: .025em; font-family: 'Arial', sans-serif;=
+ color: #737373; text-decoration: none; line-height: 35px; -webkit-transiti=
+on: .3s ease all; transition: .3s ease all; font-weight: 100; display: bloc=
+k; cursor: pointer;">Packages</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item hide-for-small" style=3D"height: 42px; padding: 0 21p=
+x; vertical-align: middle; text-align: center; -ms-hyphens: none; word-brea=
+k: break-word; border-collapse: collapse; box-sizing: border-box; -moz-hyph=
+ens: none; -webkit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.tr=
+avelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d1f8&p1=3D=3Femlcid=3Dtravel=
+ocity-us.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947508.11689=
+1364." style=3D"font-size: 13px; letter-spacing: .025em; font-family: 'Aria=
+l', sans-serif; color: #737373; text-decoration: none; line-height: 35px; -=
+webkit-transition: .3s ease all; transition: .3s ease all; font-weight: 100=
+; display: block; cursor: pointer;">Cruises</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item hide-for-small" style=3D"height: 42px; padding: 0 21p=
+x; vertical-align: middle; text-align: center; -ms-hyphens: none; word-brea=
+k: break-word; border-collapse: collapse; box-sizing: border-box; -moz-hyph=
+ens: none; -webkit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.tr=
+avelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d1f9&p1=3D=3Femlcid=3Dtravel=
+ocity-us.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947508.11689=
+1364." style=3D"font-size: 13px; letter-spacing: .025em; font-family: 'Aria=
+l', sans-serif; color: #737373; text-decoration: none; line-height: 35px; -=
+webkit-transition: .3s ease all; transition: .3s ease all; font-weight: 100=
+; display: block; cursor: pointer;">Cars</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item hide-for-small" style=3D"height: 42px; padding: 0 21p=
+x; vertical-align: middle; text-align: center; -ms-hyphens: none; word-brea=
+k: break-word; border-collapse: collapse; box-sizing: border-box; -moz-hyph=
+ens: none; -webkit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.tr=
+avelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d1fa&p1=3D=3Femlcid=3Dtravel=
+ocity-us.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947508.11689=
+1364." style=3D"font-size: 13px; letter-spacing: .025em; font-family: 'Aria=
+l', sans-serif; color: #737373; text-decoration: none; line-height: 35px; -=
+webkit-transition: .3s ease all; transition: .3s ease all; font-weight: 100=
+; display: block; cursor: pointer;">Things To Do</a></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <!--
+          *********************************************** 
+          MODULE / text overlay on image full width
+          *********************************************** 
+          -->
+          <table data-type=3D"flexible-content" width=3D"100%" align=3D"cen=
+ter" class=3D"text-overlay-on-image-full-width" style=3D"border-spacing: 0;=
+ border-collapse: collapse; box-sizing: border-box; padding: 0; vertical-al=
+ign: top; margin: 0 auto;">
+            <tr style=3D"padding: 0; vertical-align: top;">
+              <td align=3D"center" style=3D"padding: 0; vertical-align: top=
+; text-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hyp=
+hens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; bo=
+x-sizing: border-box;">
+                <table width=3D"100%" align=3D"center" style=3D"border-spac=
+ing: 0; border-collapse: collapse; box-sizing: border-box; padding: 0; vert=
+ical-align: top; margin: 0 auto;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td style=3D"padding: 0; vertical-align: top; text-alig=
+n: left; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none;=
+ -ms-hyphens: none; hyphens: none; border-collapse: collapse; box-sizing: b=
+order-box;">
+                      <table align=3D"center" class=3D"flexible-content" st=
+yle=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box=
+; padding: 0; vertical-align: top; margin: 0 auto; max-width: 1000px; width=
+: 100%;" width=3D"100%">
+                        <tr style=3D"padding: 0; vertical-align: top;">
+                          <td valign=3D"bottom" class=3D"masthead-backgroun=
+d" style=3D"padding: 0; text-align: left; width: 100%; background-size: cov=
+er; vertical-align: bottom; -moz-hyphens: none; -ms-hyphens: none; border-c=
+ollapse: collapse; box-sizing: border-box; -webkit-hyphens: none; word-brea=
+k: break-word; hyphens: none;" width=3D"100%">
+                            
+                            <table align=3D"center" class=3D"m-w-auto" styl=
+e=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; =
+padding: 0; vertical-align: top; margin: 0 auto;">
+                            
+                              <tr style=3D"padding: 0; vertical-align: top;=
+"> 
+                              
+                                <td class=3D"masthead-text" style=3D"vertic=
+al-align: top; text-align: left; padding: 0px 0px 0px; word-break: break-wo=
+rd; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: =
+none; border-collapse: collapse; box-sizing: border-box;"><a href=3D"http:/=
+/t.ac.travelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d1fb&p1=3D=3Femlcid=
+=3Dtravelocity-us.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947=
+508.116891364."><img style=3D"outline: none; text-decoration: none; -ms-int=
+erpolation-mode: bicubic; max-width: 100%; clear: both; display: block; wid=
+th: 600px;" src=3D"http://images.trvl-media.com/media/content/expus/graphic=
+s/promos/deals/tvly/161122_cm-comingsoon_1000.png" alt=3D"" width=3D"600"><=
+/a></td>
+                              </tr>
+                              
+                              
+                              <tr style=3D"padding: 0; vertical-align: top;=
+"> 
+                                <td style=3D"padding: 0; vertical-align: to=
+p; text-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hy=
+phens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; b=
+ox-sizing: border-box;">
+                             
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+                <table width=3D"100%" align=3D"center" style=3D"border-spac=
+ing: 0; border-collapse: collapse; box-sizing: border-box; padding: 0; vert=
+ical-align: top; margin: 0 auto;">
+                  <tr style=3D"padding: 0; vertical-align: top;"> 
+                    <td style=3D"padding: 0; vertical-align: top; text-alig=
+n: left; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none;=
+ -ms-hyphens: none; hyphens: none; border-collapse: collapse; box-sizing: b=
+order-box;">
+                      <table align=3D"center" class=3D"flexible-content" st=
+yle=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box=
+; padding: 0; vertical-align: top; margin: 0 auto; max-width: 1000px; width=
+: 100%;" width=3D"100%">
+                        <tr style=3D"padding: 0; vertical-align: top;">
+                          <td style=3D"padding: 0; vertical-align: top; tex=
+t-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; box-siz=
+ing: border-box;">
+                            <table align=3D"center" class=3D"m-w-auto" styl=
+e=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; =
+padding: 0; vertical-align: top; margin: 0 auto;">
+                              <tr style=3D"padding: 0; vertical-align: top;=
+">
+                                <td style=3D"padding: 0; vertical-align: to=
+p; text-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hy=
+phens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; b=
+ox-sizing: border-box;"><a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1=
+f094517,2e4f4734,2e62d1fc&p1=3D=3Femlcid=3Dtravelocity-us.mr.CyberMondayCom=
+ingSoon_20161126_uneng..hot-segmX.776947508.116891364."><img style=3D"outli=
+ne: none; text-decoration: none; -ms-interpolation-mode: bicubic; max-width=
+: 100%; clear: both; display: block; width: 160px;" src=3D"" alt=3D"" width=
+=3D"160"></a></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <!--
+          *********************************************** 
+          MODULE / text
+          *********************************************** 
+          -->
+          <table data-type=3D"module" align=3D"center" class=3D"text" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; margin: 0 auto;">
+            <tr style=3D"padding: 0; vertical-align: top;">
+              <td align=3D"center" class=3D"vr" style=3D"vertical-align: to=
+p; padding: 0; text-align: left; padding-top: 42px; -webkit-hyphens: none; =
+-moz-hyphens: none; hyphens: none; border-collapse: collapse; box-sizing: b=
+order-box; word-break: break-word; -ms-hyphens: none;">
+                <center style=3D"width: 100%; min-width: 656px;">
+                  <table align=3D"center" class=3D"container" style=3D"bord=
+er-spacing: 0; border-collapse: collapse; box-sizing: border-box; padding: =
+0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 600px;" wi=
+dth=3D"600">
+                    <tr style=3D"padding: 0; vertical-align: top;">
+                      <td class=3D"full-width" style=3D"vertical-align: top=
+; padding: 0; text-align: left; width: 600px; -moz-hyphens: none; -webkit-h=
+yphens: none; hyphens: none; border-collapse: collapse; box-sizing: border-=
+box; word-break: break-word; -ms-hyphens: none;" width=3D"600">
+                        <table align=3D"center" class=3D"page-margin conten=
+t" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: borde=
+r-box; padding: 0; vertical-align: top; width: 544px; margin: 0 auto;" widt=
+h=3D"544">
+                          <!--h1
+                          -->
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td class=3D"h1" style=3D"vertical-align: top; =
+padding: 0; padding-bottom: 21px; padding-top: 0; text-align: center; hyphe=
+ns: none; word-break: break-word; box-sizing: border-box; -ms-hyphens: none=
+; -moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse;"><s=
+pan style=3D"font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'H=
+elvetica Neue', 'Helvetica', 'Arial', sans-serif; font-weight: bold; font-s=
+ize: 22px; line-height: 25px; letter-spacing: .025em; color: #232323; displ=
+ay: block;">Don't Miss Our Biggest Day of Savings!</span><br /><span style=
+=3D"font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica =
+Neue', 'Helvetica', 'Arial', sans-serif; font-weight: 100; font-size: 18px;=
+ line-height: 25px; letter-spacing: .025em; color: #232323; display: block;=
+">With new savings every hour on the hour starting at 7AM CST, while suppli=
+es last - you won't want to miss our biggest savings of the season!<br/><br=
+/>                              
+                              Can't wait for Cyber Monday=3F Use Coupon Cod=
+e: <strong>50BLACKFRIDAY</strong> to save an <strong>extra $50*</strong> on=
+ select Hotels now!</td>
+                          </tr>
+                          
+                          <!--h1
+                          -->                          <!--h2
+                          -->
+                          
+                          <!--button
+                          -->
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td class=3D"button center" style=3D"vertical-a=
+lign: top; padding: 0; padding-bottom: 0; text-align: center; -ms-hyphens: =
+none; word-break: break-word; border-collapse: collapse; box-sizing: border=
+-box; -moz-hyphens: none; -webkit-hyphens: none; hyphens: none;">
+                              <table align=3D"center" class=3D"vml-button m=
+-w-auto" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing:=
+ border-box; padding: 0; vertical-align: top; margin: 0 auto;">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td style=3D"vertical-align: top; padding=
+: 0; text-align: left; padding-bottom: 0; padding-top: 0; hyphens: none; wo=
+rd-break: break-word; box-sizing: border-box; -ms-hyphens: none; -moz-hyphe=
+ns: none; -webkit-hyphens: none; border-collapse: collapse;"><!--[if mso]>
+                                               <v:roundrect xmlns:v=3D"urn:=
+schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word=
+" id=3D'cta' href=3D'https://www.travelocity.com/g/rg/black-friday-cyber-mo=
+nday-global=3Femlcid=3Dtravelocity-us.mr.CyberMondayComingSoon_20161126_une=
+ng..hot-segmX.776947508.116891364.' style=3D'v-text-anchor:middle; height: =
+42pt; width: 232.5pt;' arcsize=3D'40%' stroke=3D"f" fillcolor=3D'#003e74'>
+                                              <w:anchorlock><center>
+                                              <![endif]--><a href=3D"http:/=
+/t.ac.travelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d1fd&p1=3D=3Femlcid=
+=3Dtravelocity-us.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947=
+508.116891364." class=3D"button" style=3D"cursor: pointer; font-weight: 100=
+; text-decoration: none; background-color: #000000 !important; border-radiu=
+s: 27px; color: #ffffff; display: block; font-size: 18px; font-family: sans=
+-serif; line-height: 54px; text-align: center; width: 310px; -webkit-text-s=
+ize-adjust: none; -webkit-transition: .3s all ease; transition: .3s all eas=
+e; height: 54px;">Start Saving Now >></a><!--[if gte mso 9]>
+                                              </center>
+                                              </v:roundrect>
+                                              <![endif]-->
+
+                                  </td>
+                                </tr>
+                              </table>
+                              
+
+           
+                              
+                              
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </center>
+              </td>
+            </tr>
+          </table>
+          <!--
+          *********************************************** 
+          PARTIAL / footer
+          *********************************************** 
+          -->
+          <table data-type=3D"partial" align=3D"center" width=3D"100%" clas=
+s=3D"footer" style=3D"border-spacing: 0; border-collapse: collapse; box-siz=
+ing: border-box; padding: 0; vertical-align: top; margin: 0 auto;">
+            <tr style=3D"padding: 0; vertical-align: top;">
+              <td class=3D"vr" style=3D"vertical-align: top; padding: 0; te=
+xt-align: left; padding-top: 56px; -ms-hyphens: none; word-break: break-wor=
+d; border-collapse: collapse; box-sizing: border-box; -moz-hyphens: none; -=
+webkit-hyphens: none; hyphens: none;">
+                <!--
+                *********************************************** 
+                MODULE / hr
+                *********************************************** 
+                -->
+                <table data-type=3D"module" width=3D"100%" class=3D"horizon=
+tal-rule" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing=
+: border-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-bottom: 0; padding-top: 0; -=
+ms-hyphens: none; -moz-hyphens: none; border-collapse: collapse; box-sizing=
+: border-box; -webkit-hyphens: none; word-break: break-word; hyphens: none;=
+">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td width=3D"600" height=3D"1" background=3D"ht=
+tps://images.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/=
+hr.png" bgcolor=3D"#ebebeb" class=3D"hr-eroded" style=3D"vertical-align: to=
+p; padding: 0; text-align: left; font-size: 1px; line-height: 1px; word-bre=
+ak: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; b=
+order-collapse: collapse; box-sizing: border-box; -ms-hyphens: none;">&nbsp=
+;</td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <table data-type=3D"module" align=3D"center" class=3D"blurb=
+-small" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: =
+border-box; padding: 0; vertical-align: top; margin: 0 auto;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" style=3D"padding: 0; vertical-alig=
+n: top; text-align: left; word-break: break-word; -webkit-hyphens: none; -m=
+oz-hyphens: none; -ms-hyphens: none; hyphens: none; border-collapse: collap=
+se; box-sizing: border-box;">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td class=3D"full-width" style=3D"vertical-alig=
+n: top; padding: 0; text-align: left; width: 600px; -moz-hyphens: none; -we=
+bkit-hyphens: none; hyphens: none; border-collapse: collapse; box-sizing: b=
+order-box; word-break: break-word; -ms-hyphens: none;" width=3D"600">
+                              <table align=3D"center" class=3D"page-margin"=
+ style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-=
+box; padding: 0; vertical-align: top; width: 544px; margin: 0 auto;" width=
+=3D"544">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"42" valign=3D"middle" style=
+=3D"padding: 0; height: 42px; vertical-align: middle; text-align: center; w=
+ord-break: break-word; -webkit-hyphens: none; -ms-hyphens: none; hyphens: n=
+one; border-collapse: collapse; box-sizing: border-box; -moz-hyphens: none;=
+" class=3D"small"><span style=3D"font-family: 'Arial', sans-serif; font-siz=
+e: 13px; line-height: 21px; letter-spacing: .025em; color: #737373;"><stron=
+g>IT WOULD BE WISE TO CHECK OUT OUR:</strong></span></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <!--
+                *********************************************** 
+                MODULE / main-nav
+                ***********************************************
+                -->
+                <table data-type=3D"module" width=3D"100%" class=3D"horizon=
+tal-rule hide-for-small" style=3D"border-spacing: 0; border-collapse: colla=
+pse; box-sizing: border-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-bottom: 0; padding-top: 0; -=
+ms-hyphens: none; -moz-hyphens: none; border-collapse: collapse; box-sizing=
+: border-box; -webkit-hyphens: none; word-break: break-word; hyphens: none;=
+">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td width=3D"600" height=3D"1" background=3D"ht=
+tps://images.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/=
+hr.png" bgcolor=3D"#ebebeb" class=3D"hr-eroded" style=3D"vertical-align: to=
+p; padding: 0; text-align: left; font-size: 1px; line-height: 1px; word-bre=
+ak: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; b=
+order-collapse: collapse; box-sizing: border-box; -ms-hyphens: none;">&nbsp=
+; </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <table data-type=3D"module" width=3D"100%" class=3D"main-na=
+v" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: borde=
+r-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-bottom: 0; padding-top: 0; -=
+ms-hyphens: none; -moz-hyphens: none; border-collapse: collapse; box-sizing=
+: border-box; -webkit-hyphens: none; word-break: break-word; hyphens: none;=
+">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td style=3D"padding: 0; vertical-align: top; t=
+ext-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hyphen=
+s: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; box-s=
+izing: border-box;">
+                              <table align=3D"center" class=3D"main-menu" s=
+tyle=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-bo=
+x; padding: 0; vertical-align: top; margin: 0 auto;">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item" style=3D"height: 42px; padding: 0 21px; vertical-ali=
+gn: middle; text-align: center; -ms-hyphens: none; word-break: break-word; =
+border-collapse: collapse; box-sizing: border-box; -moz-hyphens: none; -web=
+kit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.travelocity.com/r=
+/=3Fid=3Dh1f094517,2e4f4734,2e62d1fe&p1=3D=3Femlcid=3Dtravelocity-us.mr.Cyb=
+erMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." style=3D=
+"font-size: 13px; letter-spacing: .025em; font-family: 'Arial', sans-serif;=
+ color: #737373; text-decoration: none; line-height: 35px; -webkit-transiti=
+on: .3s ease all; transition: .3s ease all; font-weight: 100; display: bloc=
+k; cursor: pointer;">Hotels</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item" style=3D"height: 42px; padding: 0 21px; vertical-ali=
+gn: middle; text-align: center; -ms-hyphens: none; word-break: break-word; =
+border-collapse: collapse; box-sizing: border-box; -moz-hyphens: none; -web=
+kit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.travelocity.com/r=
+/=3Fid=3Dh1f094517,2e4f4734,2e62d1ff&p1=3D=3Femlcid=3Dtravelocity-us.mr.Cyb=
+erMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." style=3D=
+"font-size: 13px; letter-spacing: .025em; font-family: 'Arial', sans-serif;=
+ color: #737373; text-decoration: none; line-height: 35px; -webkit-transiti=
+on: .3s ease all; transition: .3s ease all; font-weight: 100; display: bloc=
+k; cursor: pointer;">Flights</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item" style=3D"height: 42px; padding: 0 21px; vertical-ali=
+gn: middle; text-align: center; -ms-hyphens: none; word-break: break-word; =
+border-collapse: collapse; box-sizing: border-box; -moz-hyphens: none; -web=
+kit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.travelocity.com/r=
+/=3Fid=3Dh1f094517,2e4f4734,2e62d200&p1=3D=3Femlcid=3Dtravelocity-us.mr.Cyb=
+erMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." style=3D=
+"font-size: 13px; letter-spacing: .025em; font-family: 'Arial', sans-serif;=
+ color: #737373; text-decoration: none; line-height: 35px; -webkit-transiti=
+on: .3s ease all; transition: .3s ease all; font-weight: 100; display: bloc=
+k; cursor: pointer;">Packages</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item hide-for-small" style=3D"height: 42px; padding: 0 21p=
+x; vertical-align: middle; text-align: center; -ms-hyphens: none; word-brea=
+k: break-word; border-collapse: collapse; box-sizing: border-box; -moz-hyph=
+ens: none; -webkit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.tr=
+avelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d201&p1=3D=3Femlcid=3Dtravel=
+ocity-us.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947508.11689=
+1364." style=3D"font-size: 13px; letter-spacing: .025em; font-family: 'Aria=
+l', sans-serif; color: #737373; text-decoration: none; line-height: 35px; -=
+webkit-transition: .3s ease all; transition: .3s ease all; font-weight: 100=
+; display: block; cursor: pointer;">Cruises</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item hide-for-small" style=3D"height: 42px; padding: 0 21p=
+x; vertical-align: middle; text-align: center; -ms-hyphens: none; word-brea=
+k: break-word; border-collapse: collapse; box-sizing: border-box; -moz-hyph=
+ens: none; -webkit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.tr=
+avelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d202&p1=3D=3Femlcid=3Dtravel=
+ocity-us.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947508.11689=
+1364." style=3D"font-size: 13px; letter-spacing: .025em; font-family: 'Aria=
+l', sans-serif; color: #737373; text-decoration: none; line-height: 35px; -=
+webkit-transition: .3s ease all; transition: .3s ease all; font-weight: 100=
+; display: block; cursor: pointer;">Cars</a></td>
+                                  <td height=3D"42" lang=3D"x-menuItem" cla=
+ss=3D"small menu-item hide-for-small" style=3D"height: 42px; padding: 0 21p=
+x; vertical-align: middle; text-align: center; -ms-hyphens: none; word-brea=
+k: break-word; border-collapse: collapse; box-sizing: border-box; -moz-hyph=
+ens: none; -webkit-hyphens: none; hyphens: none;"><a href=3D"http://t.ac.tr=
+avelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d203&p1=3D=3Femlcid=3Dtravel=
+ocity-us.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947508.11689=
+1364." style=3D"font-size: 13px; letter-spacing: .025em; font-family: 'Aria=
+l', sans-serif; color: #737373; text-decoration: none; line-height: 35px; -=
+webkit-transition: .3s ease all; transition: .3s ease all; font-weight: 100=
+; display: block; cursor: pointer;">Things To Do</a></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <!--
+                *********************************************** 
+                MODULE / hr
+                *********************************************** 
+                -->
+                <table data-type=3D"module" width=3D"100%" class=3D"horizon=
+tal-rule" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing=
+: border-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-bottom: 0; padding-top: 0; -=
+ms-hyphens: none; -moz-hyphens: none; border-collapse: collapse; box-sizing=
+: border-box; -webkit-hyphens: none; word-break: break-word; hyphens: none;=
+">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td width=3D"600" height=3D"1" background=3D"ht=
+tps://images.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/=
+hr.png" bgcolor=3D"#ebebeb" class=3D"hr-eroded" style=3D"vertical-align: to=
+p; padding: 0; text-align: left; font-size: 1px; line-height: 1px; word-bre=
+ak: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; b=
+order-collapse: collapse; box-sizing: border-box; -ms-hyphens: none;">&nbsp=
+;</td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <!--
+                *********************************************** 
+                MODULE / social-nav
+                *********************************************** 
+                -->
+                <table data-type=3D"module" width=3D"100%" class=3D"social-=
+nav" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: bor=
+der-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-top: 0px; -webkit-hyphens: n=
+one; -moz-hyphens: none; hyphens: none; border-collapse: collapse; box-sizi=
+ng: border-box; word-break: break-word; -ms-hyphens: none;">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td style=3D"padding: 0; vertical-align: top; t=
+ext-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hyphen=
+s: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; box-s=
+izing: border-box;">
+                              <table align=3D"center" class=3D"social-menu"=
+ style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-=
+box; padding: 0; vertical-align: top; margin: 0 auto;">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td class=3D"column" style=3D"padding: 0;=
+ vertical-align: top; text-align: left; word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; border-co=
+llapse: collapse; box-sizing: border-box;">
+                                    <table style=3D"border-spacing: 0; bord=
+er-collapse: collapse; box-sizing: border-box; padding: 0; vertical-align: =
+top;">
+                                      <tr style=3D"padding: 0; vertical-ali=
+gn: top;">
+                                        <td height=3D"42" valign=3D"middle"=
+ lang=3D"x-menuItem" class=3D"small img-center social menu-item" style=3D"w=
+idth: 100px; height: 42px; padding: 0 21px; vertical-align: middle; text-al=
+ign: center; -ms-hyphens: none; -moz-hyphens: none; border-collapse: collap=
+se; box-sizing: border-box; -webkit-hyphens: none; word-break: break-word; =
+hyphens: none;" width=3D"100"><a href=3D"http://t.ac.travelocity.com/r/=3Fi=
+d=3Dh1f094517,2e4f4734,2e62d204" style=3D"font-size: 13px; letter-spacing: =
+.025em; font-family: 'Arial', sans-serif; color: #737373; text-decoration: =
+none; line-height: 35px; -webkit-transition: .3s ease all; transition: .3s =
+ease all; font-weight: 100; display: block; cursor: pointer;"><img style=3D=
+"outline: none; clear: both; max-width: 100%; -ms-interpolation-mode: bicub=
+ic; text-decoration: none; border: none; width: 34px; vertical-align: middl=
+e; float: none; margin: 0 auto; display: inline;" src=3D"https://images.trv=
+l-media.com/media/content/expus/graphics/promos/deals/tvly/icon-facebook.pn=
+g" alt=3D"Facebook" width=3D"34"></a></td>
+                                        <td width=3D"1px" background=3D"htt=
+ps://images.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/h=
+r-verticle.png" bgcolor=3D"#ebebeb" style=3D"padding: 0; vertical-align: to=
+p; text-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hy=
+phens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; b=
+ox-sizing: border-box;"></td>
+                                        <td height=3D"42" valign=3D"middle"=
+ lang=3D"x-menuItem" class=3D"small img-center social menu-item" style=3D"w=
+idth: 100px; height: 42px; padding: 0 21px; vertical-align: middle; text-al=
+ign: center; -ms-hyphens: none; -moz-hyphens: none; border-collapse: collap=
+se; box-sizing: border-box; -webkit-hyphens: none; word-break: break-word; =
+hyphens: none;" width=3D"100"><a href=3D"http://t.ac.travelocity.com/r/=3Fi=
+d=3Dh1f094517,2e4f4734,2e62d205" style=3D"font-size: 13px; letter-spacing: =
+.025em; font-family: 'Arial', sans-serif; color: #737373; text-decoration: =
+none; line-height: 35px; -webkit-transition: .3s ease all; transition: .3s =
+ease all; font-weight: 100; display: block; cursor: pointer;"><img style=3D=
+"outline: none; clear: both; max-width: 100%; -ms-interpolation-mode: bicub=
+ic; text-decoration: none; border: none; width: 34px; vertical-align: middl=
+e; float: none; margin: 0 auto; display: inline;" src=3D"https://images.trv=
+l-media.com/media/content/expus/graphics/promos/deals/tvly/icon-twitter.png=
+" alt=3D"Twitter" width=3D"34"></a></td>
+                                        <td width=3D"1px" background=3D"htt=
+ps://images.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/h=
+r-verticle.png" bgcolor=3D"#ebebeb" style=3D"padding: 0; vertical-align: to=
+p; text-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hy=
+phens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; b=
+ox-sizing: border-box;"></td>
+                                        <td height=3D"42" valign=3D"middle"=
+ lang=3D"x-menuItem" class=3D"small img-center social menu-item" style=3D"w=
+idth: 100px; height: 42px; padding: 0 21px; vertical-align: middle; text-al=
+ign: center; -ms-hyphens: none; -moz-hyphens: none; border-collapse: collap=
+se; box-sizing: border-box; -webkit-hyphens: none; word-break: break-word; =
+hyphens: none;" width=3D"100"><a href=3D"http://t.ac.travelocity.com/r/=3Fi=
+d=3Dh1f094517,2e4f4734,2e62d206" style=3D"font-size: 13px; letter-spacing: =
+.025em; font-family: 'Arial', sans-serif; color: #737373; text-decoration: =
+none; line-height: 35px; -webkit-transition: .3s ease all; transition: .3s =
+ease all; font-weight: 100; display: block; cursor: pointer;"><img style=3D=
+"outline: none; clear: both; max-width: 100%; -ms-interpolation-mode: bicub=
+ic; text-decoration: none; border: none; width: 34px; vertical-align: middl=
+e; float: none; margin: 0 auto; display: inline;" src=3D"https://images.trv=
+l-media.com/media/content/expus/graphics/promos/deals/tvly/icon-instagram.p=
+ng" alt=3D"Instagram" width=3D"34"></a></td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                  <td width=3D"1px" background=3D"https://i=
+mages.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/hr-vert=
+icle.png" bgcolor=3D"#ebebeb" class=3D"hr-show-for-small column" style=3D"p=
+adding: 0; vertical-align: top; text-align: left; word-break: break-word; -=
+webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none;=
+ border-collapse: collapse; box-sizing: border-box;"></td>
+                                  <td class=3D"column" style=3D"padding: 0;=
+ vertical-align: top; text-align: left; word-break: break-word; -webkit-hyp=
+hens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; border-co=
+llapse: collapse; box-sizing: border-box;">
+                                    <table style=3D"border-spacing: 0; bord=
+er-collapse: collapse; box-sizing: border-box; padding: 0; vertical-align: =
+top;">
+                                      <tr style=3D"padding: 0; vertical-ali=
+gn: top;">
+                                        <td height=3D"42" valign=3D"middle"=
+ lang=3D"x-menuItem" class=3D"small img-center social menu-item" style=3D"w=
+idth: 100px; height: 42px; padding: 0 21px; vertical-align: middle; text-al=
+ign: center; -ms-hyphens: none; -moz-hyphens: none; border-collapse: collap=
+se; box-sizing: border-box; -webkit-hyphens: none; word-break: break-word; =
+hyphens: none;" width=3D"100"><a href=3D"http://t.ac.travelocity.com/r/=3Fi=
+d=3Dh1f094517,2e4f4734,2e62d207" style=3D"font-size: 13px; letter-spacing: =
+.025em; font-family: 'Arial', sans-serif; color: #737373; text-decoration: =
+none; line-height: 35px; -webkit-transition: .3s ease all; transition: .3s =
+ease all; font-weight: 100; display: block; cursor: pointer;"><img style=3D=
+"outline: none; clear: both; max-width: 100%; -ms-interpolation-mode: bicub=
+ic; text-decoration: none; border: none; width: 34px; vertical-align: middl=
+e; float: none; margin: 0 auto; display: inline;" src=3D"https://images.trv=
+l-media.com/media/content/expus/graphics/promos/deals/tvly/icon-google-plus=
+.png" alt=3D"Google Plus" width=3D"34"></a></td>
+                                        <td width=3D"1px" background=3D"htt=
+ps://images.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/h=
+r-verticle.png" bgcolor=3D"#ebebeb" style=3D"padding: 0; vertical-align: to=
+p; text-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hy=
+phens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; b=
+ox-sizing: border-box;"></td>
+                                        <td height=3D"42" valign=3D"middle"=
+ lang=3D"x-menuItem" class=3D"small img-center social menu-item" style=3D"w=
+idth: 100px; height: 42px; padding: 0 21px; vertical-align: middle; text-al=
+ign: center; -ms-hyphens: none; -moz-hyphens: none; border-collapse: collap=
+se; box-sizing: border-box; -webkit-hyphens: none; word-break: break-word; =
+hyphens: none;" width=3D"100"><a href=3D"http://t.ac.travelocity.com/r/=3Fi=
+d=3Dh1f094517,2e4f4734,2e62d208" style=3D"font-size: 13px; letter-spacing: =
+.025em; font-family: 'Arial', sans-serif; color: #737373; text-decoration: =
+none; line-height: 35px; -webkit-transition: .3s ease all; transition: .3s =
+ease all; font-weight: 100; display: block; cursor: pointer;"><img style=3D=
+"outline: none; clear: both; max-width: 100%; -ms-interpolation-mode: bicub=
+ic; text-decoration: none; border: none; width: 34px; vertical-align: middl=
+e; float: none; margin: 0 auto; display: inline;" src=3D"https://images.trv=
+l-media.com/media/content/expus/graphics/promos/deals/tvly/icon-pinterest.p=
+ng" alt=3D"Pinterest" width=3D"34"></a></td>
+                                        <td width=3D"1px" background=3D"htt=
+ps://images.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/h=
+r-verticle.png" bgcolor=3D"#ebebeb" style=3D"padding: 0; vertical-align: to=
+p; text-align: left; word-break: break-word; -webkit-hyphens: none; -moz-hy=
+phens: none; -ms-hyphens: none; hyphens: none; border-collapse: collapse; b=
+ox-sizing: border-box;"></td>
+                                        <td height=3D"42" valign=3D"middle"=
+ lang=3D"x-menuItem" class=3D"small img-center social menu-item" style=3D"w=
+idth: 100px; height: 42px; padding: 0 21px; vertical-align: middle; text-al=
+ign: center; -ms-hyphens: none; -moz-hyphens: none; border-collapse: collap=
+se; box-sizing: border-box; -webkit-hyphens: none; word-break: break-word; =
+hyphens: none;" width=3D"100"><a href=3D"http://t.ac.travelocity.com/r/=3Fi=
+d=3Dh1f094517,2e4f4734,2e62d209" style=3D"font-size: 13px; letter-spacing: =
+.025em; font-family: 'Arial', sans-serif; color: #737373; text-decoration: =
+none; line-height: 35px; -webkit-transition: .3s ease all; transition: .3s =
+ease all; font-weight: 100; display: block; cursor: pointer;"><img style=3D=
+"outline: none; clear: both; max-width: 100%; -ms-interpolation-mode: bicub=
+ic; text-decoration: none; border: none; width: 34px; vertical-align: middl=
+e; float: none; margin: 0 auto; display: inline;" src=3D"https://images.trv=
+l-media.com/media/content/expus/graphics/promos/deals/tvly/icon-youtube.png=
+" alt=3D"Youtube" width=3D"34"></a></td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <!--
+                *********************************************** 
+                MODULE / hr
+                *********************************************** 
+                -->
+                <table data-type=3D"module" width=3D"100%" class=3D"horizon=
+tal-rule" style=3D"border-spacing: 0; border-collapse: collapse; box-sizing=
+: border-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-bottom: 0; padding-top: 0; -=
+ms-hyphens: none; -moz-hyphens: none; border-collapse: collapse; box-sizing=
+: border-box; -webkit-hyphens: none; word-break: break-word; hyphens: none;=
+">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td width=3D"600" height=3D"1" background=3D"ht=
+tps://images.trvl-media.com/media/content/expus/graphics/promos/deals/tvly/=
+hr.png" bgcolor=3D"#ebebeb" class=3D"hr-eroded" style=3D"vertical-align: to=
+p; padding: 0; text-align: left; font-size: 1px; line-height: 1px; word-bre=
+ak: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; b=
+order-collapse: collapse; box-sizing: border-box; -ms-hyphens: none;">&nbsp=
+;</td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                <table data-type=3D"module" align=3D"center" class=3D"trave=
+locity-link" style=3D"border-spacing: 0; border-collapse: collapse; box-siz=
+ing: border-box; padding: 0; vertical-align: top; margin: 0 auto;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-bottom: 21px; padding-top: 2=
+1px; -ms-hyphens: none; -moz-hyphens: none; border-collapse: collapse; box-=
+sizing: border-box; -webkit-hyphens: none; word-break: break-word; hyphens:=
+ none;">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td class=3D"full-width" style=3D"vertical-alig=
+n: top; padding: 0; text-align: left; width: 600px; -moz-hyphens: none; -we=
+bkit-hyphens: none; hyphens: none; border-collapse: collapse; box-sizing: b=
+order-box; word-break: break-word; -ms-hyphens: none;" width=3D"600">
+                              <table align=3D"center" class=3D"page-margin"=
+ style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-=
+box; padding: 0; vertical-align: top; width: 544px; margin: 0 auto;" width=
+=3D"544">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td class=3D"p" style=3D"padding: 0; vert=
+ical-align: top; text-align: center; word-break: break-word; -webkit-hyphen=
+s: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; border-colla=
+pse: collapse; box-sizing: border-box;"><span style=3D"font-family: 'Arial'=
+, sans-serif; font-size: 16px; line-height: 28px; letter-spacing: .025em; c=
+olor: #232323;"><a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1f094517,=
+2e4f4734,2e62d20a&p1=3D=3Femlcid=3Dtravelocity-us.mr.CyberMondayComingSoon_=
+20161126_uneng..hot-segmX.776947508.116891364." style=3D"text-decoration: n=
+one; cursor: pointer; font-family: 'Arial', sans-serif; font-size: 16px; li=
+ne-height: 28px; letter-spacing: .025em; font-weight: bold; color: #7BAED4;=
+">www.travelocity.com</a></span></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+               <!--
+                *********************************************** 
+                MODULE / disclaimer
+                *********************************************** 
+                -->
+
+
+                <table data-type=3D"module" width=3D"100%" bgcolor=3D"#ffff=
+ff" class=3D"disclaimer" style=3D"border-spacing: 0; border-collapse: colla=
+pse; box-sizing: border-box; padding: 0; vertical-align: top;">
+                  <tr style=3D"padding: 0; vertical-align: top;">
+                    <td align=3D"center" class=3D"vr" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; padding-top: 0px; -webkit-hyphens: n=
+one; -moz-hyphens: none; hyphens: none; border-collapse: collapse; box-sizi=
+ng: border-box; word-break: break-word; -ms-hyphens: none;">
+                      <center style=3D"width: 100%; min-width: 656px;">
+                        <table align=3D"center" class=3D"container" style=
+=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-box; p=
+adding: 0; vertical-align: top; width: 600px; margin: 0 auto; min-width: 60=
+0px;" width=3D"600">
+                          <tr style=3D"padding: 0; vertical-align: top;">
+                            <td class=3D"full-width" style=3D"vertical-alig=
+n: top; padding: 0; text-align: left; width: 600px; -moz-hyphens: none; -we=
+bkit-hyphens: none; hyphens: none; border-collapse: collapse; box-sizing: b=
+order-box; word-break: break-word; -ms-hyphens: none;" width=3D"600">
+                              <table align=3D"center" class=3D"page-margin"=
+ style=3D"border-spacing: 0; border-collapse: collapse; box-sizing: border-=
+box; padding: 0; vertical-align: top; width: 544px; margin: 0 auto;" width=
+=3D"544">
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"42px" style=3D"vertical-ali=
+gn: top; padding: 0; text-align: left; height: 42px; -moz-hyphens: none; -w=
+ebkit-hyphens: none; hyphens: none; border-collapse: collapse; box-sizing: =
+border-box; word-break: break-word; -ms-hyphens: none;"></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;"> 
+                                  <td class=3D"disclaimer" style=3D"padding=
+: 0; vertical-align: top; text-align: left; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; borde=
+r-collapse: collapse; box-sizing: border-box;"><span style=3D"font-family: =
+'Arial', sans-serif; font-size: 11px; line-height: 21px; letter-spacing: .0=
+25em; color: #b2b2b2; display: block;"><strong>SUBSCRIPTION INFORMATION</st=
+rong></span></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td class=3D"disclaimer" style=3D"padding=
+: 0; vertical-align: top; text-align: left; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; borde=
+r-collapse: collapse; box-sizing: border-box;"><span style=3D"font-family: =
+'Arial', sans-serif; font-size: 11px; line-height: 21px; letter-spacing: .0=
+25em; color: #b2b2b2; display: block;">You are receiving this email because=
+ you are a Travelocity customer or you signed up to receive promotional ema=
+ils. Please add <a href=3D"mailto:travelocity@ac.travelocity.com" style=3D"=
+text-decoration: none; cursor: pointer; font-family: 'Arial', sans-serif; f=
+ont-size: 11px; line-height: 21px; letter-spacing: .025em; color: #003E74; =
+-webkit-transition: .3s ease all; transition: .3s ease all; font-weight: bo=
+ld;">travelocity@ac.travelocity.com</a> to your address book / safe senders=
+ list to ensure that you receive our emails. You qualified for this email b=
+ased on your email preferences. If you would like to stop receiving promoti=
+onal emails from us, you can opt-out below. If you need additional assistan=
+ce, please <a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1f094517,2e4f4=
+734,2e62d7ab&p1=3D=3Femlcid=3Dtravelocity-us.mr.CyberMondayComingSoon_20161=
+126_uneng..hot-segmX.776947508.116891364." style=3D"text-decoration: none; =
+cursor: pointer; font-family: 'Arial', sans-serif; font-size: 11px; line-he=
+ight: 21px; letter-spacing: .025em; color: #003E74; -webkit-transition: .3s=
+ ease all; transition: .3s ease all; font-weight: bold;">email us</a> anyti=
+me.</span></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"14" class=3D"mso-empty" sty=
+le=3D"vertical-align: top; padding: 0; line-height: 0px; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; font-size: 0px; text-align: left; word-break: b=
+reak-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; box-sizing=
+: border-box; border-collapse: collapse; -webkit-hyphens: none;"></td>
+                                </tr>
+
+
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;"> 
+                                  <td class=3D"disclaimer" style=3D"padding=
+: 0; vertical-align: top; text-align: left; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; borde=
+r-collapse: collapse; box-sizing: border-box;"><span style=3D"font-family: =
+'Arial', sans-serif; font-size: 11px; line-height: 21px; letter-spacing: .0=
+25em; color: #b2b2b2; display: block;"><strong>EMAIL PREFERENCES</strong></=
+span></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td class=3D"disclaimer" style=3D"padding=
+: 0; vertical-align: top; text-align: left; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; borde=
+r-collapse: collapse; box-sizing: border-box;"><span style=3D"font-family: =
+'Arial', sans-serif; font-size: 11px; line-height: 21px; letter-spacing: .0=
+25em; color: #b2b2b2; display: block;"><a href=3D"http://t.ac.travelocity.c=
+om/r/=3Fid=3Dh1f094517,2e4f4734,2e62d7b0&p1=3D/webApp/trvPromoSubCenter=3Fe=
+mail=3Dkyle%40kylefisher.com&tpid=3D80001&langid=3DEN&=3Femlcid=3Dtraveloci=
+ty-us.mr.CyberMondayComingSoon_20161126_uneng.email_pref.gen-segmX.77694750=
+8.116891364.0" style=3D"text-decoration: none; cursor: pointer; font-family=
+: 'Arial', sans-serif; font-size: 11px; line-height: 21px; letter-spacing: =
+.025em; color: #003E74; -webkit-transition: .3s ease all; transition: .3s e=
+ase all; font-weight: bold;">Update Your Preferences</a>
+
+
+
+
+<br />
+Please allow 48 hours for your Email Preferences setting to be updated.<br =
+/>
+Your privacy is important to us. View our <a href=3D"http://t.ac.travelocit=
+y.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d7b1&p1=3D=3Femlcid=3Dtravelocity-us=
+.mr.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." s=
+tyle=3D"text-decoration: none; cursor: pointer; font-family: 'Arial', sans-=
+serif; font-size: 11px; line-height: 21px; letter-spacing: .025em; color: #=
+003E74; -webkit-transition: .3s ease all; transition: .3s ease all; font-we=
+ight: bold;">privacy policy</a>.
+<br />
+<br />
+If you would like to be permanently removed from the receipt of all promoti=
+onal, discount offers and specials, travel advisories and information you m=
+ay 
+<a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d7b=
+2&p1=3D=3Femlcid=3Dtravelocity-us.mr.CyberMondayComingSoon_20161126_uneng..=
+hot-segmX.776947508.116891364.&p2=3D%40RvEjLRiAw8NcuHVjoBN5ZQ%3D%3D&p3=3DTV=
+LYOCCASION" style=3D"text-decoration: none; cursor: pointer; font-family: '=
+Arial', sans-serif; font-size: 11px; line-height: 21px; letter-spacing: .02=
+5em; color: #003E74; -webkit-transition: .3s ease all; transition: .3s ease=
+ all; font-weight: bold;">Unsubscribe</a> from all Travelocity emails.
+<br />
+Please allow 5-10 business days for your unsubscribe request to be processe=
+d.</span></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"14" class=3D"mso-empty" sty=
+le=3D"vertical-align: top; padding: 0; line-height: 0px; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; font-size: 0px; text-align: left; word-break: b=
+reak-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; box-sizing=
+: border-box; border-collapse: collapse; -webkit-hyphens: none;"></td>
+                                </tr>
+
+
+
+
+
+
+
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td class=3D"disclaimer" style=3D"padding=
+: 0; vertical-align: top; text-align: left; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; borde=
+r-collapse: collapse; box-sizing: border-box;"><span style=3D"font-family: =
+'Arial', sans-serif; font-size: 11px; line-height: 21px; letter-spacing: .0=
+25em; color: #b2b2b2; display: block;"><strong>TERMS AND CONDITIONS</strong=
+></span><br>
+                                  <a href=3D"http://t.ac.travelocity.com/r/=
+=3Fid=3Dh1f094517,2e4f4734,2e62d7b3&p1=3D=3Femlcid=3Dtravelocity-us.mr.Cybe=
+rMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." style=3D"=
+text-decoration: none; cursor: pointer; font-family: 'Arial', sans-serif; f=
+ont-size: 11px; line-height: 21px; letter-spacing: .025em; color: #003E74; =
+-webkit-transition: .3s ease all; transition: .3s ease all; font-weight: bo=
+ld;">* 50BLACKFRIDAY Terms and Conditions</a> </td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"14" class=3D"mso-empty" sty=
+le=3D"vertical-align: top; padding: 0; line-height: 0px; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; font-size: 0px; text-align: left; word-break: b=
+reak-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; box-sizing=
+: border-box; border-collapse: collapse; -webkit-hyphens: none;"></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;"></tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td class=3D"disclaimer" style=3D"padding=
+: 0; vertical-align: top; text-align: left; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; borde=
+r-collapse: collapse; box-sizing: border-box;"><span style=3D"font-family: =
+'Arial', sans-serif; font-size: 11px; line-height: 21px; letter-spacing: .0=
+25em; color: #b2b2b2; display: block;"></span></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"14" class=3D"mso-empty" sty=
+le=3D"vertical-align: top; padding: 0; line-height: 0px; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; font-size: 0px; text-align: left; word-break: b=
+reak-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; box-sizing=
+: border-box; border-collapse: collapse; -webkit-hyphens: none;"></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td class=3D"disclaimer" style=3D"padding=
+: 0; vertical-align: top; text-align: left; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; borde=
+r-collapse: collapse; box-sizing: border-box;"><span style=3D"font-family: =
+'Arial', sans-serif; font-size: 11px; line-height: 21px; letter-spacing: .0=
+25em; color: #b2b2b2; display: block;"><a href=3D"http://t.ac.travelocity.c=
+om/r/=3Fid=3Dh1f094517,2e4f4734,2e62d7ac&p1=3D=3Femlcid=3Dtravelocity-us.mr=
+.CyberMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." styl=
+e=3D"text-decoration: none; cursor: pointer; font-family: 'Arial', sans-ser=
+if; font-size: 11px; line-height: 21px; letter-spacing: .025em; color: #003=
+E74; -webkit-transition: .3s ease all; transition: .3s ease all; font-weigh=
+t: bold;">www.travelocity.com</a> | <a href=3D"http://t.ac.travelocity.com/=
+r/=3Fid=3Dh1f094517,2e4f4734,2e62d7ad&p1=3D=3Femlcid=3Dtravelocity-us.mr.Cy=
+berMondayComingSoon_20161126_uneng..hot-segmX.776947508.116891364." style=
+=3D"text-decoration: none; cursor: pointer; font-family: 'Arial', sans-seri=
+f; font-size: 11px; line-height: 21px; letter-spacing: .025em; color: #003E=
+74; -webkit-transition: .3s ease all; transition: .3s ease all; font-weight=
+: bold;">Travelocity Customer Care</a> | 108th Avenue NE Bellevue, WA 98004=
+, USA&#160;&#169; 1996-2016 Travelscape LLC. All rights reserved. Traveloci=
+ty, the Stars Design, and The Roaming Gnome Design are trademarks of Travel=
+scape LLC. Use of this Web site constitutes acceptance of the Travelocity <=
+a href=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d7ae=
+&p1=3D=3Femlcid=3Dtravelocity-us.mr.CyberMondayComingSoon_20161126_uneng..h=
+ot-segmX.776947508.116891364." style=3D"text-decoration: none; cursor: poin=
+ter; font-family: 'Arial', sans-serif; font-size: 11px; line-height: 21px; =
+letter-spacing: .025em; color: #003E74; -webkit-transition: .3s ease all; t=
+ransition: .3s ease all; font-weight: bold;">User Agreement</a> and <a href=
+=3D"http://t.ac.travelocity.com/r/=3Fid=3Dh1f094517,2e4f4734,2e62d7af&p1=3D=
+=3Femlcid=3Dtravelocity-us.mr.CyberMondayComingSoon_20161126_uneng..hot-seg=
+mX.776947508.116891364." style=3D"text-decoration: none; cursor: pointer; f=
+ont-family: 'Arial', sans-serif; font-size: 11px; line-height: 21px; letter=
+-spacing: .025em; color: #003E74; -webkit-transition: .3s ease all; transit=
+ion: .3s ease all; font-weight: bold;">Privacy Policy</a>. CST# 2056372-50<=
+/span></td>
+                                </tr>
+                                <tr style=3D"padding: 0; vertical-align: to=
+p;">
+                                  <td height=3D"42" style=3D"padding: 0; ve=
+rtical-align: top; text-align: left; word-break: break-word; -webkit-hyphen=
+s: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; border-colla=
+pse: collapse; box-sizing: border-box;"></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr style=3D"padding: 0; vertical-align: top;">
+        <td align=3D"center" background=3D"https://images.trvl-media.com/me=
+dia/content/expus/graphics/promos/deals/tvly/paper-texture2.jpg" bgcolor=3D=
+"#faf6f2" style=3D"padding: 0; vertical-align: top; text-align: left; word-=
+break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: =
+none; hyphens: none; border-collapse: collapse; box-sizing: border-box;">&n=
+bsp;</td>
+      </tr>
+    </table>
+  <img height=3D'0' width=3D'0' alt=3D'' src=3D'http://t.ac.travelocity.com=
+/r/=3Fid=3Dh1f094517,2e4f4734,1'/></body>
+</html>
+

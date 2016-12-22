@@ -1,0 +1,259 @@
+Return-path: <01000158db7bff7f-c164850c-d440-4742-ac5c-419f10026751-000000@amazonses.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Wed, 07 Dec 2016 17:51:28 -0500
+Received: from a10-223.smtp-out.amazonses.com ([54.240.10.223]:46042)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <01000158db7bff7f-c164850c-d440-4742-ac5c-419f10026751-000000@amazonses.com>)
+	id 1cEl3f-001Sk5-SK
+	for kyle@kylefisher.com; Wed, 07 Dec 2016 17:51:27 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=qbj4rklbg4bdssleu37kmepljop2lmma; d=venmo.com; t=1481151086;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date;
+	bh=UUoAVNBZYupWvLoJwZs8lRdyrcB3zI69NvYn3KgSaMQ=;
+	b=ChqNSUNAhK0kYAiR3+vpDirAbrRlFh/JRnJhx3k0jAgQgpvHhv4S/fTmsqaFcuUa
+	eycGt7br9nTjo5kPZxHnKYBajq/NPvKGxCfOCyYwJRGTqMKBJpFUF9c7aw+D6phiSoG
+	+UvyOmTC+KYCklUakVU02SuWhBiwefut/EQj45Dk=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1481151086;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date:Feedback-ID;
+	bh=UUoAVNBZYupWvLoJwZs8lRdyrcB3zI69NvYn3KgSaMQ=;
+	b=WPzymfESVdDiBhNO+JfA7GMmCdyynDUgRfMC1NZvgKEDWLy2ErVrnH72sS2gOCwK
+	KBpKjCSdjBkmwdRry6McZjsEz1CtbhQA8fuhzSfLato0PdWWO+eGq/8JV7cKulPXZ7t
+	kO0ZJhQENN7XosDanhj/HyUmNy0ZAVQTIm/Q9i2U=
+From: Venmo <venmo@venmo.com>
+Reply-To: Venmo No-reply <no-reply@venmo.com>
+To: kyle@kylefisher.com
+Subject: You completed Sam Peppard's $6.27 charge request
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <01000158db7bff7f-c164850c-d440-4742-ac5c-419f10026751-000000@email.amazonses.com>
+Date: Wed, 7 Dec 2016 22:51:26 +0000
+X-SES-Outgoing: 2016.12.07-54.240.10.223
+Feedback-ID: 1.us-east-1.fQ0yL0IwGSResIpU9lW9fHNtFl/iEQA4Znd52HkQv2U=:AmazonSES
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+<html class=3D""  id=3D"html_container" xmlns=3D"http://www.w3.org/1999/xht=
+ml" dir=3D"ltr" lang=3D"en-US" xmlns:fb=3D"http://www.facebook.com/2008/fbm=
+l">
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8">
+        <title> - Venmo</title>
+    </head>
+
+    <body style=3D"margin:0;">
+       =20
+        <div style=3D"font-family:'helvetica neue';">
+            <div style=3D"margin: 0 auto; max-width: 320px;">
+                <div style=3D"font-size:13px;border: 2px solid #e8ebea;">
+                    <div style=3D"padding: 10px 0; text-align: center; back=
+ground-color: #3C95D2;">
+                        <img src=3D"https://s3.amazonaws.com/venmo/venmo-lo=
+go-white.png" alt=3D"venmo" title=3D"venmo" style=3D"color: #fff;width:125p=
+x;height:24px;" />
+                    </div>
+                   =20
+                    <div style=3D"padding:20px;background-color:#fff;">
+                       =20
+
+<div width=3D"100%" >
+   =20
+
+
+
+   =20
+
+<table width=3D"100%"> <tbody>
+    <tr>
+        <!-- img of actor -->
+        <td valign=3D"top" width=3D"48px" style=3D"padding-right:10px;">
+            <a href=3D"https://venmo.com/Sam-Peppard">
+                <img src=3D"https://venmopics.appspot.com/u/v1/n/206abe08-1=
+658-4638-a8fe-3ce66976226d" style=3D"border-radius:3px;width:48px;height:48=
+px;"/>
+            </a>=20
+        </td>
+        <td style=3D"font-size:14px;color:#333;vertical-align:top;padding-l=
+eft:2px;">
+            <div >
+                <!-- actor name -->
+                <a style=3D"color:#5291CB; text-decoration:none" href=3D"ht=
+tps://venmo.com/Sam-Peppard">
+                    Sam Peppard
+                </a>=20
+                <!-- action -->
+                <span>
+                    charged
+                </span>
+              =20
+                <!-- recipient name -->
+                <a style=3D"color:#5291CB; text-decoration:none"=20
+                   =20
+                    href=3D"https://venmo.com/Kyle-Fisher-7">
+                   =20
+                    You
+                </a>
+               =20
+            </div>
+            <!-- note -->
+            <div>
+                <p>Uber</p>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style=3D"font-size:14px;padding-left:2px;color:#979797;">
+            Transfer Date and Amount:
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style=3D"font-size:14px;padding-left:2px;color:grey;">
+        <!-- date, audience, and amount -->
+            <span>Dec 07, 2016 PST</span>
+            <span> =C2=B7 </span>
+            <img style=3D"vertical-align: -1px;" src=3Dhttps://s3.amazonaws=
+.com/venmo/audience/public.png alt=3D"public"/>
+
+            <!-- amount -->
+           =20
+            <span style=3D"float:right;">- $6.27</span>
+           =20
+        </td>
+    </tr>
+   =20
+   =20
+   =20
+    <tr>
+        <td></td>
+        <td style=3D"padding-top:10px;">
+            <table style=3D"width:170px; table-layout:fixed;font-size:14px;=
+">
+                <tbody>
+                <tr>
+                   =20
+                    <td style=3D"padding:5px 0; text-align:center;backgroun=
+d-color:#3C95D2;" >
+                        <a href=3D"https://venmo.com/story/5848926e23e064ea=
+c09b9991?e=3Dpayment.sent&amp;k=3Dadd1add7-7631-4dc9-a86b-40444cba169d&amp;=
+u=3D1516197&amp;login=3D1" style=3D"text-decoration:none; color: #fff;displ=
+ay:block;width:100%;">
+                                Like
+                        </a>
+                    </td>
+                   =20
+                   =20
+                    <td style=3D"padding:5px 0; text-align:center;backgroun=
+d-color:#3C95D2;" >
+                        <a href=3D"https://venmo.com/story/5848926e23e064ea=
+c09b9991?login=3D1" style=3D"text-decoration:none; color: #fff;display:bloc=
+k;width:100%;">
+                            Comment
+                        </a>
+                    </td>
+                   =20
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+   =20
+</tbody> </table>
+
+
+=20
+<div style=3D"margin-top:10px;"></div>
+   =20
+
+
+    <div style=3D"color:#999;font-size:12px;margin-top:10px;padding-top:10p=
+x; border-top: 1px dotted #ccc">
+       =20
+       =20
+           =20
+                Completed via a bank transfer
+               =20
+                from your Bank of America account ending in 0444.
+               =20
+           =20
+       =20
+       =20
+        <br /><br />
+        Payment ID: 2100365560532435072
+</div>
+
+   =20
+<div style=3D"color:#999;font-size:12px;margin-top:10px;padding-top:10px; b=
+order-top: 1px dotted #ccc">
+    <div style=3D"width:50%; padding:5px; text-align:center; background-col=
+or:#3C95D2;">
+        <a href=3D"http://www.venmo.com/referrals?user_id=3D1516197&campaig=
+n_service=3Demail&campaign_template=3Dpayment.sent" style=3D"text-decoratio=
+n:none; color: #000; display:block; width:100%; font-size:12px;">
+            <div style=3D"font-size:14px; color:#fff;">Invite Friends!</div=
+>=20
+        </a>
+    </div>
+  =20
+   =20
+        <div style=3D"margin-bottom:10px;"></div>
+   =20
+</div>
+
+    <div style=3D"font-size:11px;margin-top:10px;padding-top:10px; border-t=
+op: 1px dotted #ccc">
+
+    <div>
+        For any issues, including the recipient not receiving funds, please=
+ contact us at support@venmo.com or call 1-855-812-4430.
+    </div>
+
+
+    <div style=3D"margin-top:10px;">
+        See our <a style=3D"text-decoration:none;color:#5291CB" href=3D"htt=
+ps://venmo.com/legal/us-licenses">disclosures</a> for more information.
+    </div>
+
+</div>
+
+</div>
+
+
+                       =20
+                    </div>
+                    <div style=3D"padding:10px 15px; color: #888; backgroun=
+d-color: #e8ebea; text-align: center;">
+                       =20
+                       =20
+                            <div style=3D"color: #888; margin-top: 5px;">
+                                Venmo is a service of PayPal, Inc., a licen=
+sed provider of money transfer services. All money transmission is provided=
+ by PayPal, Inc. pursuant to PayPal, Inc.'s licenses.
+                            </div>
+                       =20
+                        <div style=3D"color: #888; margin-top: 14px;">PayPa=
+l is located at<br/>2211 North First Street, San Jose, CA 95131</div>
+                        <div style=3D"margin-top: 5px;">
+                           =20
+                        </div>
+                       =20
+                    </div>
+                </div>
+               =20
+                    <div><img src=3D"https://venmo.com/vt.png?scat=3Dpaymen=
+t.sent&u=3D1516197"/></div>
+               =20
+               =20
+                    <div style=3D"text-align: center; color: #888; margin-t=
+op: 11px;">For security reasons, you cannot unsubscribe from payment emails=
+.</div>
+               =20
+            </div>
+        </div>
+    </body>
+</html>

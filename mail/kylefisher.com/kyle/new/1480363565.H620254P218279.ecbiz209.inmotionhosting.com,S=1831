@@ -1,0 +1,34 @@
+Return-path: <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Mon, 28 Nov 2016 15:06:05 -0500
+Received: from mail-s56.mailgun.us ([184.173.153.56]:48803)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>)
+	id 1cBSBh-000ukH-Hi
+	for kyle@kylefisher.com; Mon, 28 Nov 2016 15:06:05 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=epicodus.com; q=dns/txt; s=mx;
+ t=1480363564; h=Content-Transfer-Encoding: Mime-Version: Content-Type:
+ Subject: From: To: Message-Id: Date: Sender;
+ bh=OGs4gmrvwNp0hMqfSfgt9nJXtqMZkLY/WSHtb+3BH1o=; b=iTlv1V6wfhVdc1iaczzvQQX9CsYprE9nAUQIxXHmDBfH/UnCucLwA27dPQqpwuHhI0HVuDxb
+ +JaFIREg5uE/4R4xSMP7mY+03assRPzEJBD/Jp0imOPnTL7YiVFAMVQ19mU4VWEfMo3u2G8w
+ n3EhKJ0uUrhURI8tZUpvxqEp3ig=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=epicodus.com; s=mx; q=dns;
+ h=Sender: Date: Message-Id: To: From: Subject: Content-Type:
+ Mime-Version: Content-Transfer-Encoding;
+ b=t9X2KPQZhX88v6ebxg8ejq9ngGvNCYr5Xt7bziH4KDr18I+dOIwqsHQ2TaxDGH0R8Rw1aS
+ jloIvcO7iQuk3QoDNQd/yUpeD3n024g1CdoYX4y9pmXRqVCaBtlUH1stR3fbu7xw2E5kIimg
+ lAq5rOm+VR2Kae9H2atqHAWJDQbtw=
+Sender: no-reply@epicodus.com
+Date: Mon, 28 Nov 2016 20:06:04 +0000
+X-Mailgun-Sending-Ip: 184.173.153.56
+X-Mailgun-Sid: WyI4ZmIxZiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgImUxZTk1Il0=
+Received: by luna.mailgun.net with HTTP; Mon, 28 Nov 2016 20:04:32 +0000
+Message-Id: <20161128200432.30092.50388.CEDED9E0@epicodus.com>
+To: kyle@kylefisher.com
+From: no-reply@epicodus.com
+Subject: Code review reviewed
+Content-Type: text/plain; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi Kyle Fisher. Your Modern JS Apps code has been reviewed. You can view it at https://epicenter.epicodus.com/courses/85/code_reviews/477.

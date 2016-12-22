@@ -1,0 +1,194 @@
+.la-icon-manager{
+}
+
+.la-icon-manager .notify{
+    margin: 15px 0;
+}
+.la-icon-manager .upload_icons input{
+    margin-top: 0 !important;
+}
+.la-icon-manager .upload_icons .spinner{
+    float: none;
+    vertical-align: top;
+    margin: 4px 0 0 8px;
+}
+
+.la-icon-manager .icon-set{
+    margin: 0 0 10px 0;
+}
+.la-icon-manager .icon-manager-header{
+    display: inline-block;
+    width: 100%;
+}
+.la-icon-manager .icon-manager-header .preview{
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin: 0 10px 0 0;
+    text-align: center;
+    font-size: 28px;
+}
+.la-icon-manager .icon-manager-header .preview i{
+    position: relative;
+    top: 1px;
+}
+.la-icon-manager .icon-manager-header .preview i.custom{
+    width: 28px;
+    height: 28px;
+    display: inline-block;
+    background-size: cover !important;
+}
+.la_icon_manager_custom{
+    background-position: 50% 50% !important;
+    background-repeat: no-repeat !important;
+    background-size: cover;
+}
+.la-icon-manager .icon-manager-header .search{
+    float: left;
+    width: calc(100% - 42px);
+    max-width: calc(100% - 42px);
+    padding: 5px 7px;
+    margin: 0;
+}
+
+.la-icon-manager .iconbox{
+    min-width: 255px;
+    background: #fff;
+}
+
+.la-icon-manager .selector .iconbox{
+    border: none;
+    box-shadow: none;
+}
+
+.la-icon-manager .inside{
+    margin: 0;
+    padding: 0;
+}
+
+.la-icon-manager .font_name{
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 0;
+}
+.la_icon_manager_select .font_name{
+    margin: 0 10px 0 0;
+}
+.la-icon-manager .selector .font_name{
+    border: none;
+    padding-left: 0;
+}
+
+.la-icon-manager .icon_search{
+    /*max-height: 110px;
+    height: auto;
+    overflow: scroll;
+    overflow-x: hidden;*/
+}
+.la-icon-manager .selector .icon_search{
+    overflow: visible;
+    max-height: inherit;
+}
+
+.la-icon-manager .inside .a-scroll,
+.la-icon-manager .icon-manager-body > .a-scroll{
+    max-height: 139px;
+    padding: 5px 0;
+    height: auto;
+    overflow-y: auto;
+}
+.la-icon-manager .a-scroll .a-scroll{
+    overflow: visible;
+    max-height: none;
+}
+
+.custom-icon{
+    background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0iIzQ0NDQ0NCIgZD0iTTI5LjE4MSAxOS4wNzBjLTEuNjc5LTIuOTA4LTAuNjY5LTYuNjM0IDIuMjU1LTguMzI4bC0zLjE0NS01LjQ0N2MtMC44OTggMC41MjctMS45NDMgMC44MjktMy4wNTggMC44MjktMy4zNjEgMC02LjA4NS0yLjc0Mi02LjA4NS02LjEyNWgtNi4yODljMC4wMDggMS4wNDQtMC4yNTIgMi4xMDMtMC44MTEgMy4wNzAtMS42NzkgMi45MDgtNS40MTEgMy44OTctOC4zMzkgMi4yMTFsLTMuMTQ0IDUuNDQ3YzAuOTA1IDAuNTE1IDEuNjg5IDEuMjY4IDIuMjQ2IDIuMjM0IDEuNjc2IDIuOTAzIDAuNjcyIDYuNjIzLTIuMjQxIDguMzE5bDMuMTQ1IDUuNDQ3YzAuODk1LTAuNTIyIDEuOTM1LTAuODIgMy4wNDQtMC44MiAzLjM1IDAgNi4wNjcgMi43MjUgNi4wODQgNi4wOTJoNi4yODljLTAuMDAzLTEuMDM0IDAuMjU5LTIuMDgwIDAuODExLTMuMDM4IDEuNjc2LTIuOTAzIDUuMzk5LTMuODk0IDguMzI1LTIuMjE5bDMuMTQ1LTUuNDQ3Yy0wLjg5OS0wLjUxNS0xLjY3OC0xLjI2Ni0yLjIzMi0yLjIyNnpNMTYgMjIuNDc5Yy0zLjU3OCAwLTYuNDc5LTIuOTAxLTYuNDc5LTYuNDc5czIuOTAxLTYuNDc5IDYuNDc5LTYuNDc5YzMuNTc4IDAgNi40NzkgMi45MDEgNi40NzkgNi40NzlzLTIuOTAxIDYuNDc5LTYuNDc5IDYuNDc5eiI+PC9wYXRoPjwvc3ZnPg==);
+    width: 18px;
+    height: 18px;
+    margin: 7px auto 0;
+}
+
+.la-icon-manager .font_name .strong{
+    font-size: 16px;
+}
+
+.la-icon-manager .font_name .fonts-count{
+    margin: 0 0 0 10px;
+    font-weight: 400;
+}
+
+.la-icon-manager .font_name .spinner{
+    float: right;
+    margin-top: -4px;
+}
+
+.la-icon-manager .font_name button{
+    margin: -6px 0 0 0;
+    float: right;
+}
+
+.la-icon-manager ul.icons-list{
+    margin: 0;
+}
+
+.la-icon-manager ul.icons-list li{
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    border: 1px solid #e6e6e6;
+    text-align: center;
+    vertical-align: top;
+    margin: 0 2px 2px 0;
+}
+.la-icon-manager ul.icons-list li:before{
+    display: none;
+}
+
+.la-icon-manager ul.icons-list li.active{
+    background: #689ACB;
+    color: #fff;
+}
+
+.la-icon-manager ul.icons-list li > i{
+    font-size: 18px;
+    vertical-align: text-bottom;
+    display: inline-block;
+    line-height: 32px;
+    color: #32373c;
+}
+.la-icon-manager ul.icons-list li > i:before{
+    vertical-align: top;
+}
+.la-icon-manager ul.icons-list li:hover{
+    background: #e6e6e6;
+}
+.la-icon-manager ul.icons-list li.active{
+    background: #689ACB;
+    color: #fff;
+}
+
+
+.la-icon-manager label.icon{
+    display: none;
+}
+.la-icon-manager .icon-manager-footer{
+    margin: 5px 0 0 0;
+}
+.la-icon-manager .icon-manager-footer .custom-icon-source{
+    margin: 0 10px 0 0;
+    padding: 5px 7px;
+    width: calc(100% - 180px);
+    max-width: calc(100% - 180px);
+    float: left;
+}
+.la-icon-manager .icon-manager-footer .custom-icon-button{
+    margin: 0 -20px 0 0;
+    padding: 5px 7px;
+    border-width: 1px;
+    vertical-align: top;
+    width: 170px;
+    line-height: 17px;
+    height: 30px;
+}

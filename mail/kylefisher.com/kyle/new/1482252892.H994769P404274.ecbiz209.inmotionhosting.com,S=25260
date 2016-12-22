@@ -1,0 +1,438 @@
+Return-path: <info@meetup.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Tue, 20 Dec 2016 11:54:52 -0500
+Received: from mail4.nyi.meetup.com ([64.90.170.34]:43682)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <info@meetup.com>)
+	id 1cJNgi-001hA4-Qe
+	for kyle@kylefisher.com; Tue, 20 Dec 2016 11:54:52 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=meetup; d=meetup.com;
+ h=Message-ID:From:Sender:To:Subject:MIME-Version:Content-Type:Date; i=info@meetup.com;
+ bh=X7NMR5JEOcRIjnBph3OP6aAkFb4=;
+ b=bFFREJjl2UVLVSJJxc+dz7SwFHj113xnDvtjH9RqPgqKQYQ8bp9CEkZ8qwHjMBV1hHNqk3n+9rY5
+   x72GVciLQUvEYTg+gjBeWT8xvw8LLlYxlqBDS6EZ1/b66bjFiLUeFadJrrjG3nE8egHqy1O8oiiR
+   i5cGxG5i/aN+clQr7XI=
+Received: by mail4.nyi.meetup.com id hb5h5o15obos for <kyle@kylefisher.com>; Tue, 20 Dec 2016 11:54:49 -0500 (envelope-from <info@meetup.com>)
+Received: by pmta0.phi.meetup.com id hb5h5i15odgo for <kyle@kylefisher.com>; Tue, 20 Dec 2016 11:54:49 -0500 (envelope-from <info@meetup.com>)
+Message-ID: <1249370903.1482252889842.JavaMail.root@jobs2.meetup.com>
+From: Dev Bootcamp Chicago Events and Workshops <info@meetup.com>
+Sender: info@meetup.com
+To: kyle@kylefisher.com
+Subject: Invitation: (PARTNER EVENT with GDI) Intermediate HTML/CSS
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_32206621_1370815629.1482252889841"
+X-MEETUP-RECIP-ID: 197642355
+X-MEETUP-TRACK: ea1
+Date: Tue, 20 Dec 2016 11:54:49 -0500
+
+------=_Part_32206621_1370815629.1482252889841
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_32206623_1199627709.1482252889841"
+
+------=_Part_32206623_1199627709.1482252889841
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+CgoKTmV3IE1lZXR1cAoKKFBBUlRORVIgRVZFTlQgd2l0aCBHREkpIEludGVybWVkaWF0ZSBIVE1M
+L0NTUwpodHRwczovL3d3dy5tZWV0dXAuY29tL19fbXMxOTc2NDIzNTUvQ2hpY2Fnby1EZXZCb290
+Y2FtcC1DaGljYWdvLVNwZWFrZXJzLWFuZC1Xb3Jrc2hvcC1TZXJpZXMvZXZlbnRzLzIzNjM1NjA0
+Mi8/cnY9ZWExJl9hZj1ldmVudCZfYWZfZWlkPTIzNjM1NjA0MiZleHBpcmVzPTE0ODI0MjU2ODk4
+MTgmc2lnPTE4M2U2ZjU5NTIzMmRmNGE3NmJlOTc5NWYwNTNlOWY5Nzc2Mjk5Y2YKCkRldiBCb290
+Y2FtcCBDaGljYWdvIEV2ZW50cyBhbmQgV29ya3Nob3BzCgpBZGRlZCBieSBOYW9taSBEYXZpZAoK
+V2hlbjoKU2F0dXJkYXksIEphbnVhcnkgMjEsIDIwMTcKMTA6MDAgQU0KCldoZXJlOgpEZXYgQm9v
+dGNhbXAgLSBORVcgTE9DQVRJT04KMTAzMyBXLiBWYW4gQnVyZW4gU3QuLCBTdWl0ZSAzMDAKQ2hp
+Y2FnbywgSUwKCgpBcmUgeW91IGdvaW5nPwoKWWVzCmh0dHBzOi8vd3d3Lm1lZXR1cC5jb20vX19t
+czE5NzY0MjM1NS9DaGljYWdvLURldkJvb3RjYW1wLUNoaWNhZ28tU3BlYWtlcnMtYW5kLVdvcmtz
+aG9wLVNlcmllcy9ldmVudHMvMjM2MzU2MDQyLz9yZWZ1bmRfcG9saWN5PXRydWUmcnY9ZWExJl9h
+Zj1ldmVudCZfYWZfZWlkPTIzNjM1NjA0MiZyZXNwb25zZT0zJmFjdGlvbj1yc3ZwJmZyb21FbWFp
+bD0yMzYzNTYwNDImZXhwaXJlcz0xNDgyNDI1Njg5ODE5JnNpZz01ZjMwMDliOGNkM2MwMzg5YzUx
+Y2NmM2VmYjA4NmU4ODY4MGViMGJmCgpObwpodHRwczovL3d3dy5tZWV0dXAuY29tL19fbXMxOTc2
+NDIzNTUvQ2hpY2Fnby1EZXZCb290Y2FtcC1DaGljYWdvLVNwZWFrZXJzLWFuZC1Xb3Jrc2hvcC1T
+ZXJpZXMvZXZlbnRzLzIzNjM1NjA0Mi8/cmVmdW5kX3BvbGljeT10cnVlJnJ2PWVhMSZfYWY9ZXZl
+bnQmX2FmX2VpZD0yMzYzNTYwNDImcmVzcG9uc2U9MiZhY3Rpb249cnN2cCZleHBpcmVzPTE0ODI0
+MjU2ODk4MTkmc2lnPTVhMTMwNmE3MDExNWFkMmVhOTRhMGY4NDgyMzI5MjEyNjM0YjRiMjMKCgoK
+CgpFdmVudCBkZXRhaWxzOgpSU1ZQIEhFUkUKSGF2ZSB5b3UgZXhwZXJpbWVudGVkIHdpdGggYmFz
+aWMgSFRNTC9DU1MsIGJ1dCB3YW50IHRvIHRha2UgdGhlIG5leHQgc3RlcCBpbiBsZWFybmluZyBo
+b3cgdG8gbWFrZSBhbiBpbnRlcmVzdGluZywgbW9kZXJuIHdlYnNpdGU/IEFscmVhZHkgaGF2ZSB5
+b3VyIG93biBzaXRlIGFuZCB3YW50IHRvIGhhdmUgbW9yZSBjb250cm9sIG92ZXIgaXQ/IERvIHlv
+dSBmZWVsIGdpZGR5IGF0IHRoZSBwcm9zcGVjdCBvZiBsZWFybmluZyByZXNwb25zaXZlIGRlc2ln
+biBhbmQgbmV3IEhUTUw1IGFuZCBDU1MzIGVsZW1lbnRzPwpUaGVuIHRoaXMgY2xhc3MgaXMgZm9y
+IHlvdSEKWU9VJ0xMIExFQVJOOgrigKIgU3RhbmRhcmQgcHJhY3RpY2VzIHRoYXQgZGVzaWduZXJz
+L2RldmVsb3BlcnMgdXNlLiBDU1MgcmVzZXRzLCBzdGFuZGFyZCB3aWR0aHMsIHdyYXBwZXJzLCBh
+bmQgb3RoZXIgdHJpY2tzLgrigKIgV2hhdCdzIHRoaXMgbmV3IGZhbmN5IEhUTUw1IGFuZCB3aGF0
+IGNhbiBpdCBkbz8gRGlmZmVyZW5jZXMsIGNvbXBhdGliaWxpdHksIHVwZ3JhZGVzLCBzZW1hbnRp
+Y3MsIG5ldyBlbGVtZW50cywgYWNjZXNzaWJpbGl0eSwgYW5kIGhvdyB0byB1c2UgaXQgdG9kYXku
+CuKAoiBDU1MzIC0gdGhlIHNoaW55IGJpdHMhIFZlbmRvciBzdHlsZXMsIG5ldyBwcm9wZXJ0aWVz
+IChyb3VuZGVkIGNvcm5lcnMhKSwgdHJhbnNpdGlvbnMsIGFuZCB3aGF0IHlvdSBjYW4gdXNlIHRv
+ZGF5ICYgaG93LgrigKIgSW50cm8gdG8gcmVzcG9uc2l2ZSBsYXlvdXRzLiBIb3cgdG8gbWFrZSBh
+IHNpdGUgcmVzcG9uc2l2ZSBhbmQgd2hhdCBpdCBtZWFucyB0byBiZSAncmVzcG9uc2l2ZS4nCuKA
+oiBBbnl0aGluZyBlbHNlIHRoYXQgY29tZXMgdXAhIEFzIGFsd2F5cywgd2UncmUgaGVyZSB0byBj
+YW5kaWRseSBhbnN3ZXIgYWxsIHlvdXIgcXVlc3Rpb25zIHRocm91Z2hvdXQgdGhlIGNsYXNzLgpQ
+UkVSRVFVSVNJVEVTOgrigKLCoFVuZGVyc3RhbmRpbmcgb2YgSFRNTC9DU1Mg4oCiIEhvdyBjbGFz
+c2VzICYgSURzIHdvcmsgd2l0aCBIVE1MICYgQ1NTIOKAoiBIb3cgdG8gYnVpbGQgYSBiYXNpYyBz
+aXRlIHVzaW5nICBlbGVtZW50cyDigKIgQ1NTIHRhcmdldGluZyB3aXRoIElEcywgY2xhc3Nlcywg
+ZWxlbWVudHMsIGV0YyDigKIgSGF2ZSB0YWtlbiBvdXIgSW50cm8gdG8gSFRNTC9DU1MgY2xhc3Mg
+b3IgZXF1aXZhbGVudCDigKIgUmV2aWV3IEludHJvIEhUTUwvQ1NTIHNsaWRlcyAoYXZhaWxhYmxl
+IGhlcmUpIGJlZm9yZSBhdHRlbmRpbmcKTk9URTogSXQgaXMgaGlnaGx5IHJlY29tbWVuZGVkIHRo
+YXQgeW91IGhhdmUgdGFrZW4gb3VyIGludHJvZHVjdG9yeSBjb3Vyc2UgKG9yIGhhdmUgcHJldmlv
+dXMgZXhwZXJpZW5jZSB3aXRoIEhUTUwgJiBDU1MpIHByaW9yIHRvIHRha2luZyB0aGlzIGNsYXNz
+LiBCYXNpYyBrbm93bGVkZ2Ugb2YgSFRNTCAmIENTUyBhcmUgYXNzdW1lZC4KVEVDSE5JQ0FMIFJF
+UVVJUkVNRU5UUzoK4oCiIFlvdXIgbGFwdG9wICYgY2hhcmdlciDigKIgQSBtb2Rlcm4gYnJvd3Nl
+ciB3aXRoIGVpdGhlciBDaHJvbWUgYW5kIHRoZSAiV2ViIERldmVsb3BlciIgZXh0ZW5zaW9uIG9y
+IEZpcmVmb3ggYW5kIEZpcmVidWcgaW5zdGFsbGVkLiDigKIgQSB0ZXh0IGVkaXRvciwgaW5zdGFs
+bGVkIHByaW9yIHRvIGNsYXNzLiBXZSByZWNvbW1lbmQgU3VibGltZSBUZXh0IDIgb3IgMyAoSXQn
+cyBmcmVlIGFuZCBhdmFpbGFibGUgZm9yIGJvdGggTWFjIGFuZCBQQykuCkRhdGU6IFNhdHVyZGF5
+LCBKYW51YXJ5IDIxc3QgZnJvbSAxMEFNLTZQTQpCcmVha2Zhc3Qgd2lsbCBiZSBwcm92aWRlZCBi
+eSB0aGUgbG92ZWx5IGZvbGtzIGF0IERldiBCb290Y2FtcC4KTG9jYXRpb246IERldiBCb290Y2Ft
+cCwgMTAzMyBXLiBWYW4gQnVyZW4sIFN1aXRlIDMwMCAoM3JkIEZsb29yKQpDb3N0OiAkOTAKTm8g
+c2hvd3M6IHlvdXIgY291cnNlIGZlZSB3aWxsIGJlIGRvbmF0ZWQgdG8gdGhlIGNoYXB0ZXIgc2No
+b2xhcnNoaXAgZnVuZC4KQSBsaW1pdGVkIG51bWJlciBvZiBzY2hvbGFyc2hpcHMgYXJlIGF2YWls
+YWJsZSBmb3IgdGhvc2Ugd2l0aCBmaW5hbmNpYWwgaGFyZHNoaXAuIFRvIGFwcGx5LCBjbGljayBo
+ZXJlLiBEbyBub3QgUlNWUCBmb3IgdGhlIGV2ZW50LiBUaGUgZGVhZGxpbmUgdG8gYXBwbHkgZm9y
+IGEgc2Nob2xhcnNoaXAgaXMgSmFudWFyeSA3dGguIFNjaG9sYXJzaGlwIGFwcGxpY2FudHMgd2ls
+bCBiZSBub3RpZmllZCBzaG9ydGx5IGFmdGVyIHRoZSBkZWFkbGluZS4gQ2xhc3MgY2FwYWNpdHkg
+ZG9lcyBub3QgaW1wYWN0IHNjaG9sYXJzaGlwIHN0dWRlbnRzLgpJbnN0cnVjdG9yOiBNYXJ2aW4g
+Q2VzcGVkZXMgTWFydmluIENlc3BlZGVzIGlzIGEgRnJvbnQtZW5kIERlc2lnbmVyIGZvciBWb3gg
+TWVkaWEsIGFuZCB3ZWJtYXN0ZXIgZm9yIFRoZSBIdW1hbiBMaWJyYXJ5IENoaWNhZ28uIENvbnN0
+YW50bHkganVtcGluZyBiZXR3ZWVuIGdyYXBoaWMgZGVzaWduIGFuZCBmcm9udC1lbmQgZGV2ZWxv
+cG1lbnQsIE1hcnZpbiBzcGVuZHMgYSBidW5jaCBvZiBoaXMgZnJlZSB0aW1lIG5vdCBzbGVlcGlu
+ZyBwcm9wZXJseS4gQSBkb2ctbG92ZXIgKGNhdHMgYXJlIGNvb2wgdG9vLS1ubyBqdWRnZW1lbnQp
+LCBwb2RjYXN0IGFkZGljdCwgYW5kIGEgc2VjcmV0IG90YWt1LgoKSG9zdDogRGV2IEJvb3RjYW1w
+CgpJZiB5b3UgYXJlIGludGVyZXN0ZWQgaW4gYmVpbmcgYSB0ZWFjaGluZyBhc3Npc3RhbnQgZm9y
+IHRoaXMgd29ya3Nob3AsIHBsZWFzZSBjb250YWN0IHVzIHZpYSBNZWV0dXAuIFRBaW5nIGlzIGEg
+Z3JlYXQgd2F5IHRvIHByYWN0aWNlIHdoYXQgeW91IGtub3cgYW5kIHRvIGdldCB0byBrbm93IG1l
+bWJlcnMgb2Ygb3VyIGNvbW11bml0eS4KQWxsIGF0dGVuZGVlcywgaW5jbHVkaW5nIHN0YWZmIGFu
+ZCB2b2x1bnRlZXJzLCBhcmUgZXhwZWN0ZWQgdG8gYWJpZGUgYnkgdGhlIEdpcmwgRGV2ZWxvcCBJ
+dCBjb2RlIG9mIGNvbmR1Y3QuClJTVlAgSEVSRQoKLS0tLS0tLQoKWW91J3JlIGdldHRpbmcgdGhp
+cyBtZXNzYWdlIGJlY2F1c2UgeW91ciBNZWV0dXAgYWNjb3VudCBpcyBjb25uZWN0ZWQgdG8gdGhp
+cyBlbWFpbCBhZGRyZXNzLgoKVW5zdWJzY3JpYmUgKGh0dHBzOi8vd3d3Lm1lZXR1cC5jb20vX19t
+czE5NzY0MjM1NS9DaGljYWdvLURldkJvb3RjYW1wLUNoaWNhZ28tU3BlYWtlcnMtYW5kLVdvcmtz
+aG9wLVNlcmllcy9vcHRvdXQvP3N1Ym1pdD10cnVlJmVvPWVhMSZfbXNfdW5zdWI9dHJ1ZSZlbWFp
+bD1udU11TWFpbCZleHBpcmVzPTE0ODQ4NDQ4ODk4MTkmc2lnPTg4YTc0NGU3NzA1NTRmNmQ0MWI0
+Mjc2ODdkZWVmNGQyY2RlMTdkZjgpIGZyb20gc2ltaWxhciBlbWFpbHMgZnJvbSB0aGlzIE1lZXR1
+cCBncm91cC4gTWFuYWdlIHlvdXIgc2V0dGluZ3MgKGh0dHA6Ly93d3cubWVldHVwLmNvbS9hY2Nv
+dW50L2NvbW0vKSBmb3IgYWxsIHR5cGVzIG9mIGVtYWlsIHVwZGF0ZXMuCgpWaXNpdCB5b3VyIGFj
+Y291bnQgcGFnZSAoaHR0cDovL3d3dy5tZWV0dXAuY29tL2FjY291bnQvKSB0byBjaGFuZ2UgeW91
+ciBjb250YWN0IGRldGFpbHMsIHByaXZhY3kgc2V0dGluZ3MsIGFuZCBvdGhlciBzZXR0aW5ncy4K
+Ck1lZXR1cCBJbmMuIChodHRwOi8vd3d3Lm1lZXR1cC5jb20vKSwgUE9CIDQ2NjggIzM3ODk1IE5l
+dyBZb3JrIE5ZIFVTQSAxMDE2Mwo=
+------=_Part_32206623_1199627709.1482252889841
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+
+<!-- X-track: ea1 -->
+<!-- Rsvp:  -->
+<!-- tracking key:  -->
+
+
+				
+				
+
+
+
+
+<html>
+	<head>
+	<title>Meetup</title>
+	<style type="text/css">
+		@media only screen and (max-device-width: 480px) {
+		.other-meetups-tearsheet {
+			display:none;
+		}
+		*[class=people],*[class=noFloat] {
+			width: 100%!important;
+			float:none!important
+		}
+		.showMobile {
+			color:#222!important;
+			line-height: 16px!important;
+			max-height:20px!important;
+			height:20px!important;
+		}
+		.hideMobile {
+			color:#fff!important;
+			line-height:0px!important;
+			display:none!important;
+		}
+	}
+	@media only screen and (max-device-width: 320px) {
+		.event-meta,
+		.event-rsvp-box,
+		.noFloat,
+		.event-rsvp-box-status {
+			float:none!important;
+			width:100%!important;
+		}
+		.showMobile {
+			color:#222!important;
+			line-height: 16px!important;
+			max-height:20px!important;
+			height:20px!important;
+		}
+		.hideMobile {
+			color:#fff!important;
+			line-height:5px!important;
+			display:none!important;
+		}
+		.event-rsvp-box {
+			margin-top:8px;
+		}
+		.other-meetups-rsvp {
+			width:40%!important;
+		}
+		.other-meetups-event-meta {
+			width:60%!important;
+		}
+		.event-rsvp-box-actions {
+			width:100%;
+		}
+		*[class=people] {
+			width: 100%!important;
+			float:none!important
+		}
+
+
+	}
+	@media only screen and (min-width: 10px) {
+		.meetup-button-gradient {
+			background-image:-webkit-gradient(linear,left top,left bottom,from(#e6304c),to(#cb1834));
+			background-image:-moz-linear-gradient(center top,#e6304c,#cb1834);
+			text-shadow:#b8263c -1px -1px 0;
+			-moz-box-shadow:#ed6e81 1px 1px 0 0 inset;
+			-webkit-box-shadow:#ed6e81 1px 1px 0 0 inset;
+			-o-box-shadow:#ed6e81 1px 1px 0 0 inset;
+			box-shadow:#ed6e81 1px 1px 0 0 inset;
+		}
+		.meetup-button-link {
+			border: none!important;
+			padding: 5px 18px!important;
+		}
+	}
+	</style>
+	</head>
+	<body style="margin:0;padding:0;font-family:arial;color:#333;background-color:#fff;text-align:center;">
+	<div style="background:#fff!important;">
+				
+			<table cellpadding="10" cellspacing="0" width="100%" style="width:100%;min-width:100%;">
+			<tr>
+				<td align="center" style="text-align:center;">
+					
+							<a style="display:block;height:25px;max-height:25px;" href="http://www.meetup.com/?_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA/"><img src="http://www.meetup.com/z/?_xtd=hKplbWFpbF9vcGVu2gAkZGUzMTc3Y2ItYzdjMS00M2U2LWFjOGMtODIzYmE3NDFhMTkwqW1lbWJlcl9pZKkxOTc2NDIzNTWpc2VuZF90aW1lrTE0ODIyNTI4ODk3OTKmeHRyYWNro2VhMQ&redirect_loc=http%3A%2F%2Fimg1.meetupstatic.com%2Fimg%2Femail%2Flogo_script%402x.png" width="71" height="25" alt="Meetup" style="border:0;" /></a>
+					</td>
+			</tr>
+		</table>
+	
+		
+				<div style="width:94%;min-width:220px;max-width:650px;margin:0 auto;padding-top:6px;text-align:left;font-family:arial,sans-serif;font-size:13px;line-height:18px;color:#545454;">
+			
+					<div class="mu-subheader" style="border-bottom:5px solid #fff;">
+	<span style="background:#e6304c;color:#fff;border:4px solid #e6304c;text-transform:uppercase;font-size:11px;">New Meetup</span>
+	</div>
+			<div style="border-top:5px solid #fff;border-bottom:5px solid #fff;text-decoration:none;color:#e6304c;font-size:28px;line-height:30px;font-weight:bold;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/236356042/?rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA&_af=event&_af_eid=236356042&expires=1482425689820&sig=53642e593436ed99158f80fc6e36372a2443dec3" style="color:#e6304c!important;text-decoration:none;"><font color="#e6304c">(PARTNER EVENT with GDI) Intermediate HTML/CSS</font></a></div>
+				<div style="border-top:2px solid #fff;border-bottom:6px solid #fff; background:#fff;color:#ccc!important;font-size:18px;">Dev Bootcamp Chicago Events and Workshops</div>
+
+										<div style="border-bottom:8px solid #fff; background:#fff;line-height:12px;font-size:12px;">
+				Added by Naomi David
+				</div>
+			
+						<div style="border-top:1px dotted #ccc;overflow:hidden;width:100%;border-bottom:8px solid #fff; background:#fff;">
+
+				<div class="event-meta" style="float:left;width:50%;min-width:220px;border-top:8px solid #fff; background:#fff;">
+										<div style="border-bottom:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+													<span style="color:#111111;">Saturday, January 21, 2017</span><br>10:00 AM
+											</div>
+															<div style="border-right:10px solid #fff; background:#fff;">
+													<span style="color:#111111;">Dev Bootcamp - NEW LOCATION</span><br />
+							1033 W. Van Buren St., Suite 300<br/>
+																					Chicago, IL											</div>
+																								</div>
+				<div class="event-rsvp-box" style="border-top:8px solid #fff; background:#fff;width:49%; min-width: 200px; float:left;">
+																	
+							
+							
+							
+																								
+							
+							
+							<table class="event-rsvp-box-status" cellspacing="0" cellpadding="0" style="background-color:#eee;float:right;width:160px;">
+	<tr><td style="border-top:8px solid #eee;border-bottom:8px solid #eee;border-left:8px solid #eee;border-right:8px solid #eee; background:#eee;text-align:center;">
+		<div style="font-weight:normal;font-size:16px;color:#545454!important;">Are you going?</div>
+				<div style="font-size:11px;line-height:15px;"></div>
+				<div style="border-top:4px solid #eee; background:#eee;">
+			<table class="event-rsvp-box-actions" cellspacing="0" cellpadding="0" style="width:100%;">
+				<tr>
+					<td style="width:50%;padding-right:4px;">
+						<div style="display:block;border:1px solid #9d1328;background-color:#e9003c;-moz-border-radius: 3px 3px 3px 3px;-webkit-border-radius: 3px 3px 3px 3px;border-radius: 3px 3px 3px 3px;text-align:center;"><span class="meetup-button-gradient" style="background-color:#e9003c;display:block;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/236356042/?refund_policy=true&rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA&_af=event&_af_eid=236356042&response=3&action=rsvp&fromEmail=236356042&expires=1482425689819&sig=5f3009b8cd3c0389c51ccf3efb086e88680eb0bf" class="meetup-button-link" style="border-color:#e9003c;border-width:5px 18px;border-style:solid;font-family:arial,sans-serif;font-weight:bold;white-space:nowrap;color:#fff!important;display:block;text-decoration:none;text-align:center;cursor:pointer;"><font color="#fff"><nobr>Yes</nobr></font></a></span></div>
+					</td>
+					<td style="width:50%;">
+						<div style="display:block;border:1px solid #9d1328;background-color:#e9003c;-moz-border-radius: 3px 3px 3px 3px;-webkit-border-radius: 3px 3px 3px 3px;border-radius: 3px 3px 3px 3px;text-align:center;"><span class="meetup-button-gradient" style="background-color:#e9003c;display:block;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/236356042/?refund_policy=true&rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA&_af=event&_af_eid=236356042&response=2&action=rsvp&expires=1482425689820&sig=f8945be7b0dfc5b5c23a4cc4e938643d41abc926" class="meetup-button-link" style="border-color:#e9003c;border-width:5px 18px;border-style:solid;font-family:arial,sans-serif;font-weight:bold;white-space:nowrap;color:#fff!important;display:block;text-decoration:none;text-align:center;cursor:pointer;"><font color="#fff"><nobr>No</nobr></font></a></span></div>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</td></tr>
+</table>
+<div style="float:right;width:160px;text-align:center;border-top:10px solid #fff; background:#fff;">
+	<span style="color:#e6304c;"></span>
+</div>
+
+						
+									</div>
+			</div>
+			
+																		
+									
+										<div style="border-top:1px dotted #ccc;">
+					<div style="border-top:8px solid #fff;border-bottom:8px solid #fff; background:#fff;">
+					RSVP HERE Have you experimented with basic HTML/CSS, but want to take the next step in learning how to make an interesting, modern website? Already have your own site and want to have more control over it? Do you feel giddy at the prospect of learnin...<br>
+					<a href="https://www.meetup.com/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/236356042/?rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA" style="color:#06C;text-transform:uppercase;text-decoration:none;font-size:12px;">Learn more</a>
+					</div>
+				</div>
+						
+									
+			
+									
+						<div style="background-color:#eee;border-top:10px solid #fff; background:#fff;">
+				<div style="background-color:#eee;font-weight:bold;border:8px solid #eee;color:#545454!important;font-size:16px;"><a href="https://www.meetup.com/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/?_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA" style="color:#545454!important;text-decoration:none;"><font color="#545454">More Meetups from this group</font></a></div>
+				<table cellpadding="0" cellspacing="0" style="width:100%;background-color:#eee;">
+									<tr>
+	<td class="other-meetups-tearsheet" style="width:32px;background-color:#eee;vertical-align:top;border-top:1px solid #fff;padding:8px 0 8px 8px;">
+		<div style="border:1px solid #555;">
+			<div style="background-color:#555;text-transform:uppercase;color:#fff!important;font-weight:bold;text-align:center;font-size:9px;line-height:14px;height:14px;padding:0 4px;"><font color="#fff">Jan</font></div>
+			<div style="background-color:#fff;font-size:16px;line-height:18px;height:18px;font-weight:bold;text-align:center;padding:1px 4px 0 4px;">17</div>
+		</div>
+	</td>
+	<td style="vertical-align:top;padding:8px;border-top:1px solid #fff;">
+		<table cellpadding="0" cellspacing="0" style="width:100%;">
+			<tr>
+				<td style="background-color:#eee;vertical-align:top;">
+					<a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235584791/?rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA&_af=event&_af_eid=235584791&expires=1482425689825&sig=068ffddc6d1e2ef900e576eac26d908abdd09863" style="font-size:14px; color: #3987CB; text-decoration: none; ">The Founder Files feature Todd Barancik of SnackItToMe! </a><br/>
+					<div style="padding:2px 0 4px 0;font-size:12px;line-height:16px;">
+										Tuesday, January 17, 2017 6:30 PM
+										&middot;
+																				<nobr> 12 attending </nobr>
+										</div>
+				</td>
+				<td style="background-color:#eee;width:76px;vertical-align:top;">
+					<div style="display:inline-block;border:1px solid #9d1328;background-color:#e9003c;-moz-border-radius: 3px 3px 3px 3px;-webkit-border-radius: 3px 3px 3px 3px;border-radius: 3px 3px 3px 3px;text-align:center;"><span class="meetup-button-gradient" style="background-color:#e9003c;display:inline-block;"><a href="https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/events/235584791/?rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA&_af=event&_af_eid=235584791&expires=1482425689825&sig=068ffddc6d1e2ef900e576eac26d908abdd09863" class="meetup-button-link" style="border-color:#e9003c;border-width:5px 18px;border-style:solid;font-family:arial,sans-serif;font-weight:bold;white-space:nowrap;color:#fff!important;display:inline-block;text-decoration:none;text-align:center;cursor:pointer;"><font color="#fff"><nobr>RSVP</nobr></font></a></span></div>
+				</td>
+			</tr>
+		</table>
+	</td>
+</tr>
+								</table>
+			</div>
+						
+			
+						
+
+		</div><br/>
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+			
+						
+	
+					<div style="clear:both;background-color:#eee;border-top:solid 20px #eee;border-bottom:solid 15px #eee;margin:30px 0 0;">
+					<div style="width:94%;margin:0 auto;text-align:center;border-left:solid 10px #eee;border-right:solid 10px #eee;min-width:220px;max-width:650px;font-family:arial;color:#2d2d2d;font-size:11px;">
+				<p style="font-size:16px;font-weight:bold;margin:0 0 10px;"><span style="white-space:nowrap">Never miss a last-minute change.</span> <span style="white-space:nowrap">Get the app.</span></p>
+				<a href="http://www.meetup.com/z/?_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA&redirect_loc=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fapple-store%2Fid375990038%3Fpt%3D288116%26ct%3Demailfooter%26mt%3D8" style="text-decoration:none;padding-right:8px;">
+					<img src="http://img2.meetupstatic.com/img/6988977282720425/app_download/ios/download.en.png" width="135" height="40" alt="iPhone App Store" style="background-color:#eee;text-decoration:none;" />
+				</a>
+				<a href="http://www.meetup.com/z/?_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA&redirect_loc=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.meetup%26referrer%3Dutm_source%253Demailfooter" style="text-decoration:none;">
+					<img src="http://img2.meetupstatic.com/img/1294502142233052803560317/app_download/android/download.en.png" width="135" height="40"  alt="Google Play" style="background-color:#eee;text-decoration:none;"/>
+				</a>
+			</div>
+		</div>
+	
+		<table align="center" cellspacing="0" cellpadding="10" width="100%" bgcolor="#eeeeee"><tr><td align="center">
+		<table cellspacing="0" cellpadding="0" align="center"><tr><td width="650" style="text-align:left;font-family:helvetica,arial,sans-serif;color:#626262;">
+							<p style="font-size:10px;margin-bottom:.25em;color:#626262;">
+					You're getting this message because your Meetup account is connected to this email address.
+				</p>
+									<p style="font-size:10px;margin-bottom:.25em;color:#626262;">
+						<a style='text-decoration:underline !important;color:#626262;color:#626262!important' href='https://www.meetup.com/__ms197642355/Chicago-DevBootcamp-Chicago-Speakers-and-Workshop-Series/optout/?_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA&submit=true&eo=ea1&_ms_unsub=true&email=nuMuMail&expires=1484844889827&sig=db3112bad3fae7d24010805fe8b7f0ae6325e17a'>Unsubscribe</a> from similar emails from this Meetup group.
+						<a style="text-decoration:underline !important;color:#626262;color:#626262!important" href="http://www.meetup.com/account/comm/?_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA">Manage your settings</a> for all types of email updates.
+					</p>
+												<p style="font-size:10px;margin-bottom:.25em;color:#626262;">
+					Visit your <a style="text-decoration:underline !important;color:#626262;color:#626262!important" href="http://www.meetup.com/account/?_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA">account page</a> to change your contact details, privacy settings, and other settings.
+				</p>
+			
+			<p style="font-size:10px;margin-bottom:.25em;color:#626262;">
+				<a style="text-decoration:underline !important;color:#626262;color:#626262!important" href="http://www.meetup.com/?_xtd=gatlbWFpbF9jbGlja9oAJGRlMzE3N2NiLWM3YzEtNDNlNi1hYzhjLTgyM2JhNzQxYTE5MA">Meetup Inc.</a>, POB 4668 #37895 New York NY USA 10163
+			</p>
+		</td></tr></table>
+	</td></tr></table>
+		</div>
+	</body>
+</html>
+
+------=_Part_32206623_1199627709.1482252889841--
+
+------=_Part_32206621_1370815629.1482252889841
+Content-Type: application/ics; name=meetup.ics; method=PUBLISH; 
+	charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=meetup.ics
+
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Events v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Events - Dev Bootcamp Chicago Events and Workshops
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20161220T165442Z
+DTSTART;TZID=America/Chicago:20170121T100000
+DTEND;TZID=America/Chicago:20170121T180000
+STATUS:CONFIRMED
+SUMMARY:(PARTNER EVENT with GDI) Intermediate HTML/CSS
+DESCRIPTION:Dev Bootcamp Chicago Events and Workshops\nSaturday\, January
+  21 at 10:00 AM\n\nRSVP HERE Have you experimented with basic HTML/CSS\,
+  but want to take the next step in learning how to make an interesting\,
+  modern website? Already ha...\n\nhttps://www.meetup.com/Chicago-DevBoot
+ camp-Chicago-Speakers-and-Workshop-Series/events/236356042/
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+CREATED:20161220T164943Z
+GEO:41.88;-87.63
+LOCATION:Dev Bootcamp - NEW LOCATION (1033 W. Van Buren St.\, Suite 300\,
+  Chicago\, IL)
+URL:https://www.meetup.com/Chicago-DevBootcamp-Chicago-Speakers-and-Works
+ hop-Series/events/236356042/
+SEQUENCE:3
+LAST-MODIFIED:20161220T165434Z
+UID:event_236356042@meetup.com
+END:VEVENT
+END:VCALENDAR
+
+------=_Part_32206621_1370815629.1482252889841--
+

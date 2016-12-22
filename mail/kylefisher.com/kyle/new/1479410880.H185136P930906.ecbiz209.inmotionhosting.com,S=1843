@@ -1,0 +1,34 @@
+Return-path: <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Thu, 17 Nov 2016 14:28:00 -0500
+Received: from mail-s56.mailgun.us ([184.173.153.56]:60907)
+	by ecbiz209.inmotionhosting.com with esmtp (Exim 4.87)
+	(envelope-from <bounce+1f0039.e1e95-kyle=kylefisher.com@epicodus.com>)
+	id 1c7SLo-003u9z-48
+	for kyle@kylefisher.com; Thu, 17 Nov 2016 14:28:00 -0500
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=epicodus.com; q=dns/txt; s=mx;
+ t=1479410878; h=Content-Transfer-Encoding: Mime-Version: Content-Type:
+ Subject: From: To: Message-Id: Date: Sender;
+ bh=wxTRcSTUUVmwnRPQqnVHGrUpUrzbKrYWa2+ltC5rdcA=; b=SGS4VaGmJt+7etcxy2ggVMI4u0N4jem8lgO62h7OXFjjt5oJztI6mJiuvavIc3PxkVMPeE6f
+ jCu1Bypv0vA3iSG+RaeeKbsMfqCiWlcPZBk+98UkKAqc/xIDOpBI3qKvkUtB9Gzf+QFaSMl0
+ tzRL+iJFQc8p08Ql7NhrK4y/n6M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=epicodus.com; s=mx; q=dns;
+ h=Sender: Date: Message-Id: To: From: Subject: Content-Type:
+ Mime-Version: Content-Transfer-Encoding;
+ b=XBiUri5UpuQlt3/my4jAu2OFqztHDp2jXMqHW3so95yir31oDE+SC8zqdOAPvBU4k4h0xN
+ R8I9JVlnbDBQ3adjOsdNCz0LhJv7llrwqO4V2FXTDuvZ1tzeflr4xDB2bMjBVuv53TVtUU1Q
+ JlZBzPZXpshud4sCSF9YptYjA+VrM=
+Sender: no-reply@epicodus.com
+Date: Thu, 17 Nov 2016 19:27:58 +0000
+X-Mailgun-Sending-Ip: 184.173.153.56
+X-Mailgun-Sid: WyI4ZmIxZiIsICJreWxlQGt5bGVmaXNoZXIuY29tIiwgImUxZTk1Il0=
+Received: by luna.mailgun.net with HTTP; Thu, 17 Nov 2016 19:27:58 +0000
+Message-Id: <20161117192758.114952.4340.C7944516@epicodus.com>
+To: kyle@kylefisher.com
+From: no-reply@epicodus.com
+Subject: Code review reviewed
+Content-Type: text/plain; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi Kyle Fisher. Your Object-Oriented JavaScript code has been reviewed. You can view it at https://epicenter.epicodus.com/courses/62/code_reviews/384.

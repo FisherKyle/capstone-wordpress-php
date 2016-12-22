@@ -1,0 +1,219 @@
+Return-path: <billing@basecamp.com>
+Envelope-to: kyle@kylefisher.com
+Delivery-date: Sun, 27 Nov 2016 09:31:30 -0500
+Received: from mail-relay-02.basecamp.com ([204.62.114.92]:35656)
+	by ecbiz209.inmotionhosting.com with esmtps (TLSv1.1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <billing@basecamp.com>)
+	id 1cB0UM-0001eu-Hx
+	for kyle@kylefisher.com; Sun, 27 Nov 2016 09:31:30 -0500
+Received: from jobs-11.sc-chi-int.37signals.com (bigip-floating-public.sc-chi-int.37signals.com [10.10.0.26])
+	by virt-gw.sc-chi.basecamp.com (Postfix) with ESMTP id 3B083A3E02
+	for <kyle@kylefisher.com>; Sun, 27 Nov 2016 14:31:29 +0000 (UTC)
+X-DKIM: OpenDKIM Filter v2.5.2 virt-gw.sc-chi.basecamp.com 3B083A3E02
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=basecamp.com;
+	s=bcxmail; t=1480257089;
+	bh=KyQFJFmh7AoUg0Wa8K/hLKZPpg/hHkjczbnkHd1gers=;
+	h=Date:From:To:Subject;
+	b=ZC+7rv8yEQeGhGrysMGGC/VzKBkMuykThW8u7BQmraV5N8pZ5plqC2W87t2yAB2LN
+	 ZorEkCcZ7iXfBg6KXkz9v008wZuHbSMhnAVAcKsUPTyEG9c8inSEQMYOrHp/3C0lal
+	 0xPEXD+c6i2eWr7+1s3AZrTtBbEHDep03OlJgn8o=
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by jobs-11.sc-chi-int.37signals.com (Postfix) with ESMTP id 3638F694AF
+	for <kyle@kylefisher.com>; Sun, 27 Nov 2016 14:31:07 +0000 (UTC)
+Date: Sun, 27 Nov 2016 14:31:07 +0000
+From: Basecamp <billing@basecamp.com>
+To: kyle@kylefisher.com
+Message-ID: <583aee2b34f27_1fa8ef32822539d@jobs-11.mail>
+Subject: Your Basecamp trial expires tomorrow (Epicodus)
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_583aee2b343d3_1fa8ef32822525d";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Return-Receipt: RR/queenbee/ccdcb5292f2615e30d68c07d47d2f913
+
+
+----==_mimepart_583aee2b343d3_1fa8ef32822525d
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey Kyle,
+
+Your Basecamp trial expires tomorrow, November 28th, 2016.
+
+Unless you upgrade, your Basecamp account will be frozen and you and your=
+ team won=E2=80=99t be able to access your Basecamp anymore. To make sure=
+ everyone can keep using Basecamp, click the link below and upgrade now.
+
+https://3.basecamp.com/3588564/account/trials/upgrades/new
+
+-----
+
+Can I cancel instead?
+You bet. If you=E2=80=99re not going to continue with Basecamp, you can e=
+ither do nothing and let your trial expire, or you can cancel your accoun=
+t using this link:
+https://3.basecamp.com/3588564/account/cancel
+
+Have other questions or need help?
+Just hit reply or head to our help site and we=E2=80=99ll get back to you=
+ with an answer in minutes:
+https://basecamp.com/support
+
+
+----==_mimepart_583aee2b343d3_1fa8ef32822525d
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://ww=
+w.w3.org/TR/html4/loose.dtd">
+<html lang=3D"en">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+    <meta name=3D"viewport" id=3D"viewport" content=3D"width=3Ddevice-wid=
+th,minimum-scale=3D1.0,maximum-scale=3D10.0,initial-scale=3D1.0">
+
+    <style data-immutable=3D"">
+      @media only screen and (max-device-width: 480px) {
+        .u-wrap-on-mobile { display: block; }
+      }
+    </style>
+  </head>
+
+  <body marginheight=3D"0" topmargin=3D"0" marginwidth=3D"0" leftmargin=3D=
+"0" padding=3D"0" margin=3D"0" style=3D"margin: 0;padding: 0;background: =
+#fff;text-align: left;font-size: 15px;line-height: 1.4;font-family: 'Helv=
+etica Neue', helvetica, 'Segoe UI', arial, sans-serif;font-weight: 400;-w=
+ebkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
+    <table class=3D"automated-notification" style=3D"background: #fff;mar=
+gin: 0 auto;padding: 0;border: 0;border-collapse: collapse;border-spacing=
+: 0;-premailer-cellspacing: 0;-premailer-cellpadding: 0;-premailer-width:=
+ 100%;width: 100%;max-width: 45em;">
+      <tbody>
+        <tr>
+          <td height=3D"5" style=3D"font-family: 'Helvetica Neue', helvet=
+ica, arial, sans-serif;"></td>
+        </tr>
+        <tr>
+          <td class=3D"automated-notification__logo" style=3D"font-family=
+: 'Helvetica Neue', helvetica, arial, sans-serif; padding: 0 1em;">
+            <p class=3D"flush" style=3D"color: #000;margin: 0 !important;=
+">
+              <img alt=3D"Hey there!" height=3D"42" src=3D"https://37asse=
+ts.s3.amazonaws.com/emails/queenbee/bc3/camper-smile.png" width=3D"50" />=
+
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"font-family: 'Helvetica Neue', helvetica, arial, s=
+ans-serif;">
+            <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" sty=
+le=3D"background: #fff;margin: 0;padding: 0;border: 0;border-collapse: co=
+llapse;border-spacing: 0;-premailer-cellspacing: 0;-premailer-cellpadding=
+: 0;-premailer-width: 100%;">
+              <tbody>
+                <tr>
+                  <td class=3D"automated-notification__content" style=3D"=
+font-family: 'Helvetica Neue', helvetica, arial, sans-serif;width: 100%;p=
+adding: 1em;">
+                    <table width=3D"100%" style=3D"background: #fff;margi=
+n: 0;padding: 0;border: 0;border-collapse: collapse;border-spacing: 0;-pr=
+emailer-cellspacing: 0;-premailer-cellpadding: 0;-premailer-width: 100%;"=
+>
+  <tbody>
+    <tr>
+      <td style=3D"font-family: 'Helvetica Neue', helvetica, arial, sans-=
+serif;">
+        <p style=3D"color: #000;margin: 0 0 19px;">
+          Hey Kyle,
+        </p>
+
+        <p style=3D"color: #000;margin: 0 0 19px;">
+          <strong>Your Basecamp trial expires tomorrow, November 28th, 20=
+16.</strong>
+        </p>
+
+        <p style=3D"color: #000;margin: 0 0 19px;">
+          Unless you upgrade, your Basecamp account will be frozen and yo=
+u and your team won=E2=80=99t be able to access your Basecamp anymore. To=
+ make sure everyone can keep using Basecamp, click the button below and u=
+pgrade now.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td class=3D"centered" style=3D"font-family: 'Helvetica Neue', helv=
+etica, arial, sans-serif;text-align: center;">
+        <table style=3D"background: #fff; padding: 0;border: 0;border-col=
+lapse: collapse;border-spacing: 0;-premailer-cellspacing: 0;-premailer-ce=
+llpadding: 0;-premailer-width: 100%;">
+  <tbody>
+    <tr>
+      <td class=3D"email-action-button" bgcolor=3D"#3cb371" style=3D"font=
+-family: 'Helvetica Neue', helvetica, arial, sans-serif;display: block;he=
+ight: 40px;padding: 0 20px;text-align: center;background-color: #3cb371;b=
+order-bottom: 2px solid #2f8d59;border-radius: 4px;color: #fff;">
+        <a href=3D"https://3.basecamp.com/3588564/account/trials/upgrades=
+/new" style=3D"color: #fff;white-space: nowrap;text-overflow: ellipsis;ov=
+erflow: hidden;display: inline-block;width: 100%;font-size: 16px;font-fam=
+ily: Helvetica, Arial, sans-serif;text-decoration: none;line-height: 40px=
+;">
+          <span class=3D"email-action-button__text" style=3D"color: #fff;=
+">I want to keep using Basecamp</span>
+</a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+      </td>
+    </tr>
+    <tr><td class=3D"push--height" style=3D"font-family: 'Helvetica Neue'=
+, helvetica, arial, sans-serif;height: 1.25em !important;"></td></tr>
+    <tr><td class=3D"push_half--height" style=3D"font-family: 'Helvetica =
+Neue', helvetica, arial, sans-serif;height: 0.625em !important;"></td></t=
+r>
+    <tr>
+      <td style=3D"font-family: 'Helvetica Neue', helvetica, arial, sans-=
+serif;">
+        <div style=3D"background: #f7f7f7; padding: 16px 16px 0; border: =
+1px solid #eee; border-radius: 4px;">
+  <p style=3D"color: #000;margin: 0 0 19px;">
+    <strong>Can I cancel instead?</strong><br>
+    You bet. If you=E2=80=99re not going to continue with Basecamp, you c=
+an either do nothing and let your trial expire, or you can <a href=3D"htt=
+ps://3.basecamp.com/3588564/account/cancel" style=3D"color: #1b6ac9 !impo=
+rtant;text-decoration: underline !important;">cancel your account here</a=
+>.
+  </p>
+  <p style=3D"color: #000;margin: 0 0 19px;">
+    <strong>Have other questions or need help?</strong><br>
+    Just hit reply or head over to <a href=3D"https://basecamp.com/suppor=
+t" style=3D"color: #1b6ac9 !important;text-decoration: underline !importa=
+nt;">basecamp.com/support</a> and ask us, we=E2=80=99ll get back to you w=
+ith an answer in minutes.
+  </p>
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+<img src=3D'http://dash.37signals.com/beanstalk/beacon.gif?return_receipt=
+=3DRR/queenbee/ccdcb5292f2615e30d68c07d47d2f913'></html>
+
+----==_mimepart_583aee2b343d3_1fa8ef32822525d--
